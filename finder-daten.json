@@ -1,0 +1,5543 @@
+{
+ "stand": "2026-10-08",
+ "version": "2026-10-08T21:51:44Z",
+ "haeuser": [
+  {
+   "id": "Q270106",
+   "name": "7hours",
+   "stadt": "Berlin",
+   "land": "DE",
+   "lat": 52.524839,
+   "lon": 13.382673,
+   "website": "http://www.7hours.com/",
+   "typ": "Kunsthalle"
+  },
+  {
+   "id": "Q29574934",
+   "name": "Aargauer Kunsthaus",
+   "stadt": "Aarau",
+   "land": "CH",
+   "lat": 47.3901,
+   "lon": 8.04455,
+   "website": "https://aargauerkunsthaus.ch/",
+   "typ": "Kunstmuseum",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "10–17 Uhr",
+     "10–17 Uhr",
+     "10–20 Uhr",
+     "10–17 Uhr",
+     "10–17 Uhr",
+     "10–17 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       600,
+       1020
+      ]
+     ],
+     [
+      [
+       600,
+       1020
+      ]
+     ],
+     [
+      [
+       600,
+       1200
+      ]
+     ],
+     [
+      [
+       600,
+       1020
+      ]
+     ],
+     [
+      [
+       600,
+       1020
+      ]
+     ],
+     [
+      [
+       600,
+       1020
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "bild": {
+    "datei": "Q29574934.jpg",
+    "autor": "Hpschaefer",
+    "lizenz": "CC BY 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by/3.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Aarau_kunsthaus_241008_23.jpg"
+   }
+  },
+  {
+   "id": "Q318289",
+   "name": "Abegg-Stiftung",
+   "stadt": "Riggisberg",
+   "land": "CH",
+   "lat": 46.815556,
+   "lon": 7.494722,
+   "website": "https://www.abegg-stiftung.ch",
+   "typ": "Kunstmuseum",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "14–17.30 Uhr",
+     "14–17.30 Uhr",
+     "14–17.30 Uhr",
+     "14–17.30 Uhr",
+     "14–17.30 Uhr",
+     "14–17.30 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       840,
+       1050
+      ]
+     ],
+     [
+      [
+       840,
+       1050
+      ]
+     ],
+     [
+      [
+       840,
+       1050
+      ]
+     ],
+     [
+      [
+       840,
+       1050
+      ]
+     ],
+     [
+      [
+       840,
+       1050
+      ]
+     ],
+     [
+      [
+       840,
+       1050
+      ]
+     ]
+    ],
+    "hinweis": "26. April – 8. November 2026",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "CHF 10",
+    "ermaessigt": "CHF 5",
+    "frei": "Kinder",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q318289.jpg",
+    "autor": "Rogier van der Weyden",
+    "lizenz": "Public domain",
+    "lizenzUrl": "",
+    "seite": "https://commons.wikimedia.org/wiki/File:Weyden-tripticAbegg.jpg"
+   }
+  },
+  {
+   "id": "Q414219",
+   "name": "Akademie der bildenden Künste Wien",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.201389,
+   "lon": 16.365278,
+   "website": "https://www.akbild.ac.at/",
+   "typ": "Kunstmuseum",
+   "bild": {
+    "datei": "Q414219.jpg",
+    "autor": "P e z i",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Akademie_der_bildenden_Kuenste_DSC_2400w.jpg"
+   }
+  },
+  {
+   "id": "Q27480193",
+   "name": "Kunstplattform akku",
+   "stadt": "Emmen",
+   "land": "CH",
+   "lat": 46.836688,
+   "lon": 9.284147,
+   "website": "http://www.akku-emmen.ch",
+   "typ": "Kunstmuseum",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "geschlossen",
+     "geschlossen",
+     "geschlossen",
+     "14–17 Uhr",
+     "14–17 Uhr",
+     "10–17 Uhr"
+    ],
+    "spannen": [
+     [],
+     [],
+     [],
+     [],
+     [
+      [
+       840,
+       1020
+      ]
+     ],
+     [
+      [
+       840,
+       1020
+      ]
+     ],
+     [
+      [
+       600,
+       1020
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "OpenStreetMap",
+    "stand": ""
+   },
+   "eintritt": {
+    "immerFrei": true,
+    "quelle": "Website des Hauses"
+   }
+  },
+  {
+   "id": "Q371908",
+   "name": "Albertina",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.204722,
+   "lon": 16.368333,
+   "website": "https://www.albertina.at/home",
+   "typ": "Kunstmuseum",
+   "adresse": "Albertinaplatz 1, 1010 Wien",
+   "oeffnungszeiten": {
+    "tage": [
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–21 Uhr",
+     "10–18 Uhr",
+     "10–21 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr"
+    ],
+    "spannen": [
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1260
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1260
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "bild": {
+    "datei": "Q371908.jpg",
+    "autor": "C.Stadler/Bwag",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Wien_-_Albertina_(b).JPG"
+   }
+  },
+  {
+   "id": "node-9983513676",
+   "name": "Albertina modern",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.200647,
+   "lon": 16.371606,
+   "website": "https://www.albertina.at/en/albertina-modern/",
+   "typ": "Kunstmuseum (OSM)",
+   "oeffnungszeiten": {
+    "tage": [
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr"
+    ],
+    "spannen": [
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   }
+  },
+  {
+   "id": "Q27488831",
+   "name": "Alberto Giacometti Museum Sent",
+   "stadt": "Scuol",
+   "land": "CH",
+   "lat": 46.817505,
+   "lon": 10.338016,
+   "website": "http://www.alberto-giacometti-museum.ch",
+   "typ": "Kunstmuseum",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "12–18 Uhr",
+     "12–18 Uhr",
+     "12–18 Uhr",
+     "12–18 Uhr",
+     "12–18 Uhr",
+     "12–18 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       720,
+       1080
+      ]
+     ],
+     [
+      [
+       720,
+       1080
+      ]
+     ],
+     [
+      [
+       720,
+       1080
+      ]
+     ],
+     [
+      [
+       720,
+       1080
+      ]
+     ],
+     [
+      [
+       720,
+       1080
+      ]
+     ],
+     [
+      [
+       720,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "CHF 10",
+    "quelle": "Website des Hauses"
+   }
+  },
+  {
+   "id": "Q1954786",
+   "name": "Museum zu Allerheiligen",
+   "stadt": "Schaffhausen",
+   "land": "CH",
+   "lat": 47.694833,
+   "lon": 8.635889,
+   "website": "https://www.allerheiligen.ch",
+   "typ": "Kunstmuseum",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "11–17 Uhr",
+     "11–17 Uhr",
+     "11–17 Uhr",
+     "11–17 Uhr",
+     "11–17 Uhr",
+     "11–17 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [
+      [
+       660,
+       1020
+      ]
+     ]
+    ],
+    "hinweis": "Letzter Do im Monat 11:00-20:00",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "bild": {
+    "datei": "Q1954786.jpg",
+    "autor": "Medea7",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Museum_zu_Allerheiligen_8.jpg"
+   }
+  },
+  {
+   "id": "Q4735602",
+   "name": "Alpineum",
+   "stadt": "Luzern",
+   "land": "CH",
+   "lat": 47.057913,
+   "lon": 8.310394,
+   "website": "https://www.alpineum.ch",
+   "typ": "Kunstmuseum",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "9–18 Uhr",
+     "9–18 Uhr",
+     "9–18 Uhr",
+     "9–18 Uhr",
+     "9–18 Uhr",
+     "9–18 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "CHF 10",
+    "ermaessigt": "CHF 7",
+    "quelle": "Website des Hauses"
+   }
+  },
+  {
+   "id": "Q703964",
+   "name": "Ars Electronica Center",
+   "stadt": "Linz",
+   "land": "AT",
+   "lat": 48.309167,
+   "lon": 14.284167,
+   "website": "https://ars.electronica.art/center",
+   "typ": "Kunstmuseum",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "10–17 Uhr",
+     "10–17 Uhr",
+     "10–17 Uhr",
+     "10–17 Uhr",
+     "10–17 Uhr",
+     "10–17 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       600,
+       1020
+      ]
+     ],
+     [
+      [
+       600,
+       1020
+      ]
+     ],
+     [
+      [
+       600,
+       1020
+      ]
+     ],
+     [
+      [
+       600,
+       1020
+      ]
+     ],
+     [
+      [
+       600,
+       1020
+      ]
+     ],
+     [
+      [
+       600,
+       1020
+      ]
+     ]
+    ],
+    "hinweis": "geschlossen am 24.12., 25.12., 31.12., 1.1., 1.5.",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "14 €",
+    "ermaessigt": "12 €",
+    "frei": "unter 6 Jahren · jeden Sonntag (1+1 gratis mit LINZ AG Fahrkarte/KlimaTicket)",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q703964.jpg",
+    "autor": "Andreas Praefcke",
+    "lizenz": "CC BY 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by/3.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Linz_Ars_Electronica_Center.jpg"
+   }
+  },
+  {
+   "id": "Q780583",
+   "name": "Ausstellungsbrücke",
+   "stadt": "St. Pölten",
+   "land": "AT",
+   "lat": 48.202275,
+   "lon": 15.633343,
+   "website": "http://www.ausstellungsbruecke.at",
+   "typ": "Kunstmuseum",
+   "oeffnungszeiten": {
+    "tage": [
+     "8–18 Uhr",
+     "8–18 Uhr",
+     "8–18 Uhr",
+     "8–18 Uhr",
+     "8–18 Uhr",
+     "geschlossen",
+     "geschlossen"
+    ],
+    "spannen": [
+     [
+      [
+       480,
+       1080
+      ]
+     ],
+     [
+      [
+       480,
+       1080
+      ]
+     ],
+     [
+      [
+       480,
+       1080
+      ]
+     ],
+     [
+      [
+       480,
+       1080
+      ]
+     ],
+     [
+      [
+       480,
+       1080
+      ]
+     ],
+     [],
+     []
+    ],
+    "hinweis": "Sa., So. u. Feiertag beim Portier läuten",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "immerFrei": true,
+    "quelle": "Website des Hauses"
+   }
+  },
+  {
+   "id": "Q811389",
+   "name": "Bauhaus-Archiv",
+   "stadt": "Berlin",
+   "land": "DE",
+   "lat": 52.50634,
+   "lon": 13.35383,
+   "website": "https://www.bauhaus.de/",
+   "typ": "Designmuseum",
+   "bild": {
+    "datei": "Q811389.jpg",
+    "autor": "Max Hermus at Dutch Wikipedia",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "seite": "https://commons.wikimedia.org/wiki/File:Bauhaus_archiv_berlijn.JPG"
+   }
+  },
+  {
+   "id": "Q303139",
+   "name": "Österreichische Galerie Belvedere",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.191389,
+   "lon": 16.380833,
+   "website": "https://www.belvedere.at/en",
+   "typ": "Kunstmuseum",
+   "oeffnungszeiten": {
+    "tage": [
+     "9–18 Uhr",
+     "9–18 Uhr",
+     "9–18 Uhr",
+     "9–18 Uhr",
+     "9–18 Uhr",
+     "9–18 Uhr",
+     "9–18 Uhr"
+    ],
+    "spannen": [
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "23 €",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q303139.jpg",
+    "autor": "C.Stadler/Bwag",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Wien_-_Schloss_Belvedere,_oberes_(1).JPG"
+   }
+  },
+  {
+   "id": "Q700222",
+   "name": "Berlinische Galerie",
+   "stadt": "Berlin",
+   "land": "DE",
+   "lat": 52.5039,
+   "lon": 13.3981,
+   "website": "http://www.berlinische-galerie.de/",
+   "typ": "Kunstmuseum",
+   "adresse": "Alte Jakobstraße 124-128, 10969 Berlin",
+   "oeffnungszeiten": {
+    "tage": [
+     "10–18 Uhr",
+     "geschlossen",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr"
+    ],
+    "spannen": [
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "Ab 9.10.2026 gelten die neuen Preise (14 € regulär, 7 € ermäßigt)",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "14 €",
+    "ermaessigt": "7 €",
+    "frei": "unter 18 Jahren",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q700222.jpg",
+    "autor": "Christoph Rehbach",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "seite": "https://commons.wikimedia.org/wiki/File:Berlinische_Galerie_aussen.JPG"
+   }
+  },
+  {
+   "id": "Q15126890",
+   "name": "Sammlung Boros",
+   "stadt": "Berlin",
+   "land": "DE",
+   "lat": 52.523517,
+   "lon": 13.383969,
+   "website": "https://boros-collection.com/en/",
+   "typ": "Kunstmuseum",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "geschlossen",
+     "geschlossen",
+     "geschlossen",
+     "10.30–19.30 Uhr",
+     "10.30–19.30 Uhr",
+     "10.30–19.30 Uhr"
+    ],
+    "spannen": [
+     [],
+     [],
+     [],
+     [],
+     [
+      [
+       630,
+       1170
+      ]
+     ],
+     [
+      [
+       630,
+       1170
+      ]
+     ],
+     [
+      [
+       630,
+       1170
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "OpenStreetMap",
+    "stand": "2023-07-03"
+   },
+   "eintritt": {
+    "regulaer": "20 €",
+    "ermaessigt": "12 €",
+    "frei": "Begleitperson von Besucher*innen mit …",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q15126890.jpg",
+    "autor": "Jean-Pierre Dalbéra from Paris, France",
+    "lizenz": "CC BY 2.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg"
+   }
+  },
+  {
+   "id": "Q131542539",
+   "name": "Braun-Sammlung Ettel",
+   "stadt": "Berlin",
+   "land": "DE",
+   "lat": 52.524148,
+   "lon": 13.336358,
+   "website": "https://www.braundesignsammlung.de/",
+   "typ": "Designmuseum",
+   "eintritt": {
+    "immerFrei": true,
+    "quelle": "Website des Hauses"
+   }
+  },
+  {
+   "id": "Q568767",
+   "name": "Bröhan-Museum",
+   "stadt": "Berlin",
+   "land": "DE",
+   "lat": 52.5188,
+   "lon": 13.2954,
+   "website": "https://www.broehan-museum.de",
+   "typ": "Kunstmuseum",
+   "adresse": "Schloßstraße 1A, 14059 Berlin",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "11–18 Uhr",
+     "11–18 Uhr",
+     "11–18 Uhr",
+     "11–18 Uhr",
+     "11–18 Uhr",
+     "11–18 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [
+      [
+       660,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "Montag geschlossen; 24.12., 31.12., Pfingstmontag geschlossen; 1.1. 12:00-18:00",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "9 €",
+    "ermaessigt": "6 €",
+    "frei": "unter 18 Jahren",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q568767.jpg",
+    "autor": "Andreas Praefcke",
+    "lizenz": "CC BY 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by/3.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Br%C3%B6han-Museum.jpg"
+   }
+  },
+  {
+   "id": "Q833759",
+   "name": "Brücke-Museum Berlin",
+   "stadt": "Berlin",
+   "land": "DE",
+   "lat": 52.4669,
+   "lon": 13.2736,
+   "website": "http://www.bruecke-museum.de/",
+   "typ": "Kunstmuseum",
+   "adresse": "Bussardsteig 9, 14195 Berlin",
+   "oeffnungszeiten": {
+    "tage": [
+     "11–17 Uhr",
+     "geschlossen",
+     "11–17 Uhr",
+     "11–17 Uhr",
+     "11–17 Uhr",
+     "11–17 Uhr",
+     "11–17 Uhr"
+    ],
+    "spannen": [
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [],
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [
+      [
+       660,
+       1020
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "6 €",
+    "ermaessigt": "4 €",
+    "frei": "unter 18 Jahren",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q833759.jpg",
+    "autor": "GodeNehler",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Br%C3%BCcke_Museum_April_2025-7835.jpg"
+   }
+  },
+  {
+   "id": "Q1792553",
+   "name": "Kunstmuseum Waldviertel",
+   "stadt": "Schrems",
+   "land": "AT",
+   "lat": 48.7946,
+   "lon": 15.0684,
+   "website": "http://daskunstmuseum.at",
+   "typ": "Kunstmuseum",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "10–17 Uhr",
+     "10–17 Uhr",
+     "10–17 Uhr",
+     "10–17 Uhr",
+     "10–17 Uhr",
+     "10–17 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       600,
+       1020
+      ]
+     ],
+     [
+      [
+       600,
+       1020
+      ]
+     ],
+     [
+      [
+       600,
+       1020
+      ]
+     ],
+     [
+      [
+       600,
+       1020
+      ]
+     ],
+     [
+      [
+       600,
+       1020
+      ]
+     ],
+     [
+      [
+       600,
+       1020
+      ]
+     ]
+    ],
+    "hinweis": "Oktober bis Jänner (aktuell); Juli-September täglich 10-18 Uhr; geschlossen 24.12., 25.12.",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "10,90 €",
+    "ermaessigt": "8,90 €",
+    "frei": "NÖ Card",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q1792553.jpg",
+    "autor": "Daskunstmuseum",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Eingang_Kunstmuseum_Waldviertel.jpg"
+   }
+  },
+  {
+   "id": "Q136771971",
+   "name": "Heidi Horten Collection",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.204019,
+   "lon": 16.367803,
+   "website": "https://hortencollection.com/",
+   "typ": "Kunstmuseum",
+   "adresse": "Hanuschgasse 3, 1010 Wien",
+   "oeffnungszeiten": {
+    "tage": [
+     "11–19 Uhr",
+     "geschlossen",
+     "11–19 Uhr",
+     "11–21 Uhr",
+     "11–19 Uhr",
+     "11–19 Uhr",
+     "11–19 Uhr"
+    ],
+    "spannen": [
+     [
+      [
+       660,
+       1140
+      ]
+     ],
+     [],
+     [
+      [
+       660,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       1140
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "18 €",
+    "ermaessigt": "16 €",
+    "frei": "Kinder & Jugendliche unter 19 Jahre",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q136771971.jpg",
+    "autor": "SonnensturmNr7",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Cassini_Vortrag_HHC.jpg"
+   }
+  },
+  {
+   "id": "Q284902",
+   "name": "Künstlerhaus Wien",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.2006,
+   "lon": 16.3717,
+   "website": "https://www.k-haus.at/",
+   "typ": "Kunstmuseum",
+   "adresse": "Karlsplatz 5, 1010 Wien",
+   "oeffnungszeiten": {
+    "tage": [
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr"
+    ],
+    "spannen": [
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "12 €",
+    "ermaessigt": "9 €",
+    "frei": "Schüler*innen (< 19 Jahre)",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q284902.jpg",
+    "autor": "C.Stadler/Bwag",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Wien_-_Museum_%E2%80%9EAlbertina_modern%E2%80%9C_bzw._K%C3%BCnstlerhaus_(3).JPG"
+   }
+  },
+  {
+   "id": "Q1739162",
+   "name": "Keramik-Museum Berlin",
+   "stadt": "Berlin",
+   "land": "DE",
+   "lat": 52.5172,
+   "lon": 13.304,
+   "website": "http://www.keramik-museum-berlin.de",
+   "typ": "Kunstmuseum",
+   "adresse": "Schustehrusstraße 13, 10585 Berlin",
+   "oeffnungszeiten": {
+    "tage": [
+     "13–17 Uhr",
+     "geschlossen",
+     "geschlossen",
+     "geschlossen",
+     "13–17 Uhr",
+     "13–17 Uhr",
+     "13–17 Uhr"
+    ],
+    "spannen": [
+     [
+      [
+       780,
+       1020
+      ]
+     ],
+     [],
+     [],
+     [],
+     [
+      [
+       780,
+       1020
+      ]
+     ],
+     [
+      [
+       780,
+       1020
+      ]
+     ],
+     [
+      [
+       780,
+       1020
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "OpenStreetMap",
+    "stand": ""
+   },
+   "eintritt": {
+    "regulaer": "5 €",
+    "ermaessigt": "3 €",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q1739162.jpg",
+    "autor": "Manfred Brückels",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Keramik-Museum_Berlin.jpg"
+   }
+  },
+  {
+   "id": "Q95569",
+   "name": "Kunsthistorisches Museum Wien",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.203881,
+   "lon": 16.3616,
+   "website": "https://www.khm.at/en/",
+   "typ": "Kunstmuseum",
+   "adresse": "Burgring 5, 1010 Wien",
+   "oeffnungszeiten": {
+    "tage": [
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–21 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr"
+    ],
+    "spannen": [
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1260
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "Ab 8. September 2026 nur mit reserviertem Zeitfenster",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "24 €",
+    "ermaessigt": "20 €",
+    "frei": "unter 19 Jahren",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q95569.jpg",
+    "autor": "Andrzej Otrębski",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Wien_Kunsthistorisches_Museum.jpg"
+   }
+  },
+  {
+   "id": "Q677548",
+   "name": "Kunsthalle Wien",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.2033,
+   "lon": 16.3592,
+   "website": "http://www.kunsthallewien.at/#/en",
+   "typ": "Kunstmuseum",
+   "adresse": "Museumsplatz 1, 1070 Wien",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–20 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1200
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "bild": {
+    "datei": "Q677548.jpg",
+    "autor": "Gryffindor",
+    "lizenz": "CC BY 2.5",
+    "lizenzUrl": "https://creativecommons.org/licenses/by/2.5",
+    "seite": "https://commons.wikimedia.org/wiki/File:Kunsthalle_Vienna_June_2006.jpg"
+   }
+  },
+  {
+   "id": "Q1792425",
+   "name": "Kunsthalle Zürich",
+   "stadt": "Zürich",
+   "land": "CH",
+   "lat": 47.389278,
+   "lon": 8.525203,
+   "website": "http://www.kunsthallezurich.ch",
+   "typ": "Kunstgalerie",
+   "adresse": "Limmatstrasse 270, 8005 Zürich",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "11–18 Uhr",
+     "11–18 Uhr",
+     "11–20 Uhr",
+     "11–18 Uhr",
+     "11–18 Uhr",
+     "11–18 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [
+      [
+       660,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [
+      [
+       660,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "CHF 12",
+    "ermaessigt": "CHF 8",
+    "frei": "Kinder und Jugendliche bis 16 Jahre · Donnerstag 17:00-20:00 Uhr",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q1792425.jpg",
+    "autor": "ONAR",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Kunsthalle_Zuerich.jpg"
+   }
+  },
+  {
+   "id": "Q50672242",
+   "name": "Kunsthaus Dahlem",
+   "stadt": "Berlin",
+   "land": "DE",
+   "lat": 52.466944,
+   "lon": 13.273611,
+   "website": "http://kunsthaus-dahlem.de",
+   "typ": "Kunstmuseum",
+   "adresse": "Käuzchensteig 8, 14195 Berlin",
+   "oeffnungszeiten": {
+    "tage": [
+     "11–17 Uhr",
+     "geschlossen",
+     "11–17 Uhr",
+     "11–17 Uhr",
+     "11–17 Uhr",
+     "11–17 Uhr",
+     "11–17 Uhr"
+    ],
+    "spannen": [
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [],
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [
+      [
+       660,
+       1020
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "6 €",
+    "ermaessigt": "4 €",
+    "frei": "Kinder und Jugendliche bis 18 Jahre",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q50672242.jpg",
+    "autor": "Fridolin freudenfett",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Dahlem_K%C3%A4uzchensteig_Kunsthaus_Dahlem-005.jpg"
+   }
+  },
+  {
+   "id": "Q638493",
+   "name": "KunstHausWien",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.2111,
+   "lon": 16.3933,
+   "website": "http://www.kunsthauswien.com/",
+   "typ": "Kunstmuseum",
+   "oeffnungszeiten": {
+    "tage": [
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr"
+    ],
+    "spannen": [
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "bild": {
+    "datei": "Q638493.jpg",
+    "autor": "C.Stadler/Bwag",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Wien_-_KunstHausWien_(b).JPG"
+   }
+  },
+  {
+   "id": "node-11411007720",
+   "name": "Kunstraum Niederösterreich",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.21008,
+   "lon": 16.365082,
+   "website": "https://www.kunstraum.net/",
+   "typ": "Kunstmuseum (OSM)",
+   "adresse": "Herrengasse 13, 1010 Wien",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "11–19 Uhr",
+     "11–19 Uhr",
+     "11–19 Uhr",
+     "11–19 Uhr",
+     "11–15 Uhr",
+     "geschlossen"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       660,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       900
+      ]
+     ],
+     []
+    ],
+    "hinweis": "Mo, So und Feiertag geschlossen. Öffnungszeiten während der Ausstellung.",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "immerFrei": true,
+    "quelle": "Website des Hauses"
+   }
+  },
+  {
+   "id": "Q1792677",
+   "name": "Kunstverein Neckar-Odenwald",
+   "stadt": "Neckar-Odenwald-Kreis",
+   "land": "DE",
+   "lat": 49.354973,
+   "lon": 9.145503,
+   "website": "https://www.kunstverein-neckar-odenwald.de/",
+   "typ": "Kunstverein",
+   "bild": {
+    "datei": "Q1792677.jpg",
+    "autor": "Granpar",
+    "lizenz": "CC BY 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by/3.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Kunstverein_Neckar-Odenwald.jpg"
+   }
+  },
+  {
+   "id": "Q1774413",
+   "name": "Nassauischer Kunstverein",
+   "stadt": "Wiesbaden",
+   "land": "DE",
+   "lat": 50.07976,
+   "lon": 8.245426,
+   "website": "http://www.kunstverein-wiesbaden.de/",
+   "typ": "Kunstmuseum",
+   "adresse": "Wilhelmstraße 15, 65185 Wiesbaden",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "14–18 Uhr",
+     "14–18 Uhr",
+     "14–18 Uhr",
+     "14–18 Uhr",
+     "11–18 Uhr",
+     "11–18 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       840,
+       1080
+      ]
+     ],
+     [
+      [
+       840,
+       1080
+      ]
+     ],
+     [
+      [
+       840,
+       1080
+      ]
+     ],
+     [
+      [
+       840,
+       1080
+      ]
+     ],
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [
+      [
+       660,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "Sommerschließzeit 27.07.-02.09.26; Geschlossen Pfingstmontag (25.05.)",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "5 €",
+    "ermaessigt": "3 €",
+    "frei": "unter 18 Jahren",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q1774413.jpg",
+    "autor": "Hkkunstverein",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:NKV_Haus2.jpg"
+   }
+  },
+  {
+   "id": "Q1792296",
+   "name": "KW Institute for Contemporary Art",
+   "stadt": "Berlin",
+   "land": "DE",
+   "lat": 52.527,
+   "lon": 13.3948,
+   "website": "https://www.kw-berlin.de",
+   "typ": "Kunstmuseum",
+   "adresse": "Auguststraße 69, 10117 Berlin",
+   "oeffnungszeiten": {
+    "tage": [
+     "11–19 Uhr",
+     "geschlossen",
+     "11–19 Uhr",
+     "11–19 Uhr",
+     "11–19 Uhr",
+     "11–19 Uhr",
+     "11–19 Uhr"
+    ],
+    "spannen": [
+     [
+      [
+       660,
+       1140
+      ]
+     ],
+     [],
+     [
+      [
+       660,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       1140
+      ]
+     ]
+    ],
+    "hinweis": "Geschlossen bis 16.10.26",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "10 €",
+    "ermaessigt": "6 €",
+    "frei": "bis einschließlich 18 Jahre · jeden Donnerstag im Monat von 16:00 bis 21:00 Uhr",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q1792296.jpg",
+    "autor": "GoodieL",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:161123_KW_0060_LQ.jpg"
+   }
+  },
+  {
+   "id": "Q59435",
+   "name": "Leopold Museum",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.20265,
+   "lon": 16.359142,
+   "website": "https://www.leopoldmuseum.org/en",
+   "typ": "Kunstmuseum",
+   "adresse": "Museumsplatz 1, 1070 Wien",
+   "oeffnungszeiten": {
+    "tage": [
+     "10–18 Uhr",
+     "geschlossen",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr"
+    ],
+    "spannen": [
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "bild": {
+    "datei": "Q59435.jpg",
+    "autor": "Gugerell",
+    "lizenz": "CC0",
+    "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "seite": "https://commons.wikimedia.org/wiki/File:Wien_07_Leopold_Museum_a.jpg"
+   }
+  },
+  {
+   "id": "Q478455",
+   "name": "MAK - Museum für angewandte Kunst",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.207669,
+   "lon": 16.381369,
+   "website": "https://www.mak.at",
+   "typ": "Kunstgewerbemuseum",
+   "adresse": "Stubenring 5, 1010 Wien",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "10–21 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       600,
+       1260
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "bild": {
+    "datei": "Q478455.jpg",
+    "autor": "Gryffindor",
+    "lizenz": "CC BY 2.5",
+    "lizenzUrl": "https://creativecommons.org/licenses/by/2.5",
+    "seite": "https://commons.wikimedia.org/wiki/File:M.A.K._Vienna_June_2006_017.jpg"
+   }
+  },
+  {
+   "id": "Q699943",
+   "name": "MuseumsQuartier",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.203333,
+   "lon": 16.358889,
+   "website": "https://www.mqw.at/en/",
+   "typ": "Kunstmuseum",
+   "adresse": "Museumsplatz 1, 1070 Wien",
+   "bild": {
+    "datei": "Q699943.jpg",
+    "autor": "Kasa Fue",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:MuseumsQuartier_Wien_Sept_2020_1.jpg"
+   }
+  },
+  {
+   "id": "Q18288036",
+   "name": "Kurt Mühlenhaupt Museum",
+   "stadt": "Berlin",
+   "land": "DE",
+   "lat": 52.487415,
+   "lon": 13.388641,
+   "website": "https://www.muehlenhaupt.de/museum",
+   "typ": "Künstlermuseum",
+   "adresse": "Fidicinstraße 40, 10965 Berlin",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "geschlossen",
+     "14–18 Uhr",
+     "14–18 Uhr",
+     "14–18 Uhr",
+     "14–18 Uhr",
+     "14–18 Uhr"
+    ],
+    "spannen": [
+     [],
+     [],
+     [
+      [
+       840,
+       1080
+      ]
+     ],
+     [
+      [
+       840,
+       1080
+      ]
+     ],
+     [
+      [
+       840,
+       1080
+      ]
+     ],
+     [
+      [
+       840,
+       1080
+      ]
+     ],
+     [
+      [
+       840,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "immerFrei": true,
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q18288036.jpg",
+    "autor": "Neuköllner",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Kurt-M%C3%BChlenhaupt-Museum,_Fidicinstra%C3%9Fe_40,_Berlin-Kreuzberg.jpg"
+   }
+  },
+  {
+   "id": "Q689951",
+   "name": "Museum Moderner Kunst Stiftung Ludwig Wien",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.203722,
+   "lon": 16.357444,
+   "website": "https://www.mumok.at/en",
+   "typ": "Kunstmuseum",
+   "adresse": "Museumsplatz 1, 1070 Wien",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "18 €",
+    "ermaessigt": "15 €",
+    "frei": "unter 19 Jahren",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q689951.jpg",
+    "autor": "Andrzej Otrębski",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Wien_Muzeum_Sztuki_Nowoczesnej.jpg"
+   }
+  },
+  {
+   "id": "relation-3327361",
+   "name": "Museum Gugging",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.313198,
+   "lon": 16.258296,
+   "website": "https://www.museumgugging.at/",
+   "typ": "Kunstmuseum (OSM)",
+   "adresse": "Am Campus 2, 3400 Maria Gugging",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "10–17 Uhr",
+     "10–17 Uhr",
+     "10–17 Uhr",
+     "10–17 Uhr",
+     "10–17 Uhr",
+     "10–17 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       600,
+       1020
+      ]
+     ],
+     [
+      [
+       600,
+       1020
+      ]
+     ],
+     [
+      [
+       600,
+       1020
+      ]
+     ],
+     [
+      [
+       600,
+       1020
+      ]
+     ],
+     [
+      [
+       600,
+       1020
+      ]
+     ],
+     [
+      [
+       600,
+       1020
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   }
+  },
+  {
+   "id": "Q1980109",
+   "name": "Neuer Berliner Kunstverein",
+   "stadt": "Berlin",
+   "land": "DE",
+   "lat": 52.5279,
+   "lon": 13.386,
+   "website": "https://www.nbk.org/de",
+   "typ": "Kunstsammlung",
+   "adresse": "Chausseestraße 128-129, 10115 Berlin",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "12–18 Uhr",
+     "12–18 Uhr",
+     "12–20 Uhr",
+     "12–18 Uhr",
+     "geschlossen",
+     "12–18 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       720,
+       1080
+      ]
+     ],
+     [
+      [
+       720,
+       1080
+      ]
+     ],
+     [
+      [
+       720,
+       1200
+      ]
+     ],
+     [
+      [
+       720,
+       1080
+      ]
+     ],
+     [],
+     [
+      [
+       720,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "immerFrei": true,
+    "quelle": "Website des Hauses"
+   }
+  },
+  {
+   "id": "Q19823294",
+   "name": "Galerie nächst St. Stephan",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.207778,
+   "lon": 16.375861,
+   "website": "https://www.schwarzwaelder.at/galerie",
+   "typ": "Kunstmuseum",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "11–18 Uhr",
+     "11–18 Uhr",
+     "11–18 Uhr",
+     "11–18 Uhr",
+     "11–16 Uhr",
+     "geschlossen"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [
+      [
+       660,
+       960
+      ]
+     ],
+     []
+    ],
+    "hinweis": "Öffnungszeiten auf der About-Seite nicht angegeben",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "bild": {
+    "datei": "Q19823294.jpg",
+    "autor": "Gugerell",
+    "lizenz": "CC0",
+    "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "seite": "https://commons.wikimedia.org/wiki/File:Wien_01_Galerie_n%C3%A4chst_St._Stephan_a.jpg"
+   }
+  },
+  {
+   "id": "Q265129",
+   "name": "Wiener Secessionsgebäude",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.200395,
+   "lon": 16.365934,
+   "website": "https://www.secession.at/",
+   "typ": "Kunstmuseum",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "13 €",
+    "ermaessigt": "7,50 €",
+    "frei": "Kinder unter 12 · jeden ersten Mittwoch im Monat",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q265129.jpg",
+    "autor": "C.Stadler/Bwag",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Wien_-_Secessionsgeb%C3%A4ude.JPG"
+   }
+  },
+  {
+   "id": "Q162111",
+   "name": "Alte Nationalgalerie",
+   "stadt": "Berlin",
+   "land": "DE",
+   "lat": 52.52081,
+   "lon": 13.398353,
+   "website": "http://www.smb.museum/museen-und-einrichtungen/alte-nationalgalerie/home.html",
+   "typ": "Kunstmuseum",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "bild": {
+    "datei": "Q162111.jpg",
+    "autor": "Manfred Brückels",
+    "lizenz": "Public domain",
+    "lizenzUrl": "",
+    "seite": "https://commons.wikimedia.org/wiki/File:AlteNationalgalerie_1a.jpg"
+   }
+  },
+  {
+   "id": "Q531032",
+   "name": "Jagdschloss Grunewald",
+   "stadt": "Berlin",
+   "land": "DE",
+   "lat": 52.4672,
+   "lon": 13.2614,
+   "website": "https://www.spsg.de/schloesser-gaerten/objekt/jagdschloss-grunewald/",
+   "typ": "Kunstmuseum",
+   "bild": {
+    "datei": "Q531032.jpg",
+    "autor": "Superbass",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:2018-09-22-Jagdschloss_Grunewald-0670.jpg"
+   }
+  },
+  {
+   "id": "Q878325",
+   "name": "Ephraim-Palais",
+   "stadt": "Berlin",
+   "land": "DE",
+   "lat": 52.515848,
+   "lon": 13.40714,
+   "website": "https://www.stadtmuseum.de/ephraim-palais/",
+   "typ": "Kunstmuseum",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "auch an Feiertagen; Abweichungen: 24.12. geschlossen, 25.-26.12. 12-18 Uhr, 31.12. geschlo",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "7 €",
+    "frei": "unter 18 Jahren",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q878325.jpg",
+    "autor": "Jörg Zägel",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg"
+   }
+  },
+  {
+   "id": "Q163804",
+   "name": "Städelsches Kunstinstitut",
+   "stadt": "Frankfurt am Main",
+   "land": "DE",
+   "lat": 50.10322,
+   "lon": 8.67388,
+   "website": "https://www.staedelmuseum.de/",
+   "typ": "Kunstmuseum",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–21 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1260
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "19 €",
+    "ermaessigt": "17 €",
+    "frei": "unter 12 Jahren · dienstags ab 15:00 Uhr (10 € Einheitspreis für alle)",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q163804.jpg",
+    "autor": "Simsalabimbam",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Staedel-Frankfurt-2013-Ffm-862-867.jpg"
+   }
+  },
+  {
+   "id": "Q111594318",
+   "name": "Urban Nation Museum For Urban Contempory Art",
+   "stadt": "Berlin",
+   "land": "DE",
+   "lat": 52.498668,
+   "lon": 13.356651,
+   "website": "https://urban-nation.com/plan-your-visit/",
+   "typ": "Kunstmuseum",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "12–20 Uhr",
+     "12–20 Uhr",
+     "12–20 Uhr",
+     "12–20 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       720,
+       1200
+      ]
+     ],
+     [
+      [
+       720,
+       1200
+      ]
+     ],
+     [
+      [
+       720,
+       1200
+      ]
+     ],
+     [
+      [
+       720,
+       1200
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "immerFrei": true,
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q111594318.jpg",
+    "autor": "Fridolin freudenfett",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Sch%C3%B6neberg_B%C3%BClowstra%C3%9Fe_7_Urban_Nation_2019.jpg"
+   }
+  },
+  {
+   "id": "Q686488",
+   "name": "Weltmuseum Wien",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.205,
+   "lon": 16.363056,
+   "website": "https://www.weltmuseumwien.at/",
+   "typ": "Kunstmuseum",
+   "oeffnungszeiten": {
+    "tage": [
+     "geschlossen",
+     "10–21 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr",
+     "10–18 Uhr"
+    ],
+    "spannen": [
+     [],
+     [
+      [
+       600,
+       1260
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ]
+    ],
+    "hinweis": "Aufgrund von Fassadensanierungsarbeiten der Neuen Hofburg können kurzfristige Raumschließu",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "16 €",
+    "ermaessigt": "12 €",
+    "frei": "unter 19 Jahren",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q686488.jpg",
+    "autor": "Thomas Ledl",
+    "lizenz": "CC BY 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Weltmuseum,_Wien_2.jpg"
+   }
+  },
+  {
+   "id": "Q14550991",
+   "name": "WestLicht",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.20215,
+   "lon": 16.342011,
+   "website": "https://www.westlicht.com/",
+   "typ": "Fotografiemuseum",
+   "oeffnungszeiten": {
+    "tage": [
+     "11–19 Uhr",
+     "11–19 Uhr",
+     "11–19 Uhr",
+     "11–21 Uhr",
+     "11–19 Uhr",
+     "11–19 Uhr",
+     "11–19 Uhr"
+    ],
+    "spannen": [
+     [
+      [
+       660,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       1140
+      ]
+     ]
+    ],
+    "hinweis": "",
+    "quelle": "Website des Hauses",
+    "stand": "2026-10-08"
+   },
+   "eintritt": {
+    "regulaer": "16 €",
+    "ermaessigt": "12 €",
+    "frei": "Kinder unter 6 Jahre",
+    "quelle": "Website des Hauses"
+   },
+   "bild": {
+    "datei": "Q14550991.jpg",
+    "autor": "Marco Pauer",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "seite": "https://commons.wikimedia.org/wiki/File:Kameramuseum_201211_Pauer.jpg"
+   }
+  },
+  {
+   "id": "Q505873",
+   "name": "Wien Museum",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.1989,
+   "lon": 16.3731,
+   "website": "https://www.wienmuseum.at",
+   "typ": "Kunstmuseum",
+   "bild": {
+    "datei": "Q505873.jpg",
+    "autor": "Christine Koblitz",
+    "lizenz": "CC0",
+    "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "seite": "https://commons.wikimedia.org/wiki/File:Wien_Museum_Neu.jpg"
+   }
+  },
+  {
+   "id": "node-567084279",
+   "name": "Neidhart-Festsaal",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.210855,
+   "lon": 16.371214,
+   "website": "https://www.wienmuseum.at/neidhart_festsaal",
+   "typ": "Kunstmuseum (OSM)",
+   "adresse": "Tuchlauben 19, 1010 Wien"
+  }
+ ],
+ "ausstellungen": [
+  {
+   "id": "9dc97108d89b",
+   "hausId": "Q270106",
+   "titel": "ALBERT WIGAND archive",
+   "untertitel": "collected artist's materials",
+   "kuenstler": [
+    "Albert Wigand"
+   ],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 4,
+   "url": "https://7hours.com/_Actual_Page/html/ALBERT%20WIGAND/2023/WIGAND%20Material.html"
+  },
+  {
+   "id": "1451e88b7bd5",
+   "hausId": "Q270106",
+   "titel": "BILL DIETZ Tutorial Diversions",
+   "untertitel": "collected artist's materials",
+   "kuenstler": [
+    "Bill Dietz"
+   ],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "medienkunst",
+   "rang": 5,
+   "url": "https://7hours.com/_Actual_Page/html/ARTISTSMATERIAL/7hours_artistsmaterial.htm#dietz"
+  },
+  {
+   "id": "bb20466fc733",
+   "hausId": "Q29574934",
+   "titel": "Verwandtschaften",
+   "untertitel": "Sammlung 26",
+   "kuenstler": [],
+   "beginn": "2026-07-07",
+   "ende": "2026-11-08",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "",
+   "rang": 1,
+   "url": "https://aargauerkunsthaus.ch/de/ausstellung/verwandtschaften/"
+  },
+  {
+   "id": "4f50a922df75",
+   "hausId": "Q29574934",
+   "titel": "Künstliche Kreativität",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-09-26",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 2,
+   "url": "https://aargauerkunsthaus.ch/de/ausstellung/kuenstliche-kreativitaet/"
+  },
+  {
+   "id": "77d955cece7e",
+   "hausId": "Q29574934",
+   "titel": "Gabi Fuhrimann",
+   "untertitel": "Sammlung im Fokus",
+   "kuenstler": [
+    "Gabi Fuhrimann"
+   ],
+   "beginn": "2026-07-07",
+   "ende": "2026-11-08",
+   "art": "sammlungspraesentation",
+   "epoche": "moderne",
+   "fachgebiet": "",
+   "rang": 3,
+   "url": "https://aargauerkunsthaus.ch/de/ausstellung/gabi-fuhrimann/"
+  },
+  {
+   "id": "5314b4fa94cf",
+   "hausId": "Q318289",
+   "titel": "Zuhause in der Spätantike – Textile Innenausstattung des 4.–7. Jahrhunderts",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-04-26",
+   "ende": "2026-11-08",
+   "art": "wechselausstellung",
+   "epoche": "alte_meister",
+   "fachgebiet": "",
+   "rang": 1,
+   "url": "https://www.abegg-stiftung.ch/ausstellung/sonderausstellung"
+  },
+  {
+   "id": "2f59085b09a6",
+   "hausId": "Q414219",
+   "titel": "Der große Michelangelo ist tot! Avantgarde und Akademismus",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-10-02",
+   "ende": "2027-08-22",
+   "art": "wechselausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "",
+   "rang": 1,
+   "url": "https://www.akbild.ac.at/de/museum-und-ausstellungen/kunstsammlungen/aktuelles"
+  },
+  {
+   "id": "2b0201ba2c63",
+   "hausId": "Q27480193",
+   "titel": "Ein Haus aus Glas",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-10-03",
+   "ende": "2026-11-08",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 1,
+   "url": "https://www.akku-emmen.ch/programm"
+  },
+  {
+   "id": "238fa2387c86",
+   "hausId": "Q27480193",
+   "titel": "Der Stand der Dinge",
+   "untertitel": "",
+   "kuenstler": [
+    "We*"
+   ],
+   "beginn": "2026-10-03",
+   "ende": "2026-11-01",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 2,
+   "url": "https://www.akku-emmen.ch/programm"
+  },
+  {
+   "id": "596e34dce2fb",
+   "hausId": "Q27480193",
+   "titel": "Nina Plaskova — Der Stand der Dinge",
+   "untertitel": "",
+   "kuenstler": [
+    "Nina Plaskova"
+   ],
+   "beginn": "2026-12-05",
+   "ende": "2027-01-17",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 5,
+   "url": "https://www.akku-emmen.ch/programm"
+  },
+  {
+   "id": "31301113386e",
+   "hausId": "Q371908",
+   "titel": "250 Jahre Albertina",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-01-01",
+   "ende": "2026-10-11",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "",
+   "rang": 1,
+   "url": "https://www.albertina.at/ausstellungen/250-jahre-albertina/"
+  },
+  {
+   "id": "d5b0b54d3525",
+   "hausId": "Q371908",
+   "titel": "Monet bis Chagall",
+   "untertitel": "Die Sammlung Batliner",
+   "kuenstler": [
+    "Claude Monet",
+    "Edgar Degas",
+    "Paul Cézanne",
+    "Henri de Toulouse-Lautrec",
+    "Paul Gauguin",
+    "Ernst Ludwig Kirchner",
+    "Henri Matisse",
+    "Wassily Kandinsky",
+    "Franz Marc",
+    "Kazimir Malewitsch",
+    "Marc Chagall",
+    "Oskar Kokoschka",
+    "Albin Egger-Lienz",
+    "Pablo Picasso",
+    "Paul Signac"
+   ],
+   "beginn": null,
+   "ende": null,
+   "art": "wechselausstellung",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "",
+   "rang": 2,
+   "url": "https://www.albertina.at/ausstellungen/monet-bis-picasso/"
+  },
+  {
+   "id": "eaec83448ff8",
+   "hausId": "Q371908",
+   "titel": "Picasso – Bacon",
+   "untertitel": "What It Feels Like to Be Human",
+   "kuenstler": [
+    "Pablo Picasso",
+    "Francis Bacon"
+   ],
+   "beginn": "2026-10-08",
+   "ende": "2027-01-31",
+   "art": "wechselausstellung",
+   "epoche": "moderne",
+   "fachgebiet": "",
+   "rang": 3,
+   "url": "https://www.albertina.at/ausstellungen/picasso-bacon/"
+  },
+  {
+   "id": "526e816ebc09",
+   "hausId": "Q371908",
+   "titel": "Die Welt im Fokus",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-01-01",
+   "ende": "2026-10-26",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "",
+   "rang": 4,
+   "url": "https://www.albertina.at/ausstellungen/die-welt-im-fokus/"
+  },
+  {
+   "id": "1e89c39e4762",
+   "hausId": "Q371908",
+   "titel": "Shara Hughes",
+   "untertitel": "Sink In",
+   "kuenstler": [
+    "Shara Hughes"
+   ],
+   "beginn": "2026-10-09",
+   "ende": "2027-02-28",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 5,
+   "url": "https://www.albertina.at/ausstellungen/shara-hughes/"
+  },
+  {
+   "id": "0a14e4711ccf",
+   "hausId": "node-9983513676",
+   "titel": "Franz West",
+   "untertitel": "Die Revolution der Skulptur",
+   "kuenstler": [
+    "Franz West"
+   ],
+   "beginn": "2026-11-06",
+   "ende": "2027-03-29",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 1,
+   "url": "https://www.albertina.at/albertina-modern/ausstellungen/franz-west/"
+  },
+  {
+   "id": "34ec24d911b3",
+   "hausId": "node-9983513676",
+   "titel": "Down Under",
+   "untertitel": "Kunst aus Australien",
+   "kuenstler": [
+    "Emily Kame Kngwarreye",
+    "Nyunmiti Burton",
+    "Destiny Deacon",
+    "Gloria Tamerre Petyarre"
+   ],
+   "beginn": "2027-04-23",
+   "ende": null,
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 2,
+   "url": "https://www.albertina.at/albertina-modern/ausstellungen/down-under/"
+  },
+  {
+   "id": "4e5140c0ec07",
+   "hausId": "Q27488831",
+   "titel": "ALBERTO GIACOMETTI - DIE SAMMLUNG.",
+   "untertitel": "Mit über 200 Exponaten.",
+   "kuenstler": [
+    "Alberto Giacometti"
+   ],
+   "beginn": null,
+   "ende": "2026-10-18",
+   "art": "sammlungspraesentation",
+   "epoche": "moderne",
+   "fachgebiet": "",
+   "rang": 1,
+   "url": "https://www.aldier.ch/de/alberto-giacometti/alberto-giacometti-museum/37-0.html"
+  },
+  {
+   "id": "f3582a0dbbf7",
+   "hausId": "Q1954786",
+   "titel": "Orakel",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-08-29",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 1,
+   "url": "https://allerheiligen.ch/ausstellungen/ausstellung/orakel/"
+  },
+  {
+   "id": "813a277cb2fd",
+   "hausId": "Q1954786",
+   "titel": "Kunst",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "",
+   "rang": 4,
+   "url": "https://allerheiligen.ch/ausstellungen/dauerausstellung/kunst/"
+  },
+  {
+   "id": "514bc9856d1c",
+   "hausId": "Q4735602",
+   "titel": "3D-Alpen Diorama",
+   "untertitel": "",
+   "kuenstler": [
+    "Ernst Hodel sen.",
+    "Ernst Hodel jun."
+   ],
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "",
+   "rang": 1,
+   "url": "https://www.alpineum.ch/ueber-uns"
+  },
+  {
+   "id": "fd5166180c29",
+   "hausId": "Q4735602",
+   "titel": "Das Stereo-Bild",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "",
+   "rang": 2,
+   "url": "https://www.alpineum.ch/ueber-uns"
+  },
+  {
+   "id": "e61f129b9070",
+   "hausId": "Q703964",
+   "titel": "Hello Worlds!",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 1,
+   "url": "https://ars.electronica.art/center/de/hello-worlds/"
+  },
+  {
+   "id": "8e4d7b85ecd7",
+   "hausId": "Q703964",
+   "titel": "Deep Space 8K",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 2,
+   "url": "https://ars.electronica.art/center/de/deepspace/"
+  },
+  {
+   "id": "41eb1e8fbd78",
+   "hausId": "Q703964",
+   "titel": "Ars Electronica Labs",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 4,
+   "url": "https://ars.electronica.art/center/de/labs/"
+  },
+  {
+   "id": "0b0d4c007c8a",
+   "hausId": "Q780583",
+   "titel": "Leerstellen",
+   "untertitel": "",
+   "kuenstler": [
+    "Lukas Matuschek",
+    "Markus Reiter"
+   ],
+   "beginn": "2026-09-10",
+   "ende": "2026-10-11",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 1,
+   "url": "https://www.noe.gv.at/noe/Kunst-Kultur/Ausstellungsbruecke.html"
+  },
+  {
+   "id": "8295cab46c09",
+   "hausId": "Q811389",
+   "titel": "Eine Million Objekte",
+   "untertitel": "Florian de Brün fotografiert die Sammlung",
+   "kuenstler": [
+    "Florian de Brün"
+   ],
+   "beginn": "2026-10-14",
+   "ende": "2027-04-30",
+   "art": "wechselausstellung",
+   "epoche": "moderne",
+   "fachgebiet": "fotografie",
+   "rang": 1,
+   "url": "https://www.bauhaus.de/besuchen/ausstellungen/eine-million-objekte/"
+  },
+  {
+   "id": "1b87f5c46c59",
+   "hausId": "Q811389",
+   "titel": "Eine Million Objekte. Florian de Brün fotografiert die Sammlung",
+   "untertitel": "",
+   "kuenstler": [
+    "Florian de Brün"
+   ],
+   "beginn": "2026-10-14",
+   "ende": "2027-04-30",
+   "art": "wechselausstellung",
+   "epoche": "moderne",
+   "fachgebiet": "fotografie",
+   "rang": 1,
+   "url": "https://www.bauhaus.de/besuchen/ausstellungen/eine-million-objekte/"
+  },
+  {
+   "id": "72c06e59e1be",
+   "hausId": "Q303139",
+   "titel": "Picture this!",
+   "untertitel": "The Belvedere Collection from Cranach to Lassnig",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "",
+   "rang": 1,
+   "url": "https://www.belvedere.at/en/picture"
+  },
+  {
+   "id": "c6f3d3fbbbf8",
+   "hausId": "Q303139",
+   "titel": "CARLONE CONTEMPORARY: Asta Gröting",
+   "untertitel": "Things",
+   "kuenstler": [
+    "Asta Gröting"
+   ],
+   "beginn": "2026-09-24",
+   "ende": "2027-03-29",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 2,
+   "url": "https://www.belvedere.at/en/carlone-contemporary-asta-groting"
+  },
+  {
+   "id": "a675a5565dee",
+   "hausId": "Q303139",
+   "titel": "Erika Giovanna Klien",
+   "untertitel": "All Is Movement",
+   "kuenstler": [
+    "Erika Giovanna Klien"
+   ],
+   "beginn": "2026-09-18",
+   "ende": "2027-01-31",
+   "art": "wechselausstellung",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "",
+   "rang": 3,
+   "url": "https://www.belvedere.at/en/erika-giovanna-klien"
+  },
+  {
+   "id": "597bb75a3d2c",
+   "hausId": "Q303139",
+   "titel": "Erna Rosenstein",
+   "untertitel": "On the Other Side of Silence",
+   "kuenstler": [
+    "Erna Rosenstein"
+   ],
+   "beginn": "2026-07-03",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "epoche": "moderne",
+   "fachgebiet": "",
+   "rang": 4,
+   "url": "https://www.belvedere.at/en/erna-rosenstein"
+  },
+  {
+   "id": "86df986e6b65",
+   "hausId": "Q303139",
+   "titel": "Gallery Middle Ages and Renaissance",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "alte_meister",
+   "fachgebiet": "",
+   "rang": 5,
+   "url": "https://www.belvedere.at/en/study-collection-middle-ages-and-renaissance"
+  },
+  {
+   "id": "9e5a4632a738",
+   "hausId": "Q700222",
+   "titel": "Jeewi Lee",
+   "untertitel": "Residual Memories",
+   "kuenstler": [
+    "Jeewi Lee"
+   ],
+   "beginn": "2026-10-08",
+   "ende": "2027-04-05",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://berlinischegalerie.de/ausstellungen/aktuell/jeewi-lee/"
+  },
+  {
+   "id": "da3295133039",
+   "hausId": "Q700222",
+   "titel": "Su Yu Hsin",
+   "untertitel": "Im IBB-Videoraum",
+   "kuenstler": [
+    "Su Yu Hsin"
+   ],
+   "beginn": "2026-10-08",
+   "ende": "2026-10-26",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "medienkunst",
+   "rang": 2,
+   "url": "https://berlinischegalerie.de/ausstellungen/aktuell/su-yu-hsin/"
+  },
+  {
+   "id": "83aaa406becf",
+   "hausId": "Q700222",
+   "titel": "Josef Kaiser",
+   "untertitel": "Bauen für die DDR",
+   "kuenstler": [
+    "Josef Kaiser"
+   ],
+   "beginn": "2026-10-08",
+   "ende": "2027-02-01",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "architektur",
+   "rang": 3,
+   "url": "https://berlinischegalerie.de/ausstellungen/aktuell/josef-kaiser/"
+  },
+  {
+   "id": "0c83fe799ef5",
+   "hausId": "Q700222",
+   "titel": "Kunst in Berlin",
+   "untertitel": "1880 – 1980",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "rang": 4,
+   "url": "https://berlinischegalerie.de/ausstellung/kunst-in-berlin-1880-1980/"
+  },
+  {
+   "id": "8f33a08fe90e",
+   "hausId": "Q700222",
+   "titel": "atelier le balto",
+   "untertitel": "Licht und Schatten",
+   "kuenstler": [
+    "atelier le balto"
+   ],
+   "beginn": "2026-10-08",
+   "ende": null,
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 5,
+   "url": "https://berlinischegalerie.de/ausstellungen/aktuell/atelier-le-balto/"
+  },
+  {
+   "id": "d419c97ab1a2",
+   "hausId": "Q15126890",
+   "titel": "Collection #4",
+   "untertitel": "",
+   "kuenstler": [
+    "Tomma Abts",
+    "Lorenzo Amos",
+    "Ed Atkins",
+    "Oliver Bak",
+    "Adriano Costa",
+    "Grant Falardeau",
+    "Louis Fratino",
+    "Cyprien Gaillard",
+    "Salim Green",
+    "Lukas Heerich",
+    "Samuel Hindolo",
+    "Klára Hosnedlová",
+    "Brook Hsu",
+    "Kitty Kraus",
+    "Mire Lee",
+    "Benjamin Lallier",
+    "Klara Lidén",
+    "Conny Maier",
+    "Kresiah Mukwazhi",
+    "Jill Mulleady",
+    "Jonathan Okoronkwo",
+    "Silke Otto-Knapp",
+    "Rim Park",
+    "Jeremy Shaw",
+    "Pol Taburet",
+    "Sung Tieu",
+    "Paloma Varga Weisz"
+   ],
+   "beginn": "2022-01-01",
+   "ende": "2026-12-31",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://boros-collection.com/en/2021-2026"
+  },
+  {
+   "id": "64c80042d712",
+   "hausId": "Q131542539",
+   "titel": "Braun Design Sammlung",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "moderne",
+   "fachgebiet": "design",
+   "rang": 1,
+   "url": "https://braundesignmuseum.de/collection"
+  },
+  {
+   "id": "80c0dd6895c9",
+   "hausId": "Q568767",
+   "titel": "Cesar Klein. Bild Raum Bühne",
+   "untertitel": "",
+   "kuenstler": [
+    "Cesar Klein"
+   ],
+   "beginn": "2026-10-15",
+   "ende": "2027-03-29",
+   "art": "wechselausstellung",
+   "epoche": "moderne",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.broehan-museum.de/ausstellung/cesar-klein-bild-raum-buehne/"
+  },
+  {
+   "id": "eb0f818c0ee5",
+   "hausId": "Q568767",
+   "titel": "Paperwork – Jumping He. Blackbox #18",
+   "untertitel": "",
+   "kuenstler": [
+    "Jumping He"
+   ],
+   "beginn": "2026-06-13",
+   "ende": "2027-02-21",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "design",
+   "rang": 1,
+   "url": "https://www.broehan-museum.de/ausstellung/paperwork-jumping-he-blackbox-18/"
+  },
+  {
+   "id": "2358ca7d5190",
+   "hausId": "Q833759",
+   "titel": "Draußen... Im Museum",
+   "untertitel": "",
+   "kuenstler": [
+    "Erich Heckel",
+    "Ernst Ludwig Kirchner",
+    "Max Pechstein",
+    "Karl Schmidt-Rottluff"
+   ],
+   "beginn": "2026-07-05",
+   "ende": "2026-10-25",
+   "art": "wechselausstellung",
+   "epoche": "moderne",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.bruecke-museum.de/de/programm/ausstellungen/4585/draussen-im-museum"
+  },
+  {
+   "id": "d871eccdfbe0",
+   "hausId": "Q833759",
+   "titel": "Draußen... Unter Kiefern",
+   "untertitel": "Ein künstlerischer Lehrpfad über Natur, Vergänglichkeit und die Beziehung zwischen Kunst und Umwelt",
+   "kuenstler": [
+    "Erich Heckel",
+    "Ernst Ludwig Kirchner",
+    "Max Pechstein",
+    "Karl Schmidt-Rottluff"
+   ],
+   "beginn": "2026-07-05",
+   "ende": null,
+   "art": "wechselausstellung",
+   "epoche": "moderne",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://www.bruecke-museum.de/de/programm/ausstellungen/4196/draussen-unter-kiefern"
+  },
+  {
+   "id": "9423944ec8f9",
+   "hausId": "Q1792553",
+   "titel": "MAGIE DES SCHÖNEN | Warlamis - W.A. Mozart",
+   "untertitel": "",
+   "kuenstler": [
+    "Makis E. Warlamis"
+   ],
+   "beginn": "2026-03-21",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 1,
+   "url": "https://daskunstmuseum.at/jahresausstellung/"
+  },
+  {
+   "id": "ace61f8a91bf",
+   "hausId": "Q136771971",
+   "titel": "Elisabeth von Samsonow",
+   "untertitel": "",
+   "kuenstler": [
+    "Elisabeth von Samsonow"
+   ],
+   "beginn": "2026-09-19",
+   "ende": "2027-02-28",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://hortencollection.com/ausstellungen/aktuell"
+  },
+  {
+   "id": "be47aa94e152",
+   "hausId": "Q136771971",
+   "titel": "Klimt-Warhol",
+   "untertitel": "Meisterwerke der Moderne",
+   "kuenstler": [
+    "Gustav Klimt",
+    "Andy Warhol"
+   ],
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "moderne",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://hortencollection.com/ausstellungen/dauerausstellung-kuenstlerische-interventionen"
+  },
+  {
+   "id": "66e1453e6db5",
+   "hausId": "Q136771971",
+   "titel": "Gottfried Bechtold. Betonporsche",
+   "untertitel": "",
+   "kuenstler": [
+    "Gottfried Bechtold"
+   ],
+   "beginn": "2026-04-29",
+   "ende": "2026-10-12",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 3,
+   "url": "https://hortencollection.com/ausstellungen/aktuell"
+  },
+  {
+   "id": "fa60f0f75138",
+   "hausId": "Q284902",
+   "titel": "Künstlerinnenhaus",
+   "untertitel": "Eine künstlerische Intervention von Billi Thanner",
+   "kuenstler": [
+    "Billi Thanner"
+   ],
+   "beginn": "2024-03-20",
+   "ende": "2027-01-31",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.kuenstlerhaus.at/besuch/kalender/ausstellung/464/kuenstlerinnenhaus.html"
+  },
+  {
+   "id": "e0b7ff0a57c8",
+   "hausId": "Q284902",
+   "titel": "Dalpra",
+   "untertitel": "Aus der Sammlung Werner Trenker",
+   "kuenstler": [],
+   "beginn": "2026-10-24",
+   "ende": "2026-11-15",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.kuenstlerhaus.at/besuch/kalender/ausstellung/503/dalpra.html"
+  },
+  {
+   "id": "f637ac15f961",
+   "hausId": "Q284902",
+   "titel": "Fair for Art Vienna",
+   "untertitel": "Die Messe für zeitgenössische und moderne Kunst",
+   "kuenstler": [],
+   "beginn": "2026-10-07",
+   "ende": "2026-10-11",
+   "art": "wechselausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://www.kuenstlerhaus.at/besuch/kalender/ausstellung/502/fair-for-art-vienna.html"
+  },
+  {
+   "id": "0a8b104f15f3",
+   "hausId": "Q284902",
+   "titel": "Linda Christanell",
+   "untertitel": "Die Gaben der Göttin",
+   "kuenstler": [
+    "Linda Christanell"
+   ],
+   "beginn": "2026-11-07",
+   "ende": "2027-02-07",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://www.kuenstlerhaus.at/besuch/kalender/ausstellung/497/linda-christanell.html"
+  },
+  {
+   "id": "d6fb9671bdd1",
+   "hausId": "Q1739162",
+   "titel": "Spritzdekore vor 1950 (2)",
+   "untertitel": "Geometrische Spritzdekore aus der Sammlung Dietz</antertitel>\n</invoke>",
+   "kuenstler": [],
+   "beginn": "2026-09-14",
+   "ende": null,
+   "art": "wechselausstellung",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "kunsthandwerk",
+   "rang": 1,
+   "url": "http://www.keramik-museum-berlin.de/spritzdekore-vor-1950-2/"
+  },
+  {
+   "id": "376b2351193d",
+   "hausId": "Q1739162",
+   "titel": "Stile und Trends im 20. Jahrhundert",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-06-05",
+   "ende": null,
+   "art": "wechselausstellung",
+   "epoche": "moderne",
+   "fachgebiet": "kunsthandwerk",
+   "rang": 2,
+   "url": "http://www.keramik-museum-berlin.de/stile-und-trends-im-20-jahrhundert/"
+  },
+  {
+   "id": "43bf13a3637c",
+   "hausId": "Q1739162",
+   "titel": "Re:Form Ostdeutsche Keramik nach 1990 + Schenkung Wolfgang Wenz",
+   "untertitel": "Ostdeutsche Keramik nach 1990 + Schenkung Wolfgang Wenz",
+   "kuenstler": [],
+   "beginn": "2026-02-06",
+   "ende": null,
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "kunsthandwerk",
+   "rang": 3,
+   "url": "http://www.keramik-museum-berlin.de/reform-ostdeutsche-keramik-nach-1990-schenkung-wolfgang-wenz/"
+  },
+  {
+   "id": "e6052246483f",
+   "hausId": "Q95569",
+   "titel": "Bernini - Painter and Sculptor",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-12-02",
+   "ende": "2027-04-04",
+   "art": "wechselausstellung",
+   "epoche": "alte_meister",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://www.khm.at/en/exhibitions/bernini-painter-and-sculptor"
+  },
+  {
+   "id": "2bff072626b0",
+   "hausId": "Q95569",
+   "titel": "Picture Gallery",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "rang": 3,
+   "url": "https://www.khm.at/en/exhibitions/picture-gallery"
+  },
+  {
+   "id": "9c2afa9c891e",
+   "hausId": "Q95569",
+   "titel": "Kunstkammer",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "kunsthandwerk",
+   "rang": 4,
+   "url": "https://www.khm.at/en/exhibitions/kunstkammer"
+  },
+  {
+   "id": "fed7f229698e",
+   "hausId": "Q677548",
+   "titel": "Lebt und arbeitet in Wien",
+   "untertitel": "Contemporary Art from Vienna",
+   "kuenstler": [],
+   "beginn": "2026-05-01",
+   "ende": "2026-10-26",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://kunsthallewien.at/ausstellung/lebt-und-arbeitet-in-wien-contemporary-art-from-vienna"
+  },
+  {
+   "id": "849ef15e7409",
+   "hausId": "Q677548",
+   "titel": "Tiffany Sia",
+   "untertitel": "Overt Listening",
+   "kuenstler": [
+    "Tiffany Sia"
+   ],
+   "beginn": "2026-11-13",
+   "ende": "2027-01-24",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://kunsthallewien.at/ausstellung/tiffany-sia-overt-listening"
+  },
+  {
+   "id": "f720e3817e29",
+   "hausId": "Q677548",
+   "titel": "Magali Reus",
+   "untertitel": "Tenant",
+   "kuenstler": [
+    "Magali Reus"
+   ],
+   "beginn": "2026-11-27",
+   "ende": "2027-05-02",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 3,
+   "url": "https://kunsthallewien.at/ausstellung/magali-reus-tenant"
+  },
+  {
+   "id": "3d71782d5299",
+   "hausId": "Q677548",
+   "titel": "Kunsthalle Wien Preis 2026",
+   "untertitel": "",
+   "kuenstler": [
+    "Lotti Brockmann",
+    "Valentino Skarwan"
+   ],
+   "beginn": "2026-12-03",
+   "ende": "2027-02-07",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 4,
+   "url": "https://kunsthallewien.at/ausstellung/kunsthalle-wien-preis-2026"
+  },
+  {
+   "id": "7f339369704d",
+   "hausId": "Q1792425",
+   "titel": "Ayo Akingbade",
+   "untertitel": "",
+   "kuenstler": [
+    "Ayo Akingbade"
+   ],
+   "beginn": "2026-09-26",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 1,
+   "url": "https://www.kunsthallezurich.ch/de/ausstellungen/10329-ayo-akingbade"
+  },
+  {
+   "id": "fdbb3ec6663f",
+   "hausId": "Q1792425",
+   "titel": "Caspar Heinemann",
+   "untertitel": "",
+   "kuenstler": [
+    "Caspar Heinemann"
+   ],
+   "beginn": "2026-09-26",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 2,
+   "url": "https://www.kunsthallezurich.ch/de/ausstellungen/10330-caspar-heinemann"
+  },
+  {
+   "id": "3942c2695985",
+   "hausId": "Q50672242",
+   "titel": "Neue Ausstellungen im Aufbau",
+   "untertitel": "Neue Ausstellungen im Aufbau",
+   "kuenstler": [
+    "Eva Frankfurther",
+    "Antonio Peña"
+   ],
+   "beginn": "2026-10-22",
+   "ende": "2026-10-22",
+   "art": "wechselausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://kunsthaus-dahlem.de/ausstellung/ausstellungsaufbau/"
+  },
+  {
+   "id": "119f07769481",
+   "hausId": "Q638493",
+   "titel": "Seeds. Reclaiming Roots, Sowing Futures",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-04-10",
+   "ende": "2027-02-14",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.kunsthauswien.com/ausstellung/seeds"
+  },
+  {
+   "id": "0c5e248a4a9d",
+   "hausId": "Q638493",
+   "titel": "Mehr zur Sammlung Hundertwasser",
+   "untertitel": "",
+   "kuenstler": [
+    "Friedensreich Hundertwasser"
+   ],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://www.kunsthauswien.com/museum-hundertwasser"
+  },
+  {
+   "id": "26e76d8d215b",
+   "hausId": "node-11411007720",
+   "titel": "Subterranean",
+   "untertitel": "Gruppenausstellung",
+   "kuenstler": [],
+   "beginn": "2026-09-11",
+   "ende": "2026-11-07",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.kunstraum.net/de/subterranean?v=6646"
+  },
+  {
+   "id": "bc21b9bc700d",
+   "hausId": "Q1792677",
+   "titel": "Emmanuel Henninger: Mein Körper ist ein Hinterland",
+   "untertitel": "",
+   "kuenstler": [
+    "Emmanuel Henninger"
+   ],
+   "beginn": "2026-09-20",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 1,
+   "url": "https://kunstverein-neckar-odenwald.de/programm-2026/"
+  },
+  {
+   "id": "03363420a16e",
+   "hausId": "Q1774413",
+   "titel": "Couleur vivante. Vom Eigensinn der Wahrnehmung",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-11-13",
+   "ende": "2027-04-25",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 1,
+   "url": "https://www.kunstverein-wiesbaden.de/details/couleur-vivante-vom-eigensinn-der-wahrnehmung"
+  },
+  {
+   "id": "7b9d50a3880f",
+   "hausId": "Q1774413",
+   "titel": "Christian Naujoks / [a noise in the ear like the wind]",
+   "untertitel": "",
+   "kuenstler": [
+    "Christian Naujoks"
+   ],
+   "beginn": "2026-09-04",
+   "ende": "2027-04-25",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 1,
+   "url": "https://www.kunstverein-wiesbaden.de/austellung/christian-naujoks-a-noise-in-the-ear-like-the-wind"
+  },
+  {
+   "id": "734367f39422",
+   "hausId": "Q1792296",
+   "titel": "Bad Dreams",
+   "untertitel": "",
+   "kuenstler": [
+    "Susan Hiller"
+   ],
+   "beginn": "2026-10-17",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.kw-berlin.de/de/ausstellungen/susan-hiller-bad-dreams"
+  },
+  {
+   "id": "d44580ab54e7",
+   "hausId": "Q1792296",
+   "titel": "Koo Jeong A – Ousssean",
+   "untertitel": "",
+   "kuenstler": [
+    "KOO JEONG A"
+   ],
+   "beginn": "2026-10-17",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.kw-berlin.de/de/ausstellungen/koo-jeong-a-ousssean"
+  },
+  {
+   "id": "0cd0e8ac5019",
+   "hausId": "Q1792296",
+   "titel": "Ousssean",
+   "untertitel": "",
+   "kuenstler": [
+    "KOO JEONG A"
+   ],
+   "beginn": "2026-10-17",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://www.kw-berlin.de/de/ausstellungen/koo-jeong-a-ousssean"
+  },
+  {
+   "id": "b2b3936c2f2c",
+   "hausId": "Q1792296",
+   "titel": "The City and the City",
+   "untertitel": "",
+   "kuenstler": [
+    "Rafik Greiss"
+   ],
+   "beginn": "2026-10-17",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 3,
+   "url": "https://www.kw-berlin.de/de/ausstellungen/rafik-greiss-the-city-and-the-city"
+  },
+  {
+   "id": "0b915e308c50",
+   "hausId": "Q1792296",
+   "titel": "BPA// Exhibition 2026",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-12-05",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 4,
+   "url": "https://www.kw-berlin.de/de/ausstellungen/bpa-exhibition-2026"
+  },
+  {
+   "id": "121647f82e16",
+   "hausId": "Q59435",
+   "titel": "Herbert Boeckl – Hans Josephsohn",
+   "untertitel": "Figural Archetypes",
+   "kuenstler": [
+    "Herbert Boeckl",
+    "Hans Josephsohn"
+   ],
+   "beginn": "2026-07-24",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "epoche": "moderne",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.leopoldmuseum.org/en/exhibitions/155/herbert-boeckl-hans-josephsohn"
+  },
+  {
+   "id": "1648b9cf1c7c",
+   "hausId": "Q59435",
+   "titel": "Premiere!",
+   "untertitel": "The Oesterreichische Nationalbank Collection",
+   "kuenstler": [],
+   "beginn": "2026-04-24",
+   "ende": "2026-10-11",
+   "art": "wechselausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://www.leopoldmuseum.org/en/exhibitions/152/premiere"
+  },
+  {
+   "id": "6d465ebd54f0",
+   "hausId": "Q59435",
+   "titel": "PREMIERE! The Oesterreichische Nationalbank Collection",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-04-24",
+   "ende": "2026-10-11",
+   "art": "wechselausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://www.leopoldmuseum.org/en/exhibitions/152/premiere"
+  },
+  {
+   "id": "aa07bb8f81e3",
+   "hausId": "Q59435",
+   "titel": "Vienna 1900",
+   "untertitel": "Birth of Modernism",
+   "kuenstler": [],
+   "beginn": "2019-03-16",
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "bildende_kunst",
+   "rang": 3,
+   "url": "https://www.leopoldmuseum.org/en/exhibitions/107/vienna-1900"
+  },
+  {
+   "id": "1ab60d32a6cd",
+   "hausId": "Q478455",
+   "titel": "Wien 1900 – Alltag. Gesamtkunstwerk",
+   "untertitel": "Neuaufstellung der MAK Schausammlung",
+   "kuenstler": [],
+   "beginn": "2026-02-25",
+   "ende": "2030-08-31",
+   "art": "sammlungspraesentation",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.mak.at/ausstellung/wien1900"
+  },
+  {
+   "id": "bf5360983f98",
+   "hausId": "Q478455",
+   "titel": "Neupräsentation: MAK Schausammlung Textilien und Teppiche",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-03-25",
+   "ende": "2030-12-31",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "kunsthandwerk",
+   "rang": 2,
+   "url": "https://www.mak.at/ausstellung/textilienundteppiche"
+  },
+  {
+   "id": "d6274172ebda",
+   "hausId": "Q478455",
+   "titel": "Thomas Demand",
+   "untertitel": "Räume, die von gestern träumen",
+   "kuenstler": [
+    "Thomas Demand"
+   ],
+   "beginn": "2026-05-27",
+   "ende": "2027-01-24",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "fotografie",
+   "rang": 3,
+   "url": "https://www.mak.at/programm/ausstellungen/thomas_demand"
+  },
+  {
+   "id": "2e1fdb5ab175",
+   "hausId": "Q478455",
+   "titel": "Vally Wieselthier",
+   "untertitel": "Bild und Ton",
+   "kuenstler": [
+    "Vally Wieselthier"
+   ],
+   "beginn": "2026-04-29",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "epoche": "moderne",
+   "fachgebiet": "design",
+   "rang": 4,
+   "url": "https://www.mak.at/programm/ausstellungen/vally_wieselthier"
+  },
+  {
+   "id": "d46c1d877e25",
+   "hausId": "Q478455",
+   "titel": "Architekturbaukästen 1890–1990",
+   "untertitel": "Die große Mitspielausstellung",
+   "kuenstler": [],
+   "beginn": "2026-10-07",
+   "ende": "2027-03-14",
+   "art": "wechselausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "design",
+   "rang": 5,
+   "url": "https://www.mak.at/programm/ausstellungen/architekturbaukaesten_18901990"
+  },
+  {
+   "id": "dbbbc1ec7d8c",
+   "hausId": "Q699943",
+   "titel": "Wien 1900",
+   "untertitel": "Aufbruch in die Moderne",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.mqw.at/en/program/exhibitions/leopold-museum/wien-1900/"
+  },
+  {
+   "id": "aa498b8990bd",
+   "hausId": "Q699943",
+   "titel": "Niche Sculptures",
+   "untertitel": "Sonia Leimer & Tillman Kaiser",
+   "kuenstler": [
+    "Sonia Leimer",
+    "Tillman Kaiser"
+   ],
+   "beginn": null,
+   "ende": null,
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.mqw.at/en/program/exhibitions/sonia-leimer-tillman-kaiser/"
+  },
+  {
+   "id": "07fed62f0991",
+   "hausId": "Q699943",
+   "titel": "Audio-Video Underground Chamber",
+   "untertitel": "",
+   "kuenstler": [
+    "Bruce Nauman"
+   ],
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "medienkunst",
+   "rang": 2,
+   "url": "https://www.mqw.at/en/program/exhibitions/mq-public-art/audio-video-underground-chamber/"
+  },
+  {
+   "id": "80be4884ed1f",
+   "hausId": "Q699943",
+   "titel": "The Oesterreichische Nationalbank Collection",
+   "untertitel": "Premiere!",
+   "kuenstler": [
+    "Rudolf Wacker",
+    "Franz Sedlacek",
+    "Greta Freist",
+    "Max Oppenheimer",
+    "Maria Lassnig",
+    "Tobias Pils",
+    "Svenja Deininger",
+    "Ernst Caramelle",
+    "Martha Jungwirth",
+    "Herbert Brandl",
+    "Josef Pillhofer",
+    "Julia Haugeneder"
+   ],
+   "beginn": "2026-05-21",
+   "ende": "2026-10-11",
+   "art": "wechselausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://www.mqw.at/en/program/exhibitions/leopold-museum/premiere/"
+  },
+  {
+   "id": "33814b611bc6",
+   "hausId": "Q18288036",
+   "titel": "Vom Alltagszauber",
+   "untertitel": "Amnon David Ar und Kurt Mühlenhaupt - zwei Künstler, die einander nie begegnet sind und doch dieselbe Frage stellen: Wie malt man das Leben so, wie es ist?",
+   "kuenstler": [
+    "Amnon David Ar",
+    "Kurt Mühlenhaupt"
+   ],
+   "beginn": "2026-09-11",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.muehlenhaupt.de/museum/aktuelle-ausstellung"
+  },
+  {
+   "id": "14ca8f19a895",
+   "hausId": "Q18288036",
+   "titel": "Das Leben eines Multitalents",
+   "untertitel": "",
+   "kuenstler": [
+    "Kurt Mühlenhaupt"
+   ],
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://www.muehlenhaupt.de/museum/dauerausstellung"
+  },
+  {
+   "id": "561b060bbe62",
+   "hausId": "Q18288036",
+   "titel": "Mühlenhaupts Welt der kleinen Leute",
+   "untertitel": "",
+   "kuenstler": [
+    "Kurt Mühlenhaupt"
+   ],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "bildende_kunst",
+   "rang": 3,
+   "url": "https://www.muehlenhaupt.de/museum/kinderwerkstatt"
+  },
+  {
+   "id": "fb73b4f9dd83",
+   "hausId": "Q689951",
+   "titel": "Terminal Piece",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-06-20",
+   "ende": "2027-02-07",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.mumok.at/ausstellungen/terminal-piece"
+  },
+  {
+   "id": "598bf80e2377",
+   "hausId": "Q689951",
+   "titel": "Tolia Astakhishvili",
+   "untertitel": "Figure of the Child",
+   "kuenstler": [
+    "Tolia Astakhishvili"
+   ],
+   "beginn": "2026-06-20",
+   "ende": "2026-11-01",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://www.mumok.at/ausstellungen/tolia-astakhishvili"
+  },
+  {
+   "id": "78089aa3608c",
+   "hausId": "relation-3327361",
+   "titel": "mUSeum gugging.! 20 years art",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-03-15",
+   "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.museumgugging.at/en/exhibition/20yearsart"
+  },
+  {
+   "id": "abf1233c3149",
+   "hausId": "relation-3327361",
+   "titel": "guggkasten.!",
+   "untertitel": "Vier Wände. Vier Wechsel. Vier Besuche. Unendlich viele Entdeckungen.",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://www.museumgugging.at/en/exhibition/guggkasten"
+  },
+  {
+   "id": "e66cf11c0427",
+   "hausId": "relation-3327361",
+   "titel": "ingolf ebeling: the sunray millionaire",
+   "untertitel": "",
+   "kuenstler": [
+    "Ingolf Ebeling"
+   ],
+   "beginn": "2026-09-13",
+   "ende": "2026-11-15",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 3,
+   "url": "https://www.museumgugging.at/en/exhibitions/guggkasten/sunraymillionaire"
+  },
+  {
+   "id": "bde28d76d912",
+   "hausId": "Q1980109",
+   "titel": "Projektionen auf den Osten",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-09-10",
+   "ende": "2026-11-08",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.nbk.org/de/ausstellungen/projektionen-osten"
+  },
+  {
+   "id": "71596372b30c",
+   "hausId": "Q1980109",
+   "titel": "Christoph Hochhäusler",
+   "untertitel": "",
+   "kuenstler": [
+    "Christoph Hochhäusler"
+   ],
+   "beginn": "2026-09-10",
+   "ende": "2026-11-08",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://www.nbk.org/de/ausstellungen/christoph-hochhaeusler"
+  },
+  {
+   "id": "46095b97cb1f",
+   "hausId": "Q1980109",
+   "titel": "Guerrilla Girls",
+   "untertitel": "",
+   "kuenstler": [
+    "Guerrilla Girls"
+   ],
+   "beginn": "2026-09-10",
+   "ende": "2027-08-29",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 3,
+   "url": "https://www.nbk.org/de/ausstellungen/guerrilla-girls"
+  },
+  {
+   "id": "232b28db2e4c",
+   "hausId": "Q1980109",
+   "titel": "Dora Budor & Noah Barker. Monte Carlo Method",
+   "untertitel": "",
+   "kuenstler": [
+    "Dora Budor",
+    "Noah Barker"
+   ],
+   "beginn": "2026-09-10",
+   "ende": "2026-11-29",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 4,
+   "url": "https://www.nbk.org/de/ausstellungen/billboard-budor-barker"
+  },
+  {
+   "id": "70042b8b5ea0",
+   "hausId": "Q1980109",
+   "titel": "Gala Porras-Kim. Total Loss Ghost",
+   "untertitel": "",
+   "kuenstler": [
+    "Gala Porras-Kim"
+   ],
+   "beginn": "2026-12-05",
+   "ende": "2027-02-07",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 5,
+   "url": "https://www.nbk.org/de/ausstellungen/porras-kim"
+  },
+  {
+   "id": "919b7c8e14de",
+   "hausId": "Q19823294",
+   "titel": "Requiem",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-10-08",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://www.schwarzwaelder.at/exhibitions/curatedby-2026"
+  },
+  {
+   "id": "fef4b5e8c3f4",
+   "hausId": "Q19823294",
+   "titel": "Michał Budny",
+   "untertitel": "Night",
+   "kuenstler": [
+    "MICHAŁ BUDNY"
+   ],
+   "beginn": "2026-10-08",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 3,
+   "url": "https://www.schwarzwaelder.at/exhibitions/michal-budny-2026"
+  },
+  {
+   "id": "501172ff15b1",
+   "hausId": "Q265129",
+   "titel": "Bernhard Leitner",
+   "untertitel": "Soundspacesculpture",
+   "kuenstler": [
+    "Bernhard Leitner"
+   ],
+   "beginn": "2026-09-11",
+   "ende": "2026-11-22",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://secession.at/ausstellung_bernhard_leitner"
+  },
+  {
+   "id": "0e21358f582f",
+   "hausId": "Q265129",
+   "titel": "Frederik Marroquín",
+   "untertitel": "",
+   "kuenstler": [
+    "Frederik Marroquín"
+   ],
+   "beginn": "2027-09-10",
+   "ende": "2027-11-21",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://secession.at/ausstellung_frederik_marroquin"
+  },
+  {
+   "id": "3db920fb016c",
+   "hausId": "Q265129",
+   "titel": "Lap-See Lam",
+   "untertitel": "192 Wing Lok Street",
+   "kuenstler": [
+    "Lap-See Lam"
+   ],
+   "beginn": "2026-09-11",
+   "ende": "2026-11-22",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://secession.at/ausstellung_lap_see_lam"
+  },
+  {
+   "id": "79b9382a9880",
+   "hausId": "Q265129",
+   "titel": "JJJJJerome Ellis",
+   "untertitel": "An unfinished calendar that commemorates slaves escaping their enslavers, 1673–1886",
+   "kuenstler": [
+    "JJJJJerome Ellis"
+   ],
+   "beginn": "2026-09-11",
+   "ende": "2026-11-22",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 3,
+   "url": "https://secession.at/ausstellung_JJJJJerome_ellis"
+  },
+  {
+   "id": "43c7a95794cf",
+   "hausId": "Q265129",
+   "titel": "Beethovenfries",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "bildende_kunst",
+   "rang": 4,
+   "url": "https://secession.at/Beethovenfries"
+  },
+  {
+   "id": "dab5a8ca3035",
+   "hausId": "Q162111",
+   "titel": "InterNationalgalerie 1",
+   "untertitel": "Nationalmuseum in Warschau",
+   "kuenstler": [],
+   "beginn": "2026-06-18",
+   "ende": "2027-01-17",
+   "art": "wechselausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.smb.museum/museen-einrichtungen/alte-nationalgalerie/ausstellungen/detail/internationalgalerie-1/"
+  },
+  {
+   "id": "7661cf0597e2",
+   "hausId": "Q162111",
+   "titel": "Tür zur Geschichte",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-06-18",
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://www.smb.museum/museen-einrichtungen/alte-nationalgalerie/ausstellungen/detail/tuer-zur-geschichte/"
+  },
+  {
+   "id": "8f58eaed35b3",
+   "hausId": "Q162111",
+   "titel": "Skandal!",
+   "untertitel": "Hermione von Preuschen und der Mors Imperator",
+   "kuenstler": [
+    "Hermione von Preuschen"
+   ],
+   "beginn": "2026-03-22",
+   "ende": "2026-11-15",
+   "art": "wechselausstellung",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "bildende_kunst",
+   "rang": 3,
+   "url": "https://www.smb.museum/museen-einrichtungen/alte-nationalgalerie/ausstellungen/detail/skandal/"
+  },
+  {
+   "id": "5e35a947d6ce",
+   "hausId": "Q162111",
+   "titel": "Sammlungspräsentation: Die Kunst des 19. Jahrhunderts",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "bildende_kunst",
+   "rang": 4,
+   "url": "https://www.smb.museum/museen-einrichtungen/alte-nationalgalerie/ausstellungen/detail/sammlungspraesentation-die-kunst-des-19-jahrhunderts/"
+  },
+  {
+   "id": "8d68fd5a1c9e",
+   "hausId": "Q531032",
+   "titel": "Cranach in Grunewald",
+   "untertitel": "Meisterwerke Lucas Cranachs des Älteren, des Jüngeren und ihrer Werkstatt",
+   "kuenstler": [
+    "Lucas Cranach der Ältere",
+    "Lucas Cranach der Jüngere"
+   ],
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "alte_meister",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.spsg.de/aktuelles/ausstellung/cranach-in-grunewald"
+  },
+  {
+   "id": "70764dfc5e9b",
+   "hausId": "Q878325",
+   "titel": "Geteiltes Leben",
+   "untertitel": "Kunst und Migration in Berlin",
+   "kuenstler": [],
+   "beginn": "2026-10-08",
+   "ende": "2027-02-07",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.berlin.museum/ausstellung/geteiltes-leben"
+  },
+  {
+   "id": "7fb5ca253dd2",
+   "hausId": "Q878325",
+   "titel": "Chodowiecki 300",
+   "untertitel": "Berliner Künstlerinnen um 1800",
+   "kuenstler": [],
+   "beginn": "2026-10-14",
+   "ende": "2026-11-29",
+   "art": "wechselausstellung",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.berlin.museum/ausstellung/chodowiecki-300"
+  },
+  {
+   "id": "e30a1d112286",
+   "hausId": "Q878325",
+   "titel": "Tapetenwechsel",
+   "untertitel": "Migration und Mobiliar seit 1960",
+   "kuenstler": [],
+   "beginn": "2026-10-08",
+   "ende": "2027-01-03",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "design",
+   "rang": 2,
+   "url": "https://www.berlin.museum/ausstellung/tapetenwechsel"
+  },
+  {
+   "id": "298fd5b90eaf",
+   "hausId": "Q163804",
+   "titel": "Maria Magdalena",
+   "untertitel": "Sin. Pray. Love.",
+   "kuenstler": [],
+   "beginn": "2026-09-17",
+   "ende": "2027-01-17",
+   "art": "wechselausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "",
+   "rang": 1,
+   "url": "https://www.staedelmuseum.de/de/maria-magdalena"
+  },
+  {
+   "id": "2517b4c6c6c9",
+   "hausId": "Q163804",
+   "titel": "Elmgreen & Dragset",
+   "untertitel": "Stillleben mit Gemüse",
+   "kuenstler": [
+    "Elmgreen & Dragset"
+   ],
+   "beginn": "2026-05-20",
+   "ende": "2027-01-17",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 2,
+   "url": "https://www.staedelmuseum.de/de/elmgreen-dragset"
+  },
+  {
+   "id": "cba6e5c5f5b8",
+   "hausId": "Q163804",
+   "titel": "Städel Sammlung",
+   "untertitel": "700 Jahre Kunst unter einem Dach",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "",
+   "rang": 3,
+   "url": "https://www.staedelmuseum.de/de/sammlung-dauerausstellung"
+  },
+  {
+   "id": "37a49841fd47",
+   "hausId": "Q163804",
+   "titel": "SurFace",
+   "untertitel": "Über Haut",
+   "kuenstler": [],
+   "beginn": "2026-12-02",
+   "ende": "2027-02-28",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "",
+   "rang": 4,
+   "url": "https://www.staedelmuseum.de/de/surface"
+  },
+  {
+   "id": "3b1d1298c2b7",
+   "hausId": "Q163804",
+   "titel": "Willkommen im Paradies",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2027-02-24",
+   "ende": "2027-06-27",
+   "art": "wechselausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "",
+   "rang": 5,
+   "url": "https://www.staedelmuseum.de/de/willkommen-im-paradies"
+  },
+  {
+   "id": "c238d798859a",
+   "hausId": "Q111594318",
+   "titel": "Love Letters to the City",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2024-09-14",
+   "ende": "2027-05-30",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://urban-nation.com/de/love-letters-to-the-city/"
+  },
+  {
+   "id": "76634e2b0ed9",
+   "hausId": "Q686488",
+   "titel": "Blutregen",
+   "untertitel": "Fotografie und Waffenhandel",
+   "kuenstler": [],
+   "beginn": "2026-10-08",
+   "ende": "2027-04-18",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "fotografie",
+   "rang": 1,
+   "url": "https://www.weltmuseumwien.at/ausstellungen/blutregen"
+  },
+  {
+   "id": "04931267e6cc",
+   "hausId": "Q686488",
+   "titel": "Ishír",
+   "untertitel": "Lebendige Erinnerung aus Paraguay",
+   "kuenstler": [],
+   "beginn": "2026-10-08",
+   "ende": "2027-01-24",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://www.weltmuseumwien.at/ausstellungen/ishir-lebendige-erinnerung-aus-paraguay"
+  },
+  {
+   "id": "340e8de19748",
+   "hausId": "Q686488",
+   "titel": "Verborgene Geschichten",
+   "untertitel": "Schätze aus den Sammlungen",
+   "kuenstler": [],
+   "beginn": "2026-10-08",
+   "ende": "2027-05-30",
+   "art": "wechselausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "rang": 3,
+   "url": "https://www.weltmuseumwien.at/ausstellungen/verborgene-geschichten-schaetze-aus-den-sammlungen"
+  },
+  {
+   "id": "8387dbb5180c",
+   "hausId": "Q686488",
+   "titel": "Open Space",
+   "untertitel": "Ein Raum für viele Stimmen",
+   "kuenstler": [],
+   "beginn": "2026-10-08",
+   "ende": "2027-04-18",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 4,
+   "url": "https://www.weltmuseumwien.at/ausstellungen/open-space"
+  },
+  {
+   "id": "fe413b003d34",
+   "hausId": "Q686488",
+   "titel": "Schausammlung",
+   "untertitel": "Eine Perlenkette von Geschichten",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "rang": 5,
+   "url": "https://www.weltmuseumwien.at/ausstellungen/schausammlung"
+  },
+  {
+   "id": "3f663d894b33",
+   "hausId": "Q14550991",
+   "titel": "World Press Photo 2026",
+   "untertitel": "Die wichtigste Leistungsschau der internationalen Pressefotografie",
+   "kuenstler": [
+    "Carol Guzy"
+   ],
+   "beginn": "2026-09-11",
+   "ende": "2026-11-22",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "fotografie",
+   "rang": 2,
+   "url": "https://www.westlicht.com/westlicht/de/programm/ausstellungen/worldpressphoto2026"
+  },
+  {
+   "id": "095b95152367",
+   "hausId": "Q14550991",
+   "titel": "Call It \"Dubai\"",
+   "untertitel": "",
+   "kuenstler": [
+    "MAŠA STANIĆ"
+   ],
+   "beginn": "2026-09-11",
+   "ende": "2026-11-22",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "fotografie",
+   "rang": 2,
+   "url": "https://www.westlicht.com/westlicht/de/programm"
+  },
+  {
+   "id": "0e73e3e18cb4",
+   "hausId": "Q14550991",
+   "titel": "Falsche Wahrheiten",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "wechselausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "fotografie",
+   "rang": 3,
+   "url": "https://www.westlicht.com/westlicht/de/programm/ausstellungen/25jahrewestlicht"
+  },
+  {
+   "id": "c18b58264879",
+   "hausId": "Q505873",
+   "titel": "Farbenspiel",
+   "untertitel": "Mode aus vier Jahrhunderten",
+   "kuenstler": [],
+   "beginn": "2026-10-01",
+   "ende": "2027-03-28",
+   "art": "wechselausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "kunsthandwerk",
+   "rang": 2,
+   "url": "https://www.wienmuseum.at/farbenspiel"
+  },
+  {
+   "id": "9aa7a0cdee45",
+   "hausId": "Q505873",
+   "titel": "Franz West und Wien",
+   "untertitel": "",
+   "kuenstler": [
+    "Franz West"
+   ],
+   "beginn": "2026-11-06",
+   "ende": "2027-05-02",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 4,
+   "url": "https://www.wienmuseum.at/franz_west_und_wien"
+  },
+  {
+   "id": "f3cb195e1f04",
+   "hausId": "node-567084279",
+   "titel": "Verdichtungen",
+   "untertitel": "Heliane Wiesauer-Reiterer",
+   "kuenstler": [
+    "Heliane Wiesauer-Reiterer"
+   ],
+   "beginn": "2026-07-02",
+   "ende": "2026-11-29",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.wienmuseum.at/verdichtungen_heliane_wiesauer_reiterer"
+  },
+  {
+   "id": "f8f2a537909c",
+   "hausId": "node-567084279",
+   "titel": "Der Bildgenerator",
+   "untertitel": "Karl Heinz Koller",
+   "kuenstler": [
+    "Karl Heinz Koller"
+   ],
+   "beginn": "2026-07-02",
+   "ende": "2026-11-29",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://www.wienmuseum.at/bildgenerator_karl_heinz_koller"
+  },
+  {
+   "id": "dff70f9a4c3c",
+   "hausId": "Q29574934",
+   "titel": "Die Sammlung",
+   "untertitel": "Schweizer Kunst vom 18. Jahrhundert bis heute",
+   "kuenstler": [
+    "Albert Anker",
+    "Arnold Böcklin",
+    "Ferdinand Hodler",
+    "Sophie Taeuber-Arp",
+    "Cuno Amiet"
+   ],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "rang": 11,
+   "url": "https://aargauerkunsthaus.ch/de/ausstellungen/sammlung/"
+  },
+  {
+   "id": "49db11e9fb94",
+   "hausId": "Q318289",
+   "titel": "Alter Orient",
+   "untertitel": "Ägypten und der Alte Orient, 6. Jt.–3. Jh. v. Chr.",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "alte_meister",
+   "fachgebiet": "kunsthandwerk",
+   "rang": 11,
+   "url": "https://www.abegg-stiftung.ch/ausstellung/sammlung"
+  },
+  {
+   "id": "bb593f516f76",
+   "hausId": "Q318289",
+   "titel": "Seidenstrasse",
+   "untertitel": "Textilien aus Zentralasien und China, 4. Jh. v.–3. Jh. n. Chr.",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "alte_meister",
+   "fachgebiet": "kunsthandwerk",
+   "rang": 12,
+   "url": "https://www.abegg-stiftung.ch/ausstellung/sammlung"
+  },
+  {
+   "id": "e21219ec102a",
+   "hausId": "Q318289",
+   "titel": "Hochmittelalter",
+   "untertitel": "Textilien und Objekte des Hochmittelalters",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "kunsthandwerk",
+   "rang": 13,
+   "url": "https://www.abegg-stiftung.ch/ausstellung/sammlung"
+  },
+  {
+   "id": "f411652c0bf8",
+   "hausId": "Q414219",
+   "titel": "Die Sammlung",
+   "untertitel": "Werke aus dem Bestand der Akademie",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "rang": 11,
+   "url": "https://www.akbild.ac.at/"
+  },
+  {
+   "id": "0094b87f7ec0",
+   "hausId": "Q371908",
+   "titel": "Gemälde & Skulptur",
+   "untertitel": "Kunstgeschichte vom 15. bis 21. Jahrhundert",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "rang": 11,
+   "url": "https://www.albertina.at/sammlungen/malerei-skulptur/"
+  },
+  {
+   "id": "625abd93718f",
+   "hausId": "Q371908",
+   "titel": "Zeichnung & Druckgrafik",
+   "untertitel": "Kunstgeschichte vom 15. bis 21. Jahrhundert",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "rang": 12,
+   "url": "https://www.albertina.at/sammlungen/zeichnung-druckgrafik/"
+  },
+  {
+   "id": "7891d14064c9",
+   "hausId": "Q371908",
+   "titel": "Fotografie",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "fotografie",
+   "rang": 13,
+   "url": "https://www.albertina.at/sammlungen/fotografie/"
+  },
+  {
+   "id": "3e4b8d5af5aa",
+   "hausId": "Q811389",
+   "titel": "Die Sammlung",
+   "untertitel": "Weltweit größte Sammlung zum Bauhaus",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "moderne",
+   "fachgebiet": "bildende_kunst",
+   "rang": 11,
+   "url": "https://www.bauhaus.de/forschen/sammlung/"
+  },
+  {
+   "id": "48b1d0e273c4",
+   "hausId": "Q568767",
+   "titel": "Jugendstil",
+   "untertitel": "International bedeutende Jugendstil-Sammlung",
+   "kuenstler": [
+    "Hector Guimard",
+    "Émile Gallé",
+    "Henry van de Velde",
+    "Peter Behrens",
+    "Alfred Grenander"
+   ],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "kunsthandwerk",
+   "rang": 11,
+   "url": "https://www.broehan-museum.de/das-museum/sammlung/"
+  },
+  {
+   "id": "8d600700818f",
+   "hausId": "Q568767",
+   "titel": "Art Deco / Funktionalismus",
+   "untertitel": "Möbel, Metall und Keramik der 1920er bis 1930er Jahre",
+   "kuenstler": [
+    "Jacques Émile Ruhlmann",
+    "Edgar Brandt",
+    "Jean Puiforcat",
+    "Gerrit Rietveld"
+   ],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "20_jahrhundert",
+   "fachgebiet": "kunsthandwerk",
+   "rang": 12,
+   "url": "https://www.broehan-museum.de/das-museum/sammlung/"
+  },
+  {
+   "id": "22d9411eee4a",
+   "hausId": "Q568767",
+   "titel": "Berliner Secession",
+   "untertitel": "Gemälde und Grafiken der Berliner Secession",
+   "kuenstler": [
+    "Hans Baluschek",
+    "Karl Hagemeister",
+    "Walter Leistikow",
+    "Willy Jaeckel",
+    "Franz Skarbina"
+   ],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "bildende_kunst",
+   "rang": 13,
+   "url": "https://www.broehan-museum.de/das-museum/sammlung/"
+  },
+  {
+   "id": "865a44ea2da2",
+   "hausId": "Q833759",
+   "titel": "Karl Schmidt-Rottluffs Sammlung von Objekten aus kolonialen Kontexten",
+   "untertitel": "Circa 100 Objekte aus kolonialen Kontexten",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "kunsthandwerk",
+   "rang": 12,
+   "url": "https://www.bruecke-museum.de/de/sammlung/1448/karl-schmidt-rottluffs-sammlung-von-objekten-aus-kolonialen-kontexten"
+  },
+  {
+   "id": "ac42c8c96b83",
+   "hausId": "Q1792553",
+   "titel": "Gesamtwerk Makis Warlamis",
+   "untertitel": "Malerei, Grafik, Skulptur, Architektur, Design",
+   "kuenstler": [
+    "Makis Warlamis"
+   ],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 11,
+   "url": "https://daskunstmuseum.at/gesamtwerk-sammlung-warlamis/"
+  },
+  {
+   "id": "31a7f409194c",
+   "hausId": "Q1792553",
+   "titel": "Werke Heide Warlamis",
+   "untertitel": "Keramik, Porzellan, Bronze, Design",
+   "kuenstler": [
+    "Heide Warlamis"
+   ],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 12,
+   "url": "https://daskunstmuseum.at/werke-heide-warlamis/"
+  },
+  {
+   "id": "5c8060444559",
+   "hausId": "Q1792553",
+   "titel": "Zeitgenössische internationale Keramik und Plastik 1980–1990",
+   "untertitel": "Sammlung aus Österreich, Deutschland, Schweiz u.a.",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "kunsthandwerk",
+   "rang": 13,
+   "url": "https://daskunstmuseum.at/gesamtwerk-sammlung-warlamis/"
+  },
+  {
+   "id": "8c98fc838eba",
+   "hausId": "Q1774413",
+   "titel": "Annea Lockwood / Piano Garden",
+   "untertitel": "Permanente Klanginstallation seit 2022",
+   "kuenstler": [
+    "Annea Lockwood"
+   ],
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 11,
+   "url": "https://www.kunstverein-wiesbaden.de/permanent/annea-lockwood-piano-garden-2022"
+  },
+  {
+   "id": "b3f9b00d2586",
+   "hausId": "Q478455",
+   "titel": "MAK Schausammlung Textilien und Teppiche",
+   "untertitel": "Neupräsentation der Textil- und Teppichsammlung",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "kunsthandwerk",
+   "rang": 12,
+   "url": "https://www.mak.at/ausstellung/textilienundteppiche"
+  },
+  {
+   "id": "ce4f1f8c7e3e",
+   "hausId": "Q14550991",
+   "titel": "Kameramuseum",
+   "untertitel": "Sammlung historischer Kameras",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "fotografie",
+   "rang": 11,
+   "url": "https://3dkameramuseum.westlicht.com/"
+  },
+  {
+   "id": "6a22cff555e0",
+   "hausId": "Q505873",
+   "titel": "Geschichte und Stadtleben",
+   "untertitel": "Sammlung zur Wiener Stadtgeschichte",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "rang": 11,
+   "url": "https://www.wienmuseum.at/geschichte_und_stadtleben"
+  },
+  {
+   "id": "030e38b0d4ac",
+   "hausId": "Q505873",
+   "titel": "Kunst",
+   "untertitel": "Kunstsammlung des Museums",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "rang": 12,
+   "url": "https://www.wienmuseum.at/kunst"
+  }
+ ]
+}
