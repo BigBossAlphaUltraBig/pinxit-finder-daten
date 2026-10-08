@@ -1,6 +1,6 @@
 {
  "stand": "2026-10-08",
- "version": "2026-10-08T21:51:44Z",
+ "version": "2026-10-08T23:27:10Z",
  "haeuser": [
   {
    "id": "Q270106",
@@ -715,6 +715,16 @@
    }
   },
   {
+   "id": "Q635399",
+   "name": "Architekturzentrum Wien",
+   "stadt": "Wien",
+   "land": "AT",
+   "lat": 48.204167,
+   "lon": 16.357778,
+   "website": "http://www.azw.at/startpage.php?lang_id=en",
+   "typ": "Kunstmuseum"
+  },
+  {
    "id": "Q811389",
    "name": "Bauhaus-Archiv",
    "stadt": "Berlin",
@@ -1193,6 +1203,16 @@
    }
   },
   {
+   "id": "Q107313410",
+   "name": "Haus des Papiers",
+   "stadt": "Berlin",
+   "land": "DE",
+   "lat": 52.51045,
+   "lon": 13.40329,
+   "website": "https://www.hausdespapiers.com/",
+   "typ": "Kunstmuseum"
+  },
+  {
    "id": "Q136771971",
    "name": "Heidi Horten Collection",
    "stadt": "Wien",
@@ -1500,6 +1520,17 @@
    }
   },
   {
+   "id": "node-372353895",
+   "name": "Kunstforum Berliner Volksbank",
+   "stadt": "Berlin",
+   "land": "DE",
+   "lat": 52.510182,
+   "lon": 13.288971,
+   "website": "https://kunstforum.berlin/",
+   "typ": "Kunstzentrum (OSM)",
+   "adresse": "Kaiserdamm 105, 14057 Berlin"
+  },
+  {
    "id": "Q677548",
    "name": "Kunsthalle Wien",
    "stadt": "Wien",
@@ -1800,67 +1831,15 @@
    }
   },
   {
-   "id": "node-11411007720",
-   "name": "Kunstraum Niederösterreich",
-   "stadt": "Wien",
+   "id": "node-5159460206",
+   "name": "Kunstraum NÖ",
+   "stadt": "Wiener Neustadt",
    "land": "AT",
-   "lat": 48.21008,
-   "lon": 16.365082,
-   "website": "https://www.kunstraum.net/",
+   "lat": 47.813975,
+   "lon": 16.242358,
+   "website": "https://www.kunstraum.net",
    "typ": "Kunstmuseum (OSM)",
-   "adresse": "Herrengasse 13, 1010 Wien",
-   "oeffnungszeiten": {
-    "tage": [
-     "geschlossen",
-     "11–19 Uhr",
-     "11–19 Uhr",
-     "11–19 Uhr",
-     "11–19 Uhr",
-     "11–15 Uhr",
-     "geschlossen"
-    ],
-    "spannen": [
-     [],
-     [
-      [
-       660,
-       1140
-      ]
-     ],
-     [
-      [
-       660,
-       1140
-      ]
-     ],
-     [
-      [
-       660,
-       1140
-      ]
-     ],
-     [
-      [
-       660,
-       1140
-      ]
-     ],
-     [
-      [
-       660,
-       900
-      ]
-     ],
-     []
-    ],
-    "hinweis": "Mo, So und Feiertag geschlossen. Öffnungszeiten während der Ausstellung.",
-    "quelle": "Website des Hauses",
-    "stand": "2026-10-08"
-   },
-   "eintritt": {
-    "immerFrei": true,
-    "quelle": "Website des Hauses"
-   }
+   "adresse": "Herrengasse 13, 2700 Wiener Neustadt"
   },
   {
    "id": "Q1792677",
@@ -2339,6 +2318,16 @@
     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "seite": "https://commons.wikimedia.org/wiki/File:Wien_Muzeum_Sztuki_Nowoczesnej.jpg"
    }
+  },
+  {
+   "id": "Q2560329",
+   "name": "Werkbundarchiv – Museum der Dinge",
+   "stadt": "Berlin",
+   "land": "DE",
+   "lat": 52.5116,
+   "lon": 13.39997,
+   "website": "http://www.museumderdinge.de/",
+   "typ": "Designmuseum"
   },
   {
    "id": "relation-3327361",
@@ -3149,7 +3138,7 @@
    "ende": "2026-11-08",
    "art": "sammlungspraesentation",
    "epoche": "gemischt",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 1,
    "url": "https://aargauerkunsthaus.ch/de/ausstellung/verwandtschaften/"
   },
@@ -3163,7 +3152,7 @@
    "ende": "2027-01-10",
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 2,
    "url": "https://aargauerkunsthaus.ch/de/ausstellung/kuenstliche-kreativitaet/"
   },
@@ -3178,8 +3167,8 @@
    "beginn": "2026-07-07",
    "ende": "2026-11-08",
    "art": "sammlungspraesentation",
-   "epoche": "moderne",
-   "fachgebiet": "",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
    "rang": 3,
    "url": "https://aargauerkunsthaus.ch/de/ausstellung/gabi-fuhrimann/"
   },
@@ -3193,7 +3182,7 @@
    "ende": "2026-11-08",
    "art": "wechselausstellung",
    "epoche": "alte_meister",
-   "fachgebiet": "",
+   "fachgebiet": "kunsthandwerk",
    "rang": 1,
    "url": "https://www.abegg-stiftung.ch/ausstellung/sonderausstellung"
   },
@@ -3207,9 +3196,29 @@
    "ende": "2027-08-22",
    "art": "wechselausstellung",
    "epoche": "gemischt",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 1,
    "url": "https://www.akbild.ac.at/de/museum-und-ausstellungen/kunstsammlungen/aktuelles"
+  },
+  {
+   "id": "c20948100aa9",
+   "hausId": "Q414219",
+   "titel": "Schwelle",
+   "untertitel": "",
+   "kuenstler": [
+    "Ralo Mayer",
+    "Stine Ølgod",
+    "Maria Petschnig",
+    "Michaela Schweighofer",
+    "Adrien Tirtiaux"
+   ],
+   "beginn": "2026-09-10",
+   "ende": "2026-10-18",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.akbild.ac.at/de/museum-und-ausstellungen/Exhibit/ausstellungen-veranstaltungen/aktuelle-ausstellungen/2026/schwelle"
   },
   {
    "id": "2b0201ba2c63",
@@ -3221,23 +3230,23 @@
    "ende": "2026-11-08",
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 1,
    "url": "https://www.akku-emmen.ch/programm"
   },
   {
-   "id": "238fa2387c86",
+   "id": "ca2bae76f1ec",
    "hausId": "Q27480193",
-   "titel": "Der Stand der Dinge",
+   "titel": "Der Stand der Dinge: We*",
    "untertitel": "",
    "kuenstler": [
-    "We*"
+    "we*"
    ],
    "beginn": "2026-10-03",
    "ende": "2026-11-01",
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 2,
    "url": "https://www.akku-emmen.ch/programm"
   },
@@ -3253,52 +3262,36 @@
    "ende": "2027-01-17",
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
-   "fachgebiet": "",
-   "rang": 5,
+   "fachgebiet": "bildende_kunst",
+   "rang": 3,
    "url": "https://www.akku-emmen.ch/programm"
   },
   {
-   "id": "31301113386e",
-   "hausId": "Q371908",
-   "titel": "250 Jahre Albertina",
+   "id": "254ac8ed40ab",
+   "hausId": "Q27480193",
+   "titel": "Ausstellung Werkbeiträge des Kantons Luzern",
    "untertitel": "",
    "kuenstler": [],
-   "beginn": "2026-01-01",
-   "ende": "2026-10-11",
-   "art": "sammlungspraesentation",
-   "epoche": "gemischt",
-   "fachgebiet": "",
-   "rang": 1,
-   "url": "https://www.albertina.at/ausstellungen/250-jahre-albertina/"
+   "beginn": "2026-11-13",
+   "ende": "2026-11-29",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 4,
+   "url": "https://www.akku-emmen.ch/programm"
   },
   {
    "id": "d5b0b54d3525",
    "hausId": "Q371908",
    "titel": "Monet bis Chagall",
    "untertitel": "Die Sammlung Batliner",
-   "kuenstler": [
-    "Claude Monet",
-    "Edgar Degas",
-    "Paul Cézanne",
-    "Henri de Toulouse-Lautrec",
-    "Paul Gauguin",
-    "Ernst Ludwig Kirchner",
-    "Henri Matisse",
-    "Wassily Kandinsky",
-    "Franz Marc",
-    "Kazimir Malewitsch",
-    "Marc Chagall",
-    "Oskar Kokoschka",
-    "Albin Egger-Lienz",
-    "Pablo Picasso",
-    "Paul Signac"
-   ],
+   "kuenstler": [],
    "beginn": null,
    "ende": null,
-   "art": "wechselausstellung",
+   "art": "dauerausstellung",
    "epoche": "19_jahrhundert",
-   "fachgebiet": "",
-   "rang": 2,
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
    "url": "https://www.albertina.at/ausstellungen/monet-bis-picasso/"
   },
   {
@@ -3310,43 +3303,68 @@
     "Pablo Picasso",
     "Francis Bacon"
    ],
-   "beginn": "2026-10-08",
+   "beginn": "2026-09-18",
    "ende": "2027-01-31",
    "art": "wechselausstellung",
-   "epoche": "moderne",
-   "fachgebiet": "",
-   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
    "url": "https://www.albertina.at/ausstellungen/picasso-bacon/"
+  },
+  {
+   "id": "7fb0bd6f3307",
+   "hausId": "Q371908",
+   "titel": "Sammeln für die Zukunft",
+   "untertitel": "250 Jahre ALBERTINA",
+   "kuenstler": [
+    "Rosa Barba"
+   ],
+   "beginn": "2026-06-19",
+   "ende": "2026-10-11",
+   "art": "wechselausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "rang": 3,
+   "url": "https://www.albertina.at/ausstellungen/sammeln-fuer-die-zukunft/"
   },
   {
    "id": "526e816ebc09",
    "hausId": "Q371908",
    "titel": "Die Welt im Fokus",
-   "untertitel": "",
+   "untertitel": "Reise- und Expeditionsfotografie ab Mitte des 19. Jahrhunderts",
    "kuenstler": [],
-   "beginn": "2026-01-01",
+   "beginn": "2026-07-22",
    "ende": "2026-10-26",
-   "art": "sammlungspraesentation",
+   "art": "wechselausstellung",
    "epoche": "gemischt",
-   "fachgebiet": "",
+   "fachgebiet": "fotografie",
    "rang": 4,
    "url": "https://www.albertina.at/ausstellungen/die-welt-im-fokus/"
   },
   {
-   "id": "1e89c39e4762",
+   "id": "c81ba52edab3",
    "hausId": "Q371908",
-   "titel": "Shara Hughes",
-   "untertitel": "Sink In",
+   "titel": "Her Story",
+   "untertitel": "Künstlerinnen der ALBERTINA",
    "kuenstler": [
-    "Shara Hughes"
+    "Diana Scultori",
+    "Magdalena de Passe",
+    "Maria Sibylla Merian",
+    "Angelika Kauffmann",
+    "Berthe Morisot",
+    "Käthe Kollwitz",
+    "Sonia Delaunay",
+    "Louise Bourgeois",
+    "Maria Lassnig",
+    "VALIE EXPORT"
    ],
-   "beginn": "2026-10-09",
-   "ende": "2027-02-28",
+   "beginn": "2026-10-30",
+   "ende": "2027-02-14",
    "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
    "rang": 5,
-   "url": "https://www.albertina.at/ausstellungen/shara-hughes/"
+   "url": "https://www.albertina.at/ausstellungen/kuenstlerinnen-der-albertina/"
   },
   {
    "id": "0a14e4711ccf",
@@ -3360,7 +3378,7 @@
    "ende": "2027-03-29",
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 1,
    "url": "https://www.albertina.at/albertina-modern/ausstellungen/franz-west/"
   },
@@ -3370,24 +3388,21 @@
    "titel": "Down Under",
    "untertitel": "Kunst aus Australien",
    "kuenstler": [
-    "Emily Kame Kngwarreye",
-    "Nyunmiti Burton",
-    "Destiny Deacon",
-    "Gloria Tamerre Petyarre"
+    "Emily Kame Kngwarreye"
    ],
    "beginn": "2027-04-23",
-   "ende": null,
+   "ende": "2027-09-05",
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 2,
    "url": "https://www.albertina.at/albertina-modern/ausstellungen/down-under/"
   },
   {
-   "id": "4e5140c0ec07",
+   "id": "d1479dd8c0a9",
    "hausId": "Q27488831",
-   "titel": "ALBERTO GIACOMETTI - DIE SAMMLUNG.",
-   "untertitel": "Mit über 200 Exponaten.",
+   "titel": "ALBERTO GIACOMETTI - DIE SAMMLUNG. MIT ÜBER 200 EXPONATEN.",
+   "untertitel": "Die neue, erweiterte Ausstellung der Sammlung im Berghotel",
    "kuenstler": [
     "Alberto Giacometti"
    ],
@@ -3395,23 +3410,23 @@
    "ende": "2026-10-18",
    "art": "sammlungspraesentation",
    "epoche": "moderne",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 1,
    "url": "https://www.aldier.ch/de/alberto-giacometti/alberto-giacometti-museum/37-0.html"
   },
   {
-   "id": "f3582a0dbbf7",
+   "id": "115fd3a05660",
    "hausId": "Q1954786",
-   "titel": "Orakel",
+   "titel": "ERNTE 26",
    "untertitel": "",
    "kuenstler": [],
-   "beginn": "2026-08-29",
-   "ende": "2027-01-10",
+   "beginn": "2026-11-08",
+   "ende": "2027-02-14",
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
-   "fachgebiet": "",
-   "rang": 1,
-   "url": "https://allerheiligen.ch/ausstellungen/ausstellung/orakel/"
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://allerheiligen.ch/ausstellungen/ausstellung/ernte-26/"
   },
   {
    "id": "813a277cb2fd",
@@ -3423,15 +3438,15 @@
    "ende": null,
    "art": "dauerausstellung",
    "epoche": "gemischt",
-   "fachgebiet": "",
-   "rang": 4,
+   "fachgebiet": "bildende_kunst",
+   "rang": 5,
    "url": "https://allerheiligen.ch/ausstellungen/dauerausstellung/kunst/"
   },
   {
    "id": "514bc9856d1c",
    "hausId": "Q4735602",
    "titel": "3D-Alpen Diorama",
-   "untertitel": "",
+   "untertitel": "Riesige Diorama-Gemälde der schönsten Gebirgsregionen der Schweiz",
    "kuenstler": [
     "Ernst Hodel sen.",
     "Ernst Hodel jun."
@@ -3440,7 +3455,7 @@
    "ende": null,
    "art": "dauerausstellung",
    "epoche": "19_jahrhundert",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 1,
    "url": "https://www.alpineum.ch/ueber-uns"
   },
@@ -3448,29 +3463,15 @@
    "id": "fd5166180c29",
    "hausId": "Q4735602",
    "titel": "Das Stereo-Bild",
-   "untertitel": "",
+   "untertitel": "Geschichte der räumlichen Photographie um 1900",
    "kuenstler": [],
    "beginn": null,
    "ende": null,
    "art": "dauerausstellung",
    "epoche": "19_jahrhundert",
-   "fachgebiet": "",
+   "fachgebiet": "fotografie",
    "rang": 2,
    "url": "https://www.alpineum.ch/ueber-uns"
-  },
-  {
-   "id": "e61f129b9070",
-   "hausId": "Q703964",
-   "titel": "Hello Worlds!",
-   "untertitel": "",
-   "kuenstler": [],
-   "beginn": null,
-   "ende": null,
-   "art": "dauerausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "",
-   "rang": 1,
-   "url": "https://ars.electronica.art/center/de/hello-worlds/"
   },
   {
    "id": "8e4d7b85ecd7",
@@ -3480,11 +3481,25 @@
    "kuenstler": [],
    "beginn": null,
    "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "medienkunst",
+   "rang": 1,
+   "url": "https://ars.electronica.art/center/de/deepspace/"
+  },
+  {
+   "id": "e61f129b9070",
+   "hausId": "Q703964",
+   "titel": "Hello Worlds!",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
    "art": "sammlungspraesentation",
    "epoche": "zeitgenoessisch",
-   "fachgebiet": "",
+   "fachgebiet": "medienkunst",
    "rang": 2,
-   "url": "https://ars.electronica.art/center/de/deepspace/"
+   "url": "https://ars.electronica.art/center/de/hello-worlds/"
   },
   {
    "id": "41eb1e8fbd78",
@@ -3494,10 +3509,10 @@
    "kuenstler": [],
    "beginn": null,
    "ende": null,
-   "art": "dauerausstellung",
+   "art": "sammlungspraesentation",
    "epoche": "zeitgenoessisch",
-   "fachgebiet": "",
-   "rang": 4,
+   "fachgebiet": "medienkunst",
+   "rang": 5,
    "url": "https://ars.electronica.art/center/de/labs/"
   },
   {
@@ -3513,25 +3528,51 @@
    "ende": "2026-10-11",
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 1,
    "url": "https://www.noe.gv.at/noe/Kunst-Kultur/Ausstellungsbruecke.html"
   },
   {
-   "id": "8295cab46c09",
-   "hausId": "Q811389",
-   "titel": "Eine Million Objekte",
-   "untertitel": "Florian de Brün fotografiert die Sammlung",
-   "kuenstler": [
-    "Florian de Brün"
-   ],
-   "beginn": "2026-10-14",
-   "ende": "2027-04-30",
-   "art": "wechselausstellung",
+   "id": "ab7bac521094",
+   "hausId": "Q635399",
+   "titel": "Hot Questions – Cold Storage",
+   "untertitel": "Die Schausammlung des Architekturzentrum Wien",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
    "epoche": "moderne",
-   "fachgebiet": "fotografie",
+   "fachgebiet": "architektur",
    "rang": 1,
-   "url": "https://www.bauhaus.de/besuchen/ausstellungen/eine-million-objekte/"
+   "url": "https://www.azw.at/de/termin/hot-questions-cold-storage/"
+  },
+  {
+   "id": "d1f22869596a",
+   "hausId": "Q635399",
+   "titel": "Temporär. Strukturen der Notwendigkeit",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-11-05",
+   "ende": "2027-04-05",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "architektur",
+   "rang": 2,
+   "url": "https://www.azw.at/de/termin/temporaer-strukturen-der-notwendigkeit/"
+  },
+  {
+   "id": "6eba7b134ffb",
+   "hausId": "Q635399",
+   "titel": "Gute Architektur braucht gute Bauherr*innen",
+   "untertitel": "BHP26 Unterwegs",
+   "kuenstler": [],
+   "beginn": "2026-11-19",
+   "ende": "2026-12-09",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "architektur",
+   "rang": 4,
+   "url": "https://www.azw.at/de/termin/gute-architektur-braucht-gute-bauherrinnen/"
   },
   {
    "id": "1b87f5c46c59",
@@ -3544,7 +3585,7 @@
    "beginn": "2026-10-14",
    "ende": "2027-04-30",
    "art": "wechselausstellung",
-   "epoche": "moderne",
+   "epoche": "zeitgenoessisch",
    "fachgebiet": "fotografie",
    "rang": 1,
    "url": "https://www.bauhaus.de/besuchen/ausstellungen/eine-million-objekte/"
@@ -3557,9 +3598,9 @@
    "kuenstler": [],
    "beginn": null,
    "ende": null,
-   "art": "dauerausstellung",
+   "art": "sammlungspraesentation",
    "epoche": "gemischt",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 1,
    "url": "https://www.belvedere.at/en/picture"
   },
@@ -3575,7 +3616,7 @@
    "ende": "2027-03-29",
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 2,
    "url": "https://www.belvedere.at/en/carlone-contemporary-asta-groting"
   },
@@ -3591,7 +3632,7 @@
    "ende": "2027-01-31",
    "art": "wechselausstellung",
    "epoche": "19_jahrhundert",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 3,
    "url": "https://www.belvedere.at/en/erika-giovanna-klien"
   },
@@ -3607,7 +3648,7 @@
    "ende": "2027-01-10",
    "art": "wechselausstellung",
    "epoche": "moderne",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 4,
    "url": "https://www.belvedere.at/en/erna-rosenstein"
   },
@@ -3619,9 +3660,9 @@
    "kuenstler": [],
    "beginn": null,
    "ende": null,
-   "art": "sammlungspraesentation",
+   "art": "dauerausstellung",
    "epoche": "alte_meister",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 5,
    "url": "https://www.belvedere.at/en/study-collection-middle-ages-and-renaissance"
   },
@@ -3704,7 +3745,7 @@
    "url": "https://berlinischegalerie.de/ausstellungen/aktuell/atelier-le-balto/"
   },
   {
-   "id": "d419c97ab1a2",
+   "id": "9c568b4755d4",
    "hausId": "Q15126890",
    "titel": "Collection #4",
    "untertitel": "",
@@ -3746,9 +3787,9 @@
    "url": "https://boros-collection.com/en/2021-2026"
   },
   {
-   "id": "64c80042d712",
+   "id": "758c701b6d2a",
    "hausId": "Q131542539",
-   "titel": "Braun Design Sammlung",
+   "titel": "Sammlung",
    "untertitel": "",
    "kuenstler": [],
    "beginn": null,
@@ -3760,7 +3801,7 @@
    "url": "https://braundesignmuseum.de/collection"
   },
   {
-   "id": "80c0dd6895c9",
+   "id": "61c060148874",
    "hausId": "Q568767",
    "titel": "Cesar Klein. Bild Raum Bühne",
    "untertitel": "",
@@ -3805,7 +3846,7 @@
    "beginn": "2026-07-05",
    "ende": "2026-10-25",
    "art": "wechselausstellung",
-   "epoche": "moderne",
+   "epoche": "19_jahrhundert",
    "fachgebiet": "bildende_kunst",
    "rang": 1,
    "url": "https://www.bruecke-museum.de/de/programm/ausstellungen/4585/draussen-im-museum"
@@ -3814,7 +3855,7 @@
    "id": "d871eccdfbe0",
    "hausId": "Q833759",
    "titel": "Draußen... Unter Kiefern",
-   "untertitel": "Ein künstlerischer Lehrpfad über Natur, Vergänglichkeit und die Beziehung zwischen Kunst und Umwelt",
+   "untertitel": "Kunst und Natur im Waldlehrpfad",
    "kuenstler": [
     "Erich Heckel",
     "Ernst Ludwig Kirchner",
@@ -3824,7 +3865,7 @@
    "beginn": "2026-07-05",
    "ende": null,
    "art": "wechselausstellung",
-   "epoche": "moderne",
+   "epoche": "19_jahrhundert",
    "fachgebiet": "bildende_kunst",
    "rang": 2,
    "url": "https://www.bruecke-museum.de/de/programm/ausstellungen/4196/draussen-unter-kiefern"
@@ -3841,9 +3882,115 @@
    "ende": "2027-01-10",
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 1,
    "url": "https://daskunstmuseum.at/jahresausstellung/"
+  },
+  {
+   "id": "28e1905c2fe9",
+   "hausId": "Q107313410",
+   "titel": "Multiples Weiß",
+   "untertitel": "Jubiläumsausstellung",
+   "kuenstler": [
+    "Dirk Krecker",
+    "Hideaki Yamanobe",
+    "Inka Bell",
+    "Astrid Busch",
+    "Christiane Feser",
+    "Cem Bora",
+    "Goekhan Erdogan",
+    "Harriet Groß",
+    "Hendrik Czakainski",
+    "Justina Moncevičiūtė",
+    "Leiko Ikemura",
+    "Sang Mi Lee",
+    "Philipp Hölzgen",
+    "Xenia Lesniewski"
+   ],
+   "beginn": "2026-06-12",
+   "ende": "2026-12-06",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.hausdespapiers.com/besuch"
+  },
+  {
+   "id": "a7f61fc0f43a",
+   "hausId": "Q107313410",
+   "titel": "Collage – Fläche und Farbe",
+   "untertitel": "",
+   "kuenstler": [
+    "Andrea Pöter",
+    "Andrey Krasulin",
+    "Anke Meixner",
+    "Annett Franke",
+    "Annette Zobel",
+    "Barbara Höller",
+    "Bettina Bradt",
+    "Brian Hegarty",
+    "Cath Duncan",
+    "Christina Eva Walz",
+    "Christine Huizenga",
+    "Clara Zimmermann",
+    "Edina Picco",
+    "Egbert Ackermann",
+    "Elisabeth Sonneck",
+    "Elizabeth Carlsson",
+    "Ellen Ribbe",
+    "Emanuela Martucci",
+    "Enikő Czigány",
+    "Fiene Scharp",
+    "Franziska Teufel",
+    "Ilka Raupach",
+    "Irene Wölfl",
+    "Janina Lamberty",
+    "Jens Rausch",
+    "Jörg Schmitz",
+    "Josefien Alkema",
+    "Julia Sossinka",
+    "Kirstin Rabe",
+    "Krystyna Steffens",
+    "Lola Giancarelli",
+    "Maria Elisa Quiaro",
+    "Meike Andresen",
+    "Micaela Zellhofer",
+    "Roberta Bonfield",
+    "Roland Barth",
+    "Silke Janas",
+    "Ulrike von der Osten",
+    "Veronika Steiner"
+   ],
+   "beginn": "2026-06-12",
+   "ende": "2026-12-06",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 2,
+   "url": "https://www.hausdespapiers.com/besuch"
+  },
+  {
+   "id": "e56cee52a2d9",
+   "hausId": "Q107313410",
+   "titel": "Fiber Future Lab",
+   "untertitel": "",
+   "kuenstler": [
+    "Anna Handick",
+    "Alexandra Fruhstorfer",
+    "Eva Bullermann",
+    "Jessica Maria Toliver",
+    "Nicholas Plunkett",
+    "System 180",
+    "Henning Eichinger",
+    "Max Ernst"
+   ],
+   "beginn": "2026-06-12",
+   "ende": "2026-12-06",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 3,
+   "url": "https://www.hausdespapiers.com/besuch"
   },
   {
    "id": "ace61f8a91bf",
@@ -3865,11 +4012,8 @@
    "id": "be47aa94e152",
    "hausId": "Q136771971",
    "titel": "Klimt-Warhol",
-   "untertitel": "Meisterwerke der Moderne",
-   "kuenstler": [
-    "Gustav Klimt",
-    "Andy Warhol"
-   ],
+   "untertitel": "",
+   "kuenstler": [],
    "beginn": null,
    "ende": null,
    "art": "dauerausstellung",
@@ -3877,22 +4021,6 @@
    "fachgebiet": "bildende_kunst",
    "rang": 2,
    "url": "https://hortencollection.com/ausstellungen/dauerausstellung-kuenstlerische-interventionen"
-  },
-  {
-   "id": "66e1453e6db5",
-   "hausId": "Q136771971",
-   "titel": "Gottfried Bechtold. Betonporsche",
-   "untertitel": "",
-   "kuenstler": [
-    "Gottfried Bechtold"
-   ],
-   "beginn": "2026-04-29",
-   "ende": "2026-10-12",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 3,
-   "url": "https://hortencollection.com/ausstellungen/aktuell"
   },
   {
    "id": "fa60f0f75138",
@@ -3915,28 +4043,16 @@
    "hausId": "Q284902",
    "titel": "Dalpra",
    "untertitel": "Aus der Sammlung Werner Trenker",
-   "kuenstler": [],
+   "kuenstler": [
+    "DALPRA"
+   ],
    "beginn": "2026-10-24",
    "ende": "2026-11-15",
-   "art": "sammlungspraesentation",
-   "epoche": "gemischt",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
    "fachgebiet": "bildende_kunst",
    "rang": 1,
    "url": "https://www.kuenstlerhaus.at/besuch/kalender/ausstellung/503/dalpra.html"
-  },
-  {
-   "id": "f637ac15f961",
-   "hausId": "Q284902",
-   "titel": "Fair for Art Vienna",
-   "untertitel": "Die Messe für zeitgenössische und moderne Kunst",
-   "kuenstler": [],
-   "beginn": "2026-10-07",
-   "ende": "2026-10-11",
-   "art": "wechselausstellung",
-   "epoche": "gemischt",
-   "fachgebiet": "bildende_kunst",
-   "rang": 2,
-   "url": "https://www.kuenstlerhaus.at/besuch/kalender/ausstellung/502/fair-for-art-vienna.html"
   },
   {
    "id": "0a8b104f15f3",
@@ -3944,7 +4060,7 @@
    "titel": "Linda Christanell",
    "untertitel": "Die Gaben der Göttin",
    "kuenstler": [
-    "Linda Christanell"
+    "LINDA CHRISTANELL"
    ],
    "beginn": "2026-11-07",
    "ende": "2027-02-07",
@@ -3955,20 +4071,6 @@
    "url": "https://www.kuenstlerhaus.at/besuch/kalender/ausstellung/497/linda-christanell.html"
   },
   {
-   "id": "d6fb9671bdd1",
-   "hausId": "Q1739162",
-   "titel": "Spritzdekore vor 1950 (2)",
-   "untertitel": "Geometrische Spritzdekore aus der Sammlung Dietz</antertitel>\n</invoke>",
-   "kuenstler": [],
-   "beginn": "2026-09-14",
-   "ende": null,
-   "art": "wechselausstellung",
-   "epoche": "19_jahrhundert",
-   "fachgebiet": "kunsthandwerk",
-   "rang": 1,
-   "url": "http://www.keramik-museum-berlin.de/spritzdekore-vor-1950-2/"
-  },
-  {
    "id": "376b2351193d",
    "hausId": "Q1739162",
    "titel": "Stile und Trends im 20. Jahrhundert",
@@ -3976,8 +4078,8 @@
    "kuenstler": [],
    "beginn": "2026-06-05",
    "ende": null,
-   "art": "wechselausstellung",
-   "epoche": "moderne",
+   "art": "dauerausstellung",
+   "epoche": "20_jahrhundert",
    "fachgebiet": "kunsthandwerk",
    "rang": 2,
    "url": "http://www.keramik-museum-berlin.de/stile-und-trends-im-20-jahrhundert/"
@@ -3986,29 +4088,15 @@
    "id": "43bf13a3637c",
    "hausId": "Q1739162",
    "titel": "Re:Form Ostdeutsche Keramik nach 1990 + Schenkung Wolfgang Wenz",
-   "untertitel": "Ostdeutsche Keramik nach 1990 + Schenkung Wolfgang Wenz",
+   "untertitel": "",
    "kuenstler": [],
    "beginn": "2026-02-06",
    "ende": null,
-   "art": "wechselausstellung",
+   "art": "sammlungspraesentation",
    "epoche": "zeitgenoessisch",
    "fachgebiet": "kunsthandwerk",
    "rang": 3,
    "url": "http://www.keramik-museum-berlin.de/reform-ostdeutsche-keramik-nach-1990-schenkung-wolfgang-wenz/"
-  },
-  {
-   "id": "e6052246483f",
-   "hausId": "Q95569",
-   "titel": "Bernini - Painter and Sculptor",
-   "untertitel": "",
-   "kuenstler": [],
-   "beginn": "2026-12-02",
-   "ende": "2027-04-04",
-   "art": "wechselausstellung",
-   "epoche": "alte_meister",
-   "fachgebiet": "bildende_kunst",
-   "rang": 2,
-   "url": "https://www.khm.at/en/exhibitions/bernini-painter-and-sculptor"
   },
   {
    "id": "2bff072626b0",
@@ -4018,11 +4106,27 @@
    "kuenstler": [],
    "beginn": null,
    "ende": null,
-   "art": "sammlungspraesentation",
+   "art": "dauerausstellung",
    "epoche": "gemischt",
    "fachgebiet": "bildende_kunst",
    "rang": 3,
    "url": "https://www.khm.at/en/exhibitions/picture-gallery"
+  },
+  {
+   "id": "e6052246483f",
+   "hausId": "Q95569",
+   "titel": "Bernini - Painter and Sculptor",
+   "untertitel": "",
+   "kuenstler": [
+    "Gian Lorenzo Bernini"
+   ],
+   "beginn": "2026-12-02",
+   "ende": "2027-04-04",
+   "art": "wechselausstellung",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "bildende_kunst",
+   "rang": 3,
+   "url": "https://www.khm.at/en/exhibitions/bernini-painter-and-sculptor"
   },
   {
    "id": "9c2afa9c891e",
@@ -4032,11 +4136,39 @@
    "kuenstler": [],
    "beginn": null,
    "ende": null,
-   "art": "sammlungspraesentation",
+   "art": "dauerausstellung",
    "epoche": "gemischt",
    "fachgebiet": "kunsthandwerk",
    "rang": 4,
    "url": "https://www.khm.at/en/exhibitions/kunstkammer"
+  },
+  {
+   "id": "7c13a4543ac8",
+   "hausId": "Q95569",
+   "titel": "A Different Beauty: Japanese Ceramic Masterworks",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-11-17",
+   "ende": "2027-04-04",
+   "art": "wechselausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "kunsthandwerk",
+   "rang": 4,
+   "url": "https://www.khm.at/en/exhibitions/a-different-beauty-japanese-ceramic-masterworks"
+  },
+  {
+   "id": "353c5dad757a",
+   "hausId": "node-372353895",
+   "titel": "Vietnam. Kunst. DDR. Reclaiming Solidarity",
+   "untertitel": "",
+   "kuenstler": [],
+   "beginn": "2026-09-09",
+   "ende": "2026-12-06",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://kunstforum.berlin/ausstellung/vietnam-kunst-ddr-reclaiming-solidarity/"
   },
   {
    "id": "fed7f229698e",
@@ -4113,7 +4245,23 @@
    "ende": "2027-01-10",
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.kunsthallezurich.ch/de/ausstellungen/10329-ayo-akingbade"
+  },
+  {
+   "id": "9fb54a855cec",
+   "hausId": "Q1792425",
+   "titel": "Crossing",
+   "untertitel": "",
+   "kuenstler": [
+    "Ayo Akingbade"
+   ],
+   "beginn": "2026-09-26",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "medienkunst",
    "rang": 1,
    "url": "https://www.kunsthallezurich.ch/de/ausstellungen/10329-ayo-akingbade"
   },
@@ -4129,7 +4277,7 @@
    "ende": "2027-01-10",
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 2,
    "url": "https://www.kunsthallezurich.ch/de/ausstellungen/10330-caspar-heinemann"
   },
@@ -4175,14 +4323,14 @@
    "beginn": null,
    "ende": null,
    "art": "sammlungspraesentation",
-   "epoche": "zeitgenoessisch",
+   "epoche": "moderne",
    "fachgebiet": "bildende_kunst",
    "rang": 2,
    "url": "https://www.kunsthauswien.com/museum-hundertwasser"
   },
   {
    "id": "26e76d8d215b",
-   "hausId": "node-11411007720",
+   "hausId": "node-5159460206",
    "titel": "Subterranean",
    "untertitel": "Gruppenausstellung",
    "kuenstler": [],
@@ -4220,7 +4368,7 @@
    "ende": "2027-04-25",
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 1,
    "url": "https://www.kunstverein-wiesbaden.de/details/couleur-vivante-vom-eigensinn-der-wahrnehmung"
   },
@@ -4236,15 +4384,15 @@
    "ende": "2027-04-25",
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 1,
    "url": "https://www.kunstverein-wiesbaden.de/austellung/christian-naujoks-a-noise-in-the-ear-like-the-wind"
   },
   {
-   "id": "734367f39422",
+   "id": "ff1099dbfd1c",
    "hausId": "Q1792296",
-   "titel": "Bad Dreams",
-   "untertitel": "",
+   "titel": "Susan Hiller",
+   "untertitel": "Bad Dreams",
    "kuenstler": [
     "Susan Hiller"
    ],
@@ -4273,10 +4421,10 @@
    "url": "https://www.kw-berlin.de/de/ausstellungen/koo-jeong-a-ousssean"
   },
   {
-   "id": "0cd0e8ac5019",
+   "id": "95f1105a9358",
    "hausId": "Q1792296",
-   "titel": "Ousssean",
-   "untertitel": "",
+   "titel": "Koo Jeong A",
+   "untertitel": "Ousssean",
    "kuenstler": [
     "KOO JEONG A"
    ],
@@ -4289,10 +4437,10 @@
    "url": "https://www.kw-berlin.de/de/ausstellungen/koo-jeong-a-ousssean"
   },
   {
-   "id": "b2b3936c2f2c",
+   "id": "38eb74e11481",
    "hausId": "Q1792296",
-   "titel": "The City and the City",
-   "untertitel": "",
+   "titel": "Rafik Greiss",
+   "untertitel": "The City and the City",
    "kuenstler": [
     "Rafik Greiss"
    ],
@@ -4350,20 +4498,6 @@
    "url": "https://www.leopoldmuseum.org/en/exhibitions/152/premiere"
   },
   {
-   "id": "6d465ebd54f0",
-   "hausId": "Q59435",
-   "titel": "PREMIERE! The Oesterreichische Nationalbank Collection",
-   "untertitel": "",
-   "kuenstler": [],
-   "beginn": "2026-04-24",
-   "ende": "2026-10-11",
-   "art": "wechselausstellung",
-   "epoche": "gemischt",
-   "fachgebiet": "bildende_kunst",
-   "rang": 2,
-   "url": "https://www.leopoldmuseum.org/en/exhibitions/152/premiere"
-  },
-  {
    "id": "aa07bb8f81e3",
    "hausId": "Q59435",
    "titel": "Vienna 1900",
@@ -4406,6 +4540,22 @@
    "url": "https://www.mak.at/ausstellung/textilienundteppiche"
   },
   {
+   "id": "2e1fdb5ab175",
+   "hausId": "Q478455",
+   "titel": "Vally Wieselthier",
+   "untertitel": "Bild und Ton",
+   "kuenstler": [
+    "Vally Wieselthier"
+   ],
+   "beginn": "2026-04-29",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "epoche": "moderne",
+   "fachgebiet": "bildende_kunst",
+   "rang": 3,
+   "url": "https://www.mak.at/programm/ausstellungen/vally_wieselthier"
+  },
+  {
    "id": "d6274172ebda",
    "hausId": "Q478455",
    "titel": "Thomas Demand",
@@ -4418,24 +4568,8 @@
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
    "fachgebiet": "fotografie",
-   "rang": 3,
-   "url": "https://www.mak.at/programm/ausstellungen/thomas_demand"
-  },
-  {
-   "id": "2e1fdb5ab175",
-   "hausId": "Q478455",
-   "titel": "Vally Wieselthier",
-   "untertitel": "Bild und Ton",
-   "kuenstler": [
-    "Vally Wieselthier"
-   ],
-   "beginn": "2026-04-29",
-   "ende": "2027-01-10",
-   "art": "wechselausstellung",
-   "epoche": "moderne",
-   "fachgebiet": "design",
    "rang": 4,
-   "url": "https://www.mak.at/programm/ausstellungen/vally_wieselthier"
+   "url": "https://www.mak.at/programm/ausstellungen/thomas_demand"
   },
   {
    "id": "d46c1d877e25",
@@ -4446,57 +4580,10 @@
    "beginn": "2026-10-07",
    "ende": "2027-03-14",
    "art": "wechselausstellung",
-   "epoche": "gemischt",
-   "fachgebiet": "design",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "architektur",
    "rang": 5,
    "url": "https://www.mak.at/programm/ausstellungen/architekturbaukaesten_18901990"
-  },
-  {
-   "id": "dbbbc1ec7d8c",
-   "hausId": "Q699943",
-   "titel": "Wien 1900",
-   "untertitel": "Aufbruch in die Moderne",
-   "kuenstler": [],
-   "beginn": null,
-   "ende": null,
-   "art": "sammlungspraesentation",
-   "epoche": "19_jahrhundert",
-   "fachgebiet": "bildende_kunst",
-   "rang": 1,
-   "url": "https://www.mqw.at/en/program/exhibitions/leopold-museum/wien-1900/"
-  },
-  {
-   "id": "aa498b8990bd",
-   "hausId": "Q699943",
-   "titel": "Niche Sculptures",
-   "untertitel": "Sonia Leimer & Tillman Kaiser",
-   "kuenstler": [
-    "Sonia Leimer",
-    "Tillman Kaiser"
-   ],
-   "beginn": null,
-   "ende": null,
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 1,
-   "url": "https://www.mqw.at/en/program/exhibitions/sonia-leimer-tillman-kaiser/"
-  },
-  {
-   "id": "07fed62f0991",
-   "hausId": "Q699943",
-   "titel": "Audio-Video Underground Chamber",
-   "untertitel": "",
-   "kuenstler": [
-    "Bruce Nauman"
-   ],
-   "beginn": null,
-   "ende": null,
-   "art": "dauerausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "medienkunst",
-   "rang": 2,
-   "url": "https://www.mqw.at/en/program/exhibitions/mq-public-art/audio-video-underground-chamber/"
   },
   {
    "id": "80be4884ed1f",
@@ -4522,14 +4609,31 @@
    "art": "wechselausstellung",
    "epoche": "gemischt",
    "fachgebiet": "bildende_kunst",
-   "rang": 2,
+   "rang": 1,
    "url": "https://www.mqw.at/en/program/exhibitions/leopold-museum/premiere/"
+  },
+  {
+   "id": "aa498b8990bd",
+   "hausId": "Q699943",
+   "titel": "Niche Sculptures",
+   "untertitel": "Sonia Leimer & Tillman Kaiser",
+   "kuenstler": [
+    "Sonia Leimer",
+    "Tillman Kaiser"
+   ],
+   "beginn": null,
+   "ende": null,
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "rang": 1,
+   "url": "https://www.mqw.at/en/program/exhibitions/sonia-leimer-tillman-kaiser/"
   },
   {
    "id": "33814b611bc6",
    "hausId": "Q18288036",
    "titel": "Vom Alltagszauber",
-   "untertitel": "Amnon David Ar und Kurt Mühlenhaupt - zwei Künstler, die einander nie begegnet sind und doch dieselbe Frage stellen: Wie malt man das Leben so, wie es ist?",
+   "untertitel": "",
    "kuenstler": [
     "Amnon David Ar",
     "Kurt Mühlenhaupt"
@@ -4589,10 +4693,10 @@
    "url": "https://www.mumok.at/ausstellungen/terminal-piece"
   },
   {
-   "id": "598bf80e2377",
+   "id": "51ce06296227",
    "hausId": "Q689951",
-   "titel": "Tolia Astakhishvili",
-   "untertitel": "Figure of the Child",
+   "titel": "Figure of the Child",
+   "untertitel": "Tolia Astakhishvili",
    "kuenstler": [
     "Tolia Astakhishvili"
    ],
@@ -4605,14 +4709,31 @@
    "url": "https://www.mumok.at/ausstellungen/tolia-astakhishvili"
   },
   {
+   "id": "64c565f6265c",
+   "hausId": "Q2560329",
+   "titel": "Das Offene Depot",
+   "untertitel": "Dauerausstellung zum Deutschen Werkbund und zur Produkt- und Gestaltungskultur des 20. und 21. Jahrhunderts",
+   "kuenstler": [],
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "moderne",
+   "fachgebiet": "design",
+   "rang": 1,
+   "url": "https://museumderdinge.de/programm/ausstellungen/dauerausstellung/"
+  },
+  {
    "id": "78089aa3608c",
    "hausId": "relation-3327361",
    "titel": "mUSeum gugging.! 20 years art",
-   "untertitel": "",
-   "kuenstler": [],
+   "untertitel": "Celebrating 20 Years of Gugging Art",
+   "kuenstler": [
+    "August Walla",
+    "Johann Hauser"
+   ],
    "beginn": "2026-03-15",
    "ende": null,
-   "art": "dauerausstellung",
+   "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
    "fachgebiet": "bildende_kunst",
    "rang": 1,
@@ -4626,8 +4747,8 @@
    "kuenstler": [],
    "beginn": null,
    "ende": null,
-   "art": "sammlungspraesentation",
-   "epoche": "gemischt",
+   "art": "wechselausstellung",
+   "epoche": "zeitgenoessisch",
    "fachgebiet": "bildende_kunst",
    "rang": 2,
    "url": "https://www.museumgugging.at/en/exhibition/guggkasten"
@@ -4652,8 +4773,26 @@
    "id": "bde28d76d912",
    "hausId": "Q1980109",
    "titel": "Projektionen auf den Osten",
-   "untertitel": "",
-   "kuenstler": [],
+   "untertitel": "Die ideologischen Zuschreibungen an die Begriffe „Ost\" und „West\"",
+   "kuenstler": [
+    "Anca Benera",
+    "Arnold Estefán",
+    "Pavel Brăila",
+    "Ana Hoffner ex-Prvulovic",
+    "Maksym Khodak",
+    "KwieKulik",
+    "Helmar Lerski",
+    "Maria Lisogorskaya",
+    "Shlomo Pozner",
+    "Xavier Robles de Medina",
+    "Maya Schweizer",
+    "Andrzej Steinbach",
+    "Hito Steyerl",
+    "Gabriele Stötzer",
+    "Mikhail Tolmachev",
+    "Jasmin Werner",
+    "Anastasiya Yarovenko"
+   ],
    "beginn": "2026-09-10",
    "ende": "2026-11-08",
    "art": "wechselausstellung",
@@ -4663,77 +4802,12 @@
    "url": "https://www.nbk.org/de/ausstellungen/projektionen-osten"
   },
   {
-   "id": "71596372b30c",
-   "hausId": "Q1980109",
-   "titel": "Christoph Hochhäusler",
-   "untertitel": "",
-   "kuenstler": [
-    "Christoph Hochhäusler"
-   ],
-   "beginn": "2026-09-10",
-   "ende": "2026-11-08",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 2,
-   "url": "https://www.nbk.org/de/ausstellungen/christoph-hochhaeusler"
-  },
-  {
-   "id": "46095b97cb1f",
-   "hausId": "Q1980109",
-   "titel": "Guerrilla Girls",
-   "untertitel": "",
-   "kuenstler": [
-    "Guerrilla Girls"
-   ],
-   "beginn": "2026-09-10",
-   "ende": "2027-08-29",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 3,
-   "url": "https://www.nbk.org/de/ausstellungen/guerrilla-girls"
-  },
-  {
-   "id": "232b28db2e4c",
-   "hausId": "Q1980109",
-   "titel": "Dora Budor & Noah Barker. Monte Carlo Method",
-   "untertitel": "",
-   "kuenstler": [
-    "Dora Budor",
-    "Noah Barker"
-   ],
-   "beginn": "2026-09-10",
-   "ende": "2026-11-29",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 4,
-   "url": "https://www.nbk.org/de/ausstellungen/billboard-budor-barker"
-  },
-  {
-   "id": "70042b8b5ea0",
-   "hausId": "Q1980109",
-   "titel": "Gala Porras-Kim. Total Loss Ghost",
-   "untertitel": "",
-   "kuenstler": [
-    "Gala Porras-Kim"
-   ],
-   "beginn": "2026-12-05",
-   "ende": "2027-02-07",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 5,
-   "url": "https://www.nbk.org/de/ausstellungen/porras-kim"
-  },
-  {
    "id": "919b7c8e14de",
    "hausId": "Q19823294",
    "titel": "Requiem",
    "untertitel": "",
    "kuenstler": [],
-   "beginn": "2026-10-08",
+   "beginn": "2026-09-05",
    "ende": "2026-10-31",
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
@@ -4749,7 +4823,7 @@
    "kuenstler": [
     "MICHAŁ BUDNY"
    ],
-   "beginn": "2026-10-08",
+   "beginn": "2026-08-08",
    "ende": "2026-10-31",
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
@@ -4781,8 +4855,8 @@
    "kuenstler": [
     "Frederik Marroquín"
    ],
-   "beginn": "2027-09-10",
-   "ende": "2027-11-21",
+   "beginn": "2026-09-10",
+   "ende": "2026-11-21",
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
    "fachgebiet": "bildende_kunst",
@@ -4858,7 +4932,7 @@
    "beginn": "2026-06-18",
    "ende": null,
    "art": "sammlungspraesentation",
-   "epoche": "19_jahrhundert",
+   "epoche": "gemischt",
    "fachgebiet": "bildende_kunst",
    "rang": 2,
    "url": "https://www.smb.museum/museen-einrichtungen/alte-nationalgalerie/ausstellungen/detail/tuer-zur-geschichte/"
@@ -4887,14 +4961,14 @@
    "kuenstler": [],
    "beginn": null,
    "ende": null,
-   "art": "dauerausstellung",
+   "art": "sammlungspraesentation",
    "epoche": "19_jahrhundert",
    "fachgebiet": "bildende_kunst",
    "rang": 4,
    "url": "https://www.smb.museum/museen-einrichtungen/alte-nationalgalerie/ausstellungen/detail/sammlungspraesentation-die-kunst-des-19-jahrhunderts/"
   },
   {
-   "id": "8d68fd5a1c9e",
+   "id": "39ec3ae9cdbb",
    "hausId": "Q531032",
    "titel": "Cranach in Grunewald",
    "untertitel": "Meisterwerke Lucas Cranachs des Älteren, des Jüngeren und ihrer Werkstatt",
@@ -4905,7 +4979,7 @@
    "beginn": null,
    "ende": null,
    "art": "dauerausstellung",
-   "epoche": "alte_meister",
+   "epoche": "19_jahrhundert",
    "fachgebiet": "bildende_kunst",
    "rang": 1,
    "url": "https://www.spsg.de/aktuelles/ausstellung/cranach-in-grunewald"
@@ -4925,20 +4999,6 @@
    "url": "https://www.berlin.museum/ausstellung/geteiltes-leben"
   },
   {
-   "id": "7fb5ca253dd2",
-   "hausId": "Q878325",
-   "titel": "Chodowiecki 300",
-   "untertitel": "Berliner Künstlerinnen um 1800",
-   "kuenstler": [],
-   "beginn": "2026-10-14",
-   "ende": "2026-11-29",
-   "art": "wechselausstellung",
-   "epoche": "19_jahrhundert",
-   "fachgebiet": "bildende_kunst",
-   "rang": 1,
-   "url": "https://www.berlin.museum/ausstellung/chodowiecki-300"
-  },
-  {
    "id": "e30a1d112286",
    "hausId": "Q878325",
    "titel": "Tapetenwechsel",
@@ -4953,6 +5013,20 @@
    "url": "https://www.berlin.museum/ausstellung/tapetenwechsel"
   },
   {
+   "id": "7fb5ca253dd2",
+   "hausId": "Q878325",
+   "titel": "Chodowiecki 300",
+   "untertitel": "Berliner Künstlerinnen um 1800",
+   "kuenstler": [],
+   "beginn": "2026-10-14",
+   "ende": "2026-11-29",
+   "art": "wechselausstellung",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "bildende_kunst",
+   "rang": 4,
+   "url": "https://www.berlin.museum/ausstellung/chodowiecki-300"
+  },
+  {
    "id": "298fd5b90eaf",
    "hausId": "Q163804",
    "titel": "Maria Magdalena",
@@ -4962,7 +5036,7 @@
    "ende": "2027-01-17",
    "art": "wechselausstellung",
    "epoche": "gemischt",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 1,
    "url": "https://www.staedelmuseum.de/de/maria-magdalena"
   },
@@ -4978,7 +5052,7 @@
    "ende": "2027-01-17",
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 2,
    "url": "https://www.staedelmuseum.de/de/elmgreen-dragset"
   },
@@ -4990,9 +5064,9 @@
    "kuenstler": [],
    "beginn": null,
    "ende": null,
-   "art": "sammlungspraesentation",
+   "art": "dauerausstellung",
    "epoche": "gemischt",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 3,
    "url": "https://www.staedelmuseum.de/de/sammlung-dauerausstellung"
   },
@@ -5006,7 +5080,7 @@
    "ende": "2027-02-28",
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
-   "fachgebiet": "",
+   "fachgebiet": "bildende_kunst",
    "rang": 4,
    "url": "https://www.staedelmuseum.de/de/surface"
   },
@@ -5019,8 +5093,8 @@
    "beginn": "2027-02-24",
    "ende": "2027-06-27",
    "art": "wechselausstellung",
-   "epoche": "gemischt",
-   "fachgebiet": "",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
    "rang": 5,
    "url": "https://www.staedelmuseum.de/de/willkommen-im-paradies"
   },
@@ -5067,20 +5141,6 @@
    "url": "https://www.weltmuseumwien.at/ausstellungen/ishir-lebendige-erinnerung-aus-paraguay"
   },
   {
-   "id": "340e8de19748",
-   "hausId": "Q686488",
-   "titel": "Verborgene Geschichten",
-   "untertitel": "Schätze aus den Sammlungen",
-   "kuenstler": [],
-   "beginn": "2026-10-08",
-   "ende": "2027-05-30",
-   "art": "wechselausstellung",
-   "epoche": "gemischt",
-   "fachgebiet": "bildende_kunst",
-   "rang": 3,
-   "url": "https://www.weltmuseumwien.at/ausstellungen/verborgene-geschichten-schaetze-aus-den-sammlungen"
-  },
-  {
    "id": "8387dbb5180c",
    "hausId": "Q686488",
    "titel": "Open Space",
@@ -5093,20 +5153,6 @@
    "fachgebiet": "bildende_kunst",
    "rang": 4,
    "url": "https://www.weltmuseumwien.at/ausstellungen/open-space"
-  },
-  {
-   "id": "fe413b003d34",
-   "hausId": "Q686488",
-   "titel": "Schausammlung",
-   "untertitel": "Eine Perlenkette von Geschichten",
-   "kuenstler": [],
-   "beginn": null,
-   "ende": null,
-   "art": "sammlungspraesentation",
-   "epoche": "gemischt",
-   "fachgebiet": "bildende_kunst",
-   "rang": 5,
-   "url": "https://www.weltmuseumwien.at/ausstellungen/schausammlung"
   },
   {
    "id": "3f663d894b33",
@@ -5182,7 +5228,7 @@
    "epoche": "zeitgenoessisch",
    "fachgebiet": "bildende_kunst",
    "rang": 4,
-   "url": "https://www.wienmuseum.at/franz_west_und_wien"
+   "url": "https://www.wienmuseum.at/ausstellungen"
   },
   {
    "id": "f3cb195e1f04",
@@ -5199,22 +5245,6 @@
    "fachgebiet": "bildende_kunst",
    "rang": 1,
    "url": "https://www.wienmuseum.at/verdichtungen_heliane_wiesauer_reiterer"
-  },
-  {
-   "id": "f8f2a537909c",
-   "hausId": "node-567084279",
-   "titel": "Der Bildgenerator",
-   "untertitel": "Karl Heinz Koller",
-   "kuenstler": [
-    "Karl Heinz Koller"
-   ],
-   "beginn": "2026-07-02",
-   "ende": "2026-11-29",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 2,
-   "url": "https://www.wienmuseum.at/bildgenerator_karl_heinz_koller"
   },
   {
    "id": "dff70f9a4c3c",
