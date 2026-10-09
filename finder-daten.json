@@ -322,7 +322,7 @@
    "lat": 48.200647,
    "lon": 16.371606,
    "website": "https://www.albertina.at/en/albertina-modern/",
-   "typ": "Kunstmuseum (OSM)",
+   "typ": "Kunstmuseum",
    "oeffnungszeiten": {
     "tage": [
      "10–18 Uhr",
@@ -1052,7 +1052,7 @@
    "lat": 48.531831,
    "lon": 12.152497,
    "website": "https://www.bayerisches-nationalmuseum.de/besuch/zweigmuseen/kunst-und-wunderkammer",
-   "typ": "Kunstmuseum (OSM)",
+   "typ": "Kunstmuseum",
    "adresse": "Burg Trausnitz 168, 84036 Landshut",
    "oeffnungszeiten": {
     "tage": [
@@ -1583,7 +1583,7 @@
    "lat": 48.196419,
    "lon": 16.366536,
    "website": "https://www.christinekoeniggalerie.com/",
-   "typ": "Kunstzentrum (OSM)",
+   "typ": "Kunstzentrum",
    "eintritt": {
     "immerFrei": true,
     "quelle": "Website des Hauses"
@@ -1975,7 +1975,7 @@
    "lat": 48.184034,
    "lon": 16.39152,
    "website": "https://www.fotoarsenalwien.at",
-   "typ": "Kunstmuseum (OSM)",
+   "typ": "Kunstmuseum",
    "adresse": "Arsenal Objekt 19A, 1030 Wien",
    "oeffnungszeiten": {
     "tage": [
@@ -2045,7 +2045,7 @@
    "lat": 52.525732,
    "lon": 13.388916,
    "website": "https://www.fotografiska.com/berlin",
-   "typ": "Kunstmuseum (OSM)",
+   "typ": "Kunstmuseum",
    "adresse": "Oranienburger Straße 54, 10117 Berlin",
    "oeffnungszeiten": {
     "tage": [
@@ -2137,7 +2137,7 @@
    "lat": 48.139389,
    "lon": 11.582623,
    "website": "https://www.galeriesusannealbrecht.de/",
-   "typ": "Kunstzentrum (OSM)",
+   "typ": "Kunstzentrum",
    "adresse": "Wurzerstraße 16, 80539 München",
    "oeffnungszeiten": {
     "tage": [
@@ -2200,7 +2200,7 @@
    "lat": 52.547522,
    "lon": 13.356663,
    "website": "http://galeriewedding.de/",
-   "typ": "Kunstzentrum (OSM)",
+   "typ": "Kunstzentrum",
    "adresse": "Müllerstraße 146/147, 13353 Berlin",
    "oeffnungszeiten": {
     "tage": [
@@ -2273,7 +2273,7 @@
    "lat": 52.509907,
    "lon": 13.254781,
    "website": "http://www.georg-kolbe-museum.de",
-   "typ": "Kunstmuseum (OSM)",
+   "typ": "Kunstmuseum",
    "adresse": "Sensburger Allee 25, 14055 Berlin",
    "oeffnungszeiten": {
     "tage": [
@@ -2337,7 +2337,7 @@
    "lat": 52.50672,
    "lon": 13.381932,
    "website": "https://www.gropiusbau.de",
-   "typ": "Kunstmuseum (OSM)",
+   "typ": "Kunstmuseum",
    "adresse": "Niederkirchnerstraße 7, 10963 Berlin",
    "oeffnungszeiten": {
     "tage": [
@@ -2543,7 +2543,7 @@
    "lat": 52.442068,
    "lon": 13.238511,
    "website": "https://www.hausamwaldsee.de/",
-   "typ": "Kunstmuseum (OSM)",
+   "typ": "Kunstmuseum",
    "adresse": "Argentinische Allee 30, 14163 Berlin",
    "oeffnungszeiten": {
     "tage": [
@@ -2782,7 +2782,7 @@
    "lat": 52.530103,
    "lon": 13.3683,
    "website": "https://www.hauskunstmitte.de/",
-   "typ": "Kunstmuseum (OSM)",
+   "typ": "Kunstmuseum",
    "adresse": "Heidestraße 54, 10557 Berlin",
    "oeffnungszeiten": {
     "tage": [
@@ -2925,7 +2925,7 @@
    "lat": 52.518739,
    "lon": 13.364852,
    "website": "https://www.hkw.de/",
-   "typ": "Kunstmuseum (OSM)",
+   "typ": "Kunstmuseum",
    "adresse": "John-Foster-Dulles-Allee 10, 10557 Berlin",
    "oeffnungszeiten": {
     "tage": [
@@ -3448,7 +3448,7 @@
    "lat": 52.479464,
    "lon": 13.431275,
    "website": "https://www.kindl-berlin.de/",
-   "typ": "Kunstmuseum (OSM)",
+   "typ": "Kunstmuseum",
    "adresse": "Am Sudhaus 3, 12053 Berlin",
    "oeffnungszeiten": {
     "tage": [
@@ -3523,7 +3523,7 @@
    "lat": 53.615631,
    "lon": 9.954506,
    "website": "http://kuenstlerhaus-sootboern.de",
-   "typ": "Kunstzentrum (OSM)",
+   "typ": "Kunstzentrum",
    "adresse": "Sootbörn 22, 22453 Hamburg",
    "eintritt": {
     "immerFrei": true,
@@ -4046,7 +4046,7 @@
    "lat": 48.130488,
    "lon": 11.568043,
    "website": "https://www.kunstraum-muenchen.de/",
-   "typ": "Kunstmuseum (OSM)",
+   "typ": "Kunstmuseum",
    "oeffnungszeiten": {
     "tage": [
      "geschlossen",
@@ -4108,7 +4108,7 @@
    "lat": 48.21008,
    "lon": 16.365082,
    "website": "https://www.kunstraum.net/",
-   "typ": "Kunstmuseum (OSM)",
+   "typ": "Kunstmuseum",
    "adresse": "Herrengasse 13, 1010 Wien",
    "oeffnungszeiten": {
     "tage": [
@@ -4642,7 +4642,7 @@
    "lat": 52.428771,
    "lon": 13.164888,
    "website": "http://www.liebermann-villa.de/",
-   "typ": "Kunstmuseum (OSM)",
+   "typ": "Kunstmuseum",
    "adresse": "Colomierstraße 3, 14109 Berlin",
    "oeffnungszeiten": {
     "tage": [
@@ -4712,7 +4712,7 @@
    "lat": 48.140124,
    "lon": 11.567863,
    "website": "https://www.little-art.org/",
-   "typ": "Kunstzentrum (OSM)",
+   "typ": "Kunstzentrum",
    "adresse": "Lenbachplatz 8, 80333 München"
   },
   {
@@ -5610,7 +5610,7 @@
    "lat": 48.313198,
    "lon": 16.258296,
    "website": "https://www.museumgugging.at/",
-   "typ": "Kunstmuseum (OSM)",
+   "typ": "Kunstmuseum",
    "adresse": "Am Campus 2, 3400 Maria Gugging",
    "oeffnungszeiten": {
     "tage": [
@@ -7092,7 +7092,7 @@
    "lat": 52.532065,
    "lon": 13.410017,
    "website": "http://www.tchoban-foundation.de/",
-   "typ": "Kunstmuseum (OSM)",
+   "typ": "Kunstmuseum",
    "adresse": "Christinenstraße 18a, 10119 Berlin",
    "oeffnungszeiten": {
     "tage": [
@@ -7408,7 +7408,7 @@
    "lat": 47.389469,
    "lon": 8.52491,
    "website": "https://westbau.com/",
-   "typ": "Kunstmuseum (OSM)",
+   "typ": "Kunstmuseum",
    "adresse": "Limmatstrasse 270, 8005 Zürich",
    "oeffnungszeiten": {
     "tage": [
@@ -7510,7 +7510,7 @@
    "lat": 48.210855,
    "lon": 16.371214,
    "website": "https://www.wienmuseum.at/neidhart_festsaal",
-   "typ": "Kunstmuseum (OSM)",
+   "typ": "Kunstmuseum",
    "adresse": "Tuchlauben 19, 1010 Wien"
   },
   {
@@ -7521,7 +7521,7 @@
    "lat": 48.22303,
    "lon": 16.351473,
    "website": "https://www.wuk.at",
-   "typ": "Kunstzentrum (OSM)",
+   "typ": "Kunstzentrum",
    "adresse": "Währinger Straße 59, 1090 Wien",
    "oeffnungszeiten": {
     "tage": [
@@ -7584,7 +7584,7 @@
    "lat": 52.5164,
    "lon": 13.406139,
    "website": "https://zille-museum.de/",
-   "typ": "Kunstmuseum (OSM)",
+   "typ": "Kunstmuseum",
    "adresse": "Propststraße 11, 10178 Berlin",
    "oeffnungszeiten": {
     "tage": [
