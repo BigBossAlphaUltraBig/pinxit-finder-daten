@@ -1,0 +1,128 @@
+{
+ "domain": "photobastei.ch",
+ "website": "https://www.photobastei.ch/",
+ "haeuser": "Photobastei",
+ "land": "CH",
+ "ids": "nachtrag-photobastei",
+ "status": "ok",
+ "seiten": [
+  "https://portal.photobastei.ch/homepage"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Spuren der Flucht",
+   "untertitel": "Ein fotografisches Projekt über Migration, Bilder und Wahrnehmung",
+   "beginn": "2026-10-01",
+   "ende": "2026-10-25",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Photobastei",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Klaus Petrus"
+   ],
+   "url": "https://portal.photobastei.ch/homepage",
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Klaus Petrus",
+   "quelle": "https://portal.photobastei.ch/homepage",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Bilder schaffen Wirklichkeit",
+   "untertitel": "Ein fotografisches Projekt über Migration, Bilder und Wahrnehmung",
+   "beginn": "2026-10-01",
+   "ende": "2026-10-25",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Photobastei",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Klaus Petrus"
+   ],
+   "url": "https://portal.photobastei.ch/homepage",
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://portal.photobastei.ch/homepage",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "\"Bitter Oranges\"",
+   "untertitel": "Ethnographische Photoausstellung zu afrikanischen Erntearbeitern in Kalabrien",
+   "beginn": "2026-10-01",
+   "ende": "2026-10-25",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Photobastei",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Gilles Reckinger"
+   ],
+   "url": "https://portal.photobastei.ch/homepage",
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://portal.photobastei.ch/homepage",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "SIYU f/2.6 eine Werkschau der professionellen Fotografie",
+   "untertitel": "35 Fotografinnen und Fotografen",
+   "beginn": "2026-10-01",
+   "ende": "2026-10-18",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Photobastei",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "anderer_ort": null,
+   "eroeffnung": "2026-10-01T18:30",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "SIYU"
+   ],
+   "url": "https://portal.photobastei.ch/homepage",
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://portal.photobastei.ch/homepage",
+   "eintritt": "frei",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Ich über mich - Geflüchtete erzählen aus ihrem Leben",
+   "untertitel": "Präsentiert von der AOZ",
+   "beginn": "2026-10-01",
+   "ende": "2026-10-25",
+   "art": "wechselausstellung",
+   "fachgebiet": "geschichte",
+   "haus": "Photobastei",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Pino Esposito"
+   ],
+   "url": "https://portal.photobastei.ch/homepage",
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://portal.photobastei.ch/homepage",
+   "detail_geprueft": "2026-10-12",
+   "grund": "keine Kunst (geschichte)"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

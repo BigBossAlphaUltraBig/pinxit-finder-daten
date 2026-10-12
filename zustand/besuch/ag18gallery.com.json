@@ -1,0 +1,26 @@
+{
+ "domain": "ag18gallery.com",
+ "website": "https://www.ag18gallery.com",
+ "haeuser": {
+  "AG 18 Gallery": {
+   "haus": "AG 18 Gallery",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "15:00-19:00",
+    "do": null,
+    "fr": "15:00-19:00",
+    "sa": "11:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "oder nach Vereinbarung",
+   "quelle": "https://ag18gallery.com/de/"
+  }
+ },
+ "seiten": [
+  "https://ag18gallery.com/de/"
+ ],
+ "abgerufen": "2026-10-12T07:32:33",
+ "status": "unvollständig"
+}

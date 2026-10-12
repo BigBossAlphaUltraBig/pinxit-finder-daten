@@ -1,0 +1,89 @@
+{
+ "domain": "haeusler-contemporary.com",
+ "website": "https://haeusler-contemporary.com/aktuelle-ausstellungen",
+ "haeuser": "Häusler Contemporary",
+ "land": "CH",
+ "ids": "node/11758825733",
+ "status": "ok",
+ "seiten": [
+  "https://haeusler-contemporary.com/aktuelle-ausstellungen",
+  "https://haeusler-contemporary.com/aktuelle-ausstellungen/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Opus Magnum: Roden Crater",
+   "untertitel": "",
+   "beginn": "2026-06-09",
+   "ende": "2026-12-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Häusler Contemporary",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "James Turrell"
+   ],
+   "einzelausstellung_von": "James Turrell",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://haeusler-contemporary.com/opus-magnum-roden-crater",
+   "quelle": "https://haeusler-contemporary.com/aktuelle-ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Kuehn, Reed, Venezia",
+   "untertitel": "Gruppenausstellung Collector's Room",
+   "beginn": "2026-06-09",
+   "ende": "2026-10-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Häusler Contemporary",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Kuehn",
+    "Reed",
+    "Venezia"
+   ],
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://haeusler-contemporary.com/collector-s-room-kuehn-reed-venezia",
+   "quelle": "https://haeusler-contemporary.com/aktuelle-ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Collector's Room «Kuehn, Reed, Venezia»",
+   "untertitel": "Gruppenausstellung",
+   "beginn": "2026-06-09",
+   "ende": "2026-10-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Häusler Contemporary",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Kuehn",
+    "Reed",
+    "Venezia"
+   ],
+   "url": "https://haeusler-contemporary.com/collector-s-room-kuehn-reed-venezia",
+   "quelle": "https://haeusler-contemporary.com/aktuelle-ausstellungen",
+   "eroeffnung": null,
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

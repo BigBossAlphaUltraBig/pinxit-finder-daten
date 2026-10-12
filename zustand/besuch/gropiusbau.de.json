@@ -1,0 +1,28 @@
+{
+ "domain": "gropiusbau.de",
+ "website": "https://www.gropiusbau.de",
+ "haeuser": {
+  "Gropius-Bau": {
+   "haus": "Gropius-Bau",
+   "oeffnungszeiten": {
+    "mo": "12:00-19:00",
+    "di": "geschlossen",
+    "mi": "12:00-19:00",
+    "do": "12:00-19:00",
+    "fr": "12:00-19:00",
+    "sa": "10:00-19:00",
+    "so": "10:00-19:00"
+   },
+   "eintritt_regulaer": "15 €",
+   "eintritt_ermaessigt": "10 €",
+   "frei_fuer": "unter 18 Jahren",
+   "eintritt_immer_frei": false,
+   "quelle": "https://www.berlinerfestspiele.de/gropius-bau/besuch/informationen"
+  }
+ },
+ "seiten": [
+  "https://www.berlinerfestspiele.de/gropius-bau/besuch/informationen"
+ ],
+ "abgerufen": "2026-10-12T08:05:22",
+ "status": "ok"
+}

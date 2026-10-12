@@ -1,0 +1,56 @@
+{
+ "domain": "dommuseum.at",
+ "website": "https://www.dommuseum.at/",
+ "haeuser": "Dom Museum Wien",
+ "land": "AT",
+ "ids": "nachtrag-dom-museum-wien",
+ "status": "ok",
+ "seiten": [
+  "https://dommuseum.at/dauerausstellung",
+  "https://dommuseum.at/dauerausstellung"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Die Sammlungen im Dom Museum Wien",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Dom Museum Wien",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": true,
+   "schwerpunkt": "Kirchliche Kunst vom Mittelalter bis zur zeitgenössischen Sammlung Otto Mauer",
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "kuenstler": [],
+   "url": "https://dommuseum.at/category/sammlungen_information",
+   "quelle": "https://dommuseum.at/dauerausstellung"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "tierisch menschlich",
+   "untertitel": null,
+   "beginn": "2026-10-02",
+   "ende": "2027-08-22",
+   "art": "wechselausstellung",
+   "fachgebiet": "natur",
+   "haus": "Dom Museum Wien",
+   "rang": 2,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": "Beziehung zwischen Tier und Mensch in Skulptur, Grafik, Malerei, Fotografie, Video",
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "kuenstler": [],
+   "url": null,
+   "quelle": "https://dommuseum.at/dauerausstellung",
+   "grund": "keine Kunst (natur)"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

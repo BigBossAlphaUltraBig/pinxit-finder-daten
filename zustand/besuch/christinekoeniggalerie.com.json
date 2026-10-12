@@ -1,0 +1,27 @@
+{
+ "domain": "christinekoeniggalerie.com",
+ "website": "https://christinekoeniggalerie.com",
+ "haeuser": {
+  "Christine König Galerie": {
+   "haus": "Christine König Galerie",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://christinekoeniggalerie.com/contact/",
+   "quelle": "https://christinekoeniggalerie.com/contact/"
+  }
+ },
+ "seiten": [
+  "https://christinekoeniggalerie.com/",
+  "https://christinekoeniggalerie.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:33:31",
+ "status": "unvollständig"
+}

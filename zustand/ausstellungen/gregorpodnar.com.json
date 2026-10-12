@@ -1,0 +1,91 @@
+{
+ "domain": "gregorpodnar.com",
+ "website": "https://www.gregorpodnar.com",
+ "haeuser": "Gregor Podnar",
+ "land": "AT",
+ "ids": "galerie-gregor-podnar-wien",
+ "status": "ok",
+ "seiten": [
+  "https://www.gregorpodnar.com/exhibitions"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Additional Scenes",
+   "untertitel": "Curated by Katarzyna Różniak-Szabelska, works by: Wojciech Bruszewski, Paweł Kwiek, Yarema Malashchuk & Roman Khimei, Małgorzata Potocka, Józef Robakowski and the Workshop of the Film Form.",
+   "beginn": "2026-09-11",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Gregor Podnar",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "kuenstler": [
+    "Wojciech Bruszewski",
+    "Paweł Kwiek",
+    "Yarema Malashchuk",
+    "Roman Khimei",
+    "Małgorzata Potocka",
+    "Józef Robakowski"
+   ],
+   "url": "https://www.gregorpodnar.com/exhibitions/additional-scenes",
+   "schwerpunkt": null,
+   "quelle": "https://www.gregorpodnar.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Dan Perjovschi",
+   "beginn": "2026-05-12",
+   "ende": "2026-07-15",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Gregor Podnar",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "einzelausstellung_von": "Dan Perjovschi",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "kuenstler": [
+    "Dan Perjovschi"
+   ],
+   "url": null,
+   "schwerpunkt": null,
+   "quelle": "https://www.gregorpodnar.com/exhibitions",
+   "grund": "beendet"
+  },
+  {
+   "titel": "Flags & Barriers",
+   "untertitel": "Let's work on what we have",
+   "beginn": "2026-01-30",
+   "ende": "2026-03-28",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Gregor Podnar",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "kuenstler": [
+    "Marcius Galan",
+    "Tobias Putrih"
+   ],
+   "url": "https://www.gregorpodnar.com/exhibitions/let-s-work-on-what-we-have",
+   "schwerpunkt": null,
+   "quelle": "https://www.gregorpodnar.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

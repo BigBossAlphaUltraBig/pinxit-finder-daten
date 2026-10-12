@@ -1,0 +1,197 @@
+{
+ "domain": "maxhetzler.com",
+ "website": "http://www.maxhetzler.com",
+ "haeuser": "Galerie Max Hetzler",
+ "land": "DE",
+ "ids": "node/3838230484",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://www.maxhetzler.com/exhibitions",
+  "https://www.maxhetzler.com/exhibitions/elmgreen-and-dragset-les-fous-den-face-2026"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "An Orbed Drop of Light",
+   "untertitel": "An Orbed Drop of Light",
+   "beginn": "2026-09-17",
+   "ende": "2026-11-11",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Max Hetzler",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-09-16T18:30",
+   "kuenstler": [
+    "Walton Ford"
+   ],
+   "anderer_ort": "London, 41 Dover Street",
+   "einzelausstellung_von": "Walton Ford",
+   "url": "https://www.maxhetzler.com/exhibitions/walton-ford-orbed-drop-light-2026",
+   "quelle": "https://www.maxhetzler.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: London, 41 Dover Street"
+  },
+  {
+   "titel": "ROT GELB BLAU STAUB",
+   "untertitel": "ROT GELB BLAU STAUB",
+   "beginn": "2026-09-11",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Max Hetzler",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Sabine Moritz"
+   ],
+   "anderer_ort": "Berlin, Potsdamer Straße 77-87",
+   "einzelausstellung_von": "Sabine Moritz",
+   "url": "https://www.maxhetzler.com/exhibitions/sabine-moritz-rot-gelb-blau-staub-2026",
+   "quelle": "https://www.maxhetzler.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Berlin, Potsdamer Straße 77-87"
+  },
+  {
+   "titel": "Parataxis",
+   "untertitel": "null",
+   "beginn": "2026-09-04",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Max Hetzler",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Grace Weaver"
+   ],
+   "anderer_ort": "Berlin, Bleibtreustraße 45",
+   "einzelausstellung_von": "Grace Weaver",
+   "url": "https://www.maxhetzler.com/exhibitions/grace-weaver-parataxis-2026",
+   "quelle": "https://www.maxhetzler.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Berlin, Bleibtreustraße 45"
+  },
+  {
+   "titel": "The Dinner",
+   "untertitel": "Hetzler | Marfa: 1976 Antelope Hills Road",
+   "beginn": "2026-05-24",
+   "ende": "2026-12-06",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Max Hetzler",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Rinus Van de Velde"
+   ],
+   "anderer_ort": "Hetzler | Marfa: 1976 Antelope Hills Road",
+   "einzelausstellung_von": "Rinus Van de Velde",
+   "url": "https://www.maxhetzler.com/exhibitions/rinus-van-de-velde-dinner-2026",
+   "quelle": "https://www.maxhetzler.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Hetzler | Marfa: 1976 Antelope Hills Road"
+  },
+  {
+   "titel": "Les Fous d’En Face",
+   "untertitel": "Les Fous d’En Face",
+   "beginn": "2026-10-19",
+   "ende": "2026-12-16",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Max Hetzler",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-10-19",
+   "kuenstler": [
+    "Elmgreen & Dragset"
+   ],
+   "anderer_ort": "Paris, 46 & 57, rue du Temple",
+   "einzelausstellung_von": "Elmgreen & Dragset",
+   "url": "https://www.maxhetzler.com/exhibitions/elmgreen-and-dragset-les-fous-den-face-2026",
+   "quelle": "https://www.maxhetzler.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Paris, 46 & 57, rue du Temple"
+  },
+  {
+   "titel": "Block",
+   "untertitel": null,
+   "beginn": "2026-11-20",
+   "ende": "2027-02-13",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Max Hetzler",
+   "rang": 6,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-11-20",
+   "kuenstler": [
+    "Sean Scully"
+   ],
+   "anderer_ort": "Berlin, Potsdamer Straße 77-87",
+   "einzelausstellung_von": "Sean Scully",
+   "url": null,
+   "quelle": "https://www.maxhetzler.com/exhibitions",
+   "grund": "anderer Ort: Berlin, Potsdamer Straße 77-87"
+  },
+  {
+   "titel": "Janaina Tschäpe",
+   "untertitel": null,
+   "beginn": "2026-11-24",
+   "ende": "2027-01-23",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Max Hetzler",
+   "rang": 7,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-11-24",
+   "kuenstler": [
+    "Janaina Tschäpe"
+   ],
+   "anderer_ort": "London, 41 Dover Street",
+   "einzelausstellung_von": "Janaina Tschäpe",
+   "url": null,
+   "quelle": "https://www.maxhetzler.com/exhibitions",
+   "grund": "anderer Ort: London, 41 Dover Street"
+  },
+  {
+   "titel": "Plaids",
+   "untertitel": null,
+   "beginn": "2026-04-21",
+   "ende": "2026-05-28",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Max Hetzler",
+   "rang": 99,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Grace Weaver"
+   ],
+   "anderer_ort": "London, 41 Dover Street",
+   "einzelausstellung_von": "Grace Weaver",
+   "url": null,
+   "quelle": "https://www.maxhetzler.com/exhibitions",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

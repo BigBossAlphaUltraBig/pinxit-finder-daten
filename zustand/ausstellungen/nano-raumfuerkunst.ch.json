@@ -1,0 +1,39 @@
+{
+ "domain": "nano-raumfuerkunst.ch",
+ "website": "https://nano-raumfuerkunst.ch/",
+ "haeuser": "nano - Raum für Kunst",
+ "land": "CH",
+ "ids": "Q124479467",
+ "status": "ok",
+ "seiten": [
+  "https://nano-raumfuerkunst.ch/AUSSTELLUNGEN/",
+  "https://nano-raumfuerkunst.ch/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "home sweet home",
+   "untertitel": null,
+   "beginn": "2026-10-07",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "nano - Raum für Kunst",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Heiko Schätzle",
+    "Andrea Züllig"
+   ],
+   "eroeffnung": "2026-10-07T18:00",
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "url": "https://nano-raumfuerkunst.ch/AUSSTELLUNGEN/",
+   "quelle": "https://nano-raumfuerkunst.ch/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

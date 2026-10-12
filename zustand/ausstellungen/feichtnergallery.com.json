@@ -1,0 +1,65 @@
+{
+ "domain": "feichtnergallery.com",
+ "website": "https://www.feichtnergallery.com",
+ "haeuser": "Lukas Feichtner Galerie",
+ "land": "AT",
+ "ids": "galerie-lukas-feichtner-galerie-wien",
+ "status": "ok",
+ "seiten": [
+  "https://www.feichtnergallery.com/exhibitions",
+  "https://www.feichtnergallery.com/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Gimme Shelter",
+   "untertitel": "Kritik der Vernunft der Liebe",
+   "beginn": "2026-10-16",
+   "ende": "2026-11-14",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Lukas Feichtner Galerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Fritz Bergler"
+   ],
+   "einzelausstellung_von": "Fritz Bergler",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.feichtnergallery.com/exhibitions",
+   "quelle": "https://www.feichtnergallery.com/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Gerhard Kaiser",
+   "untertitel": "Laufende Ausstellung in unserer Partnergalerie XYZ / 798 Art District Beijing",
+   "beginn": "2025-10-25",
+   "ende": "2025-11-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Lukas Feichtner Galerie",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Gerhard Kaiser"
+   ],
+   "einzelausstellung_von": "Gerhard Kaiser",
+   "eroeffnung": null,
+   "anderer_ort": "Partnergalerie XYZ / 798 Art District Beijing",
+   "url": "https://www.feichtnergallery.com/exhibitions",
+   "quelle": "https://www.feichtnergallery.com/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

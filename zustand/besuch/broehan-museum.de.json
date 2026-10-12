@@ -1,0 +1,29 @@
+{
+ "domain": "broehan-museum.de",
+ "website": "https://www.broehan-museum.de",
+ "haeuser": {
+  "Bröhan-Museum": {
+   "haus": "Bröhan-Museum",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": "11:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "9,00 €",
+   "eintritt_ermaessigt": "6,00 € (4,00 € jeden 1. Mittwoch im Monat)",
+   "frei_fuer": "unter 18 Jahren, Begleitpersonen von Schwerbehinderten (Merkzeichen B), Geflüchtete, ICOM/Museumsbund-Ausweis, Museumsmitarbeitende, Vereinsmitglieder, Studierende Kunstgeschichte, Presseausweis, Schulklassen/Kitas (mit Voranmeldung), Stadtführer",
+   "hinweis_oeffnung": "Montag geschlossen; 24.12., 31.12., Pfingstmontag geschlossen; 1.1. 12:00-18:00",
+   "quelle": "https://www.broehan-museum.de/service/#/"
+  }
+ },
+ "seiten": [
+  "https://www.broehan-museum.de/service/#/"
+ ],
+ "abgerufen": "2026-10-08T18:05:53",
+ "status": "ok"
+}

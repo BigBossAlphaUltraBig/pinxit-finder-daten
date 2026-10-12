@@ -1,0 +1,26 @@
+{
+ "domain": "andreasbinder.de",
+ "website": "https://andreasbinder.de",
+ "haeuser": {
+  "Galerie Andreas Binder": {
+   "haus": "Galerie Andreas Binder",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.galerieandreasbinder.de/",
+   "quelle": "https://www.galerieandreasbinder.de/"
+  }
+ },
+ "seiten": [
+  "https://www.galerieandreasbinder.de/"
+ ],
+ "abgerufen": "2026-10-12T07:32:37",
+ "status": "unvollständig"
+}

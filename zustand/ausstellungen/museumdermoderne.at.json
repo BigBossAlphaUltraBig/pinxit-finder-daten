@@ -1,0 +1,129 @@
+{
+ "domain": "museumdermoderne.at",
+ "website": "https://www.museumdermoderne.at/",
+ "haeuser": "Museum der Moderne Mönchsberg | Museum der Moderne Salzburg | Museum der Moderne, Rupertinum",
+ "land": "AT",
+ "ids": "Q85618962 Q1775271 way/64132744",
+ "status": "ok",
+ "seiten": [
+  "https://www.museumdermoderne.at/ausstellungen",
+  "https://www.museumdermoderne.at/ausstellungen/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "BASELITZ JETZT",
+   "untertitel": "Spätwerk am Mönchsberg",
+   "beginn": "2026-04-01",
+   "ende": "2026-10-18",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum der Moderne Salzburg",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Georg Baselitz"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Georg Baselitz",
+   "url": "https://www.museumdermoderne.at/ausstellungen/detail/baselitz-jetzt/",
+   "quelle": "https://www.museumdermoderne.at/ausstellungen",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Stano Filko. 12 Chakras of Becoming",
+   "untertitel": "12 Chakras of Becoming",
+   "beginn": "2026-04-03",
+   "ende": "2027-02-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum der Moderne Salzburg",
+   "rang": 2,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Stano Filko"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Stano Filko",
+   "url": "https://www.museumdermoderne.at/ausstellungen/detail/stano-filko/",
+   "quelle": "https://www.museumdermoderne.at/ausstellungen",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Neugier im Fluss",
+   "untertitel": "Salzburger Kunst zwischen Aufbruch und Erinnerung",
+   "beginn": null,
+   "ende": "2027-04-04",
+   "art": "sammlungspraesentation",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum der Moderne Salzburg",
+   "rang": 3,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": "Salzburger Kunst zwischen Aufbruch und Erinnerung",
+   "kuenstler": [],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "url": "https://www.museumdermoderne.at/ausstellungen/detail/neugier-im-fluss-salzburger-kunst-zwischen-aufbruch-und-erinnerung/",
+   "quelle": "https://www.museumdermoderne.at/ausstellungen"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Lese- und Medienlounge",
+   "untertitel": "Lese- und Medienlounge im Rupertinum",
+   "beginn": "2026-07-03",
+   "ende": "2027-05-30",
+   "art": "unklar",
+   "fachgebiet": "medienkunst",
+   "haus": "Museum der Moderne Salzburg",
+   "rang": 4,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Franz West",
+    "Marcus Geiger",
+    "Peter Kogler",
+    "Heimo Zobernig"
+   ],
+   "anderer_ort": "Altstadt (Rupertinum)",
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "url": "https://www.museumdermoderne.at/ausstellungen/detail/lese-und-medienlounge/",
+   "quelle": "https://www.museumdermoderne.at/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Altstadt (Rupertinum)"
+  },
+  {
+   "titel": "Ernst Caramelle. Denkfiguren",
+   "untertitel": "Denkfiguren",
+   "beginn": "2026-07-03",
+   "ende": "2027-05-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Museum der Moderne Salzburg",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Ernst Caramelle"
+   ],
+   "anderer_ort": "Generali Foundation Studienzentrum, Altstadt (Rupertinum)",
+   "eroeffnung": null,
+   "einzelausstellung_von": "Ernst Caramelle",
+   "url": "https://www.museumdermoderne.at/ausstellungen/detail/ernst-caramelle-kuenstlerbuecher-video-landschaften-lese-und-medienlounge/",
+   "quelle": "https://www.museumdermoderne.at/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Generali Foundation Studienzentrum, Altstadt (Rupertinum)"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

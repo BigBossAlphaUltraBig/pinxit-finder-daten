@@ -1,0 +1,46 @@
+{
+ "domain": "zsart.at",
+ "website": "https://www.zsart.at",
+ "haeuser": "zs art galerie",
+ "land": "AT",
+ "ids": "node/4088663777",
+ "status": "ok",
+ "seiten": [
+  "https://www.zsart.at/de/publikationen/ausstellungskataloge/",
+  "https://www.zsart.at/de/exhibitions/2026/sehnsuchts-raeume/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Sehnsuchts-Räume",
+   "untertitel": "",
+   "beginn": "2026-09-10",
+   "ende": "2026-10-20",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "zs art galerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "William-Josh Beck",
+    "Jean-Paul Dumas-Grillet",
+    "Esther Hagenmaier",
+    "Alexandra Roozen",
+    "Robert Staudinger",
+    "Eduardo Vega de Seoane"
+   ],
+   "url": "https://www.zsart.at/de/exhibitions/2026/sehnsuchts-raeume/",
+   "anderer_ort": null,
+   "schwerpunkt": null,
+   "quelle": "https://www.zsart.at/de/exhibitions/2026/sehnsuchts-raeume/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

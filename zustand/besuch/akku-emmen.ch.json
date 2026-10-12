@@ -1,0 +1,26 @@
+{
+ "domain": "akku-emmen.ch",
+ "website": "http://www.akku-emmen.ch",
+ "haeuser": {
+  "Kunstplattform akku": {
+   "haus": "Kunstplattform akku",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": "14:00-17:00",
+    "sa": "14:00-17:00",
+    "so": "10:00-16:00"
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "Öffnungszeiten nur während einer Ausstellung; 2026-10-08 liegt außerhalb der aktuellen Ausstellung (03.10 - 08.11)",
+   "quelle": "https://www.akku-emmen.ch/"
+  }
+ },
+ "seiten": [
+  "https://www.akku-emmen.ch/"
+ ],
+ "abgerufen": "2026-10-08T18:05:09",
+ "status": "unvollständig"
+}

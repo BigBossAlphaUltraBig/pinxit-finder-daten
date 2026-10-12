@@ -1,0 +1,27 @@
+{
+ "domain": "meyerkainer.com",
+ "website": "https://www.meyerkainer.com",
+ "haeuser": {
+  "Meyer Kainer": {
+   "haus": "Meyer Kainer",
+   "oeffnungszeiten": {
+    "di": "12:00-18:00",
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-16:00",
+    "mo": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://meyerkainer.com/contact",
+   "quelle": "https://meyerkainer.com/contact/"
+  }
+ },
+ "seiten": [
+  "https://meyerkainer.com/",
+  "https://meyerkainer.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:37:23",
+ "status": "ok"
+}

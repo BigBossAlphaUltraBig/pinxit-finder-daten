@@ -1,0 +1,301 @@
+{
+ "domain": "galeriebuchholz.de",
+ "website": "http://www.galeriebuchholz.de",
+ "haeuser": "Galerie Buchholz",
+ "land": "DE",
+ "ids": "galerie-galerie-buchholz-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://www.galeriebuchholz.de/exhibitions",
+  "https://www.galeriebuchholz.de/exhibitions/alix-cleo-roubaud-galerie-berlin-2026#?_ec=announcement||start"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Si quelque chose noir",
+   "untertitel": null,
+   "beginn": "2026-09-10",
+   "ende": "2026-11-14",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Buchholz",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Alix Cléo Roubaud"
+   ],
+   "einzelausstellung_von": "Alix Cléo Roubaud",
+   "eroeffnung": "2026-09-10",
+   "anderer_ort": null,
+   "url": "https://www.galeriebuchholz.de/exhibitions/alix-cleo-roubaud-galerie-berlin-2026",
+   "quelle": "https://www.galeriebuchholz.de/exhibitions/alix-cleo-roubaud-galerie-berlin-2026#?_ec=announcement||start",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "As Yet Untitled",
+   "untertitel": null,
+   "kuenstler": [
+    "Henrik Olesen"
+   ],
+   "beginn": "2026-09-01",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "haus": "Galerie Buchholz",
+   "fachgebiet": "bildende_kunst",
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "rang": 1,
+   "url": "https://www.galeriebuchholz.de/exhibitions/henrik-olesen-galerie-buchholz-koln-2026",
+   "quelle": "https://www.galeriebuchholz.de/exhibitions",
+   "eroeffnung": null,
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
+  },
+  {
+   "titel": "Alix Cléo Roubaud – Si quelque chose noir",
+   "untertitel": null,
+   "beginn": "2026-09-10",
+   "ende": "2026-11-14",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Buchholz",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Alix Cléo Roubaud"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-10T18:00",
+   "url": "https://www.galeriebuchholz.de/exhibitions/alix-cleo-roubaud-galerie-berlin-2026",
+   "quelle": "https://www.galeriebuchholz.de/exhibitions/alix-cleo-roubaud-galerie-berlin-2026#?_ec=announcement||start",
+   "verpasst": 1
+  },
+  {
+   "titel": "Songs of New York",
+   "untertitel": "Songs of New York",
+   "kuenstler": [
+    "Jutta Koether"
+   ],
+   "beginn": "2026-09-01",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "haus": "Galerie Buchholz",
+   "fachgebiet": "bildende_kunst",
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "rang": 3,
+   "url": "https://www.galeriebuchholz.de/exhibitions/jutta-koether-galerie-new-york-2026",
+   "quelle": "https://www.galeriebuchholz.de/exhibitions",
+   "eroeffnung": null,
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
+  },
+  {
+   "titel": "Early Men",
+   "untertitel": null,
+   "kuenstler": [
+    "Bruce Weber"
+   ],
+   "beginn": "2025-06-01",
+   "ende": null,
+   "art": "wechselausstellung",
+   "haus": "Galerie Buchholz",
+   "fachgebiet": "bildende_kunst",
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "rang": 21,
+   "url": "https://www.galeriebuchholz.de/exhibitions/bruce-weber-galerie-buchholz-koln-2025",
+   "quelle": "https://www.galeriebuchholz.de/exhibitions",
+   "verpasst": 1
+  },
+  {
+   "titel": "Into the Dimensional Corridor",
+   "untertitel": null,
+   "kuenstler": [
+    "Lutz Bacher"
+   ],
+   "beginn": "2025-05-01",
+   "ende": null,
+   "art": "wechselausstellung",
+   "haus": "Galerie Buchholz",
+   "fachgebiet": "bildende_kunst",
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "rang": 22,
+   "url": "https://www.galeriebuchholz.de/exhibitions/lutz-bacher-new-york-2025",
+   "quelle": "https://www.galeriebuchholz.de/exhibitions",
+   "verpasst": 1
+  },
+  {
+   "titel": "My Art",
+   "untertitel": null,
+   "kuenstler": [
+    "Matt Browning"
+   ],
+   "beginn": "2025-05-01",
+   "ende": null,
+   "art": "wechselausstellung",
+   "haus": "Galerie Buchholz",
+   "fachgebiet": "bildende_kunst",
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "rang": 23,
+   "url": "https://www.galeriebuchholz.de/exhibitions/matt-browning-galerie-buchholz-koln-2025",
+   "quelle": "https://www.galeriebuchholz.de/exhibitions",
+   "verpasst": 1
+  },
+  {
+   "titel": "Cold Hope",
+   "untertitel": null,
+   "kuenstler": [
+    "Anne Imhof"
+   ],
+   "beginn": "2025-03-01",
+   "ende": null,
+   "art": "wechselausstellung",
+   "haus": "Galerie Buchholz",
+   "fachgebiet": "bildende_kunst",
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "rang": 24,
+   "url": "https://www.galeriebuchholz.de/exhibitions/anne-imhof-galerie-buchholz-berlin-2025",
+   "quelle": "https://www.galeriebuchholz.de/exhibitions",
+   "verpasst": 1
+  },
+  {
+   "titel": "an exhibition organized by Samuel Hindolo",
+   "untertitel": null,
+   "kuenstler": [
+    "Yuji Agematsu",
+    "Gilles Aillaud",
+    "Cecilia Bjartmar Hylta",
+    "Prunella Clough",
+    "Curtis Cuffie",
+    "Dominick Di Meo",
+    "Trisha Donnelly",
+    "Claudette Gacuti",
+    "Solomon Garçon",
+    "Alex Harsley",
+    "Henrik Olesen",
+    "Patrick Procktor",
+    "Katsuhiro Yamaguchi"
+   ],
+   "beginn": "2025-03-01",
+   "ende": null,
+   "art": "wechselausstellung",
+   "haus": "Galerie Buchholz",
+   "fachgebiet": "bildende_kunst",
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "rang": 25,
+   "url": "https://www.galeriebuchholz.de/exhibitions/group-show-new-york-samuel-hindolo",
+   "quelle": "https://www.galeriebuchholz.de/exhibitions",
+   "verpasst": 1
+  },
+  {
+   "titel": "Basic Research",
+   "untertitel": null,
+   "kuenstler": [
+    "Isa Genzken"
+   ],
+   "beginn": "2025-02-01",
+   "ende": null,
+   "art": "wechselausstellung",
+   "haus": "Galerie Buchholz",
+   "fachgebiet": "bildende_kunst",
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "rang": 26,
+   "url": "https://www.galeriebuchholz.de/exhibitions/isa-genzken-galerie-buchholz-berlin-2025",
+   "quelle": "https://www.galeriebuchholz.de/exhibitions",
+   "verpasst": 1
+  },
+  {
+   "titel": "Works on Paper",
+   "untertitel": null,
+   "kuenstler": [
+    "Martin Wong"
+   ],
+   "beginn": "2025-02-01",
+   "ende": null,
+   "art": "wechselausstellung",
+   "haus": "Galerie Buchholz",
+   "fachgebiet": "bildende_kunst",
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "rang": 27,
+   "url": "https://www.galeriebuchholz.de/exhibitions/martin-wong-galerie-buchholz-koln-2025",
+   "quelle": "https://www.galeriebuchholz.de/exhibitions",
+   "verpasst": 1
+  },
+  {
+   "titel": "Teiku",
+   "untertitel": null,
+   "kuenstler": [
+    "Yair Oelbaum"
+   ],
+   "beginn": "2025-01-01",
+   "ende": null,
+   "art": "wechselausstellung",
+   "haus": "Galerie Buchholz",
+   "fachgebiet": "bildende_kunst",
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "rang": 28,
+   "url": "https://www.galeriebuchholz.de/exhibitions/yair-oelbaum-new-york-2025",
+   "quelle": "https://www.galeriebuchholz.de/exhibitions",
+   "verpasst": 1
+  },
+  {
+   "titel": "Autumn on Everything",
+   "untertitel": null,
+   "kuenstler": [
+    "Peter Fischli",
+    "Gili Tal"
+   ],
+   "beginn": "2025-01-01",
+   "ende": null,
+   "art": "wechselausstellung",
+   "haus": "Galerie Buchholz",
+   "fachgebiet": "bildende_kunst",
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "rang": 29,
+   "url": "https://www.galeriebuchholz.de/exhibitions/peter-fischli-gili-tal-berlin-2025",
+   "quelle": "https://www.galeriebuchholz.de/exhibitions",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Deshaun Price",
+   "beginn": "2026-08-20",
+   "ende": "2026-09-26",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Buchholz",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "einzelausstellung_von": "Deshaun Price",
+   "kuenstler": [
+    "Deshaun Price"
+   ],
+   "url": "https://www.galeriebuchholz.de/exhibitions/deshaun-price-galerie-buchholz-koln-2026",
+   "eroeffnung": "2026-08-20T18:00",
+   "schwerpunkt": null,
+   "untertitel": "Galerie Buchholz, Köln",
+   "anderer_ort": null,
+   "quelle": "https://www.galeriebuchholz.de/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 12
+}

@@ -1,0 +1,31 @@
+{
+ "domain": "museum-schnuetgen.de",
+ "website": "https://museum-schnuetgen.de/Home",
+ "haeuser": {
+  "Museum Schnütgen": {
+   "haus": "Museum Schnütgen",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-20:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.museum-schnuetgen.de/besuch/planen-sie-ihren-besuch",
+   "quelle": "https://www.museum-schnuetgen.de/besuch/planen-sie-ihren-besuch",
+   "eintritt_regulaer": "6 €",
+   "eintritt_ermaessigt": "3,50 €",
+   "frei_fuer": "Kinder unter 6 Jahren in Begleitung eines*einer Erwachsenen, Schüler*innen, Auszubildende, Kölner*innen unter 18 Jahren, Inhaber*innen des Köln-Passes und der ICOM-Card sowie Mitglieder des Freundeskreises Museum Schnütgen",
+   "hinweis_oeffnung": "Mo geschlossen; Do 10-20 Uhr; KölnTag (jeden 1. Do im Monat außer Feiertage) 10-22 Uhr; An Feiertagen 10-18 Uhr"
+  }
+ },
+ "seiten": [
+  "https://www.museum-schnuetgen.de/besuch",
+  "https://www.museum-schnuetgen.de/besuch/planen-sie-ihren-besuch"
+ ],
+ "abgerufen": "2026-10-12T08:09:28",
+ "status": "ok"
+}

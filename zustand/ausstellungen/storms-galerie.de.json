@@ -1,0 +1,95 @@
+{
+ "domain": "storms-galerie.de",
+ "website": "https://www.storms-galerie.de",
+ "haeuser": "Walter Storms Galerie",
+ "land": "DE",
+ "ids": "galerie-walter-storms-galerie-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://www.storms-galerie.de/ausstellungen",
+  "https://www.storms-galerie.de/exhibition/gerold-miller-raeume"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Gerold Miller, 3 Räume",
+   "beginn": "2026-09-18",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Walter Storms Galerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "untertitel": "3 Räume",
+   "einzelausstellung_von": "Gerold Miller",
+   "kuenstler": [
+    "Gerold Miller"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://www.storms-galerie.de/exhibition/gerold-miller-raeume",
+   "quelle": "https://www.storms-galerie.de/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Raimund Girke, white remains",
+   "beginn": "2026-09-10",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Walter Storms Galerie",
+   "rang": 2,
+   "epoche": "moderne",
+   "untertitel": "Berlin",
+   "einzelausstellung_von": "Raimund Girke",
+   "kuenstler": [
+    "Raimund Girke"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://www.storms-galerie.de/exhibition/raimund-girke-white",
+   "quelle": "https://www.storms-galerie.de/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Opening Moves",
+   "beginn": "2026-04-09",
+   "ende": "2026-09-22",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Walter Storms Galerie",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "untertitel": "München",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Gerold Miller",
+    "Turi Simeti",
+    "Ulrich Erben",
+    "Dadamaino",
+    "Peter Krauskopf",
+    "Otto Piene",
+    "Márton Nemes"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://www.storms-galerie.de/exhibition/opening-moves",
+   "quelle": "https://www.storms-galerie.de/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

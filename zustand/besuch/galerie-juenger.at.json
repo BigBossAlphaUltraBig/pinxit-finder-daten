@@ -1,0 +1,27 @@
+{
+ "domain": "galerie-juenger.at",
+ "website": "https://www.galerie-juenger.at",
+ "haeuser": {
+  "Galerie Jünger": {
+   "haus": "Galerie Jünger",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "14:00-18:00",
+    "mi": "14:00-18:00",
+    "do": "14:00-18:00",
+    "fr": "14:00-18:00",
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://www.galerie-juenger.at/juenger/galeriejuenger.nsf",
+   "hinweis_oeffnung": "Samstag nach Vereinbarung"
+  }
+ },
+ "seiten": [
+  "https://www.galerie-juenger.at/juenger/galeriejuenger.nsf/sysPages/galerie.html",
+  "https://www.galerie-juenger.at/juenger/galeriejuenger.nsf"
+ ],
+ "abgerufen": "2026-10-12T07:34:36",
+ "status": "unvollständig"
+}

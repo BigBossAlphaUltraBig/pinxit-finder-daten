@@ -1,0 +1,31 @@
+{
+ "domain": "kunsthaus.ch",
+ "website": "http://www.kunsthaus.ch/",
+ "haeuser": [
+  {
+   "id": "Q685038",
+   "name": "Kunsthaus Zürich"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Kunsthaus Zürich",
+   "titel": "Die Sammlung",
+   "untertitel": "Über 100.000 Werke von Mittelalter bis Gegenwart",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "url": "https://collection.kunsthaus.ch/de/collection",
+   "kuenstler": [
+    "Max Ernst"
+   ],
+   "quelle": "https://collection.kunsthaus.ch/de/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://collection.kunsthaus.ch/de/"
+ ],
+ "abgerufen": "2026-10-12T08:12:55",
+ "status": "ok"
+}

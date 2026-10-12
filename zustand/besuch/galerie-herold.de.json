@@ -1,0 +1,27 @@
+{
+ "domain": "galerie-herold.de",
+ "website": "https://galerie-herold.de",
+ "haeuser": {
+  "Galerie Herold": {
+   "haus": "Galerie Herold",
+   "oeffnungszeiten": {
+    "mo": "11:00-18:00",
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": "12:00-18:00"
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "Galerie auf Sylt: Mo-Sa 11-18 Uhr, So ab 12 Uhr, bis 31.10.2026 dann wieder ab 25.12.2026. Galerie in Hamburg: Di-Fr 11-18 Uhr",
+   "bessere_seite": "https://galerie-herold.de/standorte/",
+   "quelle": "https://galerie-herold.de/"
+  }
+ },
+ "seiten": [
+  "https://galerie-herold.de/"
+ ],
+ "abgerufen": "2026-10-12T07:34:32",
+ "status": "ok"
+}

@@ -1,0 +1,65 @@
+{
+ "domain": "andresthalmann.com",
+ "website": "https://www.andresthalmann.com",
+ "haeuser": "Galerie Andres Thalmann",
+ "land": "CH",
+ "ids": "galerie-galerie-andres-thalmann-zuerich",
+ "status": "ok",
+ "seiten": [
+  "https://andresthalmann.com/exhibitions/",
+  "https://andresthalmann.com/exhibitions/95/overview/?_cmspreview=1"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Resonance",
+   "untertitel": "",
+   "beginn": "2026-06-09",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Andres Thalmann",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Ian Davenport"
+   ],
+   "eroeffnung": null,
+   "einzelausstellung_von": "Ian Davenport",
+   "anderer_ort": null,
+   "url": "https://andresthalmann.com/exhibitions/95-ian-davenport-resonance/overview/",
+   "quelle": "https://andresthalmann.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Echoes of Modernism",
+   "untertitel": "",
+   "beginn": "2026-09-04",
+   "ende": "2026-11-21",
+   "art": "wechselausstellung",
+   "fachgebiet": "architektur",
+   "haus": "Galerie Andres Thalmann",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Eamon O'Kane"
+   ],
+   "eroeffnung": null,
+   "einzelausstellung_von": "Eamon O'Kane",
+   "anderer_ort": null,
+   "url": "https://andresthalmann.com/exhibitions/98-eamon-o-kane-echoes-of-modernism/overview/",
+   "quelle": "https://andresthalmann.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

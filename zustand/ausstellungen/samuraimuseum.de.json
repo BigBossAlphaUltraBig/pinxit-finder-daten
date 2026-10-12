@@ -1,0 +1,36 @@
+{
+ "domain": "samuraimuseum.de",
+ "website": "https://samuraimuseum.de/en/",
+ "haeuser": "Samurai Museum Berlin",
+ "land": "DE",
+ "ids": "Q68106357",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://samuraimuseum.de/en/museum/"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "Permanent Exhibition",
+   "untertitel": "Samurai – Krieger, Kunst und Kultur im feudalen Japan",
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "geschichte",
+   "haus": "Samurai Museum Berlin",
+   "rang": 1,
+   "epoche": "andere",
+   "gemeinfrei": false,
+   "kuenstler": [],
+   "schwerpunkt": "Lebensweise, Kunst und Traditionen des feudalen Japan, Samurai-Rüstungen und Waffen",
+   "url": "https://samuraimuseum.de/en/museum/",
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "ende_": null,
+   "quelle": "https://samuraimuseum.de/en/museum/",
+   "grund": "keine Kunst (geschichte)"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

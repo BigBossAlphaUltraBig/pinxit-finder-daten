@@ -1,0 +1,61 @@
+{
+ "domain": "wienmuseum.at",
+ "website": "https://www.wienmuseum.at/neidhart_festsaal",
+ "haeuser": [
+  {
+   "id": "node-567084279",
+   "name": "Neidhart-Festsaal"
+  },
+  {
+   "id": "Q505873",
+   "name": "Wien Museum"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Wien Museum",
+   "titel": "Geschichte und Stadtleben",
+   "art": "dauerausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Sammlung zur Wiener Stadtgeschichte",
+   "url": "https://www.wienmuseum.at/geschichte_und_stadtleben",
+   "quelle": "https://www.wienmuseum.at/sammlung_und_forschung"
+  },
+  {
+   "haus": "Wien Museum",
+   "titel": "Kunst",
+   "art": "dauerausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Kunstsammlung des Museums",
+   "url": "https://www.wienmuseum.at/kunst",
+   "quelle": "https://www.wienmuseum.at/sammlung_und_forschung"
+  },
+  {
+   "haus": "Wien Museum",
+   "titel": "Archäologie",
+   "art": "dauerausstellung",
+   "epoche": "alte_meister",
+   "fachgebiet": "sonstiges",
+   "untertitel": "Archäologische Sammlung",
+   "url": "https://www.wienmuseum.at/archaeologie",
+   "quelle": "https://www.wienmuseum.at/sammlung_und_forschung"
+  },
+  {
+   "haus": "Neidhart-Festsaal",
+   "titel": "Die Sammlung",
+   "art": "dauerausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "sonstiges",
+   "untertitel": "<UNKNOWN>",
+   "quelle": "https://www.wienmuseum.at/sammlung_und_forschung"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.wienmuseum.at/sammlung_und_forschung"
+ ],
+ "abgerufen": "2026-10-08T22:19:35",
+ "status": "ok"
+}

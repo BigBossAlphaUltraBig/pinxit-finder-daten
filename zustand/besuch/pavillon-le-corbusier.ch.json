@@ -1,0 +1,30 @@
+{
+ "domain": "pavillon-le-corbusier.ch",
+ "website": "https://www.pavillon-le-corbusier.ch/",
+ "haeuser": {
+  "Centre Le Corbusier": {
+   "haus": "Centre Le Corbusier",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "12:00-18:00",
+    "mi": "12:00-18:00",
+    "do": "12:00-20:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-18:00",
+    "so": "12:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "CHF 15",
+   "eintritt_ermaessigt": "CHF 10",
+   "frei_fuer": "unter 20 Jahren",
+   "frei_wann": "jeden Donnerstag ab 17:00",
+   "hinweis_oeffnung": "Saison: 17. April bis 29. November",
+   "quelle": "https://pavillon-le-corbusier.ch/de"
+  }
+ },
+ "seiten": [
+  "https://pavillon-le-corbusier.ch/de"
+ ],
+ "abgerufen": "2026-10-12T08:09:48",
+ "status": "ok"
+}

@@ -1,0 +1,59 @@
+{
+ "domain": "kuenstlerhaus.de",
+ "website": "https://kuenstlerhaus.de/",
+ "haeuser": "Künstlerhaus Stuttgart",
+ "land": "DE",
+ "ids": "way/28098273",
+ "status": "ok",
+ "seiten": [
+  "https://kuenstlerhaus.de/ausstellungen/",
+  "https://kuenstlerhaus.de/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "()Print()",
+   "untertitel": "null",
+   "beginn": "2026-05-22",
+   "ende": "2026-11-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Künstlerhaus Stuttgart",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Grizedale Arts",
+    "Adam Sutherland"
+   ],
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "url": "https://kuenstlerhaus.de/#deep::print-2",
+   "quelle": "https://kuenstlerhaus.de/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "-ATI: Laughing While the House Is Burning",
+   "untertitel": "-ATI",
+   "beginn": "2026-10-10",
+   "ende": "2027-01-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Künstlerhaus Stuttgart",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": null,
+   "kuenstler": [],
+   "eroeffnung": "2026-10-10T15:00",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "url": "https://kuenstlerhaus.de/#deep::laughing-while-the-house-is-burning-2",
+   "quelle": "https://kuenstlerhaus.de/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

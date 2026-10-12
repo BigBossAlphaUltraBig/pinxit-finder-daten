@@ -1,0 +1,26 @@
+{
+ "domain": "behncke-gallery.com",
+ "website": "https://behncke-gallery.com",
+ "haeuser": {
+  "Behncke Gallery": {
+   "haus": "Behncke Gallery",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "12:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "Dienstag-Freitag: 13-14 Uhr Pause",
+   "quelle": "https://behncke-gallery.com/de"
+  }
+ },
+ "seiten": [
+  "https://behncke-gallery.com/de"
+ ],
+ "abgerufen": "2026-10-12T07:33:06",
+ "status": "ok"
+}

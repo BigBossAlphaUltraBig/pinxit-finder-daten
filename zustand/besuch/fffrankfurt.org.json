@@ -1,0 +1,29 @@
+{
+ "domain": "fffrankfurt.org",
+ "website": "https://www.fffrankfurt.org",
+ "haeuser": {
+  "Fotografie Forum Frankfurt": {
+   "haus": "Fotografie Forum Frankfurt",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": "11:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "8 Euro",
+   "eintritt_ermaessigt": "5 Euro",
+   "frei_fuer": "Kinder bis 6 Jahre, Kultur+FreizeitTicket (KUFTI), Mitglieder des FFF, Mitglieder des Photo Elysée Lausanne, Mitglieder des Foam Fotografie Museum Amsterdam, ICOM und Museumsbund, MuseumsuferTicket, MuseumsuferCard",
+   "hinweis_oeffnung": "Dienstag–Sonntag 11–18 Uhr, Montag geschlossen",
+   "quelle": "https://www.fffrankfurt.org/fuer_besucher/"
+  }
+ },
+ "seiten": [
+  "https://www.fffrankfurt.org/fuer_besucher/"
+ ],
+ "abgerufen": "2026-10-12T08:04:27",
+ "status": "ok"
+}

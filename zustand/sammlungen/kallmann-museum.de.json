@@ -1,0 +1,36 @@
+{
+ "domain": "kallmann-museum.de",
+ "website": "https://kallmann-museum.de/",
+ "haeuser": [
+  {
+   "id": "Q1722508",
+   "name": "Kallmann-Museum"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Kallmann-Museum",
+   "titel": "Sammlung Lothar Schirmer",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Zeitgenössische Kunst von Walter de Maria bis Isabella Rossellini",
+   "ende": "2027-02-21",
+   "kuenstler": [
+    "Walter de Maria",
+    "Isabella Rossellini",
+    "Gerhard Richter",
+    "Wim Wenders",
+    "Marcel Duchamp"
+   ],
+   "url": "https://kallmann-museum.de/2026-schirmer/",
+   "quelle": "https://kallmann-museum.de/2026-schirmer/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://kallmann-museum.de/2026-schirmer/"
+ ],
+ "abgerufen": "2026-10-12T08:12:40",
+ "status": "ok"
+}

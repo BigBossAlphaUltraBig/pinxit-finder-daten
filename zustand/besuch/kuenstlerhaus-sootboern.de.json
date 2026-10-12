@@ -1,0 +1,29 @@
+{
+ "domain": "kuenstlerhaus-sootboern.de",
+ "website": "http://kuenstlerhaus-sootboern.de",
+ "haeuser": {
+  "Künstlerhaus Sootbörn": {
+   "haus": "Künstlerhaus Sootbörn",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://kuenstlerhaus-sootboern.de/anfahrt/",
+   "quelle": "https://kuenstlerhaus-sootboern.de/das-haus/",
+   "hinweis_oeffnung": "Informationen auf Kontakt-/Anfahrtsseite verfügbar"
+  }
+ },
+ "seiten": [
+  "https://kuenstlerhaus-sootboern.de/anfahrt/",
+  "https://kuenstlerhaus-sootboern.de/",
+  "https://kuenstlerhaus-sootboern.de/das-haus/"
+ ],
+ "abgerufen": "2026-10-12T08:06:49",
+ "status": "unvollständig"
+}

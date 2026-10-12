@@ -1,0 +1,39 @@
+{
+ "domain": "barbaraseiler.ch",
+ "website": "https://www.barbaraseiler.ch/exhibitions/",
+ "haeuser": "Barbara Seiler Galerie",
+ "land": "CH",
+ "ids": "node/11619652079",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://www.barbaraseiler.ch/exhibitions/",
+  "https://www.barbaraseiler.ch/exhibitions/sebastian-stohrer/"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "White Smoker",
+   "untertitel": "null",
+   "beginn": "2025-05-30",
+   "ende": "2025-07-13",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Barbara Seiler Galerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Sebastian Stöhrer"
+   ],
+   "einzelausstellung_von": "Sebastian Stöhrer",
+   "eroeffnung": null,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "url": "https://www.barbaraseiler.ch/exhibitions/sebastian-stohrer/",
+   "quelle": "https://www.barbaraseiler.ch/exhibitions/sebastian-stohrer/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

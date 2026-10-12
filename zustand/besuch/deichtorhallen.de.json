@@ -1,0 +1,32 @@
+{
+ "domain": "deichtorhallen.de",
+ "website": "https://www.deichtorhallen.de/",
+ "haeuser": {
+  "Deichtorhallen": {
+   "haus": "Deichtorhallen",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": "11:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "Geschlossen bis 30. Oktober 2026 wegen Umbauarbeiten. Jeden 1. Donnerstag im Monat 11:00-21:00 Uhr.",
+   "bessere_seite": "https://www.deichtorhallen.de/de/besuch/besuch-halle-fuer-aktuelle-kunst",
+   "quelle": "https://www.deichtorhallen.de/de/besuch/besuch-halle-fuer-aktuelle-kunst",
+   "eintritt_regulaer": "14 €",
+   "eintritt_ermaessigt": "9 €",
+   "frei_fuer": "Kinder und Jugendliche unter 18 Jahren",
+   "frei_wann": "jeden 1. Donnerstag im Monat (18:00-21:00 Uhr)"
+  }
+ },
+ "seiten": [
+  "https://www.deichtorhallen.de/de/besuch/haeuser",
+  "https://www.deichtorhallen.de/de/besuch/besuch-halle-fuer-aktuelle-kunst"
+ ],
+ "abgerufen": "2026-10-12T08:04:09",
+ "status": "ok"
+}

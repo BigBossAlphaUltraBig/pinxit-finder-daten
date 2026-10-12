@@ -1,0 +1,75 @@
+{
+ "domain": "smb.museum~museum-fuer-fotografie",
+ "website": "https://www.smb.museum/museen-einrichtungen/museum-fuer-fotografie/home/",
+ "haeuser": "Museum für Fotografie",
+ "land": "DE",
+ "ids": "nachtrag-museum-f-r-fotografie",
+ "status": "ok",
+ "seiten": [
+  "https://www.smb.museum/ausstellungen/aktuell/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Helmut Newton‘s One-off Album",
+   "untertitel": null,
+   "beginn": "2026-06-05",
+   "ende": "2026-11-15",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Museum für Fotografie",
+   "rang": 1,
+   "epoche": "moderne",
+   "kuenstler": [
+    "Helmut Newton"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": null,
+   "quelle": "https://www.smb.museum/ausstellungen/aktuell/"
+  },
+  {
+   "titel": "Rooms / Stages",
+   "untertitel": null,
+   "beginn": "2026-06-05",
+   "ende": "2026-11-15",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Museum für Fotografie",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Jana Sophia Nolle"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": null,
+   "quelle": "https://www.smb.museum/ausstellungen/aktuell/"
+  },
+  {
+   "titel": "Intermezzo. Revisiting Helmut Newton",
+   "untertitel": null,
+   "beginn": "2026-04-24",
+   "ende": "2027-12-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Museum für Fotografie",
+   "rang": 3,
+   "epoche": "moderne",
+   "kuenstler": [
+    "Helmut Newton"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": null,
+   "quelle": "https://www.smb.museum/ausstellungen/aktuell/"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

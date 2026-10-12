@@ -1,0 +1,41 @@
+{
+ "domain": "levy-galerie.de",
+ "website": "https://levy-galerie.de",
+ "haeuser": "Levy Galerie",
+ "land": "DE",
+ "ids": "galerie-levy-galerie-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://levy-galerie.de/exhibitions/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Zärtlichkeit als Widerstand",
+   "untertitel": null,
+   "beginn": "2026-09-10",
+   "ende": "2026-10-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Levy Galerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Renate Bertlmann"
+   ],
+   "einzelausstellung_von": "Renate Bertlmann",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://levy-galerie.de/exhibitions/",
+   "ausstellungsseite_gefunden": true,
+   "quelle": "https://levy-galerie.de/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

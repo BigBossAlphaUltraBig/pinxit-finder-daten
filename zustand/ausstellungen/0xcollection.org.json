@@ -1,0 +1,69 @@
+{
+ "domain": "0xcollection.org",
+ "website": "http://0xcollection.org/",
+ "haeuser": "0xCollection",
+ "land": "CH",
+ "ids": "Q123377579",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://0xcollection.org/"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "Cosmic Knots",
+   "untertitel": "Art That Refuses Quantification",
+   "beginn": "2026-06-15",
+   "ende": "2026-06-20",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "0xCollection",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Mariko Mori",
+    "Kurt Hentschläger",
+    "Gábor Kitzinger",
+    "András László Nagy",
+    "Rozi Mákó"
+   ],
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://0xcollection.org/",
+   "anderer_ort": "Franck Areal (The Silos), Horburgstrasse 103, Basel",
+   "quelle": "https://0xcollection.org/",
+   "eintritt": "frei, kein Ticket nötig",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  },
+  {
+   "titel": "Cosmic Knots – Performance Evening",
+   "untertitel": "Performance Evening",
+   "beginn": "2026-06-15",
+   "ende": "2026-06-15",
+   "art": "veranstaltung",
+   "fachgebiet": "medienkunst",
+   "haus": "0xCollection",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Alva Noto",
+    "Grotesque Gymnastics",
+    "Mári Mákó",
+    "Dork"
+   ],
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://eventfrog.ch/en/p/art-exhibitions/culture/cosmic-knots-opening-performance-evening-7448625957437490494.html",
+   "anderer_ort": "Trafohalle Bottmingen, Therwilerstrasse 56, Bottmingen",
+   "quelle": "https://0xcollection.org/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

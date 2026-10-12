@@ -1,0 +1,91 @@
+{
+ "domain": "bruecke-museum.de",
+ "website": "http://www.bruecke-museum.de/",
+ "haeuser": "Brücke-Museum Berlin",
+ "land": "DE",
+ "ids": "Q833759",
+ "status": "ok",
+ "seiten": [
+  "https://www.bruecke-museum.de/de/programm/ausstellungen/?t=current"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Draußen... Unter Kiefern",
+   "untertitel": "",
+   "beginn": "2026-07-05",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Brücke-Museum Berlin",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Erich Heckel",
+    "Ernst Ludwig Kirchner",
+    "Max Pechstein",
+    "Karl Schmidt-Rottluff"
+   ],
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.bruecke-museum.de/de/programm/ausstellungen/4196/draussen-unter-kiefern",
+   "quelle": "https://www.bruecke-museum.de/de/programm/ausstellungen/?t=current",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Draußen... Im Museum",
+   "untertitel": "",
+   "beginn": "2026-07-05",
+   "ende": "2026-10-25",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Brücke-Museum Berlin",
+   "rang": 2,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Erich Heckel",
+    "Ernst Ludwig Kirchner",
+    "Max Pechstein",
+    "Karl Schmidt-Rottluff"
+   ],
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.bruecke-museum.de/de/programm/ausstellungen/4585/draussen-im-museum",
+   "quelle": "https://www.bruecke-museum.de/de/programm/ausstellungen/?t=current",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Waldraum",
+   "untertitel": "",
+   "beginn": "2021-08-30",
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "architektur",
+   "haus": "Brücke-Museum Berlin",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Architektur, Design und Kunst im Garten, Naturerfahrung und künstlerische Produktion",
+   "kuenstler": [
+    "ConstructLab"
+   ],
+   "einzelausstellung_von": "ConstructLab",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.bruecke-museum.de/de/programm/ausstellungen/1211/waldraum",
+   "quelle": "https://www.bruecke-museum.de/de/programm/ausstellungen/?t=current",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

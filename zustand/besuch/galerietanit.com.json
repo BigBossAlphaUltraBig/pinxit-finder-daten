@@ -1,0 +1,29 @@
+{
+ "domain": "galerietanit.com",
+ "website": "https://galerietanit.com",
+ "haeuser": {
+  "Galerie Tanit": {
+   "haus": "Galerie Tanit",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.galerietanit.com/",
+   "quelle": "https://www.galerietanit.com/contact/",
+   "hinweis_oeffnung": "Öffnungszeiten und Eintritt nicht auf Contact-Seite verfügbar"
+  }
+ },
+ "seiten": [
+  "https://www.galerietanit.com/all-news/",
+  "https://www.galerietanit.com/",
+  "https://www.galerietanit.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:35:38",
+ "status": "unvollständig"
+}

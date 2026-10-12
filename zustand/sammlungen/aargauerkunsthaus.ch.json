@@ -1,0 +1,57 @@
+{
+ "domain": "aargauerkunsthaus.ch",
+ "website": "https://aargauerkunsthaus.ch/",
+ "haeuser": [
+  {
+   "id": "Q29574934",
+   "name": "Aargauer Kunsthaus"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Aargauer Kunsthaus",
+   "titel": "Die Sammlung",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Schweizer Kunst vom 18. Jahrhundert bis heute",
+   "kuenstler": [
+    "Albert Anker",
+    "Arnold Böcklin",
+    "Ferdinand Hodler",
+    "Sophie Taeuber-Arp",
+    "Cuno Amiet"
+   ],
+   "url": "https://aargauerkunsthaus.ch/de/ausstellungen/sammlung/",
+   "quelle": "https://aargauerkunsthaus.ch/de/ausstellungen/sammlung/"
+  },
+  {
+   "haus": "Aargauer Kunsthaus",
+   "titel": "Verwandtschaften",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Sammlung 26",
+   "ende": "2026-11-08",
+   "url": "https://aargauerkunsthaus.ch/de/ausstellung/verwandtschaften/",
+   "quelle": "https://aargauerkunsthaus.ch/de/ausstellungen/sammlung/"
+  },
+  {
+   "haus": "Aargauer Kunsthaus",
+   "titel": "Gabi Fuhrimann",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Sammlung im Fokus",
+   "ende": "2026-11-08",
+   "url": "https://aargauerkunsthaus.ch/de/ausstellung/gabi-fuhrimann/",
+   "quelle": "https://aargauerkunsthaus.ch/de/ausstellungen/sammlung/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://aargauerkunsthaus.ch/de/ausstellungen/sammlung/"
+ ],
+ "abgerufen": "2026-10-08T22:18:45",
+ "status": "ok"
+}

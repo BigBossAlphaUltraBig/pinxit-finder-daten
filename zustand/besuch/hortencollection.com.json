@@ -1,0 +1,28 @@
+{
+ "domain": "hortencollection.com",
+ "website": "https://hortencollection.com/",
+ "haeuser": {
+  "Heidi Horten Collection": {
+   "haus": "Heidi Horten Collection",
+   "oeffnungszeiten": {
+    "mo": "11:00-19:00",
+    "di": "geschlossen",
+    "mi": "11:00-19:00",
+    "do": "11:00-21:00",
+    "fr": "11:00-19:00",
+    "sa": "11:00-19:00",
+    "so": "11:00-19:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "€ 18",
+   "eintritt_ermaessigt": "€ 16 (Senior*innen über 65, Gruppen ab 10), € 9 (Studierende unter 27 + Zivildienst)",
+   "frei_fuer": "Kinder & Jugendliche unter 19 Jahre, Personen mit Behindertenausweis + Assistenzperson",
+   "quelle": "https://hortencollection.com/tickets"
+  }
+ },
+ "seiten": [
+  "https://hortencollection.com/tickets"
+ ],
+ "abgerufen": "2026-10-08T18:06:00",
+ "status": "ok"
+}

@@ -1,0 +1,17 @@
+{
+ "domain": "photobastei.ch",
+ "website": "https://www.photobastei.ch/",
+ "haeuser": [
+  {
+   "id": "nachtrag-photobastei",
+   "name": "Photobastei"
+  }
+ ],
+ "sammlungen": [],
+ "keine_sammlung": true,
+ "seiten": [
+  "https://portal.photobastei.ch/homepage"
+ ],
+ "abgerufen": "2026-10-12T08:14:17",
+ "status": "keine Sammlung"
+}

@@ -1,0 +1,17 @@
+{
+ "domain": "museen-weil-am-rhein.de",
+ "website": "https://www.museen-weil-am-rhein.de/stapflehus.html",
+ "haeuser": [
+  {
+   "id": "way-100784190",
+   "name": "Stapflehus"
+  }
+ ],
+ "sammlungen": [],
+ "keine_sammlung": true,
+ "seiten": [
+  "https://www.museen-weil-am-rhein.de/oeffnungszeiten.html"
+ ],
+ "abgerufen": "2026-10-12T08:13:44",
+ "status": "keine Sammlung"
+}

@@ -1,0 +1,91 @@
+{
+ "domain": "stadt-zuerich.ch",
+ "website": "https://www.stadt-zuerich.ch/atelierhermannhaller",
+ "haeuser": "Atelier Hermann Haller",
+ "land": "CH",
+ "ids": "Q27490203",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://www.stadt-zuerich.ch/atelierhermannhaller",
+  "https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/05/wiedereroeffnung-atelier-hermann-haller-2026.html"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "Zwischen Screen und Material",
+   "untertitel": "*.sculptr",
+   "beginn": "2026-06-06",
+   "ende": "2026-10-04",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Atelier Hermann Haller",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": "2026-06-05",
+   "kuenstler": [
+    "Fürer Nielsen",
+    "Thomas Julier",
+    "Lithic Alliance",
+    "Mélodie Mousset"
+   ],
+   "url": "https://www.stadt-zuerich.ch/atelierhermannhaller",
+   "quelle": "https://www.stadt-zuerich.ch/atelierhermannhaller",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  },
+  {
+   "titel": "*.sculptr",
+   "untertitel": "Zwischen Screen und Material",
+   "beginn": "2026-06-06",
+   "ende": "2026-10-04",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Atelier Hermann Haller",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Fürer Nielsen",
+    "Thomas Julier",
+    "Lithic Alliance",
+    "Mélodie Mousset"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/05/wiedereroeffnung-atelier-hermann-haller-2026.html",
+   "quelle": "https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/05/wiedereroeffnung-atelier-hermann-haller-2026.html",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  },
+  {
+   "titel": "volumes Archive",
+   "untertitel": "Zwischen Screen und Material",
+   "beginn": "2026-06-06",
+   "ende": "2026-10-04",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Atelier Hermann Haller",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "volumes"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/05/wiedereroeffnung-atelier-hermann-haller-2026.html",
+   "quelle": "https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/05/wiedereroeffnung-atelier-hermann-haller-2026.html",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

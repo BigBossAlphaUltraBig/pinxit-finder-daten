@@ -1,0 +1,28 @@
+{
+ "domain": "wentrupgallery.com",
+ "website": "http://www.wentrupgallery.com",
+ "haeuser": {
+  "Wentrup": {
+   "haus": "Wentrup",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://wentrupgallery.com/",
+   "quelle": "https://wentrupgallery.com/contact/",
+   "hinweis_oeffnung": "Öffnungszeiten nicht auf der Kontaktseite angegeben"
+  }
+ },
+ "seiten": [
+  "https://wentrupgallery.com/",
+  "https://wentrupgallery.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:39:01",
+ "status": "unvollständig"
+}

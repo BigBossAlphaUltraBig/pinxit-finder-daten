@@ -1,0 +1,17 @@
+{
+ "domain": "kunstraum-muenchen.de",
+ "website": "https://www.kunstraum-muenchen.de/",
+ "haeuser": [
+  {
+   "id": "node-2503219196",
+   "name": "Kunstraum"
+  }
+ ],
+ "sammlungen": [],
+ "keine_sammlung": true,
+ "seiten": [
+  "https://www.kunstraum-muenchen.de/"
+ ],
+ "abgerufen": "2026-10-12T08:13:07",
+ "status": "keine Sammlung"
+}

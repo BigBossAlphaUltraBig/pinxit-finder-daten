@@ -1,0 +1,47 @@
+{
+ "domain": "kunsthauskat18.de",
+ "website": "https://www.kunsthauskat18.de/",
+ "haeuser": "Kunsthaus Kat18",
+ "land": "DE",
+ "ids": "node/13201479443",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://www.kunsthauskat18.de/aktuell/"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "WALDFEGEN X KUNSTHAUS KAT18",
+   "untertitel": "Präsentation",
+   "beginn": "2026-06-18",
+   "ende": "2026-09-18",
+   "art": "wechselausstellung",
+   "fachgebiet": "natur",
+   "haus": "Kunsthaus Kat18",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-06-18",
+   "kuenstler": [
+    "Ivo Weber",
+    "Jutta Pöstges",
+    "Bärbel Lange",
+    "Vera Langer",
+    "Matthias Brencsan",
+    "Enno Jäkel",
+    "Tanja Geiß",
+    "Andreas Maus",
+    "Friedhelm Falke",
+    "Christine Reifenberger",
+    "Daniel Scislowski"
+   ],
+   "anderer_ort": null,
+   "url": "https://www.kunsthauskat18.de/aktuell/einzelansicht/waldfegen-x-kunsthaus-kat18/",
+   "quelle": "https://www.kunsthauskat18.de/aktuell/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

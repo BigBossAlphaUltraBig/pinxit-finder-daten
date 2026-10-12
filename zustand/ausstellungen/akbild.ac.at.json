@@ -1,0 +1,89 @@
+{
+ "domain": "akbild.ac.at",
+ "website": "https://www.akbild.ac.at/",
+ "haeuser": "Akademie der bildenden Künste Wien",
+ "land": "AT",
+ "ids": "Q414219",
+ "status": "ok",
+ "seiten": [
+  "https://www.akbild.ac.at/de/museum-und-ausstellungen/kunstsammlungen/aktuelles",
+  "https://www.akbild.ac.at/de/museum-und-ausstellungen/Exhibit/ausstellungen-veranstaltungen/aktuelle-ausstellungen/2026/schwelle"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Der große Michelangelo ist tot!",
+   "untertitel": "Avantgarde und Akademismus",
+   "beginn": "2026-10-02",
+   "ende": "2027-08-22",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Akademie der bildenden Künste Wien",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "anderer_ort": null,
+   "eroeffnung": "2026-10-01T19:00",
+   "url": "https://www.akbild.ac.at/de/museum-und-ausstellungen/kunstsammlungen/aktuelles",
+   "quelle": "https://www.akbild.ac.at/de/museum-und-ausstellungen/kunstsammlungen/aktuelles",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Schwelle",
+   "untertitel": "Was trennt das Innen vom Draußen – und was verbindet es?",
+   "beginn": "2026-09-10",
+   "ende": "2026-10-18",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Akademie der bildenden Künste Wien",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Ralo Mayer",
+    "Stine Ølgod",
+    "Maria Petschnig",
+    "Michaela Schweighofer",
+    "Adrien Tirtiaux"
+   ],
+   "eroeffnung": "2026-09-09",
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "url": "https://www.akbild.ac.at/de/museum-und-ausstellungen/Exhibit/ausstellungen-veranstaltungen/aktuelle-ausstellungen/2026/schwelle",
+   "quelle": "https://www.akbild.ac.at/de/museum-und-ausstellungen/Exhibit/ausstellungen-veranstaltungen/aktuelle-ausstellungen/2026/schwelle",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Die Sammlung betrachten",
+   "untertitel": "The Day You Were Thinking About the Sibyl While You Were Picking Autumn Leaves An Insert by Ana Torfs",
+   "beginn": "2025-10-03",
+   "ende": "2026-08-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Akademie der bildenden Künste Wien",
+   "rang": 2,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": "Gemäldegalerie-Highlights mit zeitgenössischem Insert",
+   "kuenstler": [
+    "Ana Torfs"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.akbild.ac.at/de/museum-und-ausstellungen/kunstsammlungen/aktuelles",
+   "quelle": "https://www.akbild.ac.at/de/museum-und-ausstellungen/kunstsammlungen/aktuelles",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

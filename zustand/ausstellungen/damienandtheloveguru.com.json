@@ -1,0 +1,86 @@
+{
+ "domain": "damienandtheloveguru.com",
+ "website": "https://www.damienandtheloveguru.com",
+ "haeuser": "Damien & The Love Guru",
+ "land": "CH",
+ "ids": "galerie-damien-the-love-guru-zuerich",
+ "status": "ok",
+ "seiten": [
+  "https://www.damienandtheloveguru.com/exhibitions",
+  "https://www.damienandtheloveguru.com/exhibitions/mathias-toubro-in-shape-of-a-heart-brussels"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "In Shape of a Heart",
+   "untertitel": "In Shape of a Heart",
+   "kuenstler": [
+    "Mathias Toubro"
+   ],
+   "beginn": "2026-09-10",
+   "ende": "2026-11-20",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Damien & The Love Guru",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.damienandtheloveguru.com/exhibitions/mathias-toubro-in-shape-of-a-heart-brussels",
+   "quelle": "https://www.damienandtheloveguru.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "BLEACH",
+   "untertitel": "A catalogue of the show's physical vocabulary",
+   "kuenstler": [
+    "Agatha Wara"
+   ],
+   "beginn": "2026-08-29",
+   "ende": "2026-10-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Damien & The Love Guru",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.damienandtheloveguru.com/exhibitions/agatha-wara-bleach-zurich",
+   "quelle": "https://www.damienandtheloveguru.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Zug",
+   "untertitel": "Zug",
+   "kuenstler": [
+    "Mickael Marman"
+   ],
+   "beginn": "2026-06-11",
+   "ende": "2026-07-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Damien & The Love Guru",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.damienandtheloveguru.com/exhibitions/mickael-marman-zug",
+   "quelle": "https://www.damienandtheloveguru.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

@@ -1,0 +1,46 @@
+{
+ "domain": "galerie-holthoff.de",
+ "website": "https://galerie-holthoff.de",
+ "haeuser": "Galerie Holthoff",
+ "land": "DE",
+ "ids": "galerie-galerie-holthoff-hamburg",
+ "status": "ok",
+ "seiten": [
+  "https://galerie-holthoff.de/Ausstellungen/aktuell/",
+  "https://galerie-holthoff.de/Ausstellungen/aktuell/SommerSalon-2026/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "SommerSalon 2026",
+   "untertitel": "Termine nach Vereinbarung",
+   "beginn": null,
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Holthoff",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Jared Bartz",
+    "Christian Blau",
+    "Damien Daufresne",
+    "Patrick Gabler",
+    "Friederike Just",
+    "Rudi Kargus"
+   ],
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://galerie-holthoff.de/Ausstellungen/aktuell/SommerSalon-2026/",
+   "schwerpunkt": null,
+   "quelle": "https://galerie-holthoff.de/Ausstellungen/aktuell/SommerSalon-2026/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

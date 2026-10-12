@@ -1,0 +1,25 @@
+{
+ "domain": "bthumm.de",
+ "website": "http://bthumm.de",
+ "haeuser": {
+  "Galerie Barbara Thumm": {
+   "haus": "Galerie Barbara Thumm",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://bthumm.de/"
+  }
+ },
+ "seiten": [
+  "https://bthumm.de/"
+ ],
+ "abgerufen": "2026-10-12T07:33:16",
+ "status": "unvollständig"
+}

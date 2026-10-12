@@ -1,0 +1,86 @@
+{
+ "domain": "l-art.at",
+ "website": "https://www.l-art.at",
+ "haeuser": "L.art Vienna",
+ "land": "AT",
+ "ids": "galerie-l-art-vienna-wien",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://www.l-art.at/de/ausstellungen",
+  "https://www.l-art.at/de/startseiten-inhalt/current-exhibition"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "Artist Talk mit Flavia Mazzanti",
+   "untertitel": "Artist Talk",
+   "beginn": "2026-08-29",
+   "ende": "2026-08-29",
+   "art": "veranstaltung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "L.art Vienna",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Flavia Mazzanti"
+   ],
+   "url": "https://www.l-art.at/de/artist_talk_flavia",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://www.l-art.at/de/ausstellungen",
+   "eintritt": "frei",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  },
+  {
+   "titel": "Workshop: My Body, My Image",
+   "untertitel": "Was ist eigentlich ein „normaler“ oder „schöner“ Körper? Und welchen Einfluss haben KI und digitale Medien auf unser Selbstbild?",
+   "beginn": "2026-07-22",
+   "ende": "2026-07-22",
+   "art": "veranstaltung",
+   "fachgebiet": "fotografie",
+   "haus": "L.art Vienna",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "url": "https://www.l-art.at/de/workshop",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://www.l-art.at/de/ausstellungen",
+   "eintritt": "kostenlos im Rahmen der Evaluation",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  },
+  {
+   "titel": "Mario Dalpra & Flavia Mazzanti",
+   "untertitel": "Mit Mario Dalpra und Flavia Mazzanti begrüßt die L.art Galerie zwei neue Künstler in ihrem Programm.",
+   "beginn": "2026-07-10",
+   "ende": "2026-08-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "L.art Vienna",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Mario Dalpra",
+    "Flavia Mazzanti"
+   ],
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.l-art.at/de/startseiten-inhalt/current-exhibition",
+   "quelle": "https://www.l-art.at/de/startseiten-inhalt/current-exhibition",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

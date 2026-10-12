@@ -1,0 +1,35 @@
+{
+ "domain": "schaulager.org",
+ "website": "https://www.schaulager.org",
+ "haeuser": [
+  {
+   "id": "Q666572",
+   "name": "Schaulager"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Schaulager",
+   "titel": "Die Sammlung der Emanuel Hoffmann-Stiftung",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Zeitgenössische Kunst, offen gelagert und zugänglich",
+   "kuenstler": [
+    "Robert Delaunay",
+    "Paul Klee",
+    "Max Ernst",
+    "Joseph Beuys",
+    "Bruce Nauman"
+   ],
+   "url": "https://schaulager.org/de/schaulager/sammlung",
+   "quelle": "https://schaulager.org/de/schaulager/sammlung"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://schaulager.org/de/schaulager/sammlung"
+ ],
+ "abgerufen": "2026-10-12T08:14:30",
+ "status": "ok"
+}

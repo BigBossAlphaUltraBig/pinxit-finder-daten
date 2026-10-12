@@ -1,0 +1,27 @@
+{
+ "domain": "galerieneu.net",
+ "website": "http://galerieneu.net",
+ "haeuser": {
+  "Galerie Neu": {
+   "haus": "Galerie Neu",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://galerieneu.net/contact/imprint",
+   "quelle": "https://galerieneu.net/contact/imprint"
+  }
+ },
+ "seiten": [
+  "https://galerieneu.net/",
+  "https://galerieneu.net/contact/imprint"
+ ],
+ "abgerufen": "2026-10-12T07:35:30",
+ "status": "ok"
+}

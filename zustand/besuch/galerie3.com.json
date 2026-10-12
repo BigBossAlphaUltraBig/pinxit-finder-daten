@@ -1,0 +1,26 @@
+{
+ "domain": "galerie3.com",
+ "website": "https://galerie3.com",
+ "haeuser": {
+  "Galerie3": {
+   "haus": "Galerie3",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "sowie nach Vereinbarung",
+   "quelle": "https://galerie3.com/"
+  }
+ },
+ "seiten": [
+  "https://galerie3.com/"
+ ],
+ "abgerufen": "2026-10-12T07:34:58",
+ "status": "ok"
+}

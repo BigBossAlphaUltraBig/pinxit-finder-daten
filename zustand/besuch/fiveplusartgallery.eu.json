@@ -1,0 +1,25 @@
+{
+ "domain": "fiveplusartgallery.eu",
+ "website": "https://www.fiveplusartgallery.eu",
+ "haeuser": {
+  "Five Plus Art Gallery": {
+   "haus": "Five Plus Art Gallery",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "12:00-18:00",
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "11:30-18:30",
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "quelle": "https://fiveplusartgallery.eu/"
+  }
+ },
+ "seiten": [
+  "https://fiveplusartgallery.eu/"
+ ],
+ "abgerufen": "2026-10-12T07:34:21",
+ "status": "unvollständig"
+}

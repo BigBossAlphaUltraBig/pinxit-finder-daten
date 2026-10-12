@@ -1,0 +1,40 @@
+{
+ "domain": "pingrodach.com",
+ "website": "https://pingrodach.com",
+ "haeuser": "Ping Rodach Contemporary",
+ "land": "DE",
+ "ids": "galerie-ping-rodach-contemporary-muenchen",
+ "status": "ok",
+ "seiten": [
+  "https://pingrodach.com/exhibitions/",
+  "https://pingrodach.com/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "BLENDZEIT",
+   "untertitel": "Herlinde Koelbl",
+   "beginn": "2026-09-16",
+   "ende": "2026-10-13",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Ping Rodach Contemporary",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Fotografische Werkgruppen über den Blick und die Wahrnehmung des Menschen",
+   "kuenstler": [
+    "Herlinde Koelbl"
+   ],
+   "url": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Herlinde Koelbl",
+   "quelle": "https://pingrodach.com/",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

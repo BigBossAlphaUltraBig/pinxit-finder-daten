@@ -1,0 +1,29 @@
+{
+ "domain": "museum-brandhorst.de",
+ "website": "http://www.museum-brandhorst.de/",
+ "haeuser": {
+  "Museum Brandhorst": {
+   "haus": "Museum Brandhorst",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-20:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "7 €",
+   "eintritt_ermaessigt": "5 €",
+   "frei_fuer": "unter 18 Jahren",
+   "frei_wann": "Sonntags (1 €)",
+   "quelle": "https://www.museum-brandhorst.de/info-tickets/"
+  }
+ },
+ "seiten": [
+  "https://www.museum-brandhorst.de/info-tickets/"
+ ],
+ "abgerufen": "2026-10-12T08:08:54",
+ "status": "ok"
+}

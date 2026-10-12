@@ -1,0 +1,29 @@
+{
+ "domain": "spsg.de",
+ "website": "https://www.spsg.de/schloesser-gaerten/objekt/jagdschloss-grunewald/",
+ "haeuser": {
+  "Jagdschloss Grunewald": {
+   "haus": "Jagdschloss Grunewald",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.spsg.de/schloesser-gaerten/oeffnungszeiten",
+   "quelle": "https://www.spsg.de/schloesser-gaerten/objekt/jagdschloss-grunewald/",
+   "hinweis_oeffnung": "Ab 2. November 2026 geschlossen wegen Instandsetzungsarbeiten (voraussichtlich bis April 2027)"
+  }
+ },
+ "seiten": [
+  "https://www.spsg.de/schloesser-gaerten/oeffnungszeiten",
+  "https://www.spsg.de/gruppenangebote/ihr-besuch-als-gruppe",
+  "https://www.spsg.de/schloesser-gaerten/objekt/jagdschloss-grunewald/"
+ ],
+ "abgerufen": "2026-10-08T18:07:11",
+ "status": "unvollständig"
+}

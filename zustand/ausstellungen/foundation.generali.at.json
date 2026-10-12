@@ -1,0 +1,84 @@
+{
+ "domain": "foundation.generali.at",
+ "website": "https://foundation.generali.at/en/",
+ "haeuser": "Generali Foundation",
+ "land": "AT",
+ "ids": "Q375712",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://foundation.generali.at/en/exhibitions/",
+  "https://foundation.generali.at/en/exhibitions/stano-filko-12-chakras-of-becoming/"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "12 Chakras of Becoming",
+   "untertitel": "The first museum retrospective... ",
+   "beginn": "2026-04-03",
+   "ende": "2027-07-02",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Generali Foundation",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Stano Filko",
+   "kuenstler": [
+    "Stano Filko"
+   ],
+   "anderer_ort": "Museum der Moderne Salzburg, Mönchsberg",
+   "url": "https://foundation.generali.at/en/exhibitions/stano-filko-12-chakras-of-becoming/",
+   "eroeffnung": null,
+   "quelle": "https://foundation.generali.at/en/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Museum der Moderne Salzburg, Mönchsberg"
+  },
+  {
+   "titel": "Figures of Thought",
+   "untertitel": "Ernst Caramelle",
+   "beginn": "2026-07-03",
+   "ende": "2027-05-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Generali Foundation",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Ernst Caramelle",
+   "kuenstler": [
+    "Ernst Caramelle"
+   ],
+   "anderer_ort": "Museum der Moderne Salzburg, Rupertinum, Generali Foundation Study Center",
+   "url": "https://foundation.generali.at/en/exhibitions/ernst-caramelle-denkfiguren/",
+   "eroeffnung": null,
+   "quelle": "https://foundation.generali.at/en/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Museum der Moderne Salzburg, Rupertinum, Generali Foundation Study Center"
+  },
+  {
+   "titel": "Stano Filko",
+   "untertitel": "12 Chakras of Becoming",
+   "beginn": "2026-04-03",
+   "ende": "2027-07-02",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Generali Foundation",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": "Museum der Moderne Salzburg",
+   "kuenstler": [
+    "Stano Filko"
+   ],
+   "eroeffnung": null,
+   "url": "https://foundation.generali.at/en/exhibitions/stano-filko-12-chakras-of-becoming/",
+   "quelle": "https://foundation.generali.at/en/exhibitions/stano-filko-12-chakras-of-becoming/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Museum der Moderne Salzburg"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

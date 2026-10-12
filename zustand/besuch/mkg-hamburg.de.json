@@ -1,0 +1,30 @@
+{
+ "domain": "mkg-hamburg.de",
+ "website": "https://www.mkg-hamburg.de/",
+ "haeuser": {
+  "Museum für Kunst und Gewerbe Hamburg": {
+   "haus": "Museum für Kunst und Gewerbe Hamburg",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-21:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_regulaer": "14 Euro",
+   "eintritt_ermaessigt": "8 Euro",
+   "eintritt_immer_frei": false,
+   "frei_fuer": "unter 18 Jahren",
+   "frei_wann": "erster Donnerstag im Monat ab 18:00 Uhr",
+   "hinweis_oeffnung": "Donnerstag an Feiertagen 10-18 Uhr statt 10-21 Uhr",
+   "quelle": "https://www.mkg-hamburg.de/besuch"
+  }
+ },
+ "seiten": [
+  "https://www.mkg-hamburg.de/besuch"
+ ],
+ "abgerufen": "2026-10-12T08:08:36",
+ "status": "ok"
+}

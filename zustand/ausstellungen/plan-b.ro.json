@@ -1,0 +1,86 @@
+{
+ "domain": "plan-b.ro",
+ "website": "http://www.plan-b.ro",
+ "haeuser": "Galeria Plan B",
+ "land": "DE",
+ "ids": "galerie-galeria-plan-b-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://www.plan-b.ro/exhibition/achraf-touloub-2026/",
+  "https://www.plan-b.ro/upcoming/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Pleiades",
+   "untertitel": "Pléiades",
+   "beginn": "2026-09-10",
+   "ende": "2026-11-14",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galeria Plan B",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Achraf Touloub"
+   ],
+   "einzelausstellung_von": "Achraf Touloub",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.plan-b.ro/exhibition/achraf-touloub-2026/",
+   "quelle": "https://www.plan-b.ro/exhibition/achraf-touloub-2026/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Achraf Touloub",
+   "untertitel": "Pleiades",
+   "beginn": "2026-09-10",
+   "ende": "2026-11-14",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galeria Plan B",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Achraf Touloub",
+   "kuenstler": [
+    "Achraf Touloub"
+   ],
+   "gemeinfrei": false,
+   "url": "https://www.plan-b.ro/exhibition/achraf-touloub-2026/",
+   "quelle": "https://www.plan-b.ro/exhibition/achraf-touloub-2026/",
+   "eroeffnung": null,
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "PAINTPUSHER",
+   "untertitel": null,
+   "beginn": "2026-11-27",
+   "ende": "2027-02-13",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galeria Plan B",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Navid Nuur"
+   ],
+   "einzelausstellung_von": "Navid Nuur",
+   "anderer_ort": "Berlin",
+   "eroeffnung": null,
+   "url": "https://www.plan-b.ro/exhibition/navid-nuur-paintpusher/",
+   "quelle": "https://www.plan-b.ro/upcoming/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Berlin"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

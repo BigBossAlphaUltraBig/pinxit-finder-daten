@@ -1,0 +1,28 @@
+{
+ "domain": "museen-weil-am-rhein.de",
+ "website": "https://www.museen-weil-am-rhein.de/stapflehus.html",
+ "haeuser": {
+  "Stapflehus": {
+   "haus": "Stapflehus",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.museen-weil-am-rhein.de/oeffnungszeiten.html",
+   "hinweis_oeffnung": "Geschlossen an Karfreitag, Heiligabend, Silvester und Neujahr",
+   "quelle": "https://www.museen-weil-am-rhein.de/stapflehus.html"
+  }
+ },
+ "seiten": [
+  "https://www.museen-weil-am-rhein.de/oeffnungszeiten.html",
+  "https://www.museen-weil-am-rhein.de/stapflehus.html"
+ ],
+ "abgerufen": "2026-10-12T08:08:51",
+ "status": "unvollständig"
+}

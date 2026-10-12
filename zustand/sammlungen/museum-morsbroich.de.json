@@ -1,0 +1,35 @@
+{
+ "domain": "museum-morsbroich.de",
+ "website": "http://www.museum-morsbroich.de/",
+ "haeuser": [
+  {
+   "id": "Q2719577",
+   "name": "Museum Morsbroich"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Museum Morsbroich",
+   "titel": "Die Sammlung",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Klassische Avantgarden bis zeitgenössische Kunst",
+   "kuenstler": [
+    "Gerhard Richter",
+    "Lucio Fontana",
+    "Yves Klein",
+    "Otto Piene",
+    "Piero Manzoni"
+   ],
+   "url": "https://www.museum-morsbroich.de/museum/sammlung/",
+   "quelle": "https://www.museum-morsbroich.de/museum/sammlung/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.museum-morsbroich.de/museum/sammlung/"
+ ],
+ "abgerufen": "2026-10-12T08:14:07",
+ "status": "ok"
+}

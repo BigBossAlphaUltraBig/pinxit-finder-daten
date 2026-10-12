@@ -1,0 +1,67 @@
+{
+ "domain": "mggu.de",
+ "website": "https://www.mggu.de/",
+ "haeuser": "Museum Giersch",
+ "land": "DE",
+ "ids": "Q1954440",
+ "status": "ok",
+ "seiten": [
+  "https://www.mggu.de/ausstellungen/",
+  "https://www.mggu.de/ausstellungen/einst-war-ich-aelter/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Einst war ich älter",
+   "untertitel": "Johannes Heisig im Dialog mit Wolfgang Hilbig",
+   "beginn": "2026-10-02",
+   "ende": "2026-10-18",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Giersch",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Johannes Heisig",
+    "Wolfgang Hilbig"
+   ],
+   "url": "https://www.mggu.de/ausstellungen/einst-war-ich-aelter/",
+   "quelle": "https://www.mggu.de/ausstellungen/",
+   "eintritt": "Pay what you want",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "DEEP FIELD",
+   "untertitel": "Die Vermessung des Unvorstellbaren",
+   "beginn": "2026-11-06",
+   "ende": "2027-05-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "sonstiges",
+   "haus": "Museum Giersch",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Katie Paterson",
+    "Armin Linke",
+    "Nina Caviezel",
+    "Estelle Blaschke"
+   ],
+   "url": "https://www.mggu.de/ausstellungen/deep-field/",
+   "quelle": "https://www.mggu.de/ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "keine Kunst (sonstiges)"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

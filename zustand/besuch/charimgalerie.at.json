@@ -1,0 +1,27 @@
+{
+ "domain": "charimgalerie.at",
+ "website": "https://www.charimgalerie.at",
+ "haeuser": {
+  "Charim Galerie": {
+   "haus": "Charim Galerie",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-14:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.charimgalerie.at/contact",
+   "quelle": "https://www.charimgalerie.at/contact"
+  }
+ },
+ "seiten": [
+  "https://www.charimgalerie.at/",
+  "https://www.charimgalerie.at/contact"
+ ],
+ "abgerufen": "2026-10-12T07:33:28",
+ "status": "ok"
+}

@@ -1,0 +1,25 @@
+{
+ "domain": "barbarawien.de",
+ "website": "http://www.barbarawien.de",
+ "haeuser": {
+  "Barbara Wien": {
+   "haus": "Barbara Wien",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://www.barbarawien.de/"
+  }
+ },
+ "seiten": [
+  "https://www.barbarawien.de/"
+ ],
+ "abgerufen": "2026-10-12T07:32:54",
+ "status": "unvollständig"
+}

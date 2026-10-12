@@ -1,0 +1,27 @@
+{
+ "domain": "gregorstaiger.com",
+ "website": "https://www.gregorstaiger.com",
+ "haeuser": {
+  "Galerie Gregor Staiger": {
+   "haus": "Galerie Gregor Staiger",
+   "oeffnungszeiten": {
+    "di": "12:00-18:00",
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "11:00-17:00",
+    "mo": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://galerie.gregorstaiger.com/CONTACT",
+   "quelle": "https://galerie.gregorstaiger.com/CONTACT"
+  }
+ },
+ "seiten": [
+  "https://galerie.gregorstaiger.com/EXHIBITIONS",
+  "https://galerie.gregorstaiger.com/CONTACT"
+ ],
+ "abgerufen": "2026-10-12T07:36:13",
+ "status": "ok"
+}

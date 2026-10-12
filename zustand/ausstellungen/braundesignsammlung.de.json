@@ -1,0 +1,55 @@
+{
+ "domain": "braundesignsammlung.de",
+ "website": "https://www.braundesignsammlung.de/",
+ "haeuser": "Braun-Sammlung Ettel",
+ "land": "DE",
+ "ids": "Q131542539",
+ "status": "ok",
+ "seiten": [
+  "https://braundesignmuseum.de/posts/special-exhibitions",
+  "https://braundesignmuseum.de/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Braun-Sammlung Ettel",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "fachgebiet": "design",
+   "haus": "Braun-Sammlung Ettel",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": "Designprodukte der Firma Braun, Audiogeräte und Haushaltsdesign",
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "kuenstler": [],
+   "anderer_ort": null,
+   "url": "https://braundesignmuseum.de/collection",
+   "quelle": "https://braundesignmuseum.de/",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Braun Design Sammlung",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "fachgebiet": "design",
+   "haus": "Braun-Sammlung Ettel",
+   "rang": 1,
+   "epoche": "moderne",
+   "kuenstler": [],
+   "gemeinfrei": false,
+   "schwerpunkt": "Industriedesign und Elektronikprodukte der Marke Braun",
+   "url": "https://braundesignmuseum.de/collection",
+   "quelle": "https://braundesignmuseum.de/",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

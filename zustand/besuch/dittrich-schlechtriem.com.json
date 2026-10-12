@@ -1,0 +1,28 @@
+{
+ "domain": "dittrich-schlechtriem.com",
+ "website": "http://www.dittrich-schlechtriem.com",
+ "haeuser": {
+  "Dittrich & Schlechtriem": {
+   "haus": "Dittrich & Schlechtriem",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "Die Website nennt unterschiedliche Öffnungszeiten für Berlin (Di-Sa) und Köln (Do-Sa), ohne Eintrittsinformationen",
+   "bessere_seite": "https://dittrich-schlechtriem.com/about/",
+   "quelle": "https://dittrich-schlechtriem.com/about/"
+  }
+ },
+ "seiten": [
+  "https://dittrich-schlechtriem.com/",
+  "https://dittrich-schlechtriem.com/about/"
+ ],
+ "abgerufen": "2026-10-12T07:33:54",
+ "status": "ok"
+}

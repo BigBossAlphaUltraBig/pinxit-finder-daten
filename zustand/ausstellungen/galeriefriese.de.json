@@ -1,0 +1,95 @@
+{
+ "domain": "galeriefriese.de",
+ "website": "https://www.galeriefriese.de",
+ "haeuser": "Galerie Friese",
+ "land": "DE",
+ "ids": "galerie-galerie-friese-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://www.galeriefriese.de/category/ausstellung/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "URFORM",
+   "untertitel": null,
+   "kuenstler": [
+    "Claire de Santa Coloma"
+   ],
+   "beginn": "2026-09-11",
+   "ende": "2026-11-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Friese",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-09-11",
+   "anderer_ort": null,
+   "url": "https://www.galeriefriese.de/urform/",
+   "quelle": "https://www.galeriefriese.de/category/ausstellung/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "O.T. (1-60/ 90_2026)",
+   "untertitel": null,
+   "einzelausstellung_von": "Franziska Holstein",
+   "kuenstler": [
+    "Franziska Holstein"
+   ],
+   "beginn": "2026-09-11",
+   "ende": "2026-11-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Friese",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.galeriefriese.de/o_t_1_bis_60-90_2026/",
+   "quelle": "https://www.galeriefriese.de/category/ausstellung/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "SELF STUDIES",
+   "untertitel": "Die Ausstellung Self Studies zeigt zehn Künstlerinnen verschiedener Generationen, in deren Arbeit die Erforschung des Selbst zum Gegenstand wird – in Malerei, Zeichnung, Keramik und Textil.",
+   "kuenstler": [
+    "Jessica Jane Charleston",
+    "Madeline Donahue",
+    "Ambra Durante",
+    "Asana Fujikawa",
+    "Romane Holderried Kaesdorf",
+    "Karin Kneffel",
+    "Nana Mandl",
+    "Caterina Renaux Hering",
+    "Babette Semmer",
+    "Jenny Watson"
+   ],
+   "beginn": "2026-07-04",
+   "ende": "2026-08-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Friese",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.galeriefriese.de/self_studies/",
+   "quelle": "https://www.galeriefriese.de/category/ausstellung/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

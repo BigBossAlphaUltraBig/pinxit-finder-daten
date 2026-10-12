@@ -1,0 +1,31 @@
+{
+ "domain": "museum-kleihues-bau.kornwestheim.de",
+ "website": "https://museum-kleihues-bau.kornwestheim.de/start.html",
+ "haeuser": {
+  "Museum im Kleihues-Bau": {
+   "haus": "Museum im Kleihues-Bau",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "6,00 EUR",
+   "eintritt_ermaessigt": "4,00 EUR",
+   "frei_fuer": "unter 18 Jahren",
+   "bessere_seite": "https://museum-kleihues-bau.kornwestheim.de/start/besucherinfo/oeffnungszeiten.html",
+   "quelle": "https://museum-kleihues-bau.kornwestheim.de/start.html"
+  }
+ },
+ "seiten": [
+  "https://museum-kleihues-bau.kornwestheim.de/start/besucherinfo/oeffnungszeiten.html",
+  "https://museum-kleihues-bau.kornwestheim.de/start/besucherinfo/eintrittspreise.html",
+  "https://museum-kleihues-bau.kornwestheim.de/start.html"
+ ],
+ "abgerufen": "2026-10-12T08:09:17",
+ "status": "unvollständig"
+}

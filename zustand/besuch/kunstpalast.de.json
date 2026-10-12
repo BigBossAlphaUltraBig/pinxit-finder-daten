@@ -1,0 +1,29 @@
+{
+ "domain": "kunstpalast.de",
+ "website": "https://www.kunstpalast.de/",
+ "haeuser": {
+  "Museum Kunstpalast": {
+   "haus": "Museum Kunstpalast",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-21:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": "11:00-18:00"
+   },
+   "eintritt_regulaer": "17 €",
+   "eintritt_ermaessigt": "13 €",
+   "frei_fuer": "Kinder und Jugendliche unter 18 Jahren; Mitglieder des Freundeskreises",
+   "frei_wann": "jeden 1. Donnerstag im Monat von 18–21 Uhr (außer feiertags); mittwochs 9 € (14–18 Uhr, außer feiertags)",
+   "eintritt_immer_frei": false,
+   "quelle": "https://www.kunstpalast.de/de/besuch/"
+  }
+ },
+ "seiten": [
+  "https://www.kunstpalast.de/de/besuch/"
+ ],
+ "abgerufen": "2026-10-12T08:07:25",
+ "status": "ok"
+}

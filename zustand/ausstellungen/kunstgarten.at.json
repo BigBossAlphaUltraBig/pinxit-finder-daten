@@ -1,0 +1,137 @@
+{
+ "domain": "kunstgarten.at",
+ "website": "https://kunstgarten.at/",
+ "haeuser": "kunstGarten. Kulturraum & Open Air Museum",
+ "land": "AT",
+ "ids": "Q87191584",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://kunstgarten.at/events/geplante-ausstellungen-2028/",
+  "https://kunstgarten.at/events/opening-ausstellung-geerdete-illusionen/"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "START AGAIN: NEUE AUSSICHT",
+   "untertitel": "Arbeiten von GUKUBI MATO (Martin Guevara-Kunerth & Tom Biela), Renate Kordon, Monika Schönbacher-Frischenschlager",
+   "beginn": "2026-01-01",
+   "ende": "2026-03-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "kunstGarten. Kulturraum & Open Air Museum",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "GUKUBI MATO",
+    "Martin Guevara-Kunerth",
+    "Tom Biela",
+    "Renate Kordon",
+    "Monika Schönbacher-Frischenschlager"
+   ],
+   "url": null,
+   "quelle": "https://kunstgarten.at/events/geplante-ausstellungen-2028/",
+   "grund": "beendet",
+   "standort": "kunstGarten"
+  },
+  {
+   "titel": "WALDEN",
+   "untertitel": "exhibition zum Tag der Druckkunst Day of Printing",
+   "beginn": "2026-03-15",
+   "ende": "2026-05-11",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "kunstGarten. Kulturraum & Open Air Museum",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": "2023-03-18T16:00",
+   "kuenstler": [
+    "Edith Temmel"
+   ],
+   "url": "https://kunstgarten.at/events/tag-der-druckkunst-rueckblick-und-gegenwart/",
+   "quelle": "https://kunstgarten.at/events/geplante-ausstellungen-2028/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet",
+   "standort": "kunstGarten"
+  },
+  {
+   "titel": "VERFÜHRUNG & WIDERSTAND: Strategien des Überlebens",
+   "untertitel": null,
+   "beginn": "2026-05-01",
+   "ende": "2026-05-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "kunstGarten. Kulturraum & Open Air Museum",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Fatma Abdulhadi",
+    "Mary-Audrey Ramirez",
+    "Thomas Hitchcock"
+   ],
+   "url": null,
+   "quelle": "https://kunstgarten.at/events/geplante-ausstellungen-2028/",
+   "grund": "beendet",
+   "standort": "kunstGarten"
+  },
+  {
+   "titel": "LIKE A FLOWER IN THE LANDSCAPE",
+   "untertitel": "Artists in Residence – verschoben auf September 2027: Tausch mit Alexandra Gschiel & Markus Wilfling (A)",
+   "beginn": "2026-07-01",
+   "ende": "2026-07-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "kunstGarten. Kulturraum & Open Air Museum",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Andrea Bakketun",
+    "Christian Tony Norum"
+   ],
+   "url": null,
+   "quelle": "https://kunstgarten.at/events/geplante-ausstellungen-2028/",
+   "grund": "beendet",
+   "standort": "kunstGarten"
+  },
+  {
+   "titel": "GEERDETE ILLUSIONEN",
+   "untertitel": "Die kleinen Tiere kommen in die Zikkurat",
+   "beginn": "2026-09-01",
+   "ende": "2026-09-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "kunstGarten. Kulturraum & Open Air Museum",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Josef Fürpaß",
+    "Monika Schönbacher-Frischenschlager",
+    "Christine Johanna Ulm"
+   ],
+   "url": "https://kunstgarten.at/events/geerdete-illusionen-4/",
+   "quelle": "https://kunstgarten.at/events/geplante-ausstellungen-2028/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet",
+   "standort": "kunstGarten"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

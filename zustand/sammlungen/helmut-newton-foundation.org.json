@@ -1,0 +1,31 @@
+{
+ "domain": "helmut-newton-foundation.org",
+ "website": "https://www.helmut-newton-foundation.org/",
+ "haeuser": [
+  {
+   "id": "nachtrag-helmut-newton-stiftung",
+   "name": "Helmut Newton Stiftung"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Helmut Newton Stiftung",
+   "titel": "Die Sammlung",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "fotografie",
+   "untertitel": "Werke von Helmut Newton",
+   "kuenstler": [
+    "Helmut Newton"
+   ],
+   "url": "https://newton-foundation.org/ausstellungen-in-der-foundation/",
+   "quelle": "https://newton-foundation.org/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://newton-foundation.org/"
+ ],
+ "abgerufen": "2026-10-12T08:12:36",
+ "status": "ok"
+}

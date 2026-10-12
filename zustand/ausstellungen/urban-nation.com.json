@@ -1,0 +1,58 @@
+{
+ "domain": "urban-nation.com",
+ "website": "https://urban-nation.com/plan-your-visit/",
+ "haeuser": "Urban Nation Museum For Urban Contempory Art",
+ "land": "DE",
+ "ids": "Q111594318",
+ "status": "ok",
+ "seiten": [
+  "https://urban-nation.com/de/ausstellungen/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "LOVE LETTERS TO THE CITY",
+   "untertitel": "",
+   "beginn": "2024-09-14",
+   "ende": "2027-05-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Urban Nation Museum For Urban Contempory Art",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "schwerpunkt": "",
+   "gemeinfrei": false,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "kuenstler": [],
+   "url": "https://urban-nation.com/de/love-letters-to-the-city/",
+   "quelle": "https://urban-nation.com/de/ausstellungen/",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "TALKING… & OTHER BANANA SKINS",
+   "untertitel": "",
+   "beginn": null,
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Urban Nation Museum For Urban Contempory Art",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "schwerpunkt": "",
+   "gemeinfrei": false,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "kuenstler": [],
+   "url": "https://urban-nation.com/de/talking-other-banana-skins/",
+   "quelle": "https://urban-nation.com/de/ausstellungen/",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

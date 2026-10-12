@@ -1,0 +1,29 @@
+{
+ "domain": "makk.de",
+ "website": "https://makk.de/",
+ "haeuser": {
+  "Museum für Angewandte Kunst Köln": {
+   "haus": "Museum für Angewandte Kunst Köln",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "6 €",
+   "eintritt_ermaessigt": "3,50 €",
+   "frei_fuer": "unter 18 Jahren",
+   "hinweis_oeffnung": "Jeden 1. Donnerstag im Monat 10–22 Uhr (KölnTag); Montag geschlossen außer Ostermontag und Pfingstmontag; geschlossen an Heiligabend, Weihnachtstagen, Silvester, Neujahr, Karneval",
+   "quelle": "https://makk.de/besuchen/besuch-vorbereiten/oeffnungszeiten-und-preise"
+  }
+ },
+ "seiten": [
+  "https://makk.de/besuchen/besuch-vorbereiten/oeffnungszeiten-und-preise"
+ ],
+ "abgerufen": "2026-10-12T08:08:15",
+ "status": "ok"
+}

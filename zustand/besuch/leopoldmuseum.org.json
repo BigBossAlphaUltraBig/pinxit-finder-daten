@@ -1,0 +1,26 @@
+{
+ "domain": "leopoldmuseum.org",
+ "website": "https://www.leopoldmuseum.org/en",
+ "haeuser": {
+  "Leopold Museum": {
+   "haus": "Leopold Museum",
+   "oeffnungszeiten": {
+    "mo": "10:00-18:00",
+    "di": "geschlossen",
+    "mi": "10:00-18:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.leopoldmuseum.org/en/visit/tickets",
+   "quelle": "https://www.leopoldmuseum.org/en/visit/opening-hours"
+  }
+ },
+ "seiten": [
+  "https://www.leopoldmuseum.org/en/visit/opening-hours"
+ ],
+ "abgerufen": "2026-10-08T18:06:34",
+ "status": "ok"
+}

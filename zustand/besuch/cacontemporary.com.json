@@ -1,0 +1,26 @@
+{
+ "domain": "cacontemporary.com",
+ "website": "https://www.cacontemporary.com",
+ "haeuser": {
+  "C.A. Contemporary Fine Arts Gallery": {
+   "haus": "C.A. Contemporary Fine Arts Gallery",
+   "oeffnungszeiten": {
+    "mo": "13:00-18:00",
+    "di": "13:00-18:00",
+    "mi": "13:00-18:00",
+    "do": "13:00-18:00",
+    "fr": "13:00-18:00",
+    "sa": "13:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "Öffnung auch nach Vereinbarung möglich",
+   "quelle": "https://cacontemporary.com/"
+  }
+ },
+ "seiten": [
+  "https://cacontemporary.com/"
+ ],
+ "abgerufen": "2026-10-12T08:03:52",
+ "status": "ok"
+}

@@ -1,0 +1,35 @@
+{
+ "domain": "boros-collection.com",
+ "website": "https://boros-collection.com/en/",
+ "haeuser": [
+  {
+   "id": "Q15126890",
+   "name": "Sammlung Boros"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Sammlung Boros",
+   "titel": "Die Sammlung",
+   "untertitel": "Zeitgenössische Kunst aus 1990 bis heute in Sammlungspräsentationen",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "url": "https://boros-collection.com/en/",
+   "kuenstler": [
+    "Tomma Abts",
+    "Jill Mulleady",
+    "Pol Taburet",
+    "Ed Atkins",
+    "Silke Otto-Knapp"
+   ],
+   "quelle": "https://boros-collection.com/en/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://boros-collection.com/en/"
+ ],
+ "abgerufen": "2026-10-08T22:19:03",
+ "status": "ok"
+}

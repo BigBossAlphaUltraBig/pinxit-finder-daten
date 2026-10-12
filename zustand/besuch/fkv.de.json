@@ -1,0 +1,28 @@
+{
+ "domain": "fkv.de",
+ "website": "https://www.fkv.de/",
+ "haeuser": {
+  "Frankfurter Kunstverein": {
+   "haus": "Frankfurter Kunstverein",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "11:00-19:00",
+    "mi": "11:00-19:00",
+    "do": "11:00-21:00",
+    "fr": "11:00-19:00",
+    "sa": "11:00-19:00",
+    "so": "11:00-19:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "10 €",
+   "eintritt_ermaessigt": "6 €",
+   "frei_fuer": "Kinder bis 6 Jahre; Mitglieder des Frankfurter Kunstvereins; Mitglieder eines ADKV-Kunstvereins; Inhaber:innen der MuseumsuferCard oder eines MuseumsuferTickets; Mitglieder von ICOM; Inhaber:innen einer AICA-Karte / Presse; Mitglieder von IKT; Inhaber:innen der Ehrenamtscard; Student:innen und Mitarbeiter:innen der Städelschule; Student:innen und Mitarbeiter:innen der HfG Offenbach; KUFTI",
+   "quelle": "https://www.fkv.de/besucherinformationen/"
+  }
+ },
+ "seiten": [
+  "https://www.fkv.de/besucherinformationen/"
+ ],
+ "abgerufen": "2026-10-12T08:04:37",
+ "status": "ok"
+}

@@ -1,0 +1,28 @@
+{
+ "domain": "fondationbeyeler.ch",
+ "website": "https://www.fondationbeyeler.ch",
+ "haeuser": {
+  "Fondation Beyeler": {
+   "haus": "Fondation Beyeler",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "geschlossen",
+    "mi": "10:00-20:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.fondationbeyeler.ch/de/besuch/tickets",
+   "quelle": "https://www.fondationbeyeler.ch/de/besuch",
+   "hinweis_oeffnung": "Preview Phase ab 26. September 2026 mit speziellen Öffnungszeiten"
+  }
+ },
+ "seiten": [
+  "https://www.fondationbeyeler.ch/de/besuch/oeffnungszeiten",
+  "https://www.fondationbeyeler.ch/de/besuch"
+ ],
+ "abgerufen": "2026-10-12T08:04:40",
+ "status": "ok"
+}

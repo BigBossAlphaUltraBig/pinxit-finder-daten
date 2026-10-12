@@ -1,0 +1,57 @@
+{
+ "domain": "kunstnet.or.at",
+ "website": "http://www.kunstnet.or.at/v+v",
+ "haeuser": "Galerie V&V",
+ "land": "AT",
+ "ids": "galerie-galerie-v-v-wien",
+ "status": "ok",
+ "seiten": [
+  "https://www.kunstnet.at/ausstellungen/ausstellung.html"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Galerie V & V",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "unklar",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie V&V",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": null,
+   "quelle": "https://www.kunstnet.at/ausstellungen/ausstellung.html",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Babsi Daum & Haldis Scheicher",
+   "beginn": "2026-10-03",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie V&V",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Babsi Daum",
+    "Haldis Scheicher"
+   ],
+   "url": "https://www.kunstnet.at/v+v/26_10_03.html",
+   "quelle": "https://www.kunstnet.at/ausstellungen/ausstellung.html",
+   "eroeffnung": "2026-10-03T15:00",
+   "untertitel": "Im Wechselspiel",
+   "detail_geprueft": "2026-10-12",
+   "standort": "Galerie V & V",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

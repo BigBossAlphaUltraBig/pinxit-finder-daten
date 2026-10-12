@@ -1,0 +1,32 @@
+{
+ "domain": "port-lumieres.com",
+ "website": "https://www.port-lumieres.com/",
+ "haeuser": {
+  "Port des Lumières": {
+   "haus": "Port des Lumières",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "19 € (Mo-Fr) / 22 € (Sa-So)",
+   "eintritt_ermaessigt": "17 € (Mo-Fr) / 21 € (Sa-So)",
+   "frei_fuer": "Kinder unter 4 Jahren",
+   "hinweis_oeffnung": "Keine regulären Wochenöffnungszeiten auf der Seite verfügbar, nur Spielzeiten für Ausstellungen (Führungen)",
+   "quelle": "https://www.port-lumieres.com/de",
+   "bessere_seite": "https://www.port-lumieres.com/de/besuch/oeffnungszeiten-und-preise"
+  }
+ },
+ "seiten": [
+  "https://www.port-lumieres.com/de/besuch/oeffnungszeiten-und-preise",
+  "https://www.port-lumieres.com/de/besuch/oeffnungszeiten-und-preise",
+  "https://www.port-lumieres.com/de"
+ ],
+ "abgerufen": "2026-10-12T08:09:56",
+ "status": "unvollständig"
+}

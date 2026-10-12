@@ -1,0 +1,65 @@
+{
+ "domain": "galerie-ruetz.de",
+ "website": "https://galerie-ruetz.de",
+ "haeuser": "Galerie an der Pinakothek der Moderne – Barbara Ruetz",
+ "land": "DE",
+ "ids": "galerie-galerie-an-der-pinakothek-der-moderne-barbara-ruetz-muenchen",
+ "status": "ok",
+ "seiten": [
+  "https://galerie-ruetz.de/ausstellungen/jozek-nowak-2018/",
+  "https://galerie-ruetz.de/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Stefan Gross",
+   "untertitel": null,
+   "beginn": "2026-09-18",
+   "ende": "2026-11-08",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie an der Pinakothek der Moderne – Barbara Ruetz",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Stefan Gross"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://galerie-ruetz.de/ausstellungen/stefan-gross-2026/",
+   "einzelausstellung_von": "Stefan Gross",
+   "quelle": "https://galerie-ruetz.de/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Jürgen Jansen",
+   "untertitel": null,
+   "beginn": "2026-09-18",
+   "ende": "2026-11-08",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie an der Pinakothek der Moderne – Barbara Ruetz",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Jürgen Jansen"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://galerie-ruetz.de/ausstellungen/juergen-jansen-2026/",
+   "einzelausstellung_von": "Jürgen Jansen",
+   "quelle": "https://galerie-ruetz.de/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

@@ -1,0 +1,52 @@
+{
+ "domain": "kunsthalle-schlieren.ch",
+ "website": "http://kunsthalle-schlieren.ch",
+ "haeuser": "Kunsthalle Schlieren",
+ "land": "CH",
+ "ids": "Q130247734",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://kunsthalle-schlieren.ch/echnaton-eine-ausstellung-ueber-das-dasein-in-der-zeit/"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "-ECHNATON-",
+   "untertitel": "eine Ausstellung über das Dasein in der Zeit",
+   "kuenstler": [
+    "Gabi Blum",
+    "Jürgen von Dückerhoff",
+    "David Lynch",
+    "Alfred Preisig",
+    "Sebastian Sieber",
+    "Judith Neunhäuserer",
+    "Thomas Blumer",
+    "Romeo Grünfelder",
+    "André Wnendt",
+    "Susanne Hofer",
+    "Matthew Barney",
+    "Maximilian Bernhard",
+    "Andy Hope 1930",
+    "Eliane Rutishauser",
+    "Sebastian Zarius"
+   ],
+   "beginn": "2026-06-28",
+   "ende": "2026-09-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthalle Schlieren",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "url": "https://kunsthalle-schlieren.ch/echnaton-eine-ausstellung-ueber-das-dasein-in-der-zeit/",
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://kunsthalle-schlieren.ch/echnaton-eine-ausstellung-ueber-das-dasein-in-der-zeit/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

@@ -1,0 +1,27 @@
+{
+ "domain": "klemms-berlin.com",
+ "website": "http://www.klemms-berlin.com",
+ "haeuser": {
+  "Klemm's": {
+   "haus": "Klemm's",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.klemms-berlin.com/gallery/",
+   "quelle": "https://www.klemms-berlin.com/gallery/"
+  }
+ },
+ "seiten": [
+  "https://www.klemms-berlin.com/",
+  "https://www.klemms-berlin.com/gallery/"
+ ],
+ "abgerufen": "2026-10-12T07:36:39",
+ "status": "unvollständig"
+}

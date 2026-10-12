@@ -1,0 +1,68 @@
+{
+ "domain": "bernerdesignstiftung.ch",
+ "website": "https://www.bernerdesignstiftung.ch",
+ "haeuser": "Berner Designstiftung (ehemals Bernische Stiftung für angewandte Kunst und Gestaltung)",
+ "land": "CH",
+ "ids": "Q19362470",
+ "status": "ok",
+ "seiten": [
+  "https://bernerdesignstiftung.ch/de/bestform/",
+  "https://bernerdesignstiftung.ch/de/designerinnen/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Bestform 2026",
+   "untertitel": "Die Berner Design Stiftung präsentiert in der jährlich stattfindenden Ausstellung Bestform die Projekte der von ihr geförderten Designer:innen",
+   "beginn": null,
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "design",
+   "haus": "Berner Designstiftung (ehemals Bernische Stiftung für angewandte Kunst und Gestaltung)",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://bernerdesignstiftung.ch/de/bestform/bestform-2026/",
+   "kuenstler": [
+    "Andrea Dreier",
+    "Andri Oppliger",
+    "Beat Baumgartner",
+    "Carolien Janssens",
+    "Jens Rossell",
+    "Sebastian Steinemann",
+    "Manfei Li",
+    "Max Jeann",
+    "NINA YUUN",
+    "Vincent Grand"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://bernerdesignstiftung.ch/de/bestform/",
+   "detail_geprueft": "2026-10-12",
+   "standort": "Berner Designstiftung"
+  },
+  {
+   "titel": "Sammlung angewandte Kunst Kanton Bern",
+   "untertitel": "",
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "fachgebiet": "design",
+   "haus": "Berner Designstiftung (ehemals Bernische Stiftung für angewandte Kunst und Gestaltung)",
+   "rang": 2,
+   "epoche": "gemischt",
+   "gemeinfrei": true,
+   "schwerpunkt": "Objekte aus über 150 Jahren angewandter Kunst",
+   "url": "https://bernerdesignstiftung.ch/de/sammlung/",
+   "kuenstler": [],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://bernerdesignstiftung.ch/de/bestform/",
+   "standort": "Berner Designstiftung"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

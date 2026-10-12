@@ -1,0 +1,28 @@
+{
+ "domain": "galeriekaufmann.de",
+ "website": "https://galeriekaufmann.de",
+ "haeuser": {
+  "Galerie Kaufmann": {
+   "haus": "Galerie Kaufmann",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": "12:00-15:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://galeriekaufmann.de/kontakt/",
+   "quelle": "https://galeriekaufmann.de/kontakt/",
+   "hinweis_oeffnung": "Weitere Termine auf Anfrage"
+  }
+ },
+ "seiten": [
+  "https://galeriekaufmann.de/",
+  "https://galeriekaufmann.de/kontakt/"
+ ],
+ "abgerufen": "2026-10-12T07:35:15",
+ "status": "unvollständig"
+}

@@ -1,0 +1,77 @@
+{
+ "domain": "museum-ludwig.de",
+ "website": "http://www.museum-ludwig.de/",
+ "haeuser": "Museum Ludwig",
+ "land": "DE",
+ "ids": "Q703640",
+ "status": "ok",
+ "seiten": [
+  "https://www.museum-ludwig.de/de/ausstellungen",
+  "https://www.museum-ludwig.de/de/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Collecting Memories from Turtle Island",
+   "untertitel": "HIER UND JETZT IM MUSEUM LUDWIG – DE/",
+   "beginn": "2026-04-07",
+   "ende": "2026-11-08",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Ludwig",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "",
+   "url": "https://www.museum-ludwig.de/de/ausstellungen/hier-und-jetzt-im-museum-ludwig-de/collecting-memories-from-turtle-island",
+   "kuenstler": [],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://www.museum-ludwig.de/de/"
+  },
+  {
+   "titel": "Schultze Projects #5",
+   "untertitel": "Jana Euler",
+   "beginn": "2026-07-18",
+   "ende": "2028-07-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Ludwig",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "",
+   "url": "https://www.museum-ludwig.de/de/ausstellungen/schultze-projects-5-jana-euler",
+   "kuenstler": [
+    "Jana Euler"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Jana Euler",
+   "quelle": "https://www.museum-ludwig.de/de/"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Sammlung Fotografie: Zweimal Deutschland um 1980",
+   "untertitel": "Präsentation in den Fotoräumen",
+   "beginn": "2026-04-18",
+   "ende": "2026-10-11",
+   "art": "sammlungspraesentation",
+   "fachgebiet": "fotografie",
+   "haus": "Museum Ludwig",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Fotografie der 1980er Jahre aus Ost- und Westdeutschland",
+   "url": "https://www.museum-ludwig.de/de/ausstellungen/sammlung-fotografie-zweimal-deutschland-um-1980",
+   "kuenstler": [],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://www.museum-ludwig.de/de/",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

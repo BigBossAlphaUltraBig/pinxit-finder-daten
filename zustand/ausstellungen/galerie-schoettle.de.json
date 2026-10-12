@@ -1,0 +1,91 @@
+{
+ "domain": "galerie-schoettle.de",
+ "website": "https://galerie-schoettle.de",
+ "haeuser": "Galerie Rüdiger Schöttle",
+ "land": "DE",
+ "ids": "node/3740121306",
+ "status": "ok",
+ "seiten": [
+  "https://galerie-schoettle.de/exhibitions/",
+  "https://galerie-schoettle.de/exhibitions/412-where-is-the-sky-elger-esser-annabell-hafner-goshka-macuga-maximilian-rodel/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Vom Feld über die Hand in die Vase",
+   "untertitel": "Vom Feld über die Hand in die Vase",
+   "beginn": "2026-09-18",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Rüdiger Schöttle",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Sławomir Elsner"
+   ],
+   "eroeffnung": null,
+   "einzelausstellung_von": "Sławomir Elsner",
+   "anderer_ort": null,
+   "url": "https://galerie-schoettle.de/exhibitions/411-sawomir-elsner-vom-feld-uber-die-hand-in-die-vase/",
+   "quelle": "https://galerie-schoettle.de/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Where is the sky?",
+   "untertitel": null,
+   "beginn": "2026-09-18",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Rüdiger Schöttle",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Elger Esser",
+    "Annabell Häfner",
+    "Goshka Macuga",
+    "Maximilian Rödel",
+    "Anri Sala",
+    "Florian Süssmayr",
+    "Thu-Van Tran",
+    "Chen Wei"
+   ],
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "url": "https://galerie-schoettle.de/exhibitions/412-where-is-the-sky-elger-esser-annabell-hafner-goshka-macuga-maximilian-rodel/",
+   "quelle": "https://galerie-schoettle.de/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Sławomir Elsner",
+   "untertitel": "Vom Feld über die Hand in die Vase",
+   "beginn": "2026-09-18",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Rüdiger Schöttle",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Sławomir Elsner"
+   ],
+   "url": "https://galerie-schoettle.de/exhibitions/411-sawomir-elsner-vom-feld-uber-die-hand-in-die-vase/",
+   "quelle": "https://galerie-schoettle.de/exhibitions/",
+   "eroeffnung": null,
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

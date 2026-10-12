@@ -1,0 +1,150 @@
+{
+ "domain": "malkasten.org",
+ "website": "https://www.malkasten.org/",
+ "haeuser": "Malkasten",
+ "land": "DE",
+ "ids": "node/3051807899",
+ "status": "ok",
+ "seiten": [
+  "https://malkasten.org/programm/?tab=aktuell&filter=ausstellung",
+  "https://malkasten.org/programm/?tab=aktuell"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Break Up. No place to sit and talk.",
+   "untertitel": "",
+   "beginn": "2026-09-01",
+   "ende": "2026-11-23",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Malkasten",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Anna Möller"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-01",
+   "url": null,
+   "quelle": "https://malkasten.org/programm/?tab=aktuell&filter=ausstellung"
+  },
+  {
+   "titel": "RAGE/bait",
+   "untertitel": "",
+   "beginn": "2026-09-01",
+   "ende": "2026-11-02",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Malkasten",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Leya Christin Wüllner",
+    "Charlotte Steiger"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-01",
+   "url": null,
+   "quelle": "https://malkasten.org/programm/?tab=aktuell&filter=ausstellung"
+  },
+  {
+   "titel": ".PSF 0219",
+   "untertitel": "",
+   "beginn": "2026-08-04",
+   "ende": "2026-11-02",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Malkasten",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Lucien Liebecke"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": null,
+   "quelle": "https://malkasten.org/programm/?tab=aktuell&filter=ausstellung"
+  },
+  {
+   "titel": "Die Namen",
+   "untertitel": "",
+   "beginn": "2026-07-07",
+   "ende": "2026-12-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Malkasten",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Michel Sauer"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": "2026-07-07",
+   "url": null,
+   "quelle": "https://malkasten.org/programm/?tab=aktuell&filter=ausstellung"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Garten der Möglichkeiten",
+   "untertitel": "",
+   "beginn": "2026-10-04",
+   "ende": "2027-02-23",
+   "art": "wechselausstellung",
+   "fachgebiet": "natur",
+   "haus": "Malkasten",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Lothar Baumgarten",
+    "Johannes Bendzulla",
+    "Katja Davar",
+    "Elger Esser",
+    "Franz Gertsch",
+    "Christoph Knecht",
+    "Silke Leverkühne",
+    "Rita McBride",
+    "Giuseppe Penone",
+    "Anja Schubert",
+    "Tatjana Valsang"
+   ],
+   "anderer_ort": "Malkastenforum",
+   "eroeffnung": null,
+   "url": null,
+   "quelle": "https://malkasten.org/programm/?tab=aktuell&filter=ausstellung",
+   "grund": "keine Kunst (natur)"
+  },
+  {
+   "titel": "...was sich zeigte",
+   "untertitel": "",
+   "beginn": "2026-10-06",
+   "ende": "2026-11-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Malkasten",
+   "rang": 6,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Ulrike Muenchhoff"
+   ],
+   "anderer_ort": "Jacobihaus",
+   "eroeffnung": "2026-10-06",
+   "url": null,
+   "quelle": "https://malkasten.org/programm/?tab=aktuell&filter=ausstellung",
+   "grund": "anderer Ort: Jacobihaus"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

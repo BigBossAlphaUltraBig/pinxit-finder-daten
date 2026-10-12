@@ -1,0 +1,38 @@
+{
+ "domain": "fffrankfurt.org",
+ "website": "https://www.fffrankfurt.org",
+ "haeuser": "Fotografie Forum Frankfurt",
+ "land": "DE",
+ "ids": "Q61781086",
+ "status": "ok",
+ "seiten": [
+  "https://www.fffrankfurt.org/aktuell/",
+  "https://www.fffrankfurt.org/aktuell/prd.749.tony-rizziwork-hard-dont-lie-and-try-not-to-hurt-anybody-div/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Work Hard, Don't Lie, And Try Not to Hurt Anybody",
+   "untertitel": "Die erste umfassende Einzelausstellung des amerikanischen Tänzers, Choreografen und Fotografen Tony Rizzi.",
+   "beginn": "2026-09-19",
+   "ende": "2027-01-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Fotografie Forum Frankfurt",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Tony Rizzi"
+   ],
+   "einzelausstellung_von": "Tony Rizzi",
+   "eroeffnung": "2026-09-18T19:00",
+   "anderer_ort": null,
+   "url": "https://www.fffrankfurt.org/aktuell/prd.749.tony-rizziwork-hard-dont-lie-and-try-not-to-hurt-anybody-div/",
+   "quelle": "https://www.fffrankfurt.org/aktuell/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

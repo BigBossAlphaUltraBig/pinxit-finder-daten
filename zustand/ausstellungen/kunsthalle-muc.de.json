@@ -1,0 +1,104 @@
+{
+ "domain": "kunsthalle-muc.de",
+ "website": "http://www.kunsthalle-muc.de/",
+ "haeuser": "Kunsthalle der Hypo-Kulturstiftung",
+ "land": "DE",
+ "ids": "Q1367890",
+ "status": "ok",
+ "seiten": [
+  "https://www.kunsthalle-muc.de/informationen/",
+  "https://www.kunsthalle-muc.de/barcelona/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Barcelona moderna",
+   "untertitel": "Von Gaudí bis Picasso",
+   "beginn": "2026-10-23",
+   "ende": "2027-02-21",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthalle der Hypo-Kulturstiftung",
+   "rang": 1,
+   "epoche": "gemischt",
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "gemeinfrei": true,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Antoni Gaudí",
+    "Pablo Picasso"
+   ],
+   "url": "https://www.kunsthalle-muc.de/barcelona/",
+   "quelle": "https://www.kunsthalle-muc.de/informationen/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Herlinde Koelbl. Blickwechsel",
+   "beginn": "2027-03-12",
+   "ende": "2027-08-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Kunsthalle der Hypo-Kulturstiftung",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Herlinde Koelbl",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Herlinde Koelbl"
+   ],
+   "url": "https://www.kunsthalle-muc.de/vorschau/",
+   "quelle": "https://www.kunsthalle-muc.de/informationen/",
+   "untertitel": "Blickwechsel",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "AfterworkKH",
+   "beginn": null,
+   "ende": null,
+   "art": "veranstaltung",
+   "fachgebiet": "sonstiges",
+   "haus": "Kunsthalle der Hypo-Kulturstiftung",
+   "rang": 3,
+   "epoche": "andere",
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "url": "https://www.kunsthalle-muc.de/afterwork/",
+   "quelle": "https://www.kunsthalle-muc.de/informationen/",
+   "untertitel": "Barcelona moderna: Von Gaudí bis Picasso",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  },
+  {
+   "titel": "»Re-Act!« Kunst & Club",
+   "beginn": null,
+   "ende": null,
+   "art": "veranstaltung",
+   "fachgebiet": "sonstiges",
+   "haus": "Kunsthalle der Hypo-Kulturstiftung",
+   "rang": 4,
+   "epoche": "andere",
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "url": "https://www.kunsthalle-muc.de/re-act/",
+   "quelle": "https://www.kunsthalle-muc.de/informationen/",
+   "untertitel": "Kunst & Club",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

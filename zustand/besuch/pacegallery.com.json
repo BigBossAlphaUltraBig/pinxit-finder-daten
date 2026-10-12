@@ -1,0 +1,25 @@
+{
+ "domain": "pacegallery.com",
+ "website": "https://www.pacegallery.com/galleries/berlin/",
+ "haeuser": {
+  "Pace – Die Tankstelle": {
+   "haus": "Pace – Die Tankstelle",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": "11:00-18:00"
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://www.pacegallery.com/galleries/berlin/"
+  }
+ },
+ "seiten": [
+  "https://www.pacegallery.com/galleries/berlin/"
+ ],
+ "abgerufen": "2026-10-12T08:09:46",
+ "status": "ok"
+}

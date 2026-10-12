@@ -1,0 +1,25 @@
+{
+ "domain": "guidowbaudach.com",
+ "website": "http://www.guidowbaudach.com",
+ "haeuser": {
+  "Galerie Guido W. Baudach": {
+   "haus": "Galerie Guido W. Baudach",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://www.guidowbaudach.com/"
+  }
+ },
+ "seiten": [
+  "https://www.guidowbaudach.com/"
+ ],
+ "abgerufen": "2026-10-12T07:36:17",
+ "status": "unvollständig"
+}

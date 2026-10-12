@@ -1,0 +1,28 @@
+{
+ "domain": "exilegallery.org",
+ "website": "https://exilegallery.org",
+ "haeuser": {
+  "Exile": {
+   "haus": "Exile",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://exilegallery.org/about/",
+   "quelle": "https://exilegallery.org/about/",
+   "hinweis_oeffnung": "Galerie geschlossen seit 17.10.2026"
+  }
+ },
+ "seiten": [
+  "https://exilegallery.org/",
+  "https://exilegallery.org/about/"
+ ],
+ "abgerufen": "2026-10-12T07:34:11",
+ "status": "unvollständig"
+}

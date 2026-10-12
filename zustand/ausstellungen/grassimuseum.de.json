@@ -1,0 +1,36 @@
+{
+ "domain": "grassimuseum.de",
+ "website": "http://www.grassimuseum.de/",
+ "haeuser": "GRASSI Museum für Angewandte Kunst Leipzig",
+ "land": "DE",
+ "ids": "Q1543524",
+ "status": "ok",
+ "seiten": [
+  "https://grassi-leipzig.de/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Offene Stadt",
+   "untertitel": "Begehbare Treppenskulptur",
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "GRASSI Museum für Angewandte Kunst Leipzig",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Begehbare Treppenskulptur mit Ausblick über die Dächer des Museums",
+   "einzelausstellung_von": "Thomas Moecker",
+   "kuenstler": [
+    "Thomas Moecker"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://grassi-leipzig.de/",
+   "quelle": "https://grassi-leipzig.de/"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

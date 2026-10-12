@@ -1,0 +1,29 @@
+{
+ "domain": "rhizom.mur.at",
+ "website": "https://rhizom.mur.at/",
+ "haeuser": {
+  "Rhizom": {
+   "haus": "Rhizom",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://rhizom.mur.at/about/",
+   "quelle": "https://rhizom.mur.at/kontakt/"
+  }
+ },
+ "seiten": [
+  "https://rhizom.mur.at/2026-in-utero/",
+  "https://rhizom.mur.at/",
+  "https://rhizom.mur.at/about/",
+  "https://rhizom.mur.at/kontakt/"
+ ],
+ "abgerufen": "2026-10-12T08:10:08",
+ "status": "unvollständig"
+}

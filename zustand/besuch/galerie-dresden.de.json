@@ -1,0 +1,30 @@
+{
+ "domain": "galerie-dresden.de",
+ "website": "https://galerie-dresden.de/",
+ "haeuser": {
+  "Städtische Galerie Dresden": {
+   "haus": "Städtische Galerie Dresden",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_regulaer": "8 €",
+   "eintritt_ermaessigt": "6 €",
+   "frei_fuer": "unter 7 Jahren",
+   "frei_wann": "freitags ab 12:00 Uhr",
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "24., 25., 31. DEZ und 01. JAN abweichend",
+   "quelle": "https://galerie-dresden.de/besuch/oeffnungszeiten-eintritt"
+  }
+ },
+ "seiten": [
+  "https://galerie-dresden.de/besuch/oeffnungszeiten-eintritt"
+ ],
+ "abgerufen": "2026-10-12T08:04:56",
+ "status": "ok"
+}

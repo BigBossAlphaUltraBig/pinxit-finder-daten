@@ -1,0 +1,28 @@
+{
+ "domain": "galerieursmeile.com",
+ "website": "https://www.galerieursmeile.com",
+ "haeuser": {
+  "Galerie Urs Meile (Ankerstrasse)": {
+   "haus": "Galerie Urs Meile (Ankerstrasse)",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-17:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.galerieursmeile.com/about-us/contact",
+   "hinweis_oeffnung": "Öffnungszeiten und Eintritt nicht auf der Startseite verfügbar",
+   "quelle": "https://www.galerieursmeile.com/about-us/contact"
+  }
+ },
+ "seiten": [
+  "https://www.galerieursmeile.com/",
+  "https://www.galerieursmeile.com/about-us/contact"
+ ],
+ "abgerufen": "2026-10-12T07:35:51",
+ "status": "unvollständig"
+}

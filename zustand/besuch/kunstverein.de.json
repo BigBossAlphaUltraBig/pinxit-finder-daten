@@ -1,0 +1,28 @@
+{
+ "domain": "kunstverein.de",
+ "website": "https://www.kunstverein.de/",
+ "haeuser": {
+  "Kunstverein in Hamburg": {
+   "haus": "Kunstverein in Hamburg",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "12:00-18:00",
+    "mi": "12:00-18:00",
+    "do": "12:00-21:00",
+    "fr": "12:00-18:00",
+    "sa": "11:00-18:00",
+    "so": "11:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "5 Euro",
+   "eintritt_ermaessigt": "3 Euro",
+   "frei_fuer": "Kinder und Jugendliche bis 18 Jahre, Mitglieder",
+   "quelle": "https://www.kunstverein.de/institution/visit"
+  }
+ },
+ "seiten": [
+  "https://www.kunstverein.de/institution/visit"
+ ],
+ "abgerufen": "2026-10-12T08:07:43",
+ "status": "ok"
+}

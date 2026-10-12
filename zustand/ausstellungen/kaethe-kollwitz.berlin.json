@@ -1,0 +1,59 @@
+{
+ "domain": "kaethe-kollwitz.berlin",
+ "website": "https://www.kaethe-kollwitz.berlin/",
+ "haeuser": "Käthe-Kollwitz-Museum Berlin",
+ "land": "DE",
+ "ids": "node/9979815161",
+ "status": "ok",
+ "seiten": [
+  "https://www.kaethe-kollwitz.berlin/ausstellungen/",
+  "https://www.kaethe-kollwitz.berlin/ausstellungen/aktuell/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Ida Gerhardi",
+   "untertitel": "„… und alles tanzte!“",
+   "kuenstler": [
+    "Ida Gerhardi"
+   ],
+   "beginn": "2026-08-29",
+   "ende": "2026-11-01",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Käthe-Kollwitz-Museum Berlin",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": true,
+   "schwerpunkt": null,
+   "url": "https://www.kaethe-kollwitz.berlin/aktuelles/ida-gerhardi/",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Ida Gerhardi",
+   "quelle": "https://www.kaethe-kollwitz.berlin/ausstellungen/aktuell/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Käthe Kollwitz – „Aber Kunst ist es doch“",
+   "untertitel": null,
+   "kuenstler": [
+    "Käthe Kollwitz"
+   ],
+   "beginn": "2022-09-24",
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Käthe-Kollwitz-Museum Berlin",
+   "rang": 2,
+   "epoche": "moderne",
+   "gemeinfrei": true,
+   "schwerpunkt": "Grafik, Plastik und Zeichnungen von Käthe Kollwitz",
+   "url": "https://www.kaethe-kollwitz.berlin/aktuelles/kaethe-kollwitz-aber-kunst-ist-es-doch/",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Käthe Kollwitz",
+   "quelle": "https://www.kaethe-kollwitz.berlin/ausstellungen/aktuell/"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

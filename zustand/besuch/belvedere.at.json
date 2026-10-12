@@ -1,0 +1,28 @@
+{
+ "domain": "belvedere.at",
+ "website": "https://www.belvedere.at/en",
+ "haeuser": {
+  "Österreichische Galerie Belvedere": {
+   "haus": "Österreichische Galerie Belvedere",
+   "oeffnungszeiten": {
+    "mo": "09:00-18:00",
+    "di": "09:00-18:00",
+    "mi": "09:00-18:00",
+    "do": "09:00-18:00",
+    "fr": "09:00-18:00",
+    "sa": "09:00-18:00",
+    "so": "09:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "€ 23,00",
+   "bessere_seite": "https://www.belvedere.at/en/visit/upper-belvedere",
+   "quelle": "https://www.belvedere.at/en/visit/upper-belvedere"
+  }
+ },
+ "seiten": [
+  "https://www.belvedere.at/en/visit",
+  "https://www.belvedere.at/en/visit/upper-belvedere"
+ ],
+ "abgerufen": "2026-10-08T18:05:45",
+ "status": "ok"
+}

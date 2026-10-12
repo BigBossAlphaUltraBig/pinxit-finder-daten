@@ -1,0 +1,25 @@
+{
+ "domain": "allyoucanart.de",
+ "website": "https://allyoucanart.de",
+ "haeuser": {
+  "All You Can Art Gallery": {
+   "haus": "All You Can Art Gallery",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": "12:00-17:00",
+    "fr": "12:00-17:00",
+    "sa": "12:00-15:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://www.allyoucanart.de/"
+  }
+ },
+ "seiten": [
+  "https://www.allyoucanart.de/"
+ ],
+ "abgerufen": "2026-10-12T07:32:33",
+ "status": "unvollständig"
+}

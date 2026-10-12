@@ -1,0 +1,60 @@
+{
+ "domain": "mathiasguentner.com",
+ "website": "https://mathiasguentner.com",
+ "haeuser": "Galerie Mathias Güntner",
+ "land": "DE",
+ "ids": "node/4912277543",
+ "status": "ok",
+ "seiten": [
+  "https://www.mathiasguentner.com/ausstellungen/aktuell/",
+  "https://www.mathiasguentner.com/ausstellungen/pose-to-rose/werke/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "POSE TO ROSE",
+   "untertitel": "<UNKNOWN>",
+   "beginn": "2026-09-04",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Mathias Güntner",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Thorsten Brinkmann",
+   "kuenstler": [
+    "Thorsten Brinkmann"
+   ],
+   "anderer_ort": null,
+   "gemeinfrei": false,
+   "eroeffnung": null,
+   "url": "https://www.mathiasguentner.com/ausstellungen/pose-to-rose/werke/",
+   "quelle": "https://www.mathiasguentner.com/ausstellungen/aktuell/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "TROPICAL ISLAND I",
+   "untertitel": "TROPICAL ISLAND I",
+   "beginn": "2026-09-11",
+   "ende": "2026-10-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Mathias Güntner",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Franziska Nast",
+   "kuenstler": [
+    "Franziska Nast"
+   ],
+   "anderer_ort": "Berlin",
+   "gemeinfrei": false,
+   "eroeffnung": null,
+   "url": "https://www.mathiasguentner.com/ausstellungen/tropical-island-i/werke/",
+   "quelle": "https://www.mathiasguentner.com/ausstellungen/aktuell/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Berlin"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:58:30"
+}

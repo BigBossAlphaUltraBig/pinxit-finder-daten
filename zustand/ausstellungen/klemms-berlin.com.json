@@ -1,0 +1,136 @@
+{
+ "domain": "klemms-berlin.com",
+ "website": "http://www.klemms-berlin.com",
+ "haeuser": "Klemm's",
+ "land": "DE",
+ "ids": "galerie-klemm-s-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://www.klemms-berlin.com/exhibitions/",
+  "https://www.klemms-berlin.com/artists/alexej-meschtschanow/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Return to Content a/b",
+   "untertitel": null,
+   "beginn": "2026-09-10",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Klemm's",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Julia Wachtel"
+   ],
+   "einzelausstellung_von": "Julia Wachtel",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.klemms-berlin.com/exhibitions/return-to-content-a-b/",
+   "quelle": "https://www.klemms-berlin.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "tracks, taps",
+   "untertitel": "Klemm's Downstairs",
+   "beginn": "2026-09-10",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Klemm's",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Mia Gap",
+    "Freja Sofie Kirk"
+   ],
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.klemms-berlin.com/exhibitions/tracks-taps/",
+   "quelle": "https://www.klemms-berlin.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Poltergeist Presence",
+   "untertitel": null,
+   "beginn": "2026-10-30",
+   "ende": "2026-12-19",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Klemm's",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Ulrich Gebert"
+   ],
+   "einzelausstellung_von": "Ulrich Gebert",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.klemms-berlin.com/exhibitions/poltergeist-presence/",
+   "quelle": "https://www.klemms-berlin.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Oje oje",
+   "untertitel": "Klemm's Downstairs",
+   "beginn": "2026-10-30",
+   "ende": "2026-12-19",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Klemm's",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Johannes Raimann"
+   ],
+   "einzelausstellung_von": "Johannes Raimann",
+   "eroeffnung": "2026-10-30",
+   "anderer_ort": null,
+   "url": "https://www.klemms-berlin.com/exhibitions/oje-oje/",
+   "quelle": "https://www.klemms-berlin.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Unfolding",
+   "untertitel": "null",
+   "beginn": "2024-09-11",
+   "ende": "2024-10-19",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Klemm's",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "url": "https://www.klemms-berlin.com/exhibitions/18430/",
+   "quelle": "https://www.klemms-berlin.com/artists/alexej-meschtschanow/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

@@ -1,0 +1,135 @@
+{
+ "domain": "bthumm.de",
+ "website": "http://bthumm.de",
+ "haeuser": "Galerie Barbara Thumm",
+ "land": "DE",
+ "ids": "galerie-galerie-barbara-thumm-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://bthumm.de/",
+  "https://bthumm.de/exhibitions/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Poems for Helicopter Blades",
+   "untertitel": null,
+   "beginn": "2026-09-11",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Barbara Thumm",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Fiona Banner aka The Vanity Press"
+   ],
+   "einzelausstellung_von": "Fiona Banner aka The Vanity Press",
+   "eroeffnung": null,
+   "url": "https://bthumm.de/artists/fiona-banner-aka-the-vantiy-press/",
+   "anderer_ort": null,
+   "quelle": "https://bthumm.de/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Carrie Mae Weems",
+   "untertitel": null,
+   "beginn": "2026-09-11",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Galerie Barbara Thumm",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Carrie Mae Weems"
+   ],
+   "einzelausstellung_von": "Carrie Mae Weems",
+   "eroeffnung": null,
+   "url": "https://bthumm.de/artists/carrie-mae-weems/",
+   "anderer_ort": null,
+   "quelle": "https://bthumm.de/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Drunken Boat",
+   "untertitel": "kuratiert von Augusto Arbizo",
+   "beginn": "2026-11-06",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Barbara Thumm",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Anna Jung Seo"
+   ],
+   "einzelausstellung_von": null,
+   "eroeffnung": "2026-11-06T18:00",
+   "url": null,
+   "anderer_ort": null,
+   "quelle": "https://bthumm.de/",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Peter Bonde – New Paintings (keep on keeping on)",
+   "untertitel": "New Paintings (keep on keeping on)",
+   "beginn": "2026-11-06",
+   "ende": "2026-02-28",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Barbara Thumm",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Peter Bonde"
+   ],
+   "einzelausstellung_von": "Peter Bonde",
+   "eroeffnung": "2026-11-06T18:00",
+   "url": "https://bthumm.de/artists/peter-bonde/",
+   "anderer_ort": null,
+   "quelle": "https://bthumm.de/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  },
+  {
+   "titel": "Em torno do Aleph",
+   "untertitel": "Em torno do Aleph",
+   "beginn": "2026-06-27",
+   "ende": "2026-08-01",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Barbara Thumm",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Helcio Barros",
+   "kuenstler": [
+    "Helcio Barros"
+   ],
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "eroeffnung": null,
+   "url": "https://bthumm.de/exhibitions/helcio-barros-em-torno-do-aleph/",
+   "anderer_ort": null,
+   "quelle": "https://bthumm.de/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

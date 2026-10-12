@@ -1,0 +1,25 @@
+{
+ "domain": "societeberlin.com",
+ "website": "http://www.societeberlin.com",
+ "haeuser": {
+  "Société": {
+   "haus": "Société",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://societeberlin.com/"
+  }
+ },
+ "seiten": [
+  "https://societeberlin.com/"
+ ],
+ "abgerufen": "2026-10-12T07:38:31",
+ "status": "ok"
+}

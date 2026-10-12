@@ -1,0 +1,41 @@
+{
+ "domain": "cfa-berlin.de",
+ "website": "http://cfa-berlin.de",
+ "haeuser": "Contemporary Fine Arts",
+ "land": "DE",
+ "ids": "galerie-contemporary-fine-arts-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://cfa-gallery.com/exhibitions/",
+  "https://cfa-gallery.com/exhibitions/the-department-18de1a2b/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "The Department",
+   "untertitel": null,
+   "beginn": "2026-11-07",
+   "ende": "2026-12-19",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Contemporary Fine Arts",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Dana Schutz"
+   ],
+   "eroeffnung": null,
+   "url": "https://cfa-gallery.com/exhibitions/the-department-18de1a2b/",
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://cfa-gallery.com/exhibitions/the-department-18de1a2b/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

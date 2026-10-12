@@ -1,0 +1,65 @@
+{
+ "domain": "hengevossduerkop.de",
+ "website": "https://hengevossduerkop.de",
+ "haeuser": "Hengevoss-Dürkop",
+ "land": "DE",
+ "ids": "galerie-hengevoss-duerkop-hamburg",
+ "status": "ok",
+ "seiten": [
+  "https://hengevossduerkop.de/galerie/?cat=1",
+  "https://hengevossduerkop.de/galerie/?p=9896"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Birds",
+   "untertitel": "Valentin van der Meulen",
+   "beginn": "2026-01-01",
+   "ende": "2026-12-31",
+   "art": "unklar",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Hengevoss-Dürkop",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Valentin van der Meulen"
+   ],
+   "eroeffnung": "2026-05-15T18:00",
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "url": "https://hengevossduerkop.de/galerie/?p=9785",
+   "quelle": "https://hengevossduerkop.de/galerie/?cat=1",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Halber Apfel",
+   "untertitel": "Zeichnung",
+   "beginn": "2026-09-04",
+   "ende": "2026-10-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Hengevoss-Dürkop",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Kyung-Hwa Choi-Ahoi"
+   ],
+   "eroeffnung": null,
+   "einzelausstellung_von": "Kyung-Hwa Choi-Ahoi",
+   "anderer_ort": null,
+   "url": "https://hengevossduerkop.de/galerie/?p=9896",
+   "quelle": "https://hengevossduerkop.de/galerie/?cat=1",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

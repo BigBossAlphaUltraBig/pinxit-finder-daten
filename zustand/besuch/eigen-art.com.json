@@ -1,0 +1,29 @@
+{
+ "domain": "eigen-art.com",
+ "website": "http://www.eigen-art.com",
+ "haeuser": {
+  "Galerie Eigen + Art": {
+   "haus": "Galerie Eigen + Art",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://eigen-art.com/kontakt-anfahrt/",
+   "quelle": "https://eigen-art.com/galerie/team/",
+   "hinweis_oeffnung": "Berlin: Dienstag-Samstag 11:00-18:00; Leipzig: Dienstag-Samstag 11:00-16:00"
+  }
+ },
+ "seiten": [
+  "https://eigen-art.com/",
+  "https://eigen-art.com/start/",
+  "https://eigen-art.com/galerie/team/"
+ ],
+ "abgerufen": "2026-10-12T07:33:59",
+ "status": "ok"
+}

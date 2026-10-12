@@ -1,0 +1,28 @@
+{
+ "domain": "pinakothek-der-moderne.de",
+ "website": "https://www.pinakothek-der-moderne.de/",
+ "haeuser": {
+  "Pinakothek der Moderne": {
+   "haus": "Pinakothek der Moderne",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-20:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "frei_fuer": "Kinder und Jugendliche bis zum vollendeten 18. Lebensjahr; Schüler:innen über 18 Jahren; Studierende Kunst/Kunstgeschichte/Kunstwissenschaften/Kunstpädagogik/Architektur/Design/Graphik; Lehrkräfte bei Schülergruppen; Hochschullehrkräfte bei Lehrveranstaltungen; Begleitpersonen von Schwerbehinderten; Journalist:innen mit Presseausweis; Reiseleiter:innen/Fremdführer:innen; ICOM-Mitglieder; Inhaber:innen Bayerische Ehrenamtskarte; Mitglieder Freundeskreise; MPZ-Mitarbeiter:innen; Träger:innen Bayerischer Verdienstorden/Rettungsmedaille/Maximiliansordens; Mandatsträger:innen und Diplomat:innen",
+   "bessere_seite": "https://www.pinakothek-der-moderne.de/besuch-planen/",
+   "hinweis_oeffnung": "Geschlossen: 24.12., 25.12., 31.12., 01.05., 09.02.2027, 01.11.2027. Sonderöffnung bis 18:00 an: 26.12., 01.01., 06.01., Ostern, Pfingsten, 06.05.2027, 27.05.2027.",
+   "quelle": "https://www.pinakothek-der-moderne.de/sonderoeffnungszeiten-und-ermaessigungen/"
+  }
+ },
+ "seiten": [
+  "https://www.pinakothek-der-moderne.de/sonderoeffnungszeiten-und-ermaessigungen/"
+ ],
+ "abgerufen": "2026-10-12T08:09:50",
+ "status": "ok"
+}

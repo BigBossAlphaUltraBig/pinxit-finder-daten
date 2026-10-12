@@ -1,0 +1,40 @@
+{
+ "domain": "personsprojects.com",
+ "website": "https://personsprojects.com",
+ "haeuser": "Persons Projects",
+ "land": "DE",
+ "ids": "galerie-persons-projects-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://www.personsprojects.com/exhibitions/current"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Rhizome",
+   "untertitel": "Paweł Książek",
+   "kuenstler": [
+    "Paweł Książek"
+   ],
+   "beginn": "2026-09-11",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Persons Projects",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "url": "https://www.personsprojects.com/exhibitions/rhizome",
+   "eroeffnung": "2026-09-10",
+   "einzelausstellung_von": "Paweł Książek",
+   "quelle": "https://www.personsprojects.com/exhibitions/current",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

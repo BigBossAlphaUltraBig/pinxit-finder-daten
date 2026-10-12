@@ -1,0 +1,28 @@
+{
+ "domain": "heckenhauer.net",
+ "website": "https://heckenhauer.net",
+ "haeuser": {
+  "Galerie J.J. Heckenhauer": {
+   "haus": "Galerie J.J. Heckenhauer",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "14:00-18:00",
+    "do": "14:00-18:00",
+    "fr": "14:00-18:00",
+    "sa": "12:00-15:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://heckenhauer.net/contact/",
+   "quelle": "https://heckenhauer.net/contact/",
+   "hinweis_oeffnung": "Nach Vereinbarung möglich. Geschlossen 2.-6. April 2026 (Ostern)."
+  }
+ },
+ "seiten": [
+  "https://heckenhauer.net/",
+  "https://heckenhauer.net/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:36:21",
+ "status": "unvollständig"
+}

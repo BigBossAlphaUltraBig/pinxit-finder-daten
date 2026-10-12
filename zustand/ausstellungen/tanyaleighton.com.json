@@ -1,0 +1,64 @@
+{
+ "domain": "tanyaleighton.com",
+ "website": "http://www.tanyaleighton.com",
+ "haeuser": "Tanya Leighton",
+ "land": "DE",
+ "ids": "galerie-tanya-leighton-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://www.tanyaleighton.com/exhibitions",
+  "https://www.tanyaleighton.com/exhibitions/containing-the-container"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Atsushi Kaga",
+   "untertitel": "",
+   "beginn": "2026-10-16",
+   "ende": null,
+   "art": "unklar",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Tanya Leighton",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Atsushi Kaga",
+   "kuenstler": [
+    "Atsushi Kaga"
+   ],
+   "eroeffnung": "2026-10-16",
+   "anderer_ort": null,
+   "url": null,
+   "quelle": "https://www.tanyaleighton.com/exhibitions",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Containing the Container",
+   "untertitel": "Luisa Rabbia",
+   "beginn": "2026-09-09",
+   "ende": "2026-10-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Tanya Leighton",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Luisa Rabbia",
+   "kuenstler": [
+    "Luisa Rabbia"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.tanyaleighton.com/exhibitions/containing-the-container",
+   "quelle": "https://www.tanyaleighton.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

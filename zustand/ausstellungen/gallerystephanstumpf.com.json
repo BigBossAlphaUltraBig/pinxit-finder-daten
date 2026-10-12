@@ -1,0 +1,47 @@
+{
+ "domain": "gallerystephanstumpf.com",
+ "website": "https://gallerystephanstumpf.com",
+ "haeuser": "Gallery Stephan Stumpf",
+ "land": "DE",
+ "ids": "galerie-gallery-stephan-stumpf-muenchen",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://gallerystephanstumpf.com/exhibitions/"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "DISTURBANCE",
+   "beginn": "2026-09-10",
+   "ende": "2026-10-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Gallery Stephan Stumpf",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Andrea Gallo",
+    "Betty Mü",
+    "Hira Khan",
+    "Hope Bartley",
+    "Jule Behrenswerth",
+    "Liza Mercedes",
+    "Marie Lynn Speckert",
+    "Nae Zerka",
+    "Oskar Rahe",
+    "Raphael Auer",
+    "Susannah Martin"
+   ],
+   "url": "https://gallerystephanstumpf.com/disturbance-gruppenausstellung-gallery-stephan-stumpf/",
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "untertitel": "[group]",
+   "quelle": "https://gallerystephanstumpf.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

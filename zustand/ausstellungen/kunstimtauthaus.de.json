@@ -1,0 +1,39 @@
+{
+ "domain": "kunstimtauthaus.de",
+ "website": "http://www.kunstimtauthaus.de/projektraum/ein-haus-im-weltkulturerbe/",
+ "haeuser": "Tauthaus",
+ "land": "DE",
+ "ids": "node/5477244581",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://www.kunstimtauthaus.de/ausstellungen/wolfgang-lugmair-frank-mahler-steie/"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "Zimmer ohne Wände",
+   "untertitel": "null",
+   "beginn": "2026-10-03",
+   "ende": "2026-10-06",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Tauthaus",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Wolfgang Lugmair",
+    "Frank Mahler-Steier"
+   ],
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": "2026-10-02",
+   "url": "https://www.kunstimtauthaus.de/ausstellungen/wolfgang-lugmair-frank-mahler-steie/",
+   "quelle": "https://www.kunstimtauthaus.de/ausstellungen/wolfgang-lugmair-frank-mahler-steie/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

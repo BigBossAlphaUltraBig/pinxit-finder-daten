@@ -1,0 +1,29 @@
+{
+ "domain": "albertinum.skd.museum",
+ "website": "https://albertinum.skd.museum",
+ "haeuser": {
+  "Albertinum": {
+   "haus": "Albertinum",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-17:00",
+    "mi": "11:00-17:00",
+    "do": "11:00-17:00",
+    "fr": "11:00-17:00",
+    "sa": "11:00-17:00",
+    "so": "11:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "14 €",
+   "eintritt_ermaessigt": "10,50 €",
+   "frei_fuer": "Kinder bis Schuleintritt, Schülerinnen und Schüler (unter 20 Jahre) 2 €",
+   "hinweis_oeffnung": "Reformationstag 31.10.2026 und Buß- und Bettag 18.11.2026 geöffnet 11-17 Uhr",
+   "quelle": "https://albertinum.skd.museum/besuch/"
+  }
+ },
+ "seiten": [
+  "https://albertinum.skd.museum/besuch/"
+ ],
+ "abgerufen": "2026-10-12T08:03:18",
+ "status": "ok"
+}

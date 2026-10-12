@@ -1,0 +1,40 @@
+{
+ "domain": "fabianlang.ch",
+ "website": "https://www.fabianlang.ch",
+ "haeuser": "Galerie Fabian Lang",
+ "land": "CH",
+ "ids": "galerie-galerie-fabian-lang-zuerich",
+ "status": "ok",
+ "seiten": [
+  "https://fabianlang.ch/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "THIS SIDE OF THE MOUNTAIN, THE OTHER SIDE OF THE WATER",
+   "untertitel": null,
+   "beginn": "2026-09-17",
+   "ende": "2026-11-14",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Fabian Lang",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Xiao Guo Hui"
+   ],
+   "einzelausstellung_von": "Xiao Guo Hui",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://fabianlang.ch/artworks-v/xiao-guo-hui",
+   "quelle": "https://fabianlang.ch/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

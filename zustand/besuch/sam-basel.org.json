@@ -1,0 +1,28 @@
+{
+ "domain": "sam-basel.org",
+ "website": "http://www.sam-basel.org/",
+ "haeuser": {
+  "Schweizerisches Architekturmuseum": {
+   "haus": "Schweizerisches Architekturmuseum",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-20:30",
+    "fr": "11:00-18:00",
+    "sa": "11:00-17:00",
+    "so": "11:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "CHF 12.00",
+   "eintritt_ermaessigt": "CHF 8.00",
+   "frei_fuer": "unter 18 Jahren, S AM Mitglieder, Schüler*innen und Studierende von BS und BL, IV-Bezüger*innen und Begleitperson, Personen mit Behinderung und Begleitpersonen, ICOM-Mitglieder und weitere",
+   "quelle": "https://www.sam-basel.org/de/besuch"
+  }
+ },
+ "seiten": [
+  "https://www.sam-basel.org/de/besuch"
+ ],
+ "abgerufen": "2026-10-12T08:10:16",
+ "status": "ok"
+}

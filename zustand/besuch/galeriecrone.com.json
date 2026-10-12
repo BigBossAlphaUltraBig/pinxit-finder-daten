@@ -1,0 +1,28 @@
+{
+ "domain": "galeriecrone.com",
+ "website": "http://galeriecrone.com",
+ "haeuser": {
+  "Crone": {
+   "haus": "Crone",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.galeriecrone.com/berlin",
+   "hinweis_oeffnung": "Öffnungszeiten und Eintrittspreise nicht auf der Startseite angegeben",
+   "quelle": "https://www.galeriecrone.com/berlin"
+  }
+ },
+ "seiten": [
+  "https://www.galeriecrone.com/",
+  "https://www.galeriecrone.com/berlin"
+ ],
+ "abgerufen": "2026-10-12T07:35:03",
+ "status": "unvollständig"
+}

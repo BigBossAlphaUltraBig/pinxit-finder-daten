@@ -1,0 +1,17 @@
+{
+ "domain": "gedok-stuttgart.de",
+ "website": "https://www.gedok-stuttgart.de/",
+ "haeuser": [
+  {
+   "id": "node-9235673428",
+   "name": "Gedok Gemeinschaft der Künstlerinnen und Kunstfreunde e. V."
+  }
+ ],
+ "sammlungen": [],
+ "keine_sammlung": true,
+ "seiten": [
+  "https://www.gedok-stuttgart.de/atelierhaus/galerie/"
+ ],
+ "abgerufen": "2026-10-12T08:12:07",
+ "status": "keine Sammlung"
+}

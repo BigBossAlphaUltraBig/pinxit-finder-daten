@@ -1,0 +1,30 @@
+{
+ "domain": "antikenmuseumbasel.ch",
+ "website": "http://www.antikenmuseumbasel.ch/",
+ "haeuser": {
+  "Antikenmuseum Basel und Sammlung Ludwig": {
+   "haus": "Antikenmuseum Basel und Sammlung Ludwig",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-17:00",
+    "mi": "11:00-17:00",
+    "do": "11:00-17:00",
+    "fr": "11:00-22:00",
+    "sa": "11:00-17:00",
+    "so": "11:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.antikenmuseumbasel.ch/de/ueber-uns.html",
+   "hinweis_oeffnung": "Informationen zu regulären Öffnungszeiten und Eintritt nicht auf der angegebenen Seite verfügbar",
+   "quelle": "https://www.antikenmuseumbasel.ch/de/kalender.html",
+   "eintritt_ermaessigt": "CHF 5",
+   "frei_fuer": "Schulklassen aus BS und BL bis 12 Jahre"
+  }
+ },
+ "seiten": [
+  "https://www.antikenmuseumbasel.ch/de/unsere-raeume.html",
+  "https://www.antikenmuseumbasel.ch/de/kalender.html"
+ ],
+ "abgerufen": "2026-10-12T08:03:28",
+ "status": "ok"
+}

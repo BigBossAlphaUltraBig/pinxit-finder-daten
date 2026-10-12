@@ -1,0 +1,28 @@
+{
+ "domain": "9a-stauffacherplatz.ch",
+ "website": "http://www.9a-stauffacherplatz.ch",
+ "haeuser": {
+  "9a am Stauffacherplatz – das kleine Kunsthaus": {
+   "haus": "9a am Stauffacherplatz – das kleine Kunsthaus",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.9a-stauffacherplatz.ch/",
+   "hinweis_oeffnung": "Website zeigt nur Ausstellungstermine, reguläre Wochenöffnungszeiten nicht verfügbar",
+   "quelle": "https://www.9a-stauffacherplatz.ch/%C3%BCber-uns"
+  }
+ },
+ "seiten": [
+  "https://www.9a-stauffacherplatz.ch/",
+  "https://www.9a-stauffacherplatz.ch/%C3%BCber-uns"
+ ],
+ "abgerufen": "2026-10-12T08:03:18",
+ "status": "unvollständig"
+}

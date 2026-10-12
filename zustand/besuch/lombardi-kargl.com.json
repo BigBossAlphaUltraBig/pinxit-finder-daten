@@ -1,0 +1,28 @@
+{
+ "domain": "lombardi-kargl.com",
+ "website": "https://www.lombardi-kargl.com",
+ "haeuser": {
+  "Lombardi—Kargl": {
+   "haus": "Lombardi—Kargl",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "13:00-19:00",
+    "do": "13:00-19:00",
+    "fr": "13:00-19:00",
+    "sa": "11:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.lombardi-kargl.com/en/contact",
+   "quelle": "https://www.lombardi-kargl.com/en/contact"
+  }
+ },
+ "seiten": [
+  "https://www.lombardi-kargl.com/",
+  "https://www.lombardi-kargl.com/en/locations",
+  "https://www.lombardi-kargl.com/en/contact"
+ ],
+ "abgerufen": "2026-10-12T07:37:02",
+ "status": "unvollständig"
+}

@@ -1,0 +1,41 @@
+{
+ "domain": "galeriekaufmann.de",
+ "website": "https://galeriekaufmann.de",
+ "haeuser": "Galerie Kaufmann",
+ "land": "DE",
+ "ids": "galerie-galerie-kaufmann-hamburg",
+ "status": "ok",
+ "seiten": [
+  "https://galeriekaufmann.de/ausstellungen/",
+  "https://galeriekaufmann.de/exhibition/wild-mind-kind-matter/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Falling Seas",
+   "untertitel": null,
+   "beginn": "2026-09-03",
+   "ende": "2026-10-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Kaufmann",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Abie Franklin"
+   ],
+   "einzelausstellung_von": "Abie Franklin",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://galeriekaufmann.de/ausstellungen/",
+   "quelle": "https://galeriekaufmann.de/ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

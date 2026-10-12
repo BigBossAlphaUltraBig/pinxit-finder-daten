@@ -1,0 +1,173 @@
+{
+ "domain": "kunsthaus.ch",
+ "website": "http://www.kunsthaus.ch/",
+ "haeuser": "Kunsthaus Zürich",
+ "land": "CH",
+ "ids": "Q685038",
+ "status": "ok",
+ "seiten": [
+  "https://www.kunsthaus.ch/besuch-planen/ausstellungen/",
+  "https://www.kunsthaus.ch/besuch-planen/ausstellungen/maria-lassnig-und-edvard-munch/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Vilhelm Hammershøi",
+   "untertitel": "Maler des stillen Klangs",
+   "beginn": null,
+   "ende": "2026-10-25",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthaus Zürich",
+   "rang": 1,
+   "epoche": "19_jahrhundert",
+   "einzelausstellung_von": "Vilhelm Hammershøi",
+   "kuenstler": [
+    "Vilhelm Hammershøi"
+   ],
+   "gemeinfrei": true,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/vilhelm-hammershoi/",
+   "quelle": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Maria Lassnig und Edvard Munch",
+   "untertitel": "Malfluss = Lebensfluss",
+   "beginn": null,
+   "ende": "2027-02-21",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthaus Zürich",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Maria Lassnig",
+    "Edvard Munch"
+   ],
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "schwerpunkt": null,
+   "url": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/maria-lassnig-und-edvard-munch/",
+   "quelle": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/maria-lassnig-und-edvard-munch/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Ikonen",
+   "untertitel": "Ausgewählte Werke der Sammlung",
+   "beginn": null,
+   "ende": "2027-01-10",
+   "art": "sammlungspraesentation",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthaus Zürich",
+   "rang": 2,
+   "epoche": "alte_meister",
+   "einzelausstellung_von": null,
+   "kuenstler": [],
+   "gemeinfrei": true,
+   "schwerpunkt": "Ausgewählte Ikonen aus der eigenen Sammlung",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/ikonen/",
+   "quelle": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/"
+  },
+  {
+   "titel": "Malfluss = Lebensfluss",
+   "untertitel": "Malfluss = Lebensfluss",
+   "beginn": null,
+   "ende": "2027-02-21",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthaus Zürich",
+   "rang": 3,
+   "epoche": "gemischt",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Maria Lassnig",
+    "Edvard Munch"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/maria-lassnig-und-edvard-munch/",
+   "quelle": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "La montaña invertida",
+   "untertitel": "im Rahmen der ReCollect!-Reihe",
+   "beginn": null,
+   "ende": "2026-12-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthaus Zürich",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Wu Tsang",
+   "kuenstler": [
+    "Wu Tsang"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/wu-tsang/",
+   "quelle": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/",
+   "eintritt": "CHF 24.–/17.– (reduziert)",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Residuum",
+   "untertitel": null,
+   "beginn": "2026-11-20",
+   "ende": "2027-01-03",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthaus Zürich",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Ralph Lemon",
+    "Kevin Beasley"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/ralph-lemon-und-kevin-beasley/",
+   "quelle": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Marisol",
+   "untertitel": "Zwischen Pop Art und gesellschaftlicher Kritik",
+   "beginn": "2026-04-17",
+   "ende": "2026-08-23",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthaus Zürich",
+   "rang": 6,
+   "epoche": "moderne",
+   "einzelausstellung_von": "Marisol",
+   "kuenstler": [
+    "Marisol"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/marisol/",
+   "quelle": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

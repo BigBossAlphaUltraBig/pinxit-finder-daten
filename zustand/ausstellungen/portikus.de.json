@@ -1,0 +1,38 @@
+{
+ "domain": "portikus.de",
+ "website": "https://www.portikus.de/",
+ "haeuser": "Portikus",
+ "land": "DE",
+ "ids": "way/39383376",
+ "status": "ok",
+ "seiten": [
+  "https://www.portikus.de/de/exhibitions/",
+  "https://www.portikus.de/de/exhibitions/245-my-skeleton"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "My Skeleton",
+   "untertitel": "Etwas in Worte zu fassen, bedeutet schon seine Grenzen zu ziehen, es durch linguistische und technische Systeme greifbar zu machen.",
+   "beginn": "2026-10-03",
+   "ende": "2027-01-03",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Portikus",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": "2026-10-02T18:00",
+   "kuenstler": [
+    "Kobby Adi"
+   ],
+   "einzelausstellung_von": "Kobby Adi",
+   "url": "https://www.portikus.de/de/exhibitions/245-my-skeleton",
+   "quelle": "https://www.portikus.de/de/exhibitions/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

@@ -1,0 +1,25 @@
+{
+ "domain": "emanuellayr.com",
+ "website": "https://www.emanuellayr.com",
+ "haeuser": {
+  "Layr": {
+   "haus": "Layr",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "12:00-18:00",
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://emanuellayr.com/"
+  }
+ },
+ "seiten": [
+  "https://emanuellayr.com/"
+ ],
+ "abgerufen": "2026-10-12T07:34:05",
+ "status": "ok"
+}

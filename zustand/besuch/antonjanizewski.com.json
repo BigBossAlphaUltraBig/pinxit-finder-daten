@@ -1,0 +1,29 @@
+{
+ "domain": "antonjanizewski.com",
+ "website": "https://antonjanizewski.com",
+ "haeuser": {
+  "Galerie Anton Janizewski": {
+   "haus": "Galerie Anton Janizewski",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://antonjanizewski.com/contact/",
+   "quelle": "https://antonjanizewski.com/exhibitions/"
+  }
+ },
+ "seiten": [
+  "https://antonjanizewski.com/marie-schubert-exuvie/",
+  "https://antonjanizewski.com/",
+  "https://antonjanizewski.com/contact/",
+  "https://antonjanizewski.com/exhibitions/"
+ ],
+ "abgerufen": "2026-10-12T07:32:45",
+ "status": "unvollständig"
+}

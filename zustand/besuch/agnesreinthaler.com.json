@@ -1,0 +1,25 @@
+{
+ "domain": "agnesreinthaler.com",
+ "website": "https://www.agnesreinthaler.com",
+ "haeuser": {
+  "Galerie Reinthaler": {
+   "haus": "Galerie Reinthaler",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "13:00-18:00",
+    "mi": "13:00-18:00",
+    "do": "13:00-18:00",
+    "fr": "13:00-18:00",
+    "sa": "12:00-15:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://www.agnesreinthaler.com/"
+  }
+ },
+ "seiten": [
+  "https://www.agnesreinthaler.com/"
+ ],
+ "abgerufen": "2026-10-12T07:32:33",
+ "status": "ok"
+}

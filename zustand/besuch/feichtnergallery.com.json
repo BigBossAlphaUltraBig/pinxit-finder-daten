@@ -1,0 +1,27 @@
+{
+ "domain": "feichtnergallery.com",
+ "website": "https://www.feichtnergallery.com",
+ "haeuser": {
+  "Lukas Feichtner Galerie": {
+   "haus": "Lukas Feichtner Galerie",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.feichtnergallery.com/",
+   "quelle": "https://www.feichtnergallery.com/contact"
+  }
+ },
+ "seiten": [
+  "https://www.feichtnergallery.com/",
+  "https://www.feichtnergallery.com/contact"
+ ],
+ "abgerufen": "2026-10-12T08:04:26",
+ "status": "unvollständig"
+}

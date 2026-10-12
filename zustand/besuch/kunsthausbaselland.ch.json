@@ -1,0 +1,29 @@
+{
+ "domain": "kunsthausbaselland.ch",
+ "website": "https://www.kunsthausbaselland.ch",
+ "haeuser": {
+  "Kunsthaus Baselland": {
+   "haus": "Kunsthaus Baselland",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-20:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-17:00",
+    "so": "11:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "CHF 12",
+   "eintritt_ermaessigt": "CHF 9",
+   "frei_fuer": "unter 26 Jahren",
+   "hinweis_oeffnung": "Montags geschlossen. Sonderschließungen: Basler Fasnacht (24.2.), Ostern (3.4., 6.4.), Auffahrt (14.5.), Pfingsten (25.5.), Nationalfeiertag (1.8.), Weihnacht/Neujahr (24.12., 25.12., 26.12., 31.12., 1.1.2027)",
+   "quelle": "https://www.kunsthausbaselland.ch/besuch"
+  }
+ },
+ "seiten": [
+  "https://www.kunsthausbaselland.ch/besuch"
+ ],
+ "abgerufen": "2026-10-12T08:07:05",
+ "status": "ok"
+}

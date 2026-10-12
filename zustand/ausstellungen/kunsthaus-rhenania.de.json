@@ -1,0 +1,39 @@
+{
+ "domain": "kunsthaus-rhenania.de",
+ "website": "https://www.kunsthaus-rhenania.de/",
+ "haeuser": "Kunsthaus Rhenania",
+ "land": "DE",
+ "ids": "node/11212474891",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://www.kunsthaus-rhenania.de/programm_aktuell.html",
+  "https://www.kunsthaus-rhenania.de/aktuell.html",
+  "https://www.kunsthaus-rhenania.de/"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "ROOM SERVICE XXII",
+   "untertitel": "Rendez-Vous mit der Entscheidung",
+   "kuenstler": [
+    "bodyincrisis"
+   ],
+   "beginn": "2026-11-24",
+   "ende": "2026-11-27",
+   "art": "veranstaltung",
+   "fachgebiet": "sonstiges",
+   "haus": "Kunsthaus Rhenania",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://t.rausgegangen.de/tickets/shop/roomservice",
+   "quelle": "https://www.kunsthaus-rhenania.de/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

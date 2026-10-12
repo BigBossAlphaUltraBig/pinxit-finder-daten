@@ -1,0 +1,66 @@
+{
+ "domain": "markmueller.ch",
+ "website": "https://www.markmueller.ch",
+ "haeuser": "Galerie Mark Müller",
+ "land": "CH",
+ "ids": "node/2681794868",
+ "status": "ok",
+ "seiten": [
+  "https://www.markmueller.ch/category/exhibitions/",
+  "https://www.markmueller.ch/category/exhibitions/future/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "es ward ein Kasten",
+   "untertitel": "Parallel",
+   "beginn": "2026-09-05",
+   "ende": "2026-10-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Mark Müller",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Fadri Cadonau",
+   "kuenstler": [
+    "Fadri Cadonau"
+   ],
+   "eroeffnung": "<UNKNOWN>",
+   "anderer_ort": null,
+   "url": "https://www.markmueller.ch/es-ward-ein-kasten/13440/",
+   "quelle": "https://www.markmueller.ch/category/exhibitions/",
+   "eintritt": "<UNKNOWN>",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Juans Hosentasche",
+   "untertitel": null,
+   "beginn": "2026-09-05",
+   "ende": "2026-10-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Mark Müller",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Martín Mele",
+   "kuenstler": [
+    "Martín Mele"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.markmueller.ch/juans-hosentasche/13426/",
+   "quelle": "https://www.markmueller.ch/category/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

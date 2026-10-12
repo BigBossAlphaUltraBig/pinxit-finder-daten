@@ -1,0 +1,62 @@
+{
+ "domain": "cacontemporary.com",
+ "website": "https://www.cacontemporary.com",
+ "haeuser": "C.A. Contemporary Fine Arts Gallery",
+ "land": "AT",
+ "ids": "galerie-c-a-contemporary-fine-arts-gallery-wien",
+ "status": "ok",
+ "seiten": [
+  "https://cacontemporary.com/exhibitions/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "The Unusual Suspects",
+   "untertitel": "Summer Group Exhibition",
+   "beginn": "2026-08-01",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "C.A. Contemporary Fine Arts Gallery",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "url": "https://cacontemporary.com/portfolio-items/summer-group-exhibition/?portfolioID=1007",
+   "quelle": "https://cacontemporary.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Gaslight",
+   "untertitel": "Gaslight",
+   "beginn": "2026-06-11",
+   "ende": "2026-07-25",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "C.A. Contemporary Fine Arts Gallery",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Letizia Werth"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Letizia Werth",
+   "url": "https://cacontemporary.com/portfolio-items/letizia-werth-2026-2/?portfolioID=1007",
+   "quelle": "https://cacontemporary.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

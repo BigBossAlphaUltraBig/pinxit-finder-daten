@@ -1,0 +1,85 @@
+{
+ "domain": "braunfalco.com",
+ "website": "https://braunfalco.com",
+ "haeuser": "Braun-Falco Galerie",
+ "land": "DE",
+ "ids": "node/3739707094",
+ "status": "ok",
+ "seiten": [
+  "https://www.braunfalco.com/",
+  "https://www.braunfalco.com/previous-exhibitions"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "MANIFESTE DES GEISTIGEN",
+   "untertitel": "Künstlergespräch am 27.09.2026 um 17:00 Uhr",
+   "beginn": "2026-09-11",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Braun-Falco Galerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Franz Hitzler"
+   ],
+   "einzelausstellung_von": "Franz Hitzler",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.braunfalco.com/",
+   "quelle": "https://www.braunfalco.com/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Franz Hitzler - MANIFESTE DES GEISTIGEN",
+   "untertitel": "Manifestations of the Spiritual",
+   "beginn": "2026-09-11",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Braun-Falco Galerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Franz Hitzler",
+   "kuenstler": [
+    "Franz Hitzler"
+   ],
+   "gemeinfrei": false,
+   "eroeffnung": "2026-09-27T17:00",
+   "url": "https://www.braunfalco.com/",
+   "quelle": "https://www.braunfalco.com/",
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "A Dog's Life und andere Geschichten",
+   "untertitel": null,
+   "beginn": "2026-06-11",
+   "ende": "2026-07-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Braun-Falco Galerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Felix Weinold"
+   ],
+   "anderer_ort": null,
+   "url": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Felix Weinold",
+   "quelle": "https://www.braunfalco.com/previous-exhibitions",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

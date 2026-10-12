@@ -1,0 +1,62 @@
+{
+ "domain": "museum-schnuetgen.de",
+ "website": "https://museum-schnuetgen.de/Home",
+ "haeuser": "Museum Schnütgen",
+ "land": "DE",
+ "ids": "Q950",
+ "status": "ok",
+ "seiten": [
+  "https://www.museum-schnuetgen.de/ausstellungen",
+  "https://www.museum-schnuetgen.de/ausstellungen/aktuell"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Licht in dunklen Zeiten",
+   "beginn": "2025-04-03",
+   "ende": "2027-04-11",
+   "art": "unklar",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Schnütgen",
+   "rang": 1,
+   "epoche": "andere",
+   "url": "https://www.museum-schnuetgen.de/ausstellungen/aktuell/licht-in-dunklen-zeiten",
+   "quelle": "https://www.museum-schnuetgen.de/ausstellungen",
+   "eroeffnung": null,
+   "untertitel": "Mittelalterliche Glasmalerei aus dem Khanenko Museum in Kyjiw",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Sammlungspräsentation",
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "fachgebiet": "geschichte",
+   "haus": "Museum Schnütgen",
+   "rang": 2,
+   "epoche": "gemischt",
+   "schwerpunkt": "Mittelalterliche Kunst vom Frühmittelalter bis zur Barockzeit",
+   "url": "https://www.museum-schnuetgen.de/ausstellungen/aktuell/sammlungspraesentation",
+   "quelle": "https://www.museum-schnuetgen.de/ausstellungen",
+   "grund": "keine Kunst (geschichte)"
+  },
+  {
+   "titel": "Drachen. Mythos und Wirklichkeit",
+   "beginn": "2027-03-04",
+   "ende": "2027-06-06",
+   "art": "wechselausstellung",
+   "fachgebiet": "geschichte",
+   "haus": "Museum Schnütgen",
+   "rang": 3,
+   "epoche": "gemischt",
+   "url": "https://www.museum-schnuetgen.de/ausstellungen/vorschau/drachen-mythos-und-wirklichkeit",
+   "quelle": "https://www.museum-schnuetgen.de/ausstellungen",
+   "eroeffnung": null,
+   "untertitel": "Mythos und Wirklichkeit",
+   "detail_geprueft": "2026-10-12",
+   "grund": "keine Kunst (geschichte)"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

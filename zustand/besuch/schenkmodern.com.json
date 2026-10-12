@@ -1,0 +1,27 @@
+{
+ "domain": "schenkmodern.com",
+ "website": "https://schenkmodern.com",
+ "haeuser": {
+  "Schenk.Modern": {
+   "haus": "Schenk.Modern",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": "15:00-18:00",
+    "fr": "15:00-18:00",
+    "sa": "11:00-15:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://schenkmodern.com/kunsthandel",
+   "quelle": "https://schenkmodern.com/kunsthandel"
+  }
+ },
+ "seiten": [
+  "https://schenkmodern.com/",
+  "https://schenkmodern.com/kunsthandel"
+ ],
+ "abgerufen": "2026-10-12T07:38:18",
+ "status": "unvollständig"
+}

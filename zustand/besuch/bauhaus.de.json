@@ -1,0 +1,29 @@
+{
+ "domain": "bauhaus.de",
+ "website": "https://www.bauhaus.de/",
+ "haeuser": {
+  "Bauhaus-Archiv": {
+   "haus": "Bauhaus-Archiv",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "Derzeit Temporary Bauhaus-Archiv",
+   "quelle": "https://www.bauhaus.de/",
+   "bessere_seite": "https://www.bauhaus.de/besucherinformation/"
+  }
+ },
+ "seiten": [
+  "https://www.bauhaus.de/besucherinformation/",
+  "https://www.bauhaus.de/besuchen/",
+  "https://www.bauhaus.de/"
+ ],
+ "abgerufen": "2026-10-08T18:05:42",
+ "status": "unvollständig"
+}

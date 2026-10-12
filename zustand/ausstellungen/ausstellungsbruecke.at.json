@@ -1,0 +1,36 @@
+{
+ "domain": "ausstellungsbruecke.at",
+ "website": "http://www.ausstellungsbruecke.at",
+ "haeuser": "Ausstellungsbrücke",
+ "land": "AT",
+ "ids": "Q780583",
+ "status": "ok",
+ "seiten": [
+  "https://www.noe.gv.at/noe/Kunst-Kultur/Ausstellungsbruecke.html"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Leerstellen",
+   "untertitel": null,
+   "beginn": "2026-09-10",
+   "ende": "2026-10-11",
+   "art": "wechselausstellung",
+   "kunst": true,
+   "haus": "Ausstellungsbrücke",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Lukas Matuschek",
+    "Markus Reiter"
+   ],
+   "schwerpunkt": "Zeitgenössische Kunst aus Niederösterreich",
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "url": null,
+   "quelle": "https://www.noe.gv.at/noe/Kunst-Kultur/Ausstellungsbruecke.html"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-08T11:16:32"
+}

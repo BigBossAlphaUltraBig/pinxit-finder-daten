@@ -1,0 +1,28 @@
+{
+ "domain": "buceriuskunstforum.de",
+ "website": "http://www.buceriuskunstforum.de/",
+ "haeuser": {
+  "Bucerius Kunst Forum": {
+   "haus": "Bucerius Kunst Forum",
+   "oeffnungszeiten": {
+    "mo": "11:00-19:00",
+    "di": "11:00-19:00",
+    "mi": "11:00-19:00",
+    "do": "11:00-21:00",
+    "fr": "11:00-19:00",
+    "sa": "11:00-19:00",
+    "so": "11:00-19:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_ermaessigt": "6 €",
+   "frei_wann": "dienstags",
+   "bessere_seite": "https://www.buceriuskunstforum.de/ticketuebersicht",
+   "quelle": "https://www.buceriuskunstforum.de/besuch"
+  }
+ },
+ "seiten": [
+  "https://www.buceriuskunstforum.de/besuch"
+ ],
+ "abgerufen": "2026-10-12T08:03:51",
+ "status": "ok"
+}

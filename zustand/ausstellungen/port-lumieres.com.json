@@ -1,0 +1,147 @@
+{
+ "domain": "port-lumieres.com",
+ "website": "https://www.port-lumieres.com/",
+ "haeuser": "Port des Lumières",
+ "land": "DE",
+ "ids": "Q133781200",
+ "status": "ok",
+ "seiten": [
+  "https://www.port-lumieres.com/de/besuch/oeffnungszeiten-und-preise",
+  "https://www.port-lumieres.com/de/programm"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "MONET",
+   "untertitel": "MEISTER DES IMPRESSIONISMUS",
+   "beginn": "2026-10-03",
+   "ende": "2026-10-15",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Port des Lumières",
+   "rang": 1,
+   "epoche": "19_jahrhundert",
+   "gemeinfrei": true,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Claude Monet"
+   ],
+   "einzelausstellung_von": "Claude Monet",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.port-lumieres.com/de/programm",
+   "quelle": "https://www.port-lumieres.com/de/besuch/oeffnungszeiten-und-preise",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "COLO - VOLUME 02",
+   "untertitel": "immersive kunst trifft echte geschichten.",
+   "beginn": "2026-11-06",
+   "ende": "2026-11-08",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Port des Lumières",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "url": "https://www.colo.events/",
+   "kuenstler": [],
+   "quelle": "https://www.port-lumieres.com/de/programm",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "ASTERIX & OBELIX",
+   "untertitel": "EIN IMMERSIVES ABENTEUER",
+   "beginn": "2026-10-03",
+   "ende": "2026-10-15",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Port des Lumières",
+   "rang": 2,
+   "epoche": "andere",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.port-lumieres.com/de/programm",
+   "quelle": "https://www.port-lumieres.com/de/besuch/oeffnungszeiten-und-preise",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "ASTERIX & OBELIX – EIN IMMERSIVES ABENTEUER",
+   "untertitel": "Eine Reise durch die legendären Comics",
+   "beginn": "2026-10-03",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Port des Lumières",
+   "rang": 2,
+   "epoche": "andere",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "url": "https://asterix.port-lumieres.com/",
+   "kuenstler": [
+    "René Goscinny",
+    "Albert Uderzo"
+   ],
+   "quelle": "https://www.port-lumieres.com/de/programm",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "MONET – MEISTER DES IMPRESSIONISMUS",
+   "untertitel": "Lass dich von den Meisterwerken des Impressionismus verzaubern!",
+   "beginn": "2026-08-29",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Port des Lumières",
+   "rang": 3,
+   "epoche": "19_jahrhundert",
+   "gemeinfrei": true,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Claude Monet",
+   "eroeffnung": null,
+   "url": "https://monet.port-lumieres.com/",
+   "kuenstler": [
+    "Claude Monet"
+   ],
+   "quelle": "https://www.port-lumieres.com/de/programm",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "IMMERSIVES YOGA UND PILATES",
+   "untertitel": "Light, Sound, Movement",
+   "beginn": null,
+   "ende": null,
+   "art": "veranstaltung",
+   "fachgebiet": "sonstiges",
+   "haus": "Port des Lumières",
+   "rang": 4,
+   "epoche": "andere",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "url": "https://www.port-lumieres.com/de/yoga/hamburg",
+   "kuenstler": [
+    "Lisa Marina Thierbach"
+   ],
+   "quelle": "https://www.port-lumieres.com/de/programm",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

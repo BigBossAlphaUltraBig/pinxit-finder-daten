@@ -1,0 +1,81 @@
+{
+ "domain": "hausderkunst.de",
+ "website": "https://hausderkunst.de/en",
+ "haeuser": "Haus der Kunst",
+ "land": "DE",
+ "ids": "Q697782",
+ "status": "ok",
+ "seiten": [
+  "https://www.hausderkunst.de/en/events/ausstellungsf%C3%BChrung-zu-steina-playback-325253",
+  "https://www.hausderkunst.de/en/eintauchen/ausstellung-der-ausstellungen"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Steina: Playback",
+   "untertitel": "Playback",
+   "beginn": "2026-06-12",
+   "ende": "2026-12-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Haus der Kunst",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Steina"
+   ],
+   "einzelausstellung_von": "Steina",
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.hausderkunst.de/en/eintauchen/steina-playback",
+   "quelle": "https://www.hausderkunst.de/en/events/ausstellungsf%C3%BChrung-zu-steina-playback-325253",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Exhibition of Exhibitions",
+   "untertitel": "",
+   "beginn": "2024-12-23",
+   "ende": "2026-12-31",
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Haus der Kunst",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": "Chronik der Ausstellungen des Hauses seit den 1990er Jahren",
+   "url": "https://www.hausderkunst.de/en/eintauchen/ausstellung-der-ausstellungen",
+   "kuenstler": [],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://www.hausderkunst.de/en/eintauchen/ausstellung-der-ausstellungen"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Guided tour on \"Steina: Playback\" (19.11.26)",
+   "untertitel": "Steina: Playback",
+   "beginn": "2026-11-19",
+   "ende": "2026-11-19",
+   "art": "veranstaltung",
+   "fachgebiet": "medienkunst",
+   "haus": "Haus der Kunst",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Steina"
+   ],
+   "einzelausstellung_von": null,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.hausderkunst.de/en/events/ausstellungsf%C3%BChrung-zu-steina-playback-325253",
+   "quelle": "https://www.hausderkunst.de/en/events/ausstellungsf%C3%BChrung-zu-steina-playback-325253",
+   "eintritt": "5 € plus admission",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

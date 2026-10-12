@@ -1,0 +1,29 @@
+{
+ "domain": "kornfeld.ch",
+ "website": "https://www.kornfeld.ch/",
+ "haeuser": {
+  "Galerie Kornfeld": {
+   "haus": "Galerie Kornfeld",
+   "oeffnungszeiten": {
+    "mo": "14:00-17:00",
+    "di": "14:00-17:00",
+    "mi": "14:00-17:00",
+    "do": "14:00-17:00",
+    "fr": "14:00-17:00",
+    "sa": "10:00-14:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.kornfeld.ch/d625.html",
+   "hinweis_oeffnung": "Öffnungszeiten auf der Seite Galerie Kornfeld verfügbar",
+   "quelle": "https://www.kornfeld.ch/d625.html"
+  }
+ },
+ "seiten": [
+  "https://www.kornfeld.ch/",
+  "https://www.kornfeld.ch/d334.html",
+  "https://www.kornfeld.ch/d625.html"
+ ],
+ "abgerufen": "2026-10-12T08:06:42",
+ "status": "ok"
+}

@@ -1,0 +1,70 @@
+{
+ "domain": "lohaussominsky.com",
+ "website": "https://lohaussominsky.com",
+ "haeuser": "Lohaus Gallery",
+ "land": "DE",
+ "ids": "galerie-lohaus-gallery-muenchen",
+ "status": "ok",
+ "seiten": [
+  "https://lohaus.gallery/exhibitions/",
+  "https://lohaus.gallery/exhibitions/38-ein-raum-mit-zwei-turen-gregor-hildebrandt/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Ein Raum mit zwei Türen",
+   "untertitel": null,
+   "beginn": "2026-09-17",
+   "ende": "2026-11-21",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Lohaus Gallery",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Gregor Hildebrandt",
+   "kuenstler": [
+    "Gregor Hildebrandt"
+   ],
+   "url": "https://lohaus.gallery/exhibitions/38-ein-raum-mit-zwei-turen-gregor-hildebrandt/",
+   "quelle": "https://lohaus.gallery/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "SUMMER: SUR REAL REAL",
+   "untertitel": "Group Exhibition",
+   "beginn": "2026-07-02",
+   "ende": "2026-09-05",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Lohaus Gallery",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Matthias Bitzer",
+    "Louisa Clement",
+    "Harm van den Dorpel",
+    "Janina Roider",
+    "Melanie Siegel",
+    "Charlie Stein"
+   ],
+   "url": "https://lohaus.gallery/exhibitions/37-summer-sur-real-real-group-exhibition/",
+   "quelle": "https://lohaus.gallery/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

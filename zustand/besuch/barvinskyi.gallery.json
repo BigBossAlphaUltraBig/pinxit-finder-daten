@@ -1,0 +1,25 @@
+{
+ "domain": "barvinskyi.gallery",
+ "website": "https://www.barvinskyi.gallery",
+ "haeuser": {
+  "Barvinskyi Art Gallery": {
+   "haus": "Barvinskyi Art Gallery",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "12:30-18:30",
+    "mi": "12:30-18:30",
+    "do": "12:30-18:30",
+    "fr": "12:30-18:30",
+    "sa": "11:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://www.barvinskyi.gallery/"
+  }
+ },
+ "seiten": [
+  "https://www.barvinskyi.gallery/"
+ ],
+ "abgerufen": "2026-10-12T07:32:55",
+ "status": "ok"
+}

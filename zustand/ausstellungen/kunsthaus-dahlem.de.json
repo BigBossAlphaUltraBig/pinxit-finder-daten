@@ -1,0 +1,60 @@
+{
+ "domain": "kunsthaus-dahlem.de",
+ "website": "http://kunsthaus-dahlem.de",
+ "haeuser": "Kunsthaus Dahlem",
+ "land": "DE",
+ "ids": "Q50672242",
+ "status": "ok",
+ "seiten": [
+  "https://kunsthaus-dahlem.de/ausstellungen/aktuell/",
+  "https://kunsthaus-dahlem.de/ausstellungen/aktuell/",
+  "https://kunsthaus-dahlem.de/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "EVA FRANKFURTHER – Das Leben malen",
+   "untertitel": "Das Leben malen",
+   "beginn": "2026-10-23",
+   "ende": "2027-02-14",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthaus Dahlem",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Eva Frankfurther",
+   "kuenstler": [
+    "Eva Frankfurther"
+   ],
+   "eroeffnung": "2026-10-22",
+   "anderer_ort": null,
+   "url": "https://kunsthaus-dahlem.de/ausstellung/eva-frankfurther/",
+   "quelle": "https://kunsthaus-dahlem.de/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Neue Ausstellungen im Aufbau",
+   "beginn": "2026-10-22",
+   "ende": "2026-10-22",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthaus Dahlem",
+   "rang": 1,
+   "epoche": "gemischt",
+   "url": "https://kunsthaus-dahlem.de/ausstellung/ausstellungsaufbau/",
+   "quelle": "https://kunsthaus-dahlem.de/ausstellungen/aktuell/",
+   "kuenstler": [
+    "Eva Frankfurther",
+    "Antonio Peña"
+   ],
+   "untertitel": "Neue Ausstellungen im Aufbau",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

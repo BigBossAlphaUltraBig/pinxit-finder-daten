@@ -1,0 +1,30 @@
+{
+ "domain": "galerie-gerdsen.de",
+ "website": "https://galerie-gerdsen.de",
+ "haeuser": {
+  "Galerie Magnus P. Gerdsen": {
+   "haus": "Galerie Magnus P. Gerdsen",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-14:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.galerie-gerdsen.de/?page_id=50",
+   "quelle": "https://www.galerie-gerdsen.de/?page_id=273",
+   "hinweis_oeffnung": "Samstag und nach Vereinbarung"
+  }
+ },
+ "seiten": [
+  "https://www.galerie-gerdsen.de/?page_id=50",
+  "https://www.galerie-gerdsen.de/galerieprofil/service/",
+  "https://www.galerie-gerdsen.de/",
+  "https://www.galerie-gerdsen.de/?page_id=273"
+ ],
+ "abgerufen": "2026-10-12T07:34:31",
+ "status": "ok"
+}

@@ -1,0 +1,27 @@
+{
+ "domain": "konsum163.art",
+ "website": "https://konsum163.art",
+ "haeuser": {
+  "Konsum163 – contemporary": {
+   "haus": "Konsum163 – contemporary",
+   "oeffnungszeiten": {
+    "mi": "14:00-18:00",
+    "do": null,
+    "fr": "14:00-18:00",
+    "sa": "12:00-16:00",
+    "so": "12:00-16:00",
+    "mo": null,
+    "di": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://konsum163.art/",
+   "hinweis_oeffnung": "Ausstellungsbezogene Öffnungszeiten; reguläre Öffnungszeiten nicht auf Website angegeben"
+  }
+ },
+ "seiten": [
+  "https://konsum163.art/new-wunderkammer/",
+  "https://konsum163.art/"
+ ],
+ "abgerufen": "2026-10-12T07:36:40",
+ "status": "unvollständig"
+}

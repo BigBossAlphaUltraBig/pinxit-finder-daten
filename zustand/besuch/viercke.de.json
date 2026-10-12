@@ -1,0 +1,29 @@
+{
+ "domain": "viercke.de",
+ "website": "https://viercke.de",
+ "haeuser": {
+  "Galerie Viercke": {
+   "haus": "Galerie Viercke",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://viercke.de/kontakt/",
+   "quelle": "https://viercke.de/programm/",
+   "hinweis_oeffnung": "Öffnungszeiten nicht auf Programmseite angegeben"
+  }
+ },
+ "seiten": [
+  "https://viercke.de/",
+  "https://viercke.de/kontakt/",
+  "https://viercke.de/programm/"
+ ],
+ "abgerufen": "2026-10-12T07:38:51",
+ "status": "unvollständig"
+}

@@ -1,0 +1,62 @@
+{
+ "domain": "presenhuber.com",
+ "website": "https://www.presenhuber.com",
+ "haeuser": "Galerie Eva Presenhuber Wien",
+ "land": "AT",
+ "ids": "galerie-galerie-eva-presenhuber-wien-wien",
+ "status": "ok",
+ "seiten": [
+  "https://www.presenhuber.com/exhibitions",
+  "https://www.presenhuber.com/exception/info"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "MIND CHILD",
+   "untertitel": "Galerie Eva Presenhuber, Maag Areal, Zurich",
+   "beginn": "2026-09-25",
+   "ende": "2026-12-11",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Eva Presenhuber Wien",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Josh Smith",
+   "kuenstler": [
+    "Josh Smith"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-24T18:00",
+   "url": "https://www.presenhuber.com/exhibitions/josh-smith7",
+   "quelle": "https://www.presenhuber.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Entropy, 2026",
+   "untertitel": "Entropy and Automation",
+   "kuenstler": [
+    "Angela Bulloch"
+   ],
+   "haus": "Galerie Eva Presenhuber Wien",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "beginn": "2026-09-12",
+   "ende": "2026-10-23",
+   "eroeffnung": "2026-09-11T12:00",
+   "anderer_ort": null,
+   "rang": 3,
+   "url": "https://www.presenhuber.com/exhibitions/angela-bulloch4",
+   "quelle": "https://www.presenhuber.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

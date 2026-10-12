@@ -1,0 +1,25 @@
+{
+ "domain": "dg-kunstraum.de",
+ "website": "https://www.dg-kunstraum.de/",
+ "haeuser": {
+  "Deutsche Gesellschaft für christliche Kunst": {
+   "haus": "Deutsche Gesellschaft für christliche Kunst",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://www.dg-kunstraum.de/"
+  }
+ },
+ "seiten": [
+  "https://www.dg-kunstraum.de/"
+ ],
+ "abgerufen": "2026-10-12T08:04:14",
+ "status": "unvollständig"
+}

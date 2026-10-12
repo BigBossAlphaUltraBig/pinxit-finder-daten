@@ -1,0 +1,28 @@
+{
+ "domain": "stadtmuseum.de",
+ "website": "https://www.stadtmuseum.de/ephraim-palais/",
+ "haeuser": [
+  {
+   "id": "Q878325",
+   "name": "Ephraim-Palais"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Ephraim-Palais",
+   "titel": "Die Sammlung",
+   "untertitel": "Berliner Stadt- und Kulturgeschichte",
+   "art": "dauerausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "sonstiges",
+   "bessere_seite": "https://www.berlin.museum/sammlung/sammlungen",
+   "quelle": "https://www.berlin.museum/sammlung/ueber-die-sammlung"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.berlin.museum/sammlung/ueber-die-sammlung"
+ ],
+ "abgerufen": "2026-10-08T22:19:31",
+ "status": "ok"
+}

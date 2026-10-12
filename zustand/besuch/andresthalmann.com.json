@@ -1,0 +1,28 @@
+{
+ "domain": "andresthalmann.com",
+ "website": "https://www.andresthalmann.com",
+ "haeuser": {
+  "Galerie Andres Thalmann": {
+   "haus": "Galerie Andres Thalmann",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:30",
+    "mi": "11:00-18:30",
+    "do": "11:00-18:30",
+    "fr": "11:00-18:30",
+    "sa": "11:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://andresthalmann.com/contact/",
+   "hinweis_oeffnung": "oder nach Vereinbarung",
+   "quelle": "https://andresthalmann.com/contact/"
+  }
+ },
+ "seiten": [
+  "https://andresthalmann.com/",
+  "https://andresthalmann.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:32:37",
+ "status": "ok"
+}

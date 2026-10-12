@@ -1,0 +1,109 @@
+{
+ "domain": "skd.museum",
+ "website": "http://www.skd.museum/",
+ "haeuser": "Staatliche Kunstsammlungen Dresden",
+ "land": "DE",
+ "ids": "Q653002",
+ "status": "ok",
+ "seiten": [
+  "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Gemäldegalerie Alte Meister und Skulpturensammlung bis 1800",
+   "untertitel": "Weltberühmte Meisterwerke",
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Staatliche Kunstsammlungen Dresden",
+   "rang": 1,
+   "epoche": "alte_meister",
+   "gemeinfrei": true,
+   "schwerpunkt": "Europäische Malerei und Skulptur von der Renaissance bis zum Barock",
+   "kuenstler": [],
+   "url": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "quelle": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/"
+  },
+  {
+   "titel": "Antikenhalle",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Staatliche Kunstsammlungen Dresden",
+   "rang": 2,
+   "epoche": "andere",
+   "gemeinfrei": true,
+   "schwerpunkt": "Antike Skulpturen, Bronzen, Keramik und ägyptische Mumien",
+   "kuenstler": [],
+   "url": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/#c19750",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "quelle": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/"
+  },
+  {
+   "titel": "Abguss-Sammlung von Anton Raphael Mengs",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Staatliche Kunstsammlungen Dresden",
+   "rang": 3,
+   "epoche": "alte_meister",
+   "gemeinfrei": true,
+   "schwerpunkt": "Historische Gipsabgüsse antiker Skulpturen aus dem 18. Jahrhundert",
+   "kuenstler": [
+    "Anton Raphael Mengs"
+   ],
+   "url": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/#c21243",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "quelle": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/"
+  },
+  {
+   "titel": "Skulpturengang",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Staatliche Kunstsammlungen Dresden",
+   "rang": 4,
+   "epoche": "alte_meister",
+   "gemeinfrei": true,
+   "schwerpunkt": "Kleinbronzen der Renaissance und Plastik bis zum Barock",
+   "kuenstler": [],
+   "url": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/#c21244",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "quelle": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/"
+  },
+  {
+   "titel": "Correggio. Berührend menschlich",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Staatliche Kunstsammlungen Dresden",
+   "rang": 5,
+   "epoche": "alte_meister",
+   "gemeinfrei": true,
+   "schwerpunkt": "Werke des Renaissancemalers Correggio",
+   "kuenstler": [
+    "Correggio"
+   ],
+   "url": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "quelle": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

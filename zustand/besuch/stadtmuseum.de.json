@@ -1,0 +1,30 @@
+{
+ "domain": "stadtmuseum.de",
+ "website": "https://www.stadtmuseum.de/ephraim-palais/",
+ "haeuser": {
+  "Ephraim-Palais": {
+   "haus": "Ephraim-Palais",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "7 €",
+   "eintritt_ermaessigt": "kostenlos",
+   "frei_fuer": "unter 18 Jahren, Studierende, Azubis, FSJ-/FÖJ-/BFD-Leistende, Berlin-Ticket-S-Inhaber:innen, Schwerbehinderte (mind. 50 % GdB) sowie deren anerkannte Begleitperson, Geflüchtete, Empfänger:innen von Transferleistungen, Ehrenamtskarte-Inhaber:innen, Super-Ferienpass/Berliner Familienpass-Inhaber:innen, ICOM-Mitglieder, Mitglieder des Deutschen Museumsbunds, Fördervereins-Mitglieder, Medien-Vertreter:innen",
+   "hinweis_oeffnung": "auch an Feiertagen; Abweichungen: 24.12. geschlossen, 25.-26.12. 12-18 Uhr, 31.12. geschlossen, 01.01.2027 12-18 Uhr",
+   "bessere_seite": "https://www.berlin.museum/museum/ephraim-palais",
+   "quelle": "https://www.berlin.museum/veranstaltungen/in-60-minuten-durch-die-berlinzeit"
+  }
+ },
+ "seiten": [
+  "https://www.berlin.museum/veranstaltungen/in-60-minuten-durch-die-berlinzeit"
+ ],
+ "abgerufen": "2026-10-08T18:07:15",
+ "status": "ok"
+}

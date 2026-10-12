@@ -1,0 +1,132 @@
+{
+ "domain": "kunsthalle-bern.ch",
+ "website": "https://www.kunsthalle-bern.ch",
+ "haeuser": "Kunsthalle Bern",
+ "land": "CH",
+ "ids": "Q612774",
+ "status": "ok",
+ "seiten": [
+  "https://kunsthallebern.ch/en/exhibitions",
+  "https://kunsthallebern.ch/en/collective-learning/2026-11-1-exhibition-visit-guided-relaxation"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Amanat – As We Sleep",
+   "untertitel": "Amanat – As We Sleep",
+   "beginn": "2026-09-11",
+   "ende": "2026-11-22",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthalle Bern",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Saodat Ismailova"
+   ],
+   "einzelausstellung_von": "Saodat Ismailova",
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-10T18:00",
+   "url": "https://kunsthallebern.ch/en/exhibitions/2026-saodat-ismailova-amanat-as-we-sleep",
+   "quelle": "https://kunsthallebern.ch/en/exhibitions",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Cantonale Berne Jura 2026/2027",
+   "untertitel": "Collective Learning",
+   "beginn": "2026-12-13",
+   "ende": "2027-01-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthalle Bern",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Lyna Beggah",
+    "Alessandro Ferrari"
+   ],
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": "2026-12-12T17:00",
+   "url": "https://kunsthallebern.ch/en/exhibitions/2026-cantonale-berne-jura-2026-2027",
+   "quelle": "https://kunsthallebern.ch/en/exhibitions",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Lyna Beggah + Alessandro Ferrari",
+   "untertitel": "Kiefer Hablitzel | Göhner Kunstpreis 2026",
+   "beginn": "2026-12-13",
+   "ende": "2027-01-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthalle Bern",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Lyna Beggah",
+    "Alessandro Ferrari"
+   ],
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://kunsthallebern.ch/en/exhibitions/2026-lyna-beggah-alessandro-ferrari",
+   "quelle": "https://kunsthallebern.ch/en/exhibitions",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Kiefer Hablitzel | Göhner Kunstpreis 2026",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthalle Bern",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Kiefer Hablitzel"
+   ],
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": null,
+   "quelle": "https://kunsthallebern.ch/en/exhibitions"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Exhibition Visit & Guided Relaxation",
+   "untertitel": "with Ursina Leuteneger and Nadine Guldimann in English",
+   "beginn": "2026-11-01",
+   "ende": "2026-11-01",
+   "art": "veranstaltung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthalle Bern",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://kunsthallebern.ch/en/collective-learning/2026-11-1-exhibition-visit-guided-relaxation",
+   "kuenstler": [
+    "Saodat Ismailova",
+    "Ursina Leutenegger",
+    "Nadine Guldimann"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": "2026-11-01T17:30",
+   "einzelausstellung_von": null,
+   "quelle": "https://kunsthallebern.ch/en/collective-learning/2026-11-1-exhibition-visit-guided-relaxation",
+   "eintritt": "20 CHF",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

@@ -1,0 +1,40 @@
+{
+ "domain": "smb.museum",
+ "website": "http://www.smb.museum/gg",
+ "haeuser": [
+  {
+   "id": "Q165631",
+   "name": "Gemäldegalerie Berlin"
+  },
+  {
+   "id": "Q555946",
+   "name": "Kupferstichkabinett Berlin"
+  },
+  {
+   "id": "Q564747",
+   "name": "Museum für Fotografie"
+  },
+  {
+   "id": "Q322010",
+   "name": "Sammlung Scharf-Gerstenberg"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Gemäldegalerie Berlin",
+   "titel": "Die Sammlung",
+   "art": "dauerausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Europäische Malerei vom 13. bis 18. Jahrhundert",
+   "url": "https://www.smb.museum/museen-einrichtungen/gemaeldegalerie/sammeln-forschen/sammlung/",
+   "quelle": "https://www.smb.museum/museen-einrichtungen/gemaeldegalerie/ueber-uns/foerderverein/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.smb.museum/museen-einrichtungen/gemaeldegalerie/ueber-uns/foerderverein/"
+ ],
+ "abgerufen": "2026-10-12T08:14:35",
+ "status": "ok"
+}

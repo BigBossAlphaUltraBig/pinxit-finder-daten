@@ -1,0 +1,25 @@
+{
+ "domain": "galeriesusannealbrecht.de",
+ "website": "https://www.galeriesusannealbrecht.de/",
+ "haeuser": {
+  "Galerie Albrecht": {
+   "haus": "Galerie Albrecht",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "12:00-18:00",
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://www.galeriesusannealbrecht.de/"
+  }
+ },
+ "seiten": [
+  "https://www.galeriesusannealbrecht.de/"
+ ],
+ "abgerufen": "2026-10-12T08:05:02",
+ "status": "ok"
+}

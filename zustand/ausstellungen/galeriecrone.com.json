@@ -1,0 +1,167 @@
+{
+ "domain": "galeriecrone.com",
+ "website": "http://galeriecrone.com",
+ "haeuser": "Crone",
+ "land": "DE",
+ "ids": "galerie-crone-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://www.galeriecrone.com/wien",
+  "https://www.galeriecrone.com/berlin"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Containment & Desire in the Leaking Body",
+   "untertitel": "Curated by Andrea Kopranovic",
+   "beginn": "2026-09-15",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Crone",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Paul Prothesis"
+   ],
+   "einzelausstellung_von": "Paul Prothesis",
+   "eroeffnung": null,
+   "url": "https://www.galeriecrone.com/recent/curated-by-2026-eng",
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "quelle": "https://www.galeriecrone.com/wien",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Sediments",
+   "untertitel": null,
+   "beginn": "2026-09-10",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Crone",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Clemens Krauss"
+   ],
+   "einzelausstellung_von": "Clemens Krauss",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "schwerpunkt": null,
+   "url": "https://www.galeriecrone.com/recent/clemens-krauss-2026-eng",
+   "quelle": "https://www.galeriecrone.com/berlin",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Processing: exhibition",
+   "untertitel": null,
+   "beginn": "2026-11-13",
+   "ende": "2026-12-12",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Crone",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Ruscha Voormann"
+   ],
+   "einzelausstellung_von": "Ruscha Voormann",
+   "eroeffnung": null,
+   "url": null,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "quelle": "https://www.galeriecrone.com/wien",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Paul Prothesis",
+   "untertitel": "Containment & Desire in the Leaking Body",
+   "beginn": "2026-09-15",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Crone",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Paul Prothesis"
+   ],
+   "url": "https://www.galeriecrone.com/recent/curated-by-2026-eng",
+   "quelle": "https://www.galeriecrone.com/wien",
+   "eroeffnung": null,
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
+  },
+  {
+   "titel": "Ruscha Voormann",
+   "untertitel": "Processing: performance",
+   "beginn": "2026-10-27",
+   "ende": "2026-11-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Crone",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Ruscha Voormann"
+   ],
+   "eroeffnung": null,
+   "quelle": "https://www.galeriecrone.com/wien",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Processing: performance",
+   "untertitel": null,
+   "beginn": "2026-10-27",
+   "ende": "2026-11-10",
+   "art": "veranstaltung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Crone",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Ruscha Voormann"
+   ],
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "url": null,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "quelle": "https://www.galeriecrone.com/wien",
+   "grund": "Veranstaltung, keine Ausstellung"
+  },
+  {
+   "titel": "24/12 Gifts & More",
+   "untertitel": null,
+   "beginn": "2026-12-15",
+   "ende": "2026-12-24",
+   "art": "messe_markt",
+   "fachgebiet": "sonstiges",
+   "haus": "Crone",
+   "rang": 4,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "kuenstler": [],
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "url": null,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "quelle": "https://www.galeriecrone.com/wien",
+   "grund": "Messe/Markt, keine Ausstellung"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 2
+}

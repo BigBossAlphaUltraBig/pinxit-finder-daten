@@ -1,0 +1,46 @@
+{
+ "domain": "wienmuseum.at",
+ "website": "https://www.wienmuseum.at/neidhart_festsaal",
+ "haeuser": {
+  "Neidhart-Festsaal": {
+   "haus": "Neidhart-Festsaal",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "Informationen auf der Standorte-Seite erforderlich",
+   "bessere_seite": "https://www.wienmuseum.at/standorte",
+   "quelle": "https://www.wienmuseum.at/wien_museum"
+  },
+  "Wien Museum": {
+   "haus": "Wien Museum",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.wienmuseum.at/standorte",
+   "quelle": "https://www.wienmuseum.at/wien_museum",
+   "hinweis_oeffnung": "Öffnungszeiten und Eintrittspreise stehen auf der Standorte-Seite"
+  }
+ },
+ "seiten": [
+  "https://www.wienmuseum.at/standorte",
+  "https://www.wienmuseum.at/barrierefreier_besuch",
+  "https://www.wienmuseum.at/neidhart_festsaal",
+  "https://www.wienmuseum.at/wien_museum"
+ ],
+ "abgerufen": "2026-10-08T18:07:27",
+ "status": "unvollständig"
+}

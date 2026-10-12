@@ -1,0 +1,28 @@
+{
+ "domain": "fondationbeyeler.ch",
+ "website": "https://www.fondationbeyeler.ch",
+ "haeuser": [
+  {
+   "id": "Q673833",
+   "name": "Fondation Beyeler"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Fondation Beyeler",
+   "titel": "Die Sammlung",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Moderner und zeitgenössischer Kunst von hoher Qualität",
+   "url": "https://www.fondationbeyeler.ch/de",
+   "quelle": "https://www.fondationbeyeler.ch/de"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.fondationbeyeler.ch/de"
+ ],
+ "abgerufen": "2026-10-12T08:11:52",
+ "status": "ok"
+}

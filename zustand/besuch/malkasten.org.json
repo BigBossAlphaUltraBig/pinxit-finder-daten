@@ -1,0 +1,26 @@
+{
+ "domain": "malkasten.org",
+ "website": "https://www.malkasten.org/",
+ "haeuser": {
+  "Malkasten": {
+   "haus": "Malkasten",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "17:00-21:00",
+    "mi": null,
+    "do": "11:00-17:00",
+    "fr": "11:00-17:00",
+    "sa": "11:00-17:00",
+    "so": "11:00-17:00"
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://malkasten.org/forum/?tab=aktuell",
+   "quelle": "https://malkasten.org/"
+  }
+ },
+ "seiten": [
+  "https://malkasten.org/"
+ ],
+ "abgerufen": "2026-10-12T08:08:17",
+ "status": "ok"
+}

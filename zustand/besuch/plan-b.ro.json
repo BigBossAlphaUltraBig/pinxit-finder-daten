@@ -1,0 +1,29 @@
+{
+ "domain": "plan-b.ro",
+ "website": "http://www.plan-b.ro",
+ "haeuser": {
+  "Galeria Plan B": {
+   "haus": "Galeria Plan B",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "12:00-18:00",
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": "12:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://www.plan-b.ro/info/",
+   "bessere_seite": "https://www.plan-b.ro/info",
+   "hinweis_oeffnung": "Öffnungszeiten und Eintritt nicht auf Startseite verfügbar"
+  }
+ },
+ "seiten": [
+  "https://www.plan-b.ro/info/",
+  "https://www.plan-b.ro/",
+  "https://www.plan-b.ro/info/"
+ ],
+ "abgerufen": "2026-10-12T07:37:58",
+ "status": "unvollständig"
+}

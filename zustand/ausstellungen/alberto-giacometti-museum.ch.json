@@ -1,0 +1,84 @@
+{
+ "domain": "alberto-giacometti-museum.ch",
+ "website": "http://www.alberto-giacometti-museum.ch",
+ "haeuser": "Alberto Giacometti Museum Sent",
+ "land": "CH",
+ "ids": "Q27488831",
+ "status": "ok",
+ "seiten": [
+  "https://www.aldier.ch/de/alberto-giacometti/alberto-giacometti-museum/37-0.html"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Alberto Giacometti - Die Sammlung",
+   "untertitel": "Mit über 200 Exponaten",
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Alberto Giacometti Museum Sent",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": "Druckgrafik, Lithografien, Radierungen und Künstlerbücher von Alberto Giacometti",
+   "einzelausstellung_von": "Alberto Giacometti",
+   "kuenstler": [
+    "Alberto Giacometti"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.aldier.ch/de/alberto-giacometti/alberto-giacometti-museum/37-0.html",
+   "quelle": "https://www.aldier.ch/de/alberto-giacometti/alberto-giacometti-museum/37-0.html",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Ernst Scheidegger – Licht und Schatten",
+   "untertitel": "Ernst Scheidegger, sein Blick auf Alberto Giacometti und die Künstler",
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "fachgebiet": "fotografie",
+   "haus": "Alberto Giacometti Museum Sent",
+   "rang": 2,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": "Schwarz-weiss-Fotografien von Ernst Scheidegger über Giacometti und Pariser Künstler",
+   "kuenstler": [
+    "Ernst Scheidegger"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.aldier.ch/de/alberto-giacometti/alberto-giacometti-museum/37-0.html",
+   "quelle": "https://www.aldier.ch/de/alberto-giacometti/alberto-giacometti-museum/37-0.html",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Diego Giacometti",
+   "untertitel": "Bronzen und ein Wandteppich im Hotel",
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Alberto Giacometti Museum Sent",
+   "rang": 3,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": "Bronzen und Wandteppich des Bruders Diego Giacometti",
+   "einzelausstellung_von": "Diego Giacometti",
+   "kuenstler": [
+    "Diego Giacometti"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.aldier.ch/de/alberto-giacometti/alberto-giacometti-museum/37-0.html",
+   "quelle": "https://www.aldier.ch/de/alberto-giacometti/alberto-giacometti-museum/37-0.html",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

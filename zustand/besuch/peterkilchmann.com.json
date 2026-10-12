@@ -1,0 +1,27 @@
+{
+ "domain": "peterkilchmann.com",
+ "website": "https://www.peterkilchmann.com",
+ "haeuser": {
+  "Galerie Peter Kilchmann (Zahnradstrasse)": {
+   "haus": "Galerie Peter Kilchmann (Zahnradstrasse)",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "11:00-17:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.peterkilchmann.com/about/locations/",
+   "hinweis_oeffnung": "Öffnungszeiten laut Website, by appointment möglich",
+   "quelle": "https://www.peterkilchmann.com/exhibitions/649-didier-william-lot-bo-d-lo-a-the-other-side-of/"
+  }
+ },
+ "seiten": [
+  "https://www.peterkilchmann.com/exhibitions/649-didier-william-lot-bo-d-lo-a-the-other-side-of/"
+ ],
+ "abgerufen": "2026-10-12T07:37:55",
+ "status": "ok"
+}

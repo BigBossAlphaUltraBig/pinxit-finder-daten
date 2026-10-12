@@ -1,0 +1,87 @@
+{
+ "domain": "mountains.gallery",
+ "website": "https://mountains.gallery",
+ "haeuser": "Mountains",
+ "land": "DE",
+ "ids": "node/12905548372",
+ "status": "ok",
+ "seiten": [
+  "https://mountains.gallery/exhibitions/",
+  "https://mountains.gallery/exhibitions/upcoming/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Centralia",
+   "untertitel": null,
+   "beginn": "2026-09-10",
+   "ende": "2026-10-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Mountains",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Nschotschi Haslinger"
+   ],
+   "einzelausstellung_von": "Nschotschi Haslinger",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://mountains.gallery/nschotschi-haslinger/",
+   "quelle": "https://mountains.gallery/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "I. S. Kalter",
+   "untertitel": null,
+   "beginn": "2026-11-07",
+   "ende": "2026-12-12",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Mountains",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "I. S. Kalter"
+   ],
+   "anderer_ort": null,
+   "gemeinfrei": false,
+   "url": "https://mountains.gallery/i-s-kalter/",
+   "eroeffnung": "2026-11-06",
+   "schwerpunkt": null,
+   "quelle": "https://mountains.gallery/exhibitions/upcoming/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Mountains × PARIS INTERNATIONALE 2026",
+   "untertitel": null,
+   "beginn": "2026-10-19",
+   "ende": "2026-10-24",
+   "art": "messe_markt",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Mountains",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Lauren Coullard",
+    "Shinoh Nam"
+   ],
+   "anderer_ort": "Paris",
+   "gemeinfrei": false,
+   "url": null,
+   "eroeffnung": null,
+   "schwerpunkt": null,
+   "quelle": "https://mountains.gallery/exhibitions/upcoming/",
+   "grund": "Messe/Markt, keine Ausstellung"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

@@ -1,0 +1,27 @@
+{
+ "domain": "hausamwaldsee.de",
+ "website": "https://www.hausamwaldsee.de/",
+ "haeuser": {
+  "Haus am Waldsee": {
+   "haus": "Haus am Waldsee",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": "11:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "Wegen Ausstellungsumbau bis einschließlich 15.10.2026 geschlossen",
+   "bessere_seite": "https://hausamwaldsee.de/preise/",
+   "quelle": "https://hausamwaldsee.de/oeffnungszeiten/"
+  }
+ },
+ "seiten": [
+  "https://hausamwaldsee.de/oeffnungszeiten/"
+ ],
+ "abgerufen": "2026-10-12T08:05:37",
+ "status": "ok"
+}

@@ -1,0 +1,41 @@
+{
+ "domain": "alexanderlevy.net",
+ "website": "http://www.alexanderlevy.net",
+ "haeuser": "Alexander Levy",
+ "land": "DE",
+ "ids": "galerie-alexander-levy-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://alexanderlevy.de/exhibitions/current",
+  "https://alexanderlevy.de/news/egor-kraft-is-part-of-the-exhibition-layers-tracks-at-ron-mandos-amsterdam"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Modul im Modell",
+   "untertitel": "",
+   "beginn": "2026-09-11",
+   "ende": "2026-10-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Alexander Levy",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Sinta Werner",
+   "kuenstler": [
+    "Sinta Werner"
+   ],
+   "gemeinfrei": false,
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-10",
+   "url": "https://alexanderlevy.de/exhibitions/current",
+   "schwerpunkt": null,
+   "quelle": "https://alexanderlevy.de/exhibitions/current",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

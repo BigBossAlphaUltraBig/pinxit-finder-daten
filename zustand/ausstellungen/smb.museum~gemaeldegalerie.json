@@ -1,0 +1,55 @@
+{
+ "domain": "smb.museum~gemaeldegalerie",
+ "website": "https://www.smb.museum/museen-einrichtungen/gemaeldegalerie/home/",
+ "haeuser": "Gemäldegalerie",
+ "land": "DE",
+ "ids": "nachtrag-gem-ldegalerie",
+ "status": "ok",
+ "seiten": [
+  "https://www.smb.museum/ausstellungen/aktuell/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Malerei vom 13. bis zum 18. Jahrhundert",
+   "untertitel": "",
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Gemäldegalerie",
+   "rang": 1,
+   "epoche": "alte_meister",
+   "gemeinfrei": true,
+   "schwerpunkt": "Europäische Malerei vom Mittelalter bis zum Barock",
+   "einzelausstellung_von": null,
+   "kuenstler": [],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": null,
+   "quelle": "https://www.smb.museum/ausstellungen/aktuell/"
+  },
+  {
+   "titel": "Daniel Chodowiecki 1726–1801",
+   "untertitel": "Berliner Bilder der Aufklärung",
+   "beginn": "2026-09-15",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Gemäldegalerie",
+   "rang": 2,
+   "epoche": "alte_meister",
+   "gemeinfrei": true,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Daniel Chodowiecki",
+   "kuenstler": [
+    "Daniel Chodowiecki"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.smb.museum/ausstellungen/detail/daniel-chodowiecki-1726-1801/",
+   "quelle": "https://www.smb.museum/ausstellungen/aktuell/"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

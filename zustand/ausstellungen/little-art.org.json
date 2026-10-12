@@ -1,0 +1,35 @@
+{
+ "domain": "little-art.org",
+ "website": "https://www.little-art.org/",
+ "haeuser": "little ART - Münchner Künstlerhaus",
+ "land": "DE",
+ "ids": "node/3929292574",
+ "status": "ok",
+ "seiten": [
+  "https://www.little-art.org/programm"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "WORAN KINDER GLAUBEN",
+   "untertitel": "Von Lettland bis Uganda: Kinder malen, woran sie glauben.",
+   "beginn": null,
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "little ART - Münchner Künstlerhaus",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://www.little-art.org/programm#ausstellungen",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [],
+   "quelle": "https://www.little-art.org/programm",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

@@ -1,0 +1,29 @@
+{
+ "domain": "kunsthallezurich.ch",
+ "website": "http://www.kunsthallezurich.ch",
+ "haeuser": {
+  "Kunsthalle Zürich": {
+   "haus": "Kunsthalle Zürich",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-20:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": "11:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "CHF 12",
+   "eintritt_ermaessigt": "CHF 8",
+   "frei_fuer": "Kinder und Jugendliche bis 16 Jahre; Studierende ZHdK & F+F; Euro 26, Young Swiss Card; Mitglieder Kunsthalle Zürich; ZürichCARD, Schweizer Museumspass, KulturLegi und weitere; Personen mit Ausweis N/S/F; Begleitpersonen von Menschen mit Behinderungen",
+   "frei_wann": "Donnerstag 17:00-20:00 Uhr",
+   "quelle": "https://www.kunsthallezurich.ch/de/besuch/"
+  }
+ },
+ "seiten": [
+  "https://www.kunsthallezurich.ch/de/besuch/"
+ ],
+ "abgerufen": "2026-10-08T18:06:10",
+ "status": "ok"
+}

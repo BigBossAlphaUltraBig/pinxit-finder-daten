@@ -1,0 +1,61 @@
+{
+ "domain": "kunstraumkreuzberg.de",
+ "website": "https://www.kunstraumkreuzberg.de/",
+ "haeuser": "Kunstraum Kreuzberg/Bethanien",
+ "land": "DE",
+ "ids": "nachtrag-kunstraum-kreuzberg-bethanien",
+ "status": "ok",
+ "seiten": [
+  "https://kunstraumkreuzberg.de/kontakt/",
+  "https://kunstraumkreuzberg.de/programm/tanja-ostojic-encounters-on-bodies-borders-resistance/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "ENCOUNTERS",
+   "untertitel": "On Bodies, Borders, Resistance",
+   "beginn": "2026-10-24",
+   "ende": "2027-02-14",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunstraum Kreuzberg/Bethanien",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-10-23",
+   "einzelausstellung_von": "Tanja Ostojić",
+   "kuenstler": [
+    "Tanja Ostojić"
+   ],
+   "anderer_ort": null,
+   "url": "https://kunstraumkreuzberg.de/programm/tanja-ostojic-encounters-on-bodies-borders-resistance/",
+   "quelle": "https://kunstraumkreuzberg.de/programm/tanja-ostojic-encounters-on-bodies-borders-resistance/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Analivia Cordeiro. Computer Dance",
+   "untertitel": "VIDEOSTATION",
+   "beginn": "2026-10-03",
+   "ende": "2026-11-01",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Kunstraum Kreuzberg/Bethanien",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-10-02T19:00",
+   "einzelausstellung_von": "Analivia Cordeiro",
+   "kuenstler": [
+    "Analivia Cordeiro"
+   ],
+   "anderer_ort": null,
+   "url": "https://kunstraumkreuzberg.de/programm/videostation-analivia-cordeiro-computer-dance/",
+   "quelle": "https://kunstraumkreuzberg.de/programm/tanja-ostojic-encounters-on-bodies-borders-resistance/",
+   "eintritt": "frei",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

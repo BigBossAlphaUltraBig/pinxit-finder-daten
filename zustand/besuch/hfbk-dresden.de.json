@@ -1,0 +1,31 @@
+{
+ "domain": "hfbk-dresden.de",
+ "website": "https://www.hfbk-dresden.de/hochschule/profil/ausstellungen/ausstellungsprofil/",
+ "haeuser": {
+  "Kunstforum Oktogon": {
+   "haus": "Kunstforum Oktogon",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.hfbk-dresden.de/hochschule/einrichtungen/ausstellungswesen",
+   "quelle": "https://www.hfbk-dresden.de/hochschule/portraet/standorte",
+   "hinweis_oeffnung": "Seite nicht erreichbar (404), siehe Ausstellungswesen-Link"
+  }
+ },
+ "seiten": [
+  "https://www.hfbk-dresden.de/studium/stipendien",
+  "https://www.hfbk-dresden.de/studium/career-service",
+  "https://www.hfbk-dresden.de/hochschule/profil/ausstellungen/ausstellungsprofil/",
+  "https://www.hfbk-dresden.de/hochschule/einrichtungen/ausstellungswesen",
+  "https://www.hfbk-dresden.de/hochschule/portraet/standorte"
+ ],
+ "abgerufen": "2026-10-12T08:06:08",
+ "status": "unvollständig"
+}

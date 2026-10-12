@@ -1,0 +1,28 @@
+{
+ "domain": "galeriemichaelhaas.de",
+ "website": "http://www.galeriemichaelhaas.de",
+ "haeuser": {
+  "Galerie Michael Haas": {
+   "haus": "Galerie Michael Haas",
+   "oeffnungszeiten": {
+    "mo": "09:00-18:00",
+    "di": "09:00-18:00",
+    "mi": "09:00-18:00",
+    "do": "09:00-18:00",
+    "fr": "09:00-18:00",
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://galeriehaas.com/contact/",
+   "quelle": "https://galeriehaas.com/contact/"
+  }
+ },
+ "seiten": [
+  "https://galeriehaas.com/cookie-policy-eu/",
+  "https://galeriehaas.com/",
+  "https://galeriehaas.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:35:24",
+ "status": "ok"
+}

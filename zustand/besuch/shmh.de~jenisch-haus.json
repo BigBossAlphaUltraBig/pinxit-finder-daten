@@ -1,0 +1,26 @@
+{
+ "domain": "shmh.de~jenisch-haus",
+ "website": "https://www.shmh.de/jenisch-haus/",
+ "haeuser": {
+  "Jenisch Haus": {
+   "haus": "Jenisch Haus",
+   "oeffnungszeiten": {
+    "mo": "11:00-18:00",
+    "di": "geschlossen",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": "11:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.shmh.de/jenisch-haus/jenisch-haus-besuchen/",
+   "quelle": "https://www.shmh.de/besuchen/"
+  }
+ },
+ "seiten": [
+  "https://www.shmh.de/besuchen/"
+ ],
+ "abgerufen": "2026-10-12T08:10:33",
+ "status": "ok"
+}

@@ -1,0 +1,42 @@
+{
+ "domain": "simultanhalle.de",
+ "website": "https://www.simultanhalle.de/",
+ "haeuser": "Simultanhalle",
+ "land": "DE",
+ "ids": "Q2288588",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://simultanhalle.de/ausstellungen/",
+  "https://simultanhalle.de/"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "WITTERN",
+   "untertitel": "SimultanProjekte 2026",
+   "beginn": "2026-05-30",
+   "ende": "2026-08-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Simultanhalle",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://simultanhalle.de/ausstellungen/wittern/",
+   "kuenstler": [
+    "Nadine Karl",
+    "Mira Siering",
+    "Darcy Neven",
+    "Philip Nürnberger",
+    "Mohamad Moe Sabbah"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "quelle": "https://simultanhalle.de/ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

@@ -1,0 +1,29 @@
+{
+ "domain": "barlach-haus.de",
+ "website": "http://www.barlach-haus.de",
+ "haeuser": {
+  "Ernst-Barlach-Haus": {
+   "haus": "Ernst-Barlach-Haus",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": "11:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "9 €",
+   "eintritt_ermaessigt": "6 €",
+   "frei_fuer": "Kinder und Jugendliche bis 18 Jahre",
+   "hinweis_oeffnung": "Montags geschlossen außer an Feiertagen; Heiligabend und Silvester geschlossen; Sonntags mit Klang & Form-Veranstaltungen um 16:30 Uhr geschlossen",
+   "quelle": "https://www.barlach-haus.de/besuch/oeffnungszeiten-tickets/"
+  }
+ },
+ "seiten": [
+  "https://www.barlach-haus.de/besuch/oeffnungszeiten-tickets/"
+ ],
+ "abgerufen": "2026-10-12T08:03:42",
+ "status": "ok"
+}

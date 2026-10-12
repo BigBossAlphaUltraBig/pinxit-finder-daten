@@ -1,0 +1,61 @@
+{
+ "domain": "leabischofberger.com",
+ "website": "https://www.leabischofberger.com",
+ "haeuser": "Lea Bischofberger Gallery",
+ "land": "CH",
+ "ids": "galerie-lea-bischofberger-gallery-zuerich",
+ "status": "ok",
+ "seiten": [
+  "https://www.leabischofberger.com/exhibitions-1"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "VESSELS",
+   "untertitel": "JASMINE BLASCO",
+   "beginn": "2026-09-18",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Lea Bischofberger Gallery",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Jasmine Blasco"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.leabischofberger.com/2026/jasmin-blasco-vessels",
+   "quelle": "https://www.leabischofberger.com/exhibitions-1",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "DAVID MCDERMOTT",
+   "untertitel": null,
+   "kuenstler": [
+    "David McDermott"
+   ],
+   "einzelausstellung_von": "David McDermott",
+   "beginn": "2026-11-01",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "epoche": "zeitgenoessisch",
+   "haus": "Lea Bischofberger Gallery",
+   "rang": 2,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": null,
+   "quelle": "https://www.leabischofberger.com/exhibitions-1",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

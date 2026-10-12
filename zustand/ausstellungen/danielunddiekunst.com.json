@@ -1,0 +1,65 @@
+{
+ "domain": "danielunddiekunst.com",
+ "website": "https://danielunddiekunst.com",
+ "haeuser": "Daniel und die Kunst",
+ "land": "DE",
+ "ids": "node/1288267210",
+ "status": "ok",
+ "seiten": [
+  "https://www.danielunddiekunst.com/exhibitions-and-events"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Anna van den Hövel",
+   "untertitel": "Erde, Staub, Gestein und Fundstücke werden Teil ihrer Bildsprache",
+   "beginn": "2026-10-29",
+   "ende": "2026-11-27",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Daniel und die Kunst",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Anna van den Hövel",
+   "kuenstler": [
+    "Anna van den Hövel"
+   ],
+   "eroeffnung": null,
+   "url": "https://www.danielunddiekunst.com/exhibitions-and-events",
+   "quelle": "https://www.danielunddiekunst.com/exhibitions-and-events",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Gérard Walther X Elena Thüring",
+   "untertitel": "Zwei Generationen, zwei malerische Positionen",
+   "beginn": "2026-10-16",
+   "ende": "2026-10-26",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Daniel und die Kunst",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Gérard Walther",
+    "Elena Thüring"
+   ],
+   "eroeffnung": null,
+   "url": "https://www.danielunddiekunst.com/gerard-walther",
+   "quelle": "https://www.danielunddiekunst.com/exhibitions-and-events",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

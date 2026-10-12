@@ -1,0 +1,30 @@
+{
+ "domain": "sperling-munich.com",
+ "website": "https://sperling-munich.com",
+ "haeuser": {
+  "Sperling": {
+   "haus": "Sperling",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.sperling-munich.com/exhibitions",
+   "quelle": "https://www.sperling-munich.com/exhibitions",
+   "hinweis_oeffnung": "Öffnungszeiten und Eintrittspreise auf der angegebenen Website nicht verfügbar"
+  }
+ },
+ "seiten": [
+  "https://www.sperling-munich.com/news",
+  "https://www.sperling-munich.com/",
+  "https://www.sperling-munich.com/exhibitions/strange-weather",
+  "https://www.sperling-munich.com/exhibitions"
+ ],
+ "abgerufen": "2026-10-12T07:38:36",
+ "status": "unvollständig"
+}

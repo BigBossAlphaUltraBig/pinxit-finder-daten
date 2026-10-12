@@ -1,0 +1,41 @@
+{
+ "domain": "smb.museum~neue-nationalgalerie",
+ "website": "https://www.smb.museum/museen-einrichtungen/neue-nationalgalerie/home/",
+ "haeuser": "Neue Nationalgalerie",
+ "land": "DE",
+ "ids": "nachtrag-neue-nationalgalerie",
+ "status": "ok",
+ "seiten": [
+  "https://www.smb.museum/ausstellungen/aktuell/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Next Door",
+   "untertitel": "Tacita Dean, Thomas Demand, Olafur Eliasson, Henrik Håkansson, Tomás Saraceno",
+   "beginn": "2026-10-09",
+   "ende": "2027-06-27",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Neue Nationalgalerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Tacita Dean",
+    "Thomas Demand",
+    "Olafur Eliasson",
+    "Henrik Håkansson",
+    "Tomás Saraceno"
+   ],
+   "url": "https://www.smb.museum/ausstellungen/detail/next-door/",
+   "quelle": "https://www.smb.museum/ausstellungen/aktuell/",
+   "standort": "Hamburger Bahnhof – Nationalgalerie der Gegenwart"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

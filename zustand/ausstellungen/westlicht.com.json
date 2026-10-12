@@ -1,0 +1,78 @@
+{
+ "domain": "westlicht.com",
+ "website": "https://www.westlicht.com/",
+ "haeuser": "WestLicht",
+ "land": "AT",
+ "ids": "Q14550991",
+ "status": "ok",
+ "seiten": [
+  "https://www.westlicht.com/westlicht/de/programm/ausstellungen/25jahrewestlicht",
+  "https://www.westlicht.com/westlicht/de/programm"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "WORLD PRESS PHOTO 2026",
+   "beginn": "2026-09-11",
+   "ende": "2026-11-22",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "WestLicht",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "url": "https://www.westlicht.com/westlicht/de/programm/ausstellungen/worldpressphoto2026",
+   "quelle": "https://www.westlicht.com/westlicht/de/programm/ausstellungen/25jahrewestlicht",
+   "kuenstler": [
+    "Carol Guzy"
+   ],
+   "untertitel": "Die wichtigste Leistungsschau der internationalen Pressefotografie"
+  },
+  {
+   "titel": "CALL IT \"DUBAI\"",
+   "beginn": "2026-09-11",
+   "ende": "2026-11-22",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "WestLicht",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "MAŠA STANIĆ",
+   "kuenstler": [
+    "MAŠA STANIĆ"
+   ],
+   "gemeinfrei": false,
+   "url": null,
+   "quelle": "https://www.westlicht.com/westlicht/de/programm"
+  },
+  {
+   "titel": "FALSCHE WAHRHEITEN",
+   "beginn": null,
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "WestLicht",
+   "rang": 3,
+   "epoche": "gemischt",
+   "schwerpunkt": "Fotografische Manipulationen von Anfängen bis künstliche Intelligenz",
+   "quelle": "https://www.westlicht.com/westlicht/de/programm/ausstellungen/25jahrewestlicht"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "PLATON. PEOPLE POWER",
+   "beginn": "2026-05-31",
+   "ende": "2026-08-09",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "WestLicht",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Platon"
+   ],
+   "url": "https://www.westlicht.com/westlicht/de/programm/ausstellungen/platonpeoplepower",
+   "quelle": "https://www.westlicht.com/westlicht/de/programm/ausstellungen/25jahrewestlicht",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-08T13:54:25"
+}

@@ -1,0 +1,76 @@
+{
+ "domain": "schinkelpavillon.de",
+ "website": "https://www.schinkelpavillon.de/",
+ "haeuser": "Schinkel Pavillon",
+ "land": "DE",
+ "ids": "nachtrag-schinkel-pavillon",
+ "status": "ok",
+ "seiten": [
+  "https://www.schinkelpavillon.de/de/exhibitions/",
+  "https://www.schinkelpavillon.de/de/exhibitions/upcoming/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Projektionen auf den Osten",
+   "untertitel": "Ausgehend von der Beobachtung, dass der „Osten“ verstärkt als kulturelle, ästhetische und politische Projektionsfläche dient, thematisiert das mehrteilige Ausstellungs-, Diskurs- und Publikationsprojekt Projektionen auf den Osten die ideologischen Zuschreibungen, die sich an die Begriffe „Ost“ und „West“ knüpfen.",
+   "kuenstler": [
+    "Anca Benera",
+    "Arnold Estefán",
+    "Pavel Brăila",
+    "Maksym Khodak",
+    "KwieKulik",
+    "Helmar Lerski",
+    "Maria (Masha) Lisogorskaya",
+    "Shlomo Pozner",
+    "Xavier Robles de Medina",
+    "Maya Schweizer",
+    "Andrzej Steinbach",
+    "Hito Steyerl",
+    "Gabriele Stötzer",
+    "Mikhail Tolmachev",
+    "Jasmin Werner",
+    "Anastasiya Yarovenko"
+   ],
+   "beginn": "2026-09-10",
+   "ende": "2026-12-20",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Schinkel Pavillon",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.schinkelpavillon.de/de/exhibition/projections-onto-the-east",
+   "quelle": "https://www.schinkelpavillon.de/de/exhibitions/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "LA HALUCA – A PIONEER GIRL",
+   "untertitel": "ANA HOFFNER EX-PRVULOVIC*",
+   "kuenstler": [
+    "Ana Hoffner Ex-Prvulovic"
+   ],
+   "beginn": "2026-10-10",
+   "ende": null,
+   "art": "veranstaltung",
+   "fachgebiet": "sonstiges",
+   "haus": "Schinkel Pavillon",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-10-10T19:00",
+   "anderer_ort": null,
+   "url": "https://www.schinkelpavillon.de/de/exhibition/la-haluca-a-pioneer-girl",
+   "quelle": "https://www.schinkelpavillon.de/de/exhibitions/",
+   "eintritt": "Eintritt frei",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

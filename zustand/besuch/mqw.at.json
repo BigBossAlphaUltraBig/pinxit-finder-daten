@@ -1,0 +1,31 @@
+{
+ "domain": "mqw.at",
+ "website": "https://www.mqw.at/en/",
+ "haeuser": {
+  "MuseumsQuartier": {
+   "haus": "MuseumsQuartier",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.mqw.at/en/visit/ticket-information/",
+   "hinweis_oeffnung": "MQ-Gelände 24h offen, MQ Tickets & Shop 10:00-19:00",
+   "quelle": "https://www.mqw.at/en/venues-spaces/"
+  }
+ },
+ "seiten": [
+  "https://www.mqw.at/en/visit/ticket-information/",
+  "https://www.mqw.at/en/visit/",
+  "https://www.mqw.at/en/",
+  "https://www.mqw.at/en/visit/opening-hours/",
+  "https://www.mqw.at/en/venues-spaces/"
+ ],
+ "abgerufen": "2026-10-08T18:06:38",
+ "status": "unvollständig"
+}

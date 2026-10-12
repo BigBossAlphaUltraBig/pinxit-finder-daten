@@ -1,0 +1,64 @@
+{
+ "domain": "buceriuskunstforum.de",
+ "website": "http://www.buceriuskunstforum.de/",
+ "haeuser": "Bucerius Kunst Forum",
+ "land": "DE",
+ "ids": "Q877566",
+ "status": "ok",
+ "seiten": [
+  "https://www.buceriuskunstforum.de/ausstellungen",
+  "https://www.buceriuskunstforum.de/ausstellungen/von-monet-bis-picasso-juedische-kunstsammlerinnen-in-deutschland"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Von Monet bis Picasso",
+   "untertitel": "Jüdische Kunstsammler:innen in Deutschland",
+   "beginn": "2026-09-11",
+   "ende": "2027-03-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Bucerius Kunst Forum",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": true,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Paul Cezanne",
+    "Lovis Corinth",
+    "Ferdinand Hodler",
+    "Ernst Ludwig Kirchner",
+    "Franz Marc",
+    "Paula Modersohn-Becker",
+    "Max Pechstein",
+    "Karl Schmidt-Rottluff",
+    "Milly Steeger"
+   ],
+   "url": "https://www.buceriuskunstforum.de/ausstellungen/von-monet-bis-picasso-juedische-kunstsammlerinnen-in-deutschland",
+   "anderer_ort": null,
+   "quelle": "https://www.buceriuskunstforum.de/ausstellungen",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Better Together",
+   "untertitel": "Von Cranachs Werkstatt bis zu den Guerrilla Girls",
+   "beginn": "2027-04-30",
+   "ende": "2027-08-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Bucerius Kunst Forum",
+   "rang": 2,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "kuenstler": [],
+   "url": "https://www.buceriuskunstforum.de/ausstellungen/better-together-von-cranachs-werkstatt-bis-zu-den-guerrilla-girls",
+   "anderer_ort": null,
+   "quelle": "https://www.buceriuskunstforum.de/ausstellungen",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

@@ -1,0 +1,29 @@
+{
+ "domain": "liebermann-villa.de",
+ "website": "http://www.liebermann-villa.de/",
+ "haeuser": {
+  "Liebermann-Villa": {
+   "haus": "Liebermann-Villa",
+   "oeffnungszeiten": {
+    "mo": "11:00-17:00",
+    "di": "geschlossen",
+    "mi": "11:00-17:00",
+    "do": "11:00-17:00",
+    "fr": "11:00-17:00",
+    "sa": "11:00-17:00",
+    "so": "11:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "12,00 €",
+   "eintritt_ermaessigt": "6,00 €",
+   "frei_fuer": "Kinder und Jugendliche bis 18 Jahre, Mitglieder der Max-Liebermann-Gesellschaft, ICOM-Mitglieder, Mitglieder Deutscher Museumsbund, Mitglieder Deutscher Verband für Kunstgeschichte, Presse, Begleitpersonen von Menschen mit Schwerbehinderung (mit Merkzeichen B)",
+   "hinweis_oeffnung": "An Feiertagen geöffnet. Geschlossen am 24. und 31. Dezember",
+   "quelle": "https://liebermann-villa.de/besuch/ihr-besuch/"
+  }
+ },
+ "seiten": [
+  "https://liebermann-villa.de/besuch/ihr-besuch/"
+ ],
+ "abgerufen": "2026-10-12T08:07:54",
+ "status": "ok"
+}

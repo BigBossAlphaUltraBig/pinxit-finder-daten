@@ -1,0 +1,29 @@
+{
+ "domain": "gfzk.de",
+ "website": "http://www.gfzk.de/en/",
+ "haeuser": {
+  "Galerie für Zeitgenössische Kunst": {
+   "haus": "Galerie für Zeitgenössische Kunst",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "14:00-19:00",
+    "mi": "14:00-19:00",
+    "do": "14:00-19:00",
+    "fr": "14:00-19:00",
+    "sa": "12:00-18:00",
+    "so": "12:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "7€",
+   "eintritt_ermaessigt": "5€",
+   "frei_fuer": "unter 18 Jahren",
+   "frei_wann": "jeden Mittwoch",
+   "quelle": "https://gfzk.de/en/2023/deihr-besuchbarrierefreiheitenyour-visitaccessibility/"
+  }
+ },
+ "seiten": [
+  "https://gfzk.de/en/2023/deihr-besuchbarrierefreiheitenyour-visitaccessibility/"
+ ],
+ "abgerufen": "2026-10-12T08:05:18",
+ "status": "ok"
+}

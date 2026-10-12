@@ -1,0 +1,106 @@
+{
+ "domain": "k-haus.at",
+ "website": "https://www.k-haus.at/",
+ "haeuser": "Künstlerhaus Wien",
+ "land": "AT",
+ "ids": "Q284902",
+ "status": "ok",
+ "seiten": [
+  "https://www.kuenstlerhaus.at/ausstellungen/aktuell/",
+  "https://www.kuenstlerhaus.at/ausstellungen/vorschau/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "KÜNSTLERINNENHAUS",
+   "untertitel": "Eine künstlerische Intervention von Billi Thanner",
+   "beginn": "2024-03-20",
+   "ende": "2027-01-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Künstlerhaus Wien",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Billi Thanner"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Billi Thanner",
+   "schwerpunkt": null,
+   "url": "https://www.kuenstlerhaus.at/besuch/kalender/ausstellung/464/kuenstlerinnenhaus.html",
+   "quelle": "https://www.kuenstlerhaus.at/ausstellungen/aktuell/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Die Gaben der Göttin",
+   "untertitel": "Die Gaben der Göttin",
+   "beginn": "2026-11-07",
+   "ende": "2027-02-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Künstlerhaus Wien",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Linda Christanell"
+   ],
+   "anderer_ort": null,
+   "einzelausstellung_von": "Linda Christanell",
+   "eroeffnung": "2026-11-06T19:00",
+   "url": "https://www.kuenstlerhaus.at/besuch/kalender/ausstellung/497/linda-christanell.html",
+   "quelle": "https://www.kuenstlerhaus.at/ausstellungen/vorschau/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "LINDA CHRISTANELL",
+   "untertitel": "Die Gaben der Göttin",
+   "beginn": "2026-11-07",
+   "ende": "2027-02-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Künstlerhaus Wien",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Linda Christanell"
+   ],
+   "url": "https://www.kuenstlerhaus.at/besuch/kalender/ausstellung/497/linda-christanell.html",
+   "quelle": "https://www.kuenstlerhaus.at/ausstellungen/vorschau/",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Dalpra",
+   "untertitel": "Aus der Sammlung Werner Trenker",
+   "beginn": "2026-10-24",
+   "ende": "2026-11-15",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Künstlerhaus Wien",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Dalpra"
+   ],
+   "anderer_ort": "Factory",
+   "einzelausstellung_von": "Dalpra",
+   "eroeffnung": "2026-10-23T18:30",
+   "url": "https://www.kuenstlerhaus.at/besuch/kalender/ausstellung/503/dalpra.html",
+   "quelle": "https://www.kuenstlerhaus.at/ausstellungen/vorschau/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Factory"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

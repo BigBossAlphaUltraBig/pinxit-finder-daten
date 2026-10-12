@@ -1,0 +1,29 @@
+{
+ "domain": "alberto-giacometti-museum.ch",
+ "website": "http://www.alberto-giacometti-museum.ch",
+ "haeuser": {
+  "Alberto Giacometti Museum Sent": {
+   "haus": "Alberto Giacometti Museum Sent",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "12:00-18:00",
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-18:00",
+    "so": "12:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.aldier.ch/de/alberto-giacometti/alberto-giacometti-museum/37-0.html",
+   "quelle": "https://www.aldier.ch/de/alberto-giacometti/alberto-giacometti-museum/37-0.html",
+   "eintritt_regulaer": "CHF 10.00"
+  }
+ },
+ "seiten": [
+  "https://www.aldier.ch/de/zimmer-preise-angebote/zimmer-suiten/16-0.html",
+  "https://www.aldier.ch/de/zimmer-preise-angebote/preise/17-0.html",
+  "https://www.aldier.ch/de/alberto-giacometti/alberto-giacometti-museum/37-0.html"
+ ],
+ "abgerufen": "2026-10-08T18:05:13",
+ "status": "ok"
+}

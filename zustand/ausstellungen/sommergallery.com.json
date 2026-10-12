@@ -1,0 +1,81 @@
+{
+ "domain": "sommergallery.com",
+ "website": "https://www.sommergallery.com",
+ "haeuser": "Sommer Salon",
+ "land": "CH",
+ "ids": "galerie-sommer-salon-zuerich",
+ "status": "ok",
+ "seiten": [
+  "https://sommergallery.com/exhibitions/summertime/",
+  "https://sommergallery.com/exhibitions/half-turn/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Summertime",
+   "untertitel": null,
+   "beginn": "2026-07-31",
+   "ende": "2026-10-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Sommer Salon",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Tamar Harpaz",
+    "Gregor Hildebrandt",
+    "Rona Yefman",
+    "Hanna Sahar",
+    "Omer Halperin",
+    "Lihi Turjeman",
+    "Sharon Yaari",
+    "Michael Argov",
+    "Ronit Porat",
+    "Ofir Dor",
+    "Nadine Schemmann",
+    "Yael Bartana",
+    "Saâdane Afif",
+    "Yehudit Sasportas",
+    "Adam Rabinowitz",
+    "Nardeen Srouji",
+    "Karl Haendel",
+    "Shai Azoulay"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://sommergallery.com/exhibitions/summertime/",
+   "quelle": "https://sommergallery.com/exhibitions/summertime/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Half Turn",
+   "untertitel": "",
+   "beginn": "2026-09-17",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Sommer Salon",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Hilla Toony Navok"
+   ],
+   "einzelausstellung_von": "Hilla Toony Navok",
+   "url": "https://sommergallery.com/exhibitions/half-turn/",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "schwerpunkt": null,
+   "quelle": "https://sommergallery.com/exhibitions/half-turn/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

@@ -1,0 +1,17 @@
+{
+ "domain": "kunsthaus-dahlem.de",
+ "website": "http://kunsthaus-dahlem.de",
+ "haeuser": [
+  {
+   "id": "Q50672242",
+   "name": "Kunsthaus Dahlem"
+  }
+ ],
+ "sammlungen": [],
+ "keine_sammlung": true,
+ "seiten": [
+  "https://kunsthaus-dahlem.de/"
+ ],
+ "abgerufen": "2026-10-08T22:19:16",
+ "status": "keine Sammlung"
+}

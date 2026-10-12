@@ -1,0 +1,30 @@
+{
+ "domain": "little-art.org",
+ "website": "https://www.little-art.org/",
+ "haeuser": {
+  "little ART - Münchner Künstlerhaus": {
+   "haus": "little ART - Münchner Künstlerhaus",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.little-art.org/",
+   "quelle": "https://www.little-art.org/kontakt",
+   "frei_fuer": "benachteiligte Kinder",
+   "hinweis_oeffnung": "Öffnungszeiten und Eintrittspreise nicht auf der Kontaktseite verfügbar"
+  }
+ },
+ "seiten": [
+  "https://www.little-art.org/",
+  "https://www.little-art.org/programm",
+  "https://www.little-art.org/kontakt"
+ ],
+ "abgerufen": "2026-10-12T08:08:04",
+ "status": "unvollständig"
+}

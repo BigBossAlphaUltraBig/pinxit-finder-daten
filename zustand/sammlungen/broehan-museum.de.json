@@ -1,0 +1,68 @@
+{
+ "domain": "broehan-museum.de",
+ "website": "https://www.broehan-museum.de",
+ "haeuser": [
+  {
+   "id": "Q568767",
+   "name": "Bröhan-Museum"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Bröhan-Museum",
+   "titel": "Jugendstil",
+   "art": "sammlungspraesentation",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "kunsthandwerk",
+   "untertitel": "International bedeutende Jugendstil-Sammlung",
+   "kuenstler": [
+    "Hector Guimard",
+    "Émile Gallé",
+    "Henry van de Velde",
+    "Peter Behrens",
+    "Alfred Grenander"
+   ],
+   "url": "https://www.broehan-museum.de/das-museum/sammlung/",
+   "quelle": "https://www.broehan-museum.de/das-museum/sammlung/"
+  },
+  {
+   "haus": "Bröhan-Museum",
+   "titel": "Art Deco / Funktionalismus",
+   "art": "sammlungspraesentation",
+   "epoche": "20_jahrhundert",
+   "fachgebiet": "kunsthandwerk",
+   "untertitel": "Möbel, Metall und Keramik der 1920er bis 1930er Jahre",
+   "kuenstler": [
+    "Jacques Émile Ruhlmann",
+    "Edgar Brandt",
+    "Jean Puiforcat",
+    "Gerrit Rietveld"
+   ],
+   "url": "https://www.broehan-museum.de/das-museum/sammlung/",
+   "quelle": "https://www.broehan-museum.de/das-museum/sammlung/"
+  },
+  {
+   "haus": "Bröhan-Museum",
+   "titel": "Berliner Secession",
+   "art": "sammlungspraesentation",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Gemälde und Grafiken der Berliner Secession",
+   "kuenstler": [
+    "Hans Baluschek",
+    "Karl Hagemeister",
+    "Walter Leistikow",
+    "Willy Jaeckel",
+    "Franz Skarbina"
+   ],
+   "url": "https://www.broehan-museum.de/das-museum/sammlung/",
+   "quelle": "https://www.broehan-museum.de/das-museum/sammlung/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.broehan-museum.de/das-museum/sammlung/"
+ ],
+ "abgerufen": "2026-10-08T22:19:05",
+ "status": "ok"
+}

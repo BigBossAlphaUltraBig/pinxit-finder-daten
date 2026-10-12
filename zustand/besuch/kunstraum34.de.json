@@ -1,0 +1,27 @@
+{
+ "domain": "kunstraum34.de",
+ "website": "http://www.kunstraum34.de/",
+ "haeuser": {
+  "Kunstraum34": {
+   "haus": "Kunstraum34",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": "17:00-20:00",
+    "fr": "17:00-20:00",
+    "sa": "14:00-17:00",
+    "so": "14:00-17:00"
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "nach Vereinbarung möglich, bitte laufendes Programm beachten",
+   "quelle": "https://kunstraum34.de/"
+  }
+ },
+ "seiten": [
+  "https://kunstraum34.de/english-info/",
+  "https://kunstraum34.de/"
+ ],
+ "abgerufen": "2026-10-12T08:07:34",
+ "status": "unvollständig"
+}

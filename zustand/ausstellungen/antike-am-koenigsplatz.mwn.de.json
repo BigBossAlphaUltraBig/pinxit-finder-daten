@@ -1,0 +1,56 @@
+{
+ "domain": "antike-am-koenigsplatz.mwn.de",
+ "website": "https://www.antike-am-koenigsplatz.mwn.de/en/glyptothek-munich.html",
+ "haeuser": "Glyptothek",
+ "land": "DE",
+ "ids": "Q162077",
+ "status": "ok",
+ "seiten": [
+  "https://www.antike-am-koenigsplatz.mwn.de/en/state-collections-of-antiquities-a-museum-of-world-renown/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Collections of Antiquities: the entire spectrum of ancient \"small art\"",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Glyptothek",
+   "rang": 2,
+   "epoche": "andere",
+   "gemeinfrei": true,
+   "schwerpunkt": "Antike Kleinkunst: Keramik, Metall und Stein aus Griechenland, Etrurien und Rom",
+   "kuenstler": [],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.antike-am-koenigsplatz.mwn.de/en/event/permanent-exhibition-collections-of-antiquities-the-entire-spectrum-of-ancient-small-art/",
+   "quelle": "https://www.antike-am-koenigsplatz.mwn.de/en/state-collections-of-antiquities-a-museum-of-world-renown/",
+   "standort": "State Collections of Antiquities"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Collecting with style",
+   "untertitel": "Caroline Murat, Ludwig I and antiquity",
+   "beginn": "2026-07-08",
+   "ende": "2027-01-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "geschichte",
+   "haus": "Glyptothek",
+   "rang": 1,
+   "epoche": "19_jahrhundert",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.antike-am-koenigsplatz.mwn.de/en/event/upcoming-special-exhibition-collecting-with-style-caroline-murat-ludwig-i-and-antiquity/",
+   "quelle": "https://www.antike-am-koenigsplatz.mwn.de/en/state-collections-of-antiquities-a-museum-of-world-renown/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "keine Kunst (geschichte)",
+   "standort": "State Collections of Antiquities"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

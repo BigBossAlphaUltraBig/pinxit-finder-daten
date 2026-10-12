@@ -1,0 +1,73 @@
+{
+ "domain": "verlorene-generation.com",
+ "website": "http://verlorene-generation.com/",
+ "haeuser": "Museum Kunst der Verlorenen Generation",
+ "land": "AT",
+ "ids": "Q87056497",
+ "status": "ok",
+ "seiten": [
+  "https://verlorene-generation.com/ihr-besuch/",
+  "https://verlorene-generation.com/ausstellung/die-verlorene-generation/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "DIE VERLORENE GENERATION.",
+   "untertitel": "IHRE KUNST. IHRE GESCHICHTEN.",
+   "beginn": "2025-10-10",
+   "ende": "2027-03-06",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Kunst der Verlorenen Generation",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "url": "https://verlorene-generation.com/ihr-besuch/",
+   "quelle": "https://verlorene-generation.com/ihr-besuch/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Akt immer nackt",
+   "untertitel": "Wünsche hinter dem Vorhang",
+   "beginn": "2026-12-04",
+   "ende": "2027-02-27",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Kunst der Verlorenen Generation",
+   "rang": 2,
+   "epoche": "unklar",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://verlorene-generation.com/ausstellung/akt-immer-nackt/",
+   "quelle": "https://verlorene-generation.com/ausstellung/die-verlorene-generation/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Wünsche hinter dem Vorhang",
+   "untertitel": "",
+   "beginn": "2026-12-04",
+   "ende": "2027-02-27",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Kunst der Verlorenen Generation",
+   "rang": 3,
+   "epoche": "unklar",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": null,
+   "quelle": "https://verlorene-generation.com/ausstellung/die-verlorene-generation/"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

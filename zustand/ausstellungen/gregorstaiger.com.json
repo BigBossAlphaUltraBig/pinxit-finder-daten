@@ -1,0 +1,41 @@
+{
+ "domain": "gregorstaiger.com",
+ "website": "https://www.gregorstaiger.com",
+ "haeuser": "Galerie Gregor Staiger",
+ "land": "CH",
+ "ids": "galerie-galerie-gregor-staiger-zuerich",
+ "status": "ok",
+ "seiten": [
+  "https://galerie.gregorstaiger.com/EXHIBITIONS",
+  "https://galerie.gregorstaiger.com/EXHIBITIONS"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Here Is a New Field for Your Imagination",
+   "untertitel": "WORKS 1924–1969",
+   "beginn": "2026-10-02",
+   "ende": "2026-11-21",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Gregor Staiger",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Xanti Schawinsky"
+   ],
+   "eroeffnung": null,
+   "einzelausstellung_von": "Xanti Schawinsky",
+   "anderer_ort": null,
+   "url": "https://galerie.gregorstaiger.com/EXHIBITIONS",
+   "quelle": "https://galerie.gregorstaiger.com/EXHIBITIONS",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

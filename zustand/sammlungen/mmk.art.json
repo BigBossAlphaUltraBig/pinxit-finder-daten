@@ -1,0 +1,32 @@
+{
+ "domain": "mmk.art",
+ "website": "https://www.mmk.art",
+ "haeuser": [
+  {
+   "id": "Q456994",
+   "name": "Museum für Moderne Kunst"
+  },
+  {
+   "id": "node-3157469110",
+   "name": "Tower MMK"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Museum für Moderne Kunst",
+   "titel": "Die Sammlung",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Werke aus dem eigenen Bestand des MMK",
+   "url": "https://www.mmk.art/de/mmk_collection/collection",
+   "quelle": "https://www.mmk.art/de/mmk_collection/collection"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.mmk.art/de/mmk_collection/collection"
+ ],
+ "abgerufen": "2026-10-12T08:13:39",
+ "status": "ok"
+}

@@ -1,0 +1,29 @@
+{
+ "domain": "freizumi.ch",
+ "website": "https://freizumi.ch/galerie-milchhuette/",
+ "haeuser": {
+  "Galerie Milchhütte": {
+   "haus": "Galerie Milchhütte",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://freizumi.ch/galerie-milchhuette/",
+   "quelle": "https://freizumi.ch/galerie-milchhuette/aktuelles-programm/",
+   "hinweis_oeffnung": "Informationen nicht auf der angegebenen Seite verfügbar"
+  }
+ },
+ "seiten": [
+  "https://freizumi.ch/jugendarbeit/jugendinfo/",
+  "https://freizumi.ch/galerie-milchhuette/",
+  "https://freizumi.ch/galerie-milchhuette/aktuelles-programm/"
+ ],
+ "abgerufen": "2026-10-12T08:04:51",
+ "status": "unvollständig"
+}

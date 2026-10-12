@@ -1,0 +1,27 @@
+{
+ "domain": "alpineum.ch",
+ "website": "https://www.alpineum.ch",
+ "haeuser": {
+  "Alpineum": {
+   "haus": "Alpineum",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "09:00-18:00",
+    "mi": "09:00-18:00",
+    "do": "09:00-18:00",
+    "fr": "09:00-18:00",
+    "sa": "09:00-18:00",
+    "so": "09:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "CHF 10.00",
+   "eintritt_ermaessigt": "CHF 7.00",
+   "quelle": "https://www.alpineum.ch/"
+  }
+ },
+ "seiten": [
+  "https://www.alpineum.ch/"
+ ],
+ "abgerufen": "2026-10-08T18:05:16",
+ "status": "ok"
+}

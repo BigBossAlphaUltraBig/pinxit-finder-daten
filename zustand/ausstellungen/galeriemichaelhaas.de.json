@@ -1,0 +1,108 @@
+{
+ "domain": "galeriemichaelhaas.de",
+ "website": "http://www.galeriemichaelhaas.de",
+ "haeuser": "Galerie Michael Haas",
+ "land": "DE",
+ "ids": "galerie-galerie-michael-haas-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://galeriehaas.com/exhibitions/",
+  "https://galeriehaas.com/exhibitions/dapres-manet-b9ad6735/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Strawalde. Parade",
+   "untertitel": null,
+   "beginn": "2026-09-10",
+   "ende": "2026-10-23",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Michael Haas",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Strawalde",
+   "kuenstler": [
+    "Strawalde"
+   ],
+   "eroeffnung": "2026-09-10T18:00",
+   "url": "https://galeriehaas.com/exhibitions/strawalde-parade-bd612144/",
+   "quelle": "https://galeriehaas.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "In between",
+   "untertitel": null,
+   "beginn": "2026-08-17",
+   "ende": "2026-10-23",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Michael Haas",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [],
+   "eroeffnung": null,
+   "url": "https://galeriehaas.com/exhibitions/in-between-f2d89bd6/",
+   "quelle": "https://galeriehaas.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Jakob Mattner – Through Time",
+   "untertitel": "Through Time",
+   "beginn": "2026-09-17",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Michael Haas",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": "Galerie Haas Zurich",
+   "einzelausstellung_von": "Jakob Mattner",
+   "kuenstler": [
+    "Jakob Mattner"
+   ],
+   "eroeffnung": "2026-09-17T18:00",
+   "url": "https://galeriehaas.com/exhibitions/jakob-mattner-through-time-586b0c0c/",
+   "quelle": "https://galeriehaas.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Galerie Haas Zurich"
+  },
+  {
+   "titel": "D’après Manet",
+   "untertitel": "Ketterer Kunst Köln",
+   "beginn": "2026-09-05",
+   "ende": "2026-11-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Michael Haas",
+   "rang": 3,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": "Ketterer Kunst Köln",
+   "einzelausstellung_von": null,
+   "kuenstler": [],
+   "eroeffnung": "2026-09-04T18:00",
+   "url": "https://galeriehaas.com/exhibitions/dapres-manet-b9ad6735/",
+   "quelle": "https://galeriehaas.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Ketterer Kunst Köln"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

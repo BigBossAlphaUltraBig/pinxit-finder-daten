@@ -1,0 +1,25 @@
+{
+ "domain": "deuxdeux.de",
+ "website": "https://deuxdeux.de",
+ "haeuser": {
+  "Nouveaux Deuxdeux": {
+   "haus": "Nouveaux Deuxdeux",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://deuxdeux.de/"
+  }
+ },
+ "seiten": [
+  "https://deuxdeux.de/"
+ ],
+ "abgerufen": "2026-10-12T07:33:50",
+ "status": "unvollständig"
+}

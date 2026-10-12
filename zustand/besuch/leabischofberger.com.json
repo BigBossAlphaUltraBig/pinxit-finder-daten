@@ -1,0 +1,28 @@
+{
+ "domain": "leabischofberger.com",
+ "website": "https://www.leabischofberger.com",
+ "haeuser": {
+  "Lea Bischofberger Gallery": {
+   "haus": "Lea Bischofberger Gallery",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.leabischofberger.com/exhibitions-1",
+   "quelle": "https://www.leabischofberger.com/exhibitions-1",
+   "hinweis_oeffnung": "Eintritt frei; auch jederzeit nach Vereinbarung"
+  }
+ },
+ "seiten": [
+  "https://www.leabischofberger.com/",
+  "https://www.leabischofberger.com/exhibitions-1"
+ ],
+ "abgerufen": "2026-10-12T07:36:55",
+ "status": "ok"
+}

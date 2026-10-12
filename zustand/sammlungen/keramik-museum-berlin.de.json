@@ -1,0 +1,28 @@
+{
+ "domain": "keramik-museum-berlin.de",
+ "website": "http://www.keramik-museum-berlin.de",
+ "haeuser": [
+  {
+   "id": "Q1739162",
+   "name": "Keramik-Museum Berlin"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Keramik-Museum Berlin",
+   "titel": "Die Sammlung",
+   "untertitel": "Über 8000 Objekte: Fayence, Majolika, Steingut, Steinzeug, Porzellan",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "kunsthandwerk",
+   "url": "http://www.keramik-museum-berlin.de/museum/sammlung/",
+   "quelle": "http://www.keramik-museum-berlin.de/museum/sammlung/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "http://www.keramik-museum-berlin.de/museum/sammlung/"
+ ],
+ "abgerufen": "2026-10-08T22:19:13",
+ "status": "ok"
+}

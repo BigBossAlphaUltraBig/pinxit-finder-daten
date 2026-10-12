@@ -1,0 +1,29 @@
+{
+ "domain": "museum-morsbroich.de",
+ "website": "http://www.museum-morsbroich.de/",
+ "haeuser": {
+  "Museum Morsbroich": {
+   "haus": "Museum Morsbroich",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-17:00",
+    "mi": "11:00-17:00",
+    "do": "11:00-17:00",
+    "fr": "11:00-17:00",
+    "sa": "11:00-17:00",
+    "so": "11:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "10 €",
+   "eintritt_ermaessigt": "5 €",
+   "frei_fuer": "Kinder und Jugendliche bis einschließlich 17 Jahre",
+   "hinweis_oeffnung": "Montag geschlossen. An Feiertagen teilweise geöffnet (siehe Website).",
+   "quelle": "https://www.museum-morsbroich.de/kontakt-besuch/oeffnungszeiten-preise/"
+  }
+ },
+ "seiten": [
+  "https://www.museum-morsbroich.de/kontakt-besuch/oeffnungszeiten-preise/"
+ ],
+ "abgerufen": "2026-10-12T08:09:27",
+ "status": "ok"
+}

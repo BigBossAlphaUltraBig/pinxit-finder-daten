@@ -1,0 +1,157 @@
+{
+ "domain": "kindl-berlin.de",
+ "website": "https://www.kindl-berlin.de/",
+ "haeuser": "Kindl - Zentrum für zeitgenössische Kunst",
+ "land": "DE",
+ "ids": "node/5306246621",
+ "status": "ok",
+ "seiten": [
+  "https://www.kindl-berlin.de/ausstellungen",
+  "https://www.kindl-berlin.de/kunstvermittlung/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "boiler house",
+   "untertitel": "Kesselhaus",
+   "kuenstler": [
+    "Mischa Kuball"
+   ],
+   "beginn": "2026-09-13",
+   "ende": "2027-05-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Kindl - Zentrum für zeitgenössische Kunst",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.kindl-berlin.de/ausstellungen/mischa-kuball",
+   "quelle": "https://www.kindl-berlin.de/ausstellungen",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "together",
+   "untertitel": "together",
+   "kuenstler": [
+    "NEOZOON"
+   ],
+   "beginn": "2026-09-13",
+   "ende": "2027-02-21",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Kindl - Zentrum für zeitgenössische Kunst",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.kindl-berlin.de/ausstellungen/neozoon",
+   "quelle": "https://www.kindl-berlin.de/ausstellungen",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Between Sunlight",
+   "untertitel": "Between Sunlight",
+   "kuenstler": [
+    "Kira Freije"
+   ],
+   "beginn": "2026-09-13",
+   "ende": "2027-02-21",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kindl - Zentrum für zeitgenössische Kunst",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.kindl-berlin.de/ausstellungen/kira-freije",
+   "quelle": "https://www.kindl-berlin.de/ausstellungen",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Write As Beasts Scream at Night",
+   "untertitel": "Write As Beasts Scream at Night",
+   "kuenstler": [
+    "Thu-Van Tran"
+   ],
+   "beginn": "2026-09-13",
+   "ende": "2027-02-14",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kindl - Zentrum für zeitgenössische Kunst",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.kindl-berlin.de/ausstellungen/thu-van-tran",
+   "quelle": "https://www.kindl-berlin.de/ausstellungen",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "In the Middle, Somewhat Rehearsed",
+   "untertitel": "Xavier Le Roy, Temporary Title, 2026",
+   "kuenstler": [
+    "Xavier Le Roy"
+   ],
+   "beginn": "2026-09-24",
+   "ende": "2026-09-27",
+   "art": "veranstaltung",
+   "fachgebiet": "sonstiges",
+   "haus": "Kindl - Zentrum für zeitgenössische Kunst",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.kindl-berlin.de/ausstellungen/xavier-le-roy",
+   "quelle": "https://www.kindl-berlin.de/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  },
+  {
+   "titel": "An Intimacy with Strangers",
+   "untertitel": "null",
+   "kuenstler": [
+    "Peggy Atherton",
+    "David Claerbout",
+    "Marcus Coates",
+    "Nick Crowe",
+    "Ian Rawlinson",
+    "Tacita Dean",
+    "Folke Köbberling",
+    "Giuseppe Penone",
+    "Pope.L",
+    "Nika Radić",
+    "Jessica Segall",
+    "Uýra Sodoma",
+    "Zheng Bo"
+   ],
+   "beginn": "2026-03-22",
+   "ende": "2026-07-26",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kindl - Zentrum für zeitgenössische Kunst",
+   "rang": 99,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.kindl-berlin.de/ausstellungen/intimacy-with-strangers",
+   "quelle": "https://www.kindl-berlin.de/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

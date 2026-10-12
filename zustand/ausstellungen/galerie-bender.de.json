@@ -1,0 +1,47 @@
+{
+ "domain": "galerie-bender.de",
+ "website": "https://galerie-bender.de",
+ "haeuser": "Galerie Renate Bender",
+ "land": "DE",
+ "ids": "node/3739707107",
+ "status": "ok",
+ "seiten": [
+  "https://www.galerie-bender.de/de/category/aktuelle-ausstellung/",
+  "https://www.galerie-bender.de/de/category/ausstellungsvorschau/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "OVERSEAS",
+   "untertitel": "Eight Artists",
+   "beginn": "2026-10-16",
+   "ende": "2026-12-19",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Renate Bender",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "kuenstler": [
+    "Matt McClune",
+    "Rakuko Naito",
+    "Robin Rose",
+    "Robert Sagerman",
+    "Jeremy Thomas",
+    "Bill Thompson",
+    "Susan York",
+    "Jerry Zeniuk"
+   ],
+   "eroeffnung": "2026-10-16T18:00",
+   "url": "https://www.galerie-bender.de/de/category/aktuelle-ausstellung/",
+   "quelle": "https://www.galerie-bender.de/de/category/aktuelle-ausstellung/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

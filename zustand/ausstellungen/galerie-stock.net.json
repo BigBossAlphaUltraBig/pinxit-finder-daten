@@ -1,0 +1,66 @@
+{
+ "domain": "galerie-stock.net",
+ "website": "https://www.galerie-stock.net",
+ "haeuser": "Galerie Michaela Stock",
+ "land": "AT",
+ "ids": "galerie-galerie-michaela-stock-wien",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://www.galerie-stock.net/on-going/",
+  "https://www.galerie-stock.net/ausstellungen/who-is-speaking-sprechen-stimme-autoritaet-fair-for-art/"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "Who is speaking? Sprechen. Stimme. Autorität / FAIR FOR ART",
+   "untertitel": "Sprechen. Stimme. Autorität / FAIR FOR ART",
+   "kuenstler": [
+    "Lilo Nein",
+    "Nancy Spero",
+    "Marko Zink"
+   ],
+   "beginn": "2026-10-07",
+   "ende": "2026-10-11",
+   "art": "unklar",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Michaela Stock",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-10-06T18:00",
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "url": "https://www.galerie-stock.net/ausstellungen/who-is-speaking-sprechen-stimme-autoritaet-fair-for-art/",
+   "quelle": "https://www.galerie-stock.net/on-going/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  },
+  {
+   "titel": "Who is speaking?",
+   "untertitel": "Sprechen. Stimme. Autorität.",
+   "beginn": "2026-10-07",
+   "ende": "2026-10-11",
+   "art": "messe_markt",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Michaela Stock",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Nancy Spero",
+    "Lilo Nein",
+    "Marko Zink"
+   ],
+   "eroeffnung": "2026-10-06T18:00",
+   "anderer_ort": "Wiener Künstlerhaus, Karlsplatz 5, 1010 Wien",
+   "url": "https://www.galerie-stock.net/ausstellungen/who-is-speaking-sprechen-stimme-autoritaet-fair-for-art/",
+   "quelle": "https://www.galerie-stock.net/ausstellungen/who-is-speaking-sprechen-stimme-autoritaet-fair-for-art/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

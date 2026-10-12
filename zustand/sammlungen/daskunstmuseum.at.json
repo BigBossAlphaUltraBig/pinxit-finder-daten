@@ -1,0 +1,54 @@
+{
+ "domain": "daskunstmuseum.at",
+ "website": "http://daskunstmuseum.at",
+ "haeuser": [
+  {
+   "id": "Q1792553",
+   "name": "Kunstmuseum Waldviertel"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Kunstmuseum Waldviertel",
+   "titel": "Gesamtwerk Makis Warlamis",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Malerei, Grafik, Skulptur, Architektur, Design",
+   "kuenstler": [
+    "Makis Warlamis"
+   ],
+   "url": "https://daskunstmuseum.at/gesamtwerk-sammlung-warlamis/",
+   "quelle": "https://daskunstmuseum.at/gesamtwerk-sammlung-warlamis/"
+  },
+  {
+   "haus": "Kunstmuseum Waldviertel",
+   "titel": "Werke Heide Warlamis",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Keramik, Porzellan, Bronze, Design",
+   "kuenstler": [
+    "Heide Warlamis"
+   ],
+   "url": "https://daskunstmuseum.at/werke-heide-warlamis/",
+   "quelle": "https://daskunstmuseum.at/gesamtwerk-sammlung-warlamis/"
+  },
+  {
+   "haus": "Kunstmuseum Waldviertel",
+   "titel": "Zeitgenössische internationale Keramik und Plastik 1980–1990",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "kunsthandwerk",
+   "untertitel": "Sammlung aus Österreich, Deutschland, Schweiz u.a.",
+   "url": "https://daskunstmuseum.at/gesamtwerk-sammlung-warlamis/",
+   "quelle": "https://daskunstmuseum.at/gesamtwerk-sammlung-warlamis/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://daskunstmuseum.at/gesamtwerk-sammlung-warlamis/"
+ ],
+ "abgerufen": "2026-10-08T22:19:08",
+ "status": "ok"
+}

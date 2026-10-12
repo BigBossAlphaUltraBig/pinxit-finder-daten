@@ -1,0 +1,28 @@
+{
+ "domain": "estherschipper.com",
+ "website": "http://www.estherschipper.com",
+ "haeuser": {
+  "Esther Schipper": {
+   "haus": "Esther Schipper",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.estherschipper.com/gallery/#hours",
+   "hinweis_oeffnung": "Öffnungszeiten nicht auf dieser Seite sichtbar",
+   "quelle": "https://www.estherschipper.com/"
+  }
+ },
+ "seiten": [
+  "https://www.estherschipper.com/gallery/",
+  "https://www.estherschipper.com/"
+ ],
+ "abgerufen": "2026-10-12T07:34:06",
+ "status": "unvollständig"
+}

@@ -1,0 +1,29 @@
+{
+ "domain": "kallmann-museum.de",
+ "website": "https://kallmann-museum.de/",
+ "haeuser": {
+  "Kallmann-Museum": {
+   "haus": "Kallmann-Museum",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "13:00-17:00",
+    "mi": "13:00-17:00",
+    "do": "13:00-17:00",
+    "fr": "13:00-17:00",
+    "sa": "13:00-17:00",
+    "so": "13:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "6,00 €",
+   "eintritt_ermaessigt": "4,00 €",
+   "frei_fuer": "Kinder unter 16 Jahren, Studierende Kunst/Kunstgeschichte/Kunstwissenschaften/Kunstpädagogik, Schwerbehinderte und Begleitperson, VdK, ICOM, Deutscher Museumsbund, AICA, Presseausweis, Bürgergeld-Bezieher, Bayerische Ehrenamtskarte, LandkreisPass, Bildende Künstler BBK, Schulklassen und Gruppen unter Aufsicht, Lehrkräfte bei Schülertransport",
+   "hinweis_oeffnung": "Geschlossen: Faschingsdienstag, 24.12., 25.12., 31.12. Geöffnet: Ostermontag, Pfingstmontag, 26.12., Neujahr",
+   "quelle": "https://kallmann-museum.de/infos/"
+  }
+ },
+ "seiten": [
+  "https://kallmann-museum.de/infos/"
+ ],
+ "abgerufen": "2026-10-12T08:06:21",
+ "status": "ok"
+}

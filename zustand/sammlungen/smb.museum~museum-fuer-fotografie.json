@@ -1,0 +1,37 @@
+{
+ "domain": "smb.museum~museum-fuer-fotografie",
+ "website": "https://www.smb.museum/museen-einrichtungen/museum-fuer-fotografie/home/",
+ "haeuser": [
+  {
+   "id": "nachtrag-museum-f-r-fotografie",
+   "name": "Museum für Fotografie"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Museum für Fotografie",
+   "titel": "Sammlung Fotografie der Kunstbibliothek",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "fotografie",
+   "untertitel": "Fotografie vom 19. bis 21. Jahrhundert",
+   "url": "https://www.smb.museum/museen-einrichtungen/museum-fuer-fotografie/sammeln-forschen/sammlungen/sammlung-fotografie/",
+   "quelle": "https://www.smb.museum/museen-einrichtungen/museum-fuer-fotografie/sammeln-forschen/sammlungen/"
+  },
+  {
+   "haus": "Museum für Fotografie",
+   "titel": "Newton Foundation",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "fotografie",
+   "url": "https://www.smb.museum/museen-einrichtungen/museum-fuer-fotografie/sammeln-forschen/sammlungen/newton-foundation/",
+   "quelle": "https://www.smb.museum/museen-einrichtungen/museum-fuer-fotografie/sammeln-forschen/sammlungen/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.smb.museum/museen-einrichtungen/museum-fuer-fotografie/sammeln-forschen/sammlungen/"
+ ],
+ "abgerufen": "2026-10-12T08:14:37",
+ "status": "ok"
+}

@@ -1,0 +1,28 @@
+{
+ "domain": "fotoarsenalwien.at",
+ "website": "https://www.fotoarsenalwien.at",
+ "haeuser": {
+  "Foto Arsenal Wien": {
+   "haus": "Foto Arsenal Wien",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "11:00-19:00",
+    "mi": "11:00-19:00",
+    "do": "11:00-19:00",
+    "fr": "11:00-19:00",
+    "sa": "11:00-19:00",
+    "so": "11:00-19:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "10 €",
+   "eintritt_ermaessigt": "7 €",
+   "frei_fuer": "unter 19 Jahren",
+   "quelle": "https://www.fotoarsenalwien.at/de/kontakt"
+  }
+ },
+ "seiten": [
+  "https://www.fotoarsenalwien.at/de/kontakt"
+ ],
+ "abgerufen": "2026-10-12T08:04:48",
+ "status": "ok"
+}

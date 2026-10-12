@@ -1,0 +1,28 @@
+{
+ "domain": "sturmschober.com",
+ "website": "https://www.sturmschober.com",
+ "haeuser": {
+  "Galerie Sturm & Schober": {
+   "haus": "Galerie Sturm & Schober",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.sturmschober.com/galerie/",
+   "quelle": "https://www.sturmschober.com/kontakt/"
+  }
+ },
+ "seiten": [
+  "https://www.sturmschober.com/galerie/",
+  "https://www.sturmschober.com/",
+  "https://www.sturmschober.com/kontakt/"
+ ],
+ "abgerufen": "2026-10-12T07:38:44",
+ "status": "unvollständig"
+}

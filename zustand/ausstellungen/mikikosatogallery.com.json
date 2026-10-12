@@ -1,0 +1,43 @@
+{
+ "domain": "mikikosatogallery.com",
+ "website": "https://mikikosatogallery.com",
+ "haeuser": "Mikiko Sato Gallery",
+ "land": "DE",
+ "ids": "galerie-mikiko-sato-gallery-hamburg",
+ "status": "ok",
+ "seiten": [
+  "https://www.mikikosatogallery.com/de/ausstellungen/",
+  "https://www.mikikosatogallery.com/de/ausstellungen/aktuell/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "線の森 / Linienwald",
+   "untertitel": "Linienwald",
+   "beginn": "2026-11-13",
+   "ende": "2026-12-12",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Mikiko Sato Gallery",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Toshifumi Hirose",
+    "Terumi Ishigami",
+    "Kai Harada"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "url": "https://www.mikikosatogallery.com/de/ausstellungen/",
+   "quelle": "https://www.mikikosatogallery.com/de/ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

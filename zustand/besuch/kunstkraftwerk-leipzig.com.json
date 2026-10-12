@@ -1,0 +1,28 @@
+{
+ "domain": "kunstkraftwerk-leipzig.com",
+ "website": "http://www.kunstkraftwerk-leipzig.com/",
+ "haeuser": {
+  "Kunstkraftwerk": {
+   "haus": "Kunstkraftwerk",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "geschlossen",
+    "mi": "geschlossen",
+    "do": "10:00-20:00",
+    "fr": "10:00-21:00",
+    "sa": "10:00-21:00",
+    "so": "10:00-20:00"
+   },
+   "eintritt_immer_frei": false,
+   "frei_fuer": "unter 6 Jahren, Begleitperson von Besuchern mit Behindertenausweis (B-Kennzeichnung)",
+   "hinweis_oeffnung": "Am 15. Oktober 2026 geschlossen (private Veranstaltung), am 16. Oktober ab 16 Uhr geöffnet",
+   "bessere_seite": "https://www.kunstkraftwerk-leipzig.com/tickets/",
+   "quelle": "https://www.kunstkraftwerk-leipzig.com/ihr-besuch/"
+  }
+ },
+ "seiten": [
+  "https://www.kunstkraftwerk-leipzig.com/ihr-besuch/"
+ ],
+ "abgerufen": "2026-10-12T08:07:18",
+ "status": "ok"
+}

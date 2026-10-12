@@ -1,0 +1,28 @@
+{
+ "domain": "haeusler-contemporary.com",
+ "website": "https://www.haeusler-contemporary.com",
+ "haeuser": {
+  "Häusler Contemporary": {
+   "haus": "Häusler Contemporary",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "12:00-18:00",
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://haeusler-contemporary.com/kontakt",
+   "quelle": "https://haeusler-contemporary.com/kontakt",
+   "hinweis_oeffnung": "Sa nach Vereinbarung; keine Eintrittspreise auf der Website angegeben"
+  }
+ },
+ "seiten": [
+  "https://haeusler-contemporary.com/",
+  "https://haeusler-contemporary.com/kontakt"
+ ],
+ "abgerufen": "2026-10-12T07:36:17",
+ "status": "unvollständig"
+}

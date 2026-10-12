@@ -1,0 +1,29 @@
+{
+ "domain": "mggu.de",
+ "website": "https://www.mggu.de/",
+ "haeuser": {
+  "Museum Giersch": {
+   "haus": "Museum Giersch",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-20:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "7 €",
+   "eintritt_ermaessigt": "5 €",
+   "frei_fuer": "unter 18 Jahren, Studierende der Goethe-Universität",
+   "hinweis_oeffnung": "An Feiertagen 10–18 Uhr geöffnet (auch montags). Zwischen Ausstellungen wegen Umbau geschlossen.",
+   "quelle": "https://www.mggu.de/besuch/"
+  }
+ },
+ "seiten": [
+  "https://www.mggu.de/besuch/"
+ ],
+ "abgerufen": "2026-10-12T08:08:26",
+ "status": "ok"
+}

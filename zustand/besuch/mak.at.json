@@ -1,0 +1,26 @@
+{
+ "domain": "mak.at",
+ "website": "https://www.mak.at",
+ "haeuser": {
+  "MAK - Museum für angewandte Kunst": {
+   "haus": "MAK - Museum für angewandte Kunst",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-21:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.mak.at/tickets",
+   "quelle": "https://www.mak.at/besuch"
+  }
+ },
+ "seiten": [
+  "https://www.mak.at/besuch"
+ ],
+ "abgerufen": "2026-10-08T18:06:36",
+ "status": "ok"
+}

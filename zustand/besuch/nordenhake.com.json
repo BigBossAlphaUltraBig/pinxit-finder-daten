@@ -1,0 +1,29 @@
+{
+ "domain": "nordenhake.com",
+ "website": "http://www.nordenhake.com",
+ "haeuser": {
+  "Galerie Nordenhake": {
+   "haus": "Galerie Nordenhake",
+   "oeffnungszeiten": {
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "12:00-18:00",
+    "mo": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://nordenhake.com/contact",
+   "quelle": "https://nordenhake.com/contact"
+  }
+ },
+ "seiten": [
+  "https://nordenhake.com/exhibitions/2026/inaugural-group-exhibition-opening-our-new-location-at-goethestrasse-2-3",
+  "https://nordenhake.com/exhibitions/2014/a-work-of-fiction-revisited",
+  "https://nordenhake.com/",
+  "https://nordenhake.com/contact"
+ ],
+ "abgerufen": "2026-10-12T07:37:42",
+ "status": "ok"
+}

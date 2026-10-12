@@ -1,0 +1,37 @@
+{
+ "domain": "kunsthausaussersihl.ch",
+ "website": "https://www.kunsthausaussersihl.ch",
+ "haeuser": "Kunsthaus Aussersihl",
+ "land": "CH",
+ "ids": "Q130247260",
+ "status": "ok",
+ "seiten": [
+  "https://www.kunsthausaussersihl.ch/Aktuell"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Re-Vision",
+   "untertitel": "fontein: Ida Dober",
+   "beginn": "2026-10-23",
+   "ende": "2026-12-11",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthaus Aussersihl",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Ida Dober",
+   "kuenstler": [
+    "Ida Dober"
+   ],
+   "eroeffnung": "2026-10-23",
+   "gemeinfrei": false,
+   "schwerpunkt": "",
+   "anderer_ort": null,
+   "url": "https://www.kunsthausaussersihl.ch/Aktuell",
+   "quelle": "https://www.kunsthausaussersihl.ch/Aktuell",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

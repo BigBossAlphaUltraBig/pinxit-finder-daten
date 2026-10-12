@@ -1,0 +1,39 @@
+{
+ "domain": "galerie-tschudi.ch",
+ "website": "https://galerie-tschudi.ch/exhibitions",
+ "haeuser": "Galerie Tschudi",
+ "land": "CH",
+ "ids": "node/5468999870",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://galerie-tschudi.ch/exhibitions",
+  "https://galerie-tschudi.ch/exhibitions?artistfilter=Carl%20Andre"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "What Home Do Alphabets Dream Of?",
+   "untertitel": "What Home Alphabets Dream Of?",
+   "beginn": "2026-07-24",
+   "ende": "2026-09-19",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Tschudi",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Kemang Wa Lehulere"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Kemang Wa Lehulere",
+   "url": "https://galerie-tschudi.ch/exhibitions/what-home-do-alphabets-dream-of",
+   "quelle": "https://galerie-tschudi.ch/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

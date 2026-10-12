@@ -1,0 +1,25 @@
+{
+ "domain": "braundesignsammlung.de",
+ "website": "https://www.braundesignsammlung.de/",
+ "haeuser": {
+  "Braun-Sammlung Ettel": {
+   "haus": "Braun-Sammlung Ettel",
+   "oeffnungszeiten": {
+    "mo": "11:00-17:00",
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": "11:00-17:00"
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://braundesignmuseum.de/"
+  }
+ },
+ "seiten": [
+  "https://braundesignmuseum.de/"
+ ],
+ "abgerufen": "2026-10-08T18:05:51",
+ "status": "unvollständig"
+}

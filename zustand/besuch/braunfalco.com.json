@@ -1,0 +1,26 @@
+{
+ "domain": "braunfalco.com",
+ "website": "https://braunfalco.com",
+ "haeuser": {
+  "Braun-Falco Galerie": {
+   "haus": "Braun-Falco Galerie",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "13:00-18:00",
+    "mi": "13:00-18:00",
+    "do": "13:00-18:00",
+    "fr": "13:00-18:00",
+    "sa": "11:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "Öffnung auch nach Vereinbarung",
+   "quelle": "https://www.braunfalco.com/"
+  }
+ },
+ "seiten": [
+  "https://www.braunfalco.com/"
+ ],
+ "abgerufen": "2026-10-12T07:33:10",
+ "status": "ok"
+}

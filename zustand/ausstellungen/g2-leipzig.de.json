@@ -1,0 +1,84 @@
+{
+ "domain": "g2-leipzig.de",
+ "website": "http://g2-leipzig.de/",
+ "haeuser": "G2 Kunsthalle",
+ "land": "DE",
+ "ids": "Q23787561",
+ "status": "ok",
+ "seiten": [
+  "http://g2-leipzig.de/ausstellungen",
+  "http://g2-leipzig.de/ausstellungen/jeanette-mundt-public-and-beyond-judgment"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "VERTIGO",
+   "untertitel": "G2 #45",
+   "beginn": "2026-10-15",
+   "ende": "2027-01-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "G2 Kunsthalle",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "David Schnell"
+   ],
+   "einzelausstellung_von": "David Schnell",
+   "anderer_ort": null,
+   "eroeffnung": "2026-10-15",
+   "url": "http://g2-leipzig.de/ausstellungen/david-schnell-vertigo",
+   "quelle": "http://g2-leipzig.de/ausstellungen",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "SEIFEN, IN BLÜTE",
+   "untertitel": "G2 Schaulager #47",
+   "beginn": "2026-09-04",
+   "ende": "2026-12-06",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "G2 Kunsthalle",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Maja Behrmann"
+   ],
+   "einzelausstellung_von": "Maja Behrmann",
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-03T17:00",
+   "url": "http://g2-leipzig.de/ausstellungen/maja-behrmann-seifen-in-bluete",
+   "quelle": "http://g2-leipzig.de/ausstellungen",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "PUBLIC AND BEYOND JUDGMENT",
+   "untertitel": "G2 #45",
+   "beginn": "2026-06-12",
+   "ende": "2026-10-04",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "G2 Kunsthalle",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Jeanette Mundt"
+   ],
+   "einzelausstellung_von": "Jeanette Mundt",
+   "eroeffnung": "2026-06-11",
+   "url": "http://g2-leipzig.de/de/ausstellungen/jeanette-mundt-public-and-beyond-judgment",
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "quelle": "http://g2-leipzig.de/ausstellungen/jeanette-mundt-public-and-beyond-judgment",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

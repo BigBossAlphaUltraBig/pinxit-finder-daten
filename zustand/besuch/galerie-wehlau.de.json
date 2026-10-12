@@ -1,0 +1,25 @@
+{
+ "domain": "galerie-wehlau.de",
+ "website": "https://galerie-wehlau.de",
+ "haeuser": {
+  "Galerie Fenna Wehlau": {
+   "haus": "Galerie Fenna Wehlau",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "13:00-18:00",
+    "mi": "13:00-18:00",
+    "do": "13:00-18:00",
+    "fr": "13:00-18:00",
+    "sa": "13:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://www.galerie-wehlau.de/"
+  }
+ },
+ "seiten": [
+  "https://www.galerie-wehlau.de/"
+ ],
+ "abgerufen": "2026-10-12T07:34:54",
+ "status": "ok"
+}

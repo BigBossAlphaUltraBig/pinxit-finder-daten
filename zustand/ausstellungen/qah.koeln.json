@@ -1,0 +1,63 @@
+{
+ "domain": "qah.koeln",
+ "website": "https://qah.koeln/tempo___k-temporaeres-museum-fuer-zeitgenoessische-wandmalerei",
+ "haeuser": "Temporäres Museum für zeitgenössische Wandmalerei",
+ "land": "DE",
+ "ids": "node/14064965334",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://qah.koeln/kategorie/ausstellungen/",
+  "https://qah.koeln/ausstellungsraum-q18/"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "Three Visions of Nature",
+   "untertitel": "Finissage CAP Cologne x Baumhaus",
+   "beginn": "2026-10-01",
+   "ende": "2026-10-25",
+   "art": "veranstaltung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Temporäres Museum für zeitgenössische Wandmalerei",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Lioba Schmidt"
+   ],
+   "url": "https://qah.koeln/finissage-cap-cologne-x-baumhaus-three-visions-of-nature/",
+   "eroeffnung": "2026-10-01T18:00",
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "schwerpunkt": null,
+   "quelle": "https://qah.koeln/kategorie/ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  },
+  {
+   "titel": "c/o Q18: Tröööt! Tataaa! – Konfetti, Seidenstrümpfe und Supplements",
+   "untertitel": "Tröööt! Tataaa! – Konfetti, Seidenstrümpfe und Supplements",
+   "beginn": "2026-08-28",
+   "ende": "2026-09-20",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Temporäres Museum für zeitgenössische Wandmalerei",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Andrea Wolf",
+    "Firat Tagal",
+    "Luis Garcia Bohlscheid"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": "2026-08-28T18:00",
+   "url": "https://qah.koeln/c-o-q18-troeoeoet-tataaa-konfetti-seidenstruempfe-und-supplements/",
+   "quelle": "https://qah.koeln/ausstellungsraum-q18/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

@@ -1,0 +1,27 @@
+{
+ "domain": "visulex.net",
+ "website": "https://visulex.net",
+ "haeuser": {
+  "VisuleX Gallery for Photography": {
+   "haus": "VisuleX Gallery for Photography",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "15:00-18:00",
+    "do": "15:00-18:00",
+    "fr": "15:00-18:00",
+    "sa": "13:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://visulex.net/",
+   "hinweis_oeffnung": "nach Vereinbarung zusätzlich möglich"
+  }
+ },
+ "seiten": [
+  "https://visulex.net/about/",
+  "https://visulex.net/"
+ ],
+ "abgerufen": "2026-10-12T07:38:53",
+ "status": "unvollständig"
+}

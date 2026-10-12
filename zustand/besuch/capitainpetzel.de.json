@@ -1,0 +1,27 @@
+{
+ "domain": "capitainpetzel.de",
+ "website": "http://www.capitainpetzel.de",
+ "haeuser": {
+  "Capitain Petzel": {
+   "haus": "Capitain Petzel",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.capitainpetzel.de/contact/",
+   "quelle": "https://www.capitainpetzel.de/contact/"
+  }
+ },
+ "seiten": [
+  "https://www.capitainpetzel.de/",
+  "https://www.capitainpetzel.de/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:33:20",
+ "status": "ok"
+}

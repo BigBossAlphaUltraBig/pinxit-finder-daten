@@ -1,0 +1,113 @@
+{
+ "domain": "7hours.com",
+ "website": "http://www.7hours.com/",
+ "haeuser": "7hours",
+ "land": "DE",
+ "ids": "Q270106",
+ "status": "ok",
+ "seiten": [
+  "https://7hours.com/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "ALBERT WIGAND archive",
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "fachgebiet": "bildende_kunst",
+   "haus": "7hours",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "untertitel": "collected artist's materials",
+   "einzelausstellung_von": "Albert Wigand",
+   "kuenstler": [
+    "Albert Wigand"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": "Künstlernachlass und Werkverzeichnis",
+   "anderer_ort": null,
+   "url": "https://7hours.com/_Actual_Page/html/ALBERT%20WIGAND/2023/WIGAND%20Material.html",
+   "quelle": "https://7hours.com/"
+  },
+  {
+   "titel": "BILL DIETZ Tutorial Diversions",
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "fachgebiet": "medienkunst",
+   "haus": "7hours",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "untertitel": "collected artist's materials",
+   "einzelausstellung_von": "Bill Dietz",
+   "kuenstler": [
+    "Bill Dietz"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": "Künstlerarchiv und Dokumentationen",
+   "anderer_ort": null,
+   "url": "https://7hours.com/_Actual_Page/html/ARTISTSMATERIAL/7hours_artistsmaterial.htm#dietz",
+   "quelle": "https://7hours.com/"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "7hours at LUISENKIRCHE",
+   "beginn": "2026-01-01",
+   "ende": null,
+   "art": "veranstaltung",
+   "fachgebiet": "sonstiges",
+   "haus": "7hours",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "untertitel": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": "Luisenkirche",
+   "url": null,
+   "quelle": "https://7hours.com/",
+   "grund": "Veranstaltung, keine Ausstellung"
+  },
+  {
+   "titel": "7hours KINO FIRST DINNER HOME start",
+   "beginn": "2025-01-01",
+   "ende": null,
+   "art": "veranstaltung",
+   "fachgebiet": "sonstiges",
+   "haus": "7hours",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "untertitel": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "url": null,
+   "quelle": "https://7hours.com/",
+   "grund": "Veranstaltung, keine Ausstellung"
+  },
+  {
+   "titel": "7hours HAUS 19 CAMPUSNORD",
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "fachgebiet": "sonstiges",
+   "haus": "7hours",
+   "rang": 3,
+   "epoche": "gemischt",
+   "untertitel": "Humboldt Universität",
+   "einzelausstellung_von": null,
+   "kuenstler": [],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": "Humboldt Universität",
+   "url": null,
+   "quelle": "https://7hours.com/",
+   "grund": "keine Kunst (sonstiges)"
+  }
+ ],
+ "abgerufen": "2026-10-08T13:54:31"
+}

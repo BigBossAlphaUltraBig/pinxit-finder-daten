@@ -1,0 +1,124 @@
+{
+ "domain": "kunsthausbaselland.ch",
+ "website": "https://www.kunsthausbaselland.ch",
+ "haeuser": "Kunsthaus Baselland | Kunsthaus Baselland",
+ "land": "CH",
+ "ids": "Q1792438 node/12324355503",
+ "status": "ok",
+ "seiten": [
+  "https://www.kunsthausbaselland.ch/ausstellungen",
+  "https://kunsthausbaselland.ch/ausstellungen/monira-al-qadiri"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Benzene Float",
+   "untertitel": "Jahresprojekt",
+   "beginn": "2026-02-06",
+   "ende": "2027-01-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthaus Baselland",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "eroeffnung": "2026-02-05T18:30",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Monira Al Qadiri"
+   ],
+   "anderer_ort": null,
+   "url": "https://www.kunsthausbaselland.ch/ausstellungen/monira-al-qadiri",
+   "quelle": "https://www.kunsthausbaselland.ch/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "standort": "Kunsthaus Baselland / Kunsthaus Baselland"
+  },
+  {
+   "titel": "Walking on Rubber Eggshells",
+   "untertitel": "Einzelausstellung",
+   "beginn": "2026-09-25",
+   "ende": "2026-11-15",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthaus Baselland",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "eroeffnung": "2026-09-24T18:30",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Yanik Soland"
+   ],
+   "anderer_ort": null,
+   "url": "https://www.kunsthausbaselland.ch/ausstellungen/yanik-soland",
+   "quelle": "https://www.kunsthausbaselland.ch/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "standort": "Kunsthaus Baselland / Kunsthaus Baselland"
+  },
+  {
+   "titel": "Sinnesumschmeichelungen",
+   "untertitel": "In Kooperation mit der Contemporary Art Collection \"La Caixa\" Foundation",
+   "beginn": "2026-09-25",
+   "ende": "2027-04-04",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthaus Baselland",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Geneviève Cadieux",
+    "Esther Ferrer",
+    "Douglas Gordon",
+    "Cristina Iglesias",
+    "Anish Kapoor",
+    "Ernesto Neto",
+    "Tobias Rehberger",
+    "Maya Rikli",
+    "Giacomo Santiago Rogado",
+    "Hagar Schmidhalter",
+    "Soledad Sevilla",
+    "Rémy Zaugg"
+   ],
+   "anderer_ort": null,
+   "url": "https://www.kunsthausbaselland.ch/ausstellungen/sinnesumschmeichelungen",
+   "quelle": "https://www.kunsthausbaselland.ch/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "standort": "Kunsthaus Baselland / Kunsthaus Baselland"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Mémoires Voyageuses",
+   "beginn": "2026-05-22",
+   "ende": "2026-08-16",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthaus Baselland",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Raphaël Barontini",
+    "Onome Ekeh",
+    "Joana Escoval",
+    "Binelde Hyrcan",
+    "Mateo Maté",
+    "Sofía Salazar Rosales",
+    "Aline Motta",
+    "Helena Uambembe"
+   ],
+   "anderer_ort": null,
+   "url": "https://www.kunsthausbaselland.ch/ausstellungen/memoires-voyageuses",
+   "quelle": "https://www.kunsthausbaselland.ch/ausstellungen",
+   "untertitel": "null",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet",
+   "standort": "Kunsthaus Baselland / Kunsthaus Baselland"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

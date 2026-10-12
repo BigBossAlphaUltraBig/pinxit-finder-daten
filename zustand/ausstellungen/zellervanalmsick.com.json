@@ -1,0 +1,61 @@
+{
+ "domain": "zellervanalmsick.com",
+ "website": "https://www.zellervanalmsick.com",
+ "haeuser": "Zeller van Almsick",
+ "land": "AT",
+ "ids": "galerie-zeller-van-almsick-wien",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://www.zellervanalmsick.com/exhibitions"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "Breathe in Emptiness",
+   "untertitel": "null",
+   "beginn": "2026-05-01",
+   "ende": "2026-06-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Zeller van Almsick",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Li Jun"
+   ],
+   "einzelausstellung_von": "Li Jun",
+   "eroeffnung": null,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "url": "https://www.zellervanalmsick.com/breathe-in-emptiness",
+   "quelle": "https://www.zellervanalmsick.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  },
+  {
+   "titel": "Gritty Glancing",
+   "untertitel": "tools, wounds, structures, expectations, and other bodies",
+   "beginn": "2026-03-01",
+   "ende": "2026-04-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Zeller van Almsick",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Bianca Phos"
+   ],
+   "einzelausstellung_von": "Bianca Phos",
+   "eroeffnung": null,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "url": "https://www.zellervanalmsick.com/gritty-glancing",
+   "quelle": "https://www.zellervanalmsick.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

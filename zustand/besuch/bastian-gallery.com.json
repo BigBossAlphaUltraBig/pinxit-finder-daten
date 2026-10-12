@@ -1,0 +1,29 @@
+{
+ "domain": "bastian-gallery.com",
+ "website": "https://www.bastian-gallery.com",
+ "haeuser": {
+  "Bastian": {
+   "haus": "Bastian",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-17:00",
+    "mi": "11:00-17:00",
+    "do": "11:00-17:00",
+    "fr": "11:00-17:00",
+    "sa": "11:00-17:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.bastian-gallery.com/kontakt/",
+   "quelle": "https://www.bastian-gallery.com/kontakt/",
+   "hinweis_oeffnung": "Feiertags geschlossen"
+  }
+ },
+ "seiten": [
+  "https://www.bastian-gallery.com/",
+  "https://www.bastian-gallery.com/die-galerie/",
+  "https://www.bastian-gallery.com/kontakt/"
+ ],
+ "abgerufen": "2026-10-12T07:32:57",
+ "status": "ok"
+}

@@ -1,0 +1,67 @@
+{
+ "domain": "kunsthandel-werner.de",
+ "website": "http://www.kunsthandel-werner.de",
+ "haeuser": "Kunsthandel Wolfgang Werner",
+ "land": "DE",
+ "ids": "galerie-kunsthandel-wolfgang-werner-berlin",
+ "status": "ok",
+ "seiten": [
+  "http://www.kunsthandel-werner.de/data/ausstellungen/26_Bolsmann.html",
+  "http://www.kunsthandel-werner.de/data/ausstellungen/26_Haug.html",
+  "http://www.kunsthandel-werner.de/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Almut Heise",
+   "untertitel": "Gemälde – Zeichnungen aus den Jahren 1968–2013",
+   "beginn": null,
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthandel Wolfgang Werner",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Almut Heise"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Almut Heise",
+   "url": "http://www.kunsthandel-werner.de/data/ausstellungen/26_Heise.html",
+   "quelle": "http://www.kunsthandel-werner.de/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Birgitt Bolsmann / Kurt Haug",
+   "untertitel": "Dialog Birgitt Bolsmann–Kurt Haug",
+   "beginn": "2026-09-10",
+   "ende": "2026-10-28",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthandel Wolfgang Werner",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Birgitt Bolsmann",
+    "Kurt Haug"
+   ],
+   "eroeffnung": "2026-09-10",
+   "anderer_ort": "Berlin",
+   "einzelausstellung_von": null,
+   "url": "http://www.kunsthandel-werner.de/data/ausstellungen/26_BolsmannHaug_text.html",
+   "quelle": "http://www.kunsthandel-werner.de/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Berlin"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

@@ -1,0 +1,29 @@
+{
+ "domain": "gemaeldegalerie.skd.museum",
+ "website": "https://gemaeldegalerie.skd.museum/",
+ "haeuser": {
+  "Gemäldegalerie Alte Meister Dresden": {
+   "haus": "Gemäldegalerie Alte Meister Dresden",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-17:00",
+    "mi": "10:00-17:00",
+    "do": "10:00-17:00",
+    "fr": "10:00-17:00",
+    "sa": "10:00-17:00",
+    "so": "10:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "14 €",
+   "eintritt_ermaessigt": "10,50 €",
+   "frei_fuer": "Kinder bis Schuleintritt, Schülerinnen und Schüler unter 20 Jahren (2 €)",
+   "hinweis_oeffnung": "Reformationstag (31.10.2026) und Buß- und Bettag (18.11.2026) geöffnet 10-17 Uhr; verlängerte Öffnungszeiten Fr-So 27.11.2026-30.12.2026 10-18 Uhr",
+   "quelle": "https://gemaeldegalerie.skd.museum/besuch/"
+  }
+ },
+ "seiten": [
+  "https://gemaeldegalerie.skd.museum/besuch/"
+ ],
+ "abgerufen": "2026-10-12T08:05:13",
+ "status": "ok"
+}

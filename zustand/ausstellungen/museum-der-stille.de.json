@@ -1,0 +1,62 @@
+{
+ "domain": "museum-der-stille.de",
+ "website": "http://museum-der-stille.de/de/",
+ "haeuser": "Museum der Stille",
+ "land": "DE",
+ "ids": "Q21712334",
+ "status": "ok",
+ "seiten": [
+  "http://museum-der-stille.de/de/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Museum der Stille",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum der Stille",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Dauerausstellung der Gemälde Nikolai Makarovs zur Stille und Kontemplation",
+   "einzelausstellung_von": "Nikolai Makarov",
+   "kuenstler": [
+    "Nikolai Makarov"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "http://museum-der-stille.de/#museum",
+   "quelle": "http://museum-der-stille.de/de/",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "GULAG Gedenkraum",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "geschichte",
+   "haus": "Museum der Stille",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Gedenkraum für die Opfer des Stalinismus, mit Torf gestaltet",
+   "einzelausstellung_von": "Nikolai Makarov",
+   "kuenstler": [
+    "Nikolai Makarov"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": null,
+   "quelle": "http://museum-der-stille.de/de/",
+   "grund": "keine Kunst (geschichte)"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

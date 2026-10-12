@@ -1,0 +1,29 @@
+{
+ "domain": "hausderkunst.de",
+ "website": "https://hausderkunst.de/en",
+ "haeuser": {
+  "Haus der Kunst": {
+   "haus": "Haus der Kunst",
+   "oeffnungszeiten": {
+    "mo": "10:00-20:00",
+    "di": "geschlossen",
+    "mi": "10:00-20:00",
+    "do": "10:00-20:00",
+    "fr": "10:00-20:00",
+    "sa": "10:00-20:00",
+    "so": "10:00-20:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "€15",
+   "eintritt_ermaessigt": "€11",
+   "frei_fuer": "Kinder unter 12 Jahren, Haus Club Mitglieder, Freunde Haus der Kunst, Kunststudenten, ICOM/CiMAM Mitglieder, Mitglieder Deutscher Museumsbund, Stadtführer mit Nachweis, Begleitpersonen von schwerbehinderten Personen mit B-Zertifikat, Geflüchtete mit Aufenthaltserlaubnis",
+   "frei_wann": "jeden letzten Freitag im Monat von 16:00-22:00 Uhr",
+   "quelle": "https://www.hausderkunst.de/en/plan-your-visit"
+  }
+ },
+ "seiten": [
+  "https://www.hausderkunst.de/en/plan-your-visit"
+ ],
+ "abgerufen": "2026-10-12T08:05:43",
+ "status": "ok"
+}

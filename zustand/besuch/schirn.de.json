@@ -1,0 +1,27 @@
+{
+ "domain": "schirn.de",
+ "website": "https://www.schirn.de/",
+ "haeuser": {
+  "Schirn Kunsthalle Frankfurt": {
+   "haus": "Schirn Kunsthalle Frankfurt",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-19:00",
+    "mi": "10:00-19:00",
+    "do": "10:00-22:00",
+    "fr": "10:00-19:00",
+    "sa": "10:00-19:00",
+    "so": "10:00-19:00"
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.schirn.de/preise-und-tickets/",
+   "hinweis_oeffnung": "Montag geschlossen; Sonderöffnungszeiten an Feiertagen",
+   "quelle": "https://www.schirn.de/oeffnungszeiten/"
+  }
+ },
+ "seiten": [
+  "https://www.schirn.de/oeffnungszeiten/"
+ ],
+ "abgerufen": "2026-10-12T08:10:20",
+ "status": "ok"
+}

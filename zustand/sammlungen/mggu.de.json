@@ -1,0 +1,28 @@
+{
+ "domain": "mggu.de",
+ "website": "https://www.mggu.de/",
+ "haeuser": [
+  {
+   "id": "Q1954440",
+   "name": "Museum Giersch"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Museum Giersch",
+   "titel": "Die Sammlung",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Sammlung des Museums Giersch",
+   "url": "https://www.mggu.de/museum/",
+   "quelle": "https://www.mggu.de/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.mggu.de/"
+ ],
+ "abgerufen": "2026-10-12T08:13:29",
+ "status": "ok"
+}

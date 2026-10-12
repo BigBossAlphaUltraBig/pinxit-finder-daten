@@ -1,0 +1,27 @@
+{
+ "domain": "bernerdesignstiftung.ch",
+ "website": "https://www.bernerdesignstiftung.ch",
+ "haeuser": {
+  "Berner Designstiftung (ehemals Bernische Stiftung für angewandte Kunst und Gestaltung)": {
+   "haus": "Berner Designstiftung (ehemals Bernische Stiftung für angewandte Kunst und Gestaltung)",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://bernerdesignstiftung.ch/de/",
+   "quelle": "https://bernerdesignstiftung.ch/de/ueber-uns/"
+  }
+ },
+ "seiten": [
+  "https://bernerdesignstiftung.ch/de/",
+  "https://bernerdesignstiftung.ch/de/ueber-uns/"
+ ],
+ "abgerufen": "2026-10-12T08:03:50",
+ "status": "unvollständig"
+}

@@ -1,0 +1,28 @@
+{
+ "domain": "caricatura-museum.de",
+ "website": "https://caricatura-museum.de/",
+ "haeuser": {
+  "Caricatura Museum für Komische Kunst": {
+   "haus": "Caricatura Museum für Komische Kunst",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "11:00-19:00",
+    "mi": "11:00-19:00",
+    "do": "11:00-19:00",
+    "fr": "11:00-19:00",
+    "sa": "11:00-19:00",
+    "so": "11:00-19:00"
+   },
+   "eintritt_regulaer": "8,00 €",
+   "eintritt_ermaessigt": "4,00 €",
+   "frei_fuer": "Kinder und Jugendliche bis 18 Jahre, Auszubildende ab 18 Jahre, bestimmte Studierendengruppen, Inhabende von Museumsuferkarte/Ehrenamtskarte/Juleica-Card, Begleitpersonen für Behinderte",
+   "eintritt_immer_frei": false,
+   "quelle": "https://caricatura-museum.de/besuch/informationen/"
+  }
+ },
+ "seiten": [
+  "https://caricatura-museum.de/besuch/informationen/"
+ ],
+ "abgerufen": "2026-10-12T08:03:57",
+ "status": "ok"
+}

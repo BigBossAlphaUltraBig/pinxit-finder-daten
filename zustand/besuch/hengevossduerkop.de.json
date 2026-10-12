@@ -1,0 +1,30 @@
+{
+ "domain": "hengevossduerkop.de",
+ "website": "https://hengevossduerkop.de",
+ "haeuser": {
+  "Hengevoss-Dürkop": {
+   "haus": "Hengevoss-Dürkop",
+   "oeffnungszeiten": {
+    "mi": "14:00-18:00",
+    "do": "14:00-18:00",
+    "fr": "14:00-18:00",
+    "sa": "12:00-15:00",
+    "mo": null,
+    "di": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "Sonnabend 12:00-15:00 u.n.V. (nach Vereinbarung)",
+   "bessere_seite": "https://hengevossduerkop.de/galerie/?page_id=10",
+   "quelle": "https://hengevossduerkop.de/galerie/?page_id=10"
+  }
+ },
+ "seiten": [
+  "https://hengevossduerkop.de/galerie/?page_id=5657",
+  "https://hengevossduerkop.de/galerie/",
+  "https://hengevossduerkop.de/galerie/?page_id=12",
+  "https://hengevossduerkop.de/galerie/?page_id=10"
+ ],
+ "abgerufen": "2026-10-12T08:06:04",
+ "status": "unvollständig"
+}

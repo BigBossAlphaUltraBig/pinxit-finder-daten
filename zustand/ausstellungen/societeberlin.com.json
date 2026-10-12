@@ -1,0 +1,89 @@
+{
+ "domain": "societeberlin.com",
+ "website": "http://www.societeberlin.com",
+ "haeuser": "Société",
+ "land": "DE",
+ "ids": "galerie-societe-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://societeberlin.com/exhibitions/",
+  "https://societeberlin.com/exhibitions/sugarshack/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Sugarshack",
+   "beginn": "2026-09-10",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Société",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Salim Green"
+   ],
+   "einzelausstellung_von": "Salim Green",
+   "url": "https://societeberlin.com/exhibitions/sugarshack/",
+   "untertitel": "null",
+   "gemeinfrei": false,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "schwerpunkt": null,
+   "quelle": "https://societeberlin.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Stone Standing in the Wind",
+   "beginn": "2026-11-04",
+   "ende": "2027-01-16",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Société",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Tu Hongtao"
+   ],
+   "einzelausstellung_von": "Tu Hongtao",
+   "url": "https://societeberlin.com/exhibitions/stone-standing-in-the-wind/",
+   "untertitel": "null",
+   "gemeinfrei": false,
+   "eroeffnung": "2026-11-04",
+   "anderer_ort": null,
+   "schwerpunkt": null,
+   "quelle": "https://societeberlin.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Pristine, part II",
+   "beginn": "2026-11-05",
+   "ende": "2027-01-09",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Société",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Timur Si-Qin"
+   ],
+   "einzelausstellung_von": "Timur Si-Qin",
+   "url": "https://societeberlin.com/exhibitions/pristine-part-ii/",
+   "untertitel": "Pristine, part II",
+   "gemeinfrei": false,
+   "eroeffnung": "2026-11-04",
+   "anderer_ort": null,
+   "schwerpunkt": null,
+   "quelle": "https://societeberlin.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

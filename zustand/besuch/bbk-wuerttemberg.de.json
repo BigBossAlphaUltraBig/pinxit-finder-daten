@@ -1,0 +1,28 @@
+{
+ "domain": "bbk-wuerttemberg.de",
+ "website": "https://www.bbk-wuerttemberg.de/",
+ "haeuser": {
+  "Bund Bildender Künstlerinnen Württembergs e.V.": {
+   "haus": "Bund Bildender Künstlerinnen Württembergs e.V.",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.bbk-wuerttemberg.de/programm/",
+   "quelle": "https://www.bbk-wuerttemberg.de/kontakt/"
+  }
+ },
+ "seiten": [
+  "https://www.bbk-wuerttemberg.de/",
+  "https://www.bbk-wuerttemberg.de/programm/",
+  "https://www.bbk-wuerttemberg.de/kontakt/"
+ ],
+ "abgerufen": "2026-10-12T08:03:47",
+ "status": "unvollständig"
+}

@@ -1,0 +1,131 @@
+{
+ "domain": "kunstverein-muenchen.de",
+ "website": "https://www.kunstverein-muenchen.de/",
+ "haeuser": "Kunstverein München",
+ "land": "DE",
+ "ids": "nachtrag-kunstverein-m-nchen",
+ "status": "ok",
+ "seiten": [
+  "https://www.kunstverein-muenchen.de/de/programm"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Kitty Kraus",
+   "beginn": "2026-09-26",
+   "ende": "2026-11-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunstverein München",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "untertitel": "Ein einziges neues Werk: ein scheinbar endloser Pfad",
+   "einzelausstellung_von": "Kitty Kraus",
+   "kuenstler": [
+    "Kitty Kraus"
+   ],
+   "url": "https://www.kunstverein-muenchen.de/de/programm/ausstellungen/aktuell/kitty-kraus",
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-25",
+   "ausstellungen_hinweis": null,
+   "quelle": "https://www.kunstverein-muenchen.de/de/programm",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "George Tourkovasilis",
+   "untertitel": "präsentiert mit dem Daybed von Julie Peeters",
+   "beginn": "2026-09-26",
+   "ende": "2026-11-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunstverein München",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "George Tourkovasilis",
+   "kuenstler": [
+    "George Tourkovasilis",
+    "Julie Peeters"
+   ],
+   "url": "https://www.kunstverein-muenchen.de/de/programm/ausstellungen/aktuell/george-tourkovasilis",
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-25",
+   "ausstellungen_hinweis": null,
+   "quelle": "https://www.kunstverein-muenchen.de/de/programm",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Theory",
+   "untertitel": "präsentiert im Schaufenster von Fivehundred Places / Jason Dodge, übersetzt von Thomas Eggerer",
+   "beginn": "2026-09-26",
+   "ende": "2026-11-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunstverein München",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Bianca Stone",
+   "kuenstler": [
+    "Bianca Stone",
+    "Jason Dodge",
+    "Thomas Eggerer"
+   ],
+   "url": "https://www.kunstverein-muenchen.de/de/programm/schaufenster/2026/bianca-stone",
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-25",
+   "ausstellungen_hinweis": null,
+   "quelle": "https://www.kunstverein-muenchen.de/de/programm",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Möbelstücke etc.",
+   "beginn": "2026-06-27",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "design",
+   "haus": "Kunstverein München",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Lukas Gschwandtner",
+   "kuenstler": [
+    "Lukas Gschwandtner"
+   ],
+   "url": "https://www.kunstverein-muenchen.de/de/programm/ausstellungen/aktuell/lukas-gschwandtner",
+   "anderer_ort": null,
+   "eroeffnung": "2026-06-26T19:00",
+   "quelle": "https://www.kunstverein-muenchen.de/de/programm",
+   "untertitel": "null",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Jahresgaben 2026",
+   "beginn": "2026-12-05",
+   "ende": "2026-12-13",
+   "art": "messe_markt",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunstverein München",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [],
+   "url": "https://www.kunstverein-muenchen.de/de/programm/ausstellungen/vorschau/jahresgaben-2026",
+   "anderer_ort": null,
+   "eroeffnung": "2026-12-04",
+   "quelle": "https://www.kunstverein-muenchen.de/de/programm",
+   "untertitel": "Geschichte der Jahresgaben und heutige Einordnung",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Messe/Markt, keine Ausstellung"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

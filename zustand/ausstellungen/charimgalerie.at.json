@@ -1,0 +1,91 @@
+{
+ "domain": "charimgalerie.at",
+ "website": "https://www.charimgalerie.at",
+ "haeuser": "Charim Galerie",
+ "land": "AT",
+ "ids": "galerie-charim-galerie-wien",
+ "status": "ok",
+ "seiten": [
+  "https://www.charimgalerie.at/exhibitions",
+  "https://www.charimgalerie.at/exhibition/curatedby26"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Curated by 2026",
+   "untertitel": "LOVE | Manuals for Getting By | curated by Tamar Margalit",
+   "beginn": "2026-09-11",
+   "ende": "2026-11-03",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Charim Galerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://www.charimgalerie.at/exhibition/curatedby26",
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-10T12:00",
+   "kuenstler": [
+    "Chen Cohen",
+    "Melanie Ender"
+   ],
+   "quelle": "https://www.charimgalerie.at/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Manuals for Getting By",
+   "untertitel": "Curated by Tamar Margalit",
+   "beginn": "2026-09-11",
+   "ende": "2026-11-03",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Charim Galerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-09-10T12:00",
+   "kuenstler": [
+    "Chen Cohen",
+    "Melanie Ender"
+   ],
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "url": "https://www.charimgalerie.at/exhibition/curatedby26",
+   "quelle": "https://www.charimgalerie.at/exhibition/curatedby26",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Judith Eisler – Scott Clifford Evans – Lazar Lyutakov",
+   "untertitel": null,
+   "beginn": "2026-07-01",
+   "ende": "2026-07-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Charim Galerie",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://www.charimgalerie.at/exhibition/eisler_evans_lyutakov",
+   "anderer_ort": null,
+   "eroeffnung": "2026-06-30T18:00",
+   "kuenstler": [
+    "Judith Eisler",
+    "Scott Clifford Evans",
+    "Lazar Lyutakov"
+   ],
+   "quelle": "https://www.charimgalerie.at/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

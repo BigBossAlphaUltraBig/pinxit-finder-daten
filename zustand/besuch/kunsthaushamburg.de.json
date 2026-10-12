@@ -1,0 +1,28 @@
+{
+ "domain": "kunsthaushamburg.de",
+ "website": "https://kunsthaushamburg.de",
+ "haeuser": {
+  "Kunstverein in Hamburg": {
+   "haus": "Kunstverein in Hamburg",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": "11:00-18:00"
+   },
+   "eintritt_regulaer": "6€",
+   "eintritt_ermaessigt": "4€",
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "Erster Donnerstag des Monats 11:00-22:00",
+   "quelle": "https://kunsthaushamburg.de/besuch/"
+  }
+ },
+ "seiten": [
+  "https://kunsthaushamburg.de/besuch/"
+ ],
+ "abgerufen": "2026-10-12T08:07:15",
+ "status": "ok"
+}

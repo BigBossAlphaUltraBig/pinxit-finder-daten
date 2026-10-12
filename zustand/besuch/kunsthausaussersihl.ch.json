@@ -1,0 +1,29 @@
+{
+ "domain": "kunsthausaussersihl.ch",
+ "website": "https://www.kunsthausaussersihl.ch",
+ "haeuser": {
+  "Kunsthaus Aussersihl": {
+   "haus": "Kunsthaus Aussersihl",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.kunsthausaussersihl.ch/Kunsthaus+Aussersihl",
+   "quelle": "https://www.kunsthausaussersihl.ch/Aktuell",
+   "hinweis_oeffnung": "Installationen rund um die Uhr zugänglich"
+  }
+ },
+ "seiten": [
+  "https://www.kunsthausaussersihl.ch/",
+  "https://www.kunsthausaussersihl.ch/Kunsthaus+Aussersihl",
+  "https://www.kunsthausaussersihl.ch/Aktuell"
+ ],
+ "abgerufen": "2026-10-12T08:07:04",
+ "status": "unvollständig"
+}

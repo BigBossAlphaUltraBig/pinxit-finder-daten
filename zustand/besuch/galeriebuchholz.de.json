@@ -1,0 +1,25 @@
+{
+ "domain": "galeriebuchholz.de",
+ "website": "http://www.galeriebuchholz.de",
+ "haeuser": {
+  "Galerie Buchholz": {
+   "haus": "Galerie Buchholz",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://www.galeriebuchholz.de/"
+  }
+ },
+ "seiten": [
+  "https://www.galeriebuchholz.de/"
+ ],
+ "abgerufen": "2026-10-12T07:35:02",
+ "status": "ok"
+}

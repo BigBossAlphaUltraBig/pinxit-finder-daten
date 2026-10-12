@@ -1,0 +1,59 @@
+{
+ "domain": "dantendorfer.art",
+ "website": "https://www.dantendorfer.art",
+ "haeuser": "Galerie Dantendorfer",
+ "land": "AT",
+ "ids": "galerie-galerie-dantendorfer-wien",
+ "status": "ok",
+ "seiten": [
+  "https://www.dantendorfer.art/startseite/ausstellungen/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "On Serenity",
+   "untertitel": "Our Fragile Nature and the Unseen Landscape",
+   "beginn": "2026-10-08",
+   "ende": "2026-11-05",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Dantendorfer",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-10-08T18:00",
+   "einzelausstellung_von": "Jakob Veigar Sigurðsson",
+   "kuenstler": [
+    "Jakob Veigar Sigurðsson"
+   ],
+   "url": "https://www.dantendorfer.art/jakob-veigar-on-serenity/",
+   "quelle": "https://www.dantendorfer.art/startseite/ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "JAKOB VEIGAR | On Serenity",
+   "untertitel": "Our Fragile Nature and the Unseen Landscape",
+   "beginn": "2026-10-08",
+   "ende": "2026-11-05",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Dantendorfer",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Jakob Veigar Sigurðsson"
+   ],
+   "gemeinfrei": false,
+   "eroeffnung": "2026-10-08T18:00",
+   "url": "https://www.dantendorfer.art/jakob-veigar-on-serenity/",
+   "quelle": "https://www.dantendorfer.art/startseite/ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

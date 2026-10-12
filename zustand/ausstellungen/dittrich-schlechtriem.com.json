@@ -1,0 +1,137 @@
+{
+ "domain": "dittrich-schlechtriem.com",
+ "website": "http://www.dittrich-schlechtriem.com",
+ "haeuser": "Dittrich & Schlechtriem",
+ "land": "DE",
+ "ids": "node/4757755548",
+ "status": "ok",
+ "seiten": [
+  "https://dittrich-schlechtriem.com/exhibitions/",
+  "https://dittrich-schlechtriem.com/exhibitions/berlin/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Dispair",
+   "untertitel": "null",
+   "beginn": "2026-09-10",
+   "ende": "2026-10-31",
+   "art": "unklar",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Dittrich & Schlechtriem",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Ersan Mondtag"
+   ],
+   "url": "https://dittrich-schlechtriem.com/dispair/",
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-10T18:00",
+   "einzelausstellung_von": "Ersan Mondtag",
+   "quelle": "https://dittrich-schlechtriem.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "hello, Linienstrasse 40",
+   "beginn": null,
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Dittrich & Schlechtriem",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Cosima von Bonin",
+    "Roger Bundschuh",
+    "Philipp Baumhauer",
+    "Monty Richthofen"
+   ],
+   "einzelausstellung_von": null,
+   "url": "https://dittrich-schlechtriem.com/hello-linienstrasse-40/",
+   "untertitel": "Dittrich & Schlechtriem eröffnet seinen neuen Hauptsitz in Mitte, Linienstraße 40 (Berlin)",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://dittrich-schlechtriem.com/exhibitions/berlin/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "goodbye, Linienstrasse 23",
+   "beginn": null,
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Dittrich & Schlechtriem",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [],
+   "einzelausstellung_von": null,
+   "url": "https://dittrich-schlechtriem.com/goodbye-linienstrasse-23/",
+   "untertitel": "null",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://dittrich-schlechtriem.com/exhibitions/berlin/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Holobionten",
+   "beginn": "2026-07-01",
+   "ende": "2026-07-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Dittrich & Schlechtriem",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Bernhard Martin"
+   ],
+   "einzelausstellung_von": "Bernhard Martin",
+   "url": "https://dittrich-schlechtriem.com/holobionten/",
+   "untertitel": "Bernhard Martin's opus magnum",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://dittrich-schlechtriem.com/exhibitions/berlin/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  },
+  {
+   "titel": "HARD 2 4GET",
+   "beginn": "2026-05-01",
+   "ende": "2026-05-03",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Dittrich & Schlechtriem",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Monty Richthofen"
+   ],
+   "einzelausstellung_von": "Monty Richthofen",
+   "url": "https://dittrich-schlechtriem.com/monty-richthofen/",
+   "untertitel": "HARD 2 4GET",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://dittrich-schlechtriem.com/exhibitions/berlin/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

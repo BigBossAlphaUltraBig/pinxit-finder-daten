@@ -1,0 +1,29 @@
+{
+ "domain": "azw.at",
+ "website": "http://www.azw.at/startpage.php?lang_id=en",
+ "haeuser": {
+  "Architekturzentrum Wien": {
+   "haus": "Architekturzentrum Wien",
+   "oeffnungszeiten": {
+    "mo": "10:00-18:00",
+    "di": "10:00-18:00",
+    "mi": "10:00-20:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "€ 12",
+   "eintritt_ermaessigt": "€ 9",
+   "frei_fuer": "Kinder unter 6 Jahren, ICOM Karte, Kulturpassbesitzer*innen, Fremdenführer*innen, Az W-Partner*innen, Beschäftigungslose, Vienna Expertsclub, IAA, Studierende und Schüler*innen (Mittwoch 17:00-20:00 Uhr)",
+   "frei_wann": "1. Mai und 26. Oktober; Mittwoch 17:00-20:00 Uhr für Studierende und Schüler*innen",
+   "quelle": "https://www.azw.at/de/artikel/besuch/"
+  }
+ },
+ "seiten": [
+  "https://www.azw.at/de/artikel/besuch/"
+ ],
+ "abgerufen": "2026-10-12T08:03:41",
+ "status": "ok"
+}

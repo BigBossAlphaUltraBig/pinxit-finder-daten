@@ -1,0 +1,30 @@
+{
+ "domain": "co-berlin.org",
+ "website": "https://co-berlin.org/",
+ "haeuser": {
+  "C/O Berlin": {
+   "haus": "C/O Berlin",
+   "oeffnungszeiten": {
+    "mo": "11:00-20:00",
+    "di": "11:00-20:00",
+    "mi": "11:00-20:00",
+    "do": "11:00-20:00",
+    "fr": "11:00-20:00",
+    "sa": "11:00-20:00",
+    "so": "11:00-20:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "15 Euro",
+   "eintritt_ermaessigt": "8 Euro",
+   "frei_fuer": "bis einschließlich 18 Jahre",
+   "bessere_seite": "https://co-berlin.org/de/besuch/oeffnungszeiten-und-anreise",
+   "quelle": "https://co-berlin.org/de"
+  }
+ },
+ "seiten": [
+  "https://co-berlin.org/de/besuch/tickets#/",
+  "https://co-berlin.org/de"
+ ],
+ "abgerufen": "2026-10-12T08:04:00",
+ "status": "ok"
+}

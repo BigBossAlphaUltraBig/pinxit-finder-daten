@@ -1,0 +1,35 @@
+{
+ "domain": "migrosmuseum.ch",
+ "website": "http://www.migrosmuseum.ch/",
+ "haeuser": [
+  {
+   "id": "Q1380528",
+   "name": "Migros Museum für Gegenwartskunst"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Migros Museum für Gegenwartskunst",
+   "titel": "Die Sammlung",
+   "untertitel": "Zeitgenössische Kunst und installative Arbeiten",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "kuenstler": [
+    "Maurizio Cattelan",
+    "Christoph Büchel",
+    "Urs Fischer",
+    "Douglas Gordon",
+    "Ragnar Kjartansson"
+   ],
+   "url": "https://migrosmuseum.ch/sammlung",
+   "quelle": "https://migrosmuseum.ch/sammlung"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://migrosmuseum.ch/sammlung"
+ ],
+ "abgerufen": "2026-10-12T08:13:35",
+ "status": "ok"
+}

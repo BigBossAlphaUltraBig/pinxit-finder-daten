@@ -1,0 +1,32 @@
+{
+ "domain": "galeriemolitor.com",
+ "website": "https://www.galeriemolitor.com",
+ "haeuser": {
+  "Galerie Molitor": {
+   "haus": "Galerie Molitor",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.galeriemolitor.com/exhibitions/",
+   "hinweis_oeffnung": "Öffnungszeiten und Eintritt nicht auf der Exhibitions-Seite verfügbar",
+   "quelle": "https://www.galeriemolitor.com/exhibitions/"
+  }
+ },
+ "seiten": [
+  "https://www.galeriemolitor.com/news/i-sought-my-soul/",
+  "https://www.galeriemolitor.com/news/making-food-out-of-sunlight-van-abbe/",
+  "https://www.galeriemolitor.com/",
+  "https://www.galeriemolitor.com/exhibitions/",
+  "https://www.galeriemolitor.com/exhibitions/",
+  "https://www.galeriemolitor.com/exhibitions/"
+ ],
+ "abgerufen": "2026-10-12T07:35:28",
+ "status": "unvollständig"
+}

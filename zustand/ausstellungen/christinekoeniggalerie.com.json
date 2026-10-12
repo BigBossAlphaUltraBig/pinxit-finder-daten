@@ -1,0 +1,39 @@
+{
+ "domain": "christinekoeniggalerie.com",
+ "website": "https://christinekoeniggalerie.com",
+ "haeuser": "Christine König Galerie",
+ "land": "AT",
+ "ids": "node/1747565712",
+ "status": "ok",
+ "seiten": [
+  "https://christinekoeniggalerie.com/exhibitions/",
+  "https://christinekoeniggalerie.com/exhibitions/presence-of-an-absence-curated_by-max-dax-92085fdc/?tab=works"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Presence of an Absence",
+   "untertitel": "curated by Max DAX",
+   "beginn": "2026-09-11",
+   "ende": "2026-11-14",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Christine König Galerie",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "url": "https://christinekoeniggalerie.com/exhibitions/presence-of-an-absence-curated_by-max-dax-92085fdc/",
+   "eroeffnung": "2026-09-11T12:00",
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://christinekoeniggalerie.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

@@ -1,0 +1,87 @@
+{
+ "domain": "galeriewittenbrink.de",
+ "website": "https://galeriewittenbrink.de",
+ "haeuser": "Galerie Wittenbrink",
+ "land": "DE",
+ "ids": "node/3740121310",
+ "status": "ok",
+ "seiten": [
+  "https://www.galeriewittenbrink.de/ausstellungen.html",
+  "https://www.galeriewittenbrink.de/aktuelles.html"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Schönheit des Zufalls",
+   "untertitel": null,
+   "beginn": "2026-10-17",
+   "ende": "2026-12-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Wittenbrink",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Tom Fecht",
+   "kuenstler": [
+    "Tom Fecht"
+   ],
+   "eroeffnung": "2026-10-16T18:00",
+   "url": "https://www.galeriewittenbrink.de/fecht-tom.html",
+   "anderer_ort": null,
+   "quelle": "https://www.galeriewittenbrink.de/ausstellungen.html",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Liquid",
+   "untertitel": "null",
+   "beginn": "2026-06-25",
+   "ende": "2026-08-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Wittenbrink",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Michael Dekker",
+   "kuenstler": [
+    "Michael Dekker"
+   ],
+   "eroeffnung": null,
+   "url": "https://www.galeriewittenbrink.de/dekker-michael.html",
+   "anderer_ort": null,
+   "quelle": "https://www.galeriewittenbrink.de/ausstellungen.html",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  },
+  {
+   "titel": "Rolf-Gunter Dienst – Tagebuch der Bilder. Ein Blick in den Nachlass",
+   "untertitel": "Ausstellung im MKM Museum Küppersmühle, Duisburg",
+   "beginn": "2026-04-23",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Wittenbrink",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Rolf-Gunter Dienst"
+   ],
+   "anderer_ort": "MKM Museum Küppersmühle, Duisburg",
+   "eroeffnung": null,
+   "url": "https://museum-kueppersmuehle.de/ausstellung/rolf-gunter-dienst-tagebuch-der-bilder-ein-blick-in-den-nachlass/",
+   "quelle": "https://www.galeriewittenbrink.de/aktuelles.html",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: MKM Museum Küppersmühle, Duisburg"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

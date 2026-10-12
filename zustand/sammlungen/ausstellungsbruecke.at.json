@@ -1,0 +1,28 @@
+{
+ "domain": "ausstellungsbruecke.at",
+ "website": "http://www.ausstellungsbruecke.at",
+ "haeuser": [
+  {
+   "id": "Q780583",
+   "name": "Ausstellungsbrücke"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Ausstellungsbrücke",
+   "titel": "NÖ Volksliedarchiv",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "sonstiges",
+   "untertitel": "Handschriften, Tonträger, Literatur zur niederösterreichischen Volksmusik",
+   "url": "https://www.noe.gv.at/noe/Landesbibliothek/Volksliedsammlung.html",
+   "quelle": "https://www.noe.gv.at/noe/Landesbibliothek/Volksliedsammlung.html"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.noe.gv.at/noe/Landesbibliothek/Volksliedsammlung.html"
+ ],
+ "abgerufen": "2026-10-08T22:18:58",
+ "status": "ok"
+}

@@ -1,0 +1,26 @@
+{
+ "domain": "smb.museum~museum-fuer-fotografie",
+ "website": "https://www.smb.museum/museen-einrichtungen/museum-fuer-fotografie/home/",
+ "haeuser": {
+  "Museum für Fotografie": {
+   "haus": "Museum für Fotografie",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "11:00-19:00",
+    "mi": "11:00-19:00",
+    "do": "11:00-20:00",
+    "fr": "11:00-19:00",
+    "sa": "11:00-19:00",
+    "so": "11:00-19:00"
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.smb.museum/besuch-planen/preise-tickets/",
+   "quelle": "https://www.smb.museum/besuch-planen/oeffnungszeiten/"
+  }
+ },
+ "seiten": [
+  "https://www.smb.museum/besuch-planen/oeffnungszeiten/"
+ ],
+ "abgerufen": "2026-10-12T08:10:56",
+ "status": "ok"
+}

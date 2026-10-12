@@ -1,0 +1,84 @@
+{
+ "domain": "kunstverein-erlangen.de",
+ "website": "https://www.kunstverein-erlangen.de/",
+ "haeuser": "Kunstverein Erlangen",
+ "land": "DE",
+ "ids": "Q132731869",
+ "status": "ok",
+ "seiten": [
+  "https://www.kunstverein-erlangen.de/",
+  "https://www.kunstverein-erlangen.de/aktuelle-ausstellung-petra-krischke-pink-hadesund-herbstsalon-2026"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Pink HADES",
+   "untertitel": "Pink HADES",
+   "beginn": "2026-10-01",
+   "ende": "2026-10-22",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunstverein Erlangen",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Petra Krischke"
+   ],
+   "einzelausstellung_von": "Petra Krischke",
+   "eroeffnung": "2026-10-01T18:00",
+   "anderer_ort": null,
+   "url": "https://www.kunstverein-erlangen.de/",
+   "quelle": "https://www.kunstverein-erlangen.de/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Petra Krischke – Pink HADES",
+   "untertitel": null,
+   "beginn": "2026-10-01",
+   "ende": "2026-10-22",
+   "art": "wechselausstellung",
+   "einzelausstellung_von": "Petra Krischke",
+   "kuenstler": [
+    "Petra Krischke"
+   ],
+   "kunst": true,
+   "haus": "Kunstverein Erlangen",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Malerei, Installation, Performance, experimentelle Materialität",
+   "anderer_ort": null,
+   "url": "https://www.kunstverein-erlangen.de/",
+   "quelle": "https://www.kunstverein-erlangen.de/",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Herbstsalon 2026",
+   "untertitel": "Jedes Jahr präsentiert der Kunstverein Erlangen e.V. seine Mitglieder in einer Ausstellung",
+   "beginn": "2026-10-11",
+   "ende": "2026-11-08",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunstverein Erlangen",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "einzelausstellung_von": null,
+   "eroeffnung": "2026-10-11T16:00",
+   "anderer_ort": "Kunstpalais Erlangen, Marktplatz 1, 91054 Erlangen",
+   "url": "https://www.kunstverein-erlangen.de/",
+   "quelle": "https://www.kunstverein-erlangen.de/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Kunstpalais Erlangen, Marktplatz 1, 91054 Erlangen"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

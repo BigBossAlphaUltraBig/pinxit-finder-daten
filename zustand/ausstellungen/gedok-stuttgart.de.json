@@ -1,0 +1,52 @@
+{
+ "domain": "gedok-stuttgart.de",
+ "website": "https://www.gedok-stuttgart.de/",
+ "haeuser": "Gedok Gemeinschaft der Künstlerinnen und Kunstfreunde e. V.",
+ "land": "DE",
+ "ids": "node/9235673428",
+ "status": "ok",
+ "seiten": [
+  "https://www.gedok-stuttgart.de/aktuell/veranstaltungen/100-jahre-gedok/",
+  "https://www.gedok-stuttgart.de/aktuell/veranstaltungen/gertrud-wartet-auf-frieden/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Die Erinnerung erfinden wir uns selbst",
+   "untertitel": "100 Jahre GEDOK",
+   "beginn": "2026-10-10",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Gedok Gemeinschaft der Künstlerinnen und Kunstfreunde e. V.",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "kuenstler": [
+    "DADA",
+    "Christiane Haag",
+    "Cinyi Joh",
+    "Ille Jung",
+    "Barbara Karsch-Chaieb",
+    "Gudrun Knapp",
+    "Conny Luley",
+    "Renate Maucher",
+    "Iris Merkle",
+    "Haewon Park",
+    "Christa Planck",
+    "Svenja Rehse",
+    "Sabine Reichert",
+    "Gudrun Seyfert",
+    "Charlotte Traum",
+    "Nicole Walger"
+   ],
+   "eroeffnung": "2026-10-09T19:30",
+   "url": "https://www.gedok-stuttgart.de/aktuell/veranstaltungen/100-jahre-gedok/",
+   "quelle": "https://www.gedok-stuttgart.de/aktuell/veranstaltungen/100-jahre-gedok/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

@@ -1,0 +1,28 @@
+{
+ "domain": "giannimanhattan.com",
+ "website": "https://www.giannimanhattan.com",
+ "haeuser": {
+  "Gianni Manhattan": {
+   "haus": "Gianni Manhattan",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-15:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://giannimanhattan.com/contact/",
+   "hinweis_oeffnung": "Öffnungszeiten und Eintrittspreise nicht auf der Website angegeben",
+   "quelle": "https://giannimanhattan.com/contact/"
+  }
+ },
+ "seiten": [
+  "https://giannimanhattan.com/",
+  "https://giannimanhattan.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:36:10",
+ "status": "unvollständig"
+}

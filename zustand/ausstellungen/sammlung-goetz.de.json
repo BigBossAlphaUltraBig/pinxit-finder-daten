@@ -1,0 +1,62 @@
+{
+ "domain": "sammlung-goetz.de",
+ "website": "http://www.sammlung-goetz.de/",
+ "haeuser": "Sammlung Goetz",
+ "land": "DE",
+ "ids": "Q319071",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://www.sammlung-goetz.de/ausstellungen/",
+  "https://www.sammlung-goetz.de/museum/ausstellungsgebaeude/"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "Sterling Ruby",
+   "untertitel": "Sammlung Goetz /Schaufenster",
+   "beginn": "2026-07-16",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Sammlung Goetz",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Sterling Ruby"
+   ],
+   "einzelausstellung_von": "Sterling Ruby",
+   "anderer_ort": "Sammlung Goetz /Schaufenster, Pacellistraße 5, München",
+   "eroeffnung": null,
+   "url": "https://www.sammlung-goetz.de/ausstellungen/sterling-ruby/",
+   "quelle": "https://www.sammlung-goetz.de/ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Sammlung Goetz /Schaufenster, Pacellistraße 5, München"
+  },
+  {
+   "titel": "Jeff Wall",
+   "untertitel": "Leuchtkastenbilder aus den 1990er Jahren",
+   "beginn": "2026-11-17",
+   "ende": "2027-04-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Sammlung Goetz",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Jeff Wall"
+   ],
+   "einzelausstellung_von": "Jeff Wall",
+   "anderer_ort": "Sammlung Goetz /Schaufenster, Pacellistraße 5, München",
+   "eroeffnung": null,
+   "url": "https://www.sammlung-goetz.de/ausstellungen/jeff-wall/",
+   "quelle": "https://www.sammlung-goetz.de/ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Sammlung Goetz /Schaufenster, Pacellistraße 5, München"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

@@ -1,0 +1,39 @@
+{
+ "domain": "galerie-borchardt.de",
+ "website": "https://galerie-borchardt.de",
+ "haeuser": "Galerie Borchardt",
+ "land": "DE",
+ "ids": "galerie-galerie-borchardt-hamburg",
+ "status": "ok",
+ "seiten": [
+  "https://galerie-borchardt.de/ausstellungen",
+  "https://galerie-borchardt.de/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "BAU KUNST! #3",
+   "untertitel": "THE INVISIBLE MOUNTAIN",
+   "beginn": null,
+   "ende": null,
+   "art": "unklar",
+   "fachgebiet": "architektur",
+   "haus": "Galerie Borchardt",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": "2026-04-16",
+   "kuenstler": [],
+   "url": null,
+   "quelle": "https://galerie-borchardt.de/",
+   "standort": "Galerie Borchardt Hamburg",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

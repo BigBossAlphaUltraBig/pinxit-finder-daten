@@ -1,0 +1,28 @@
+{
+ "domain": "kow-berlin.com",
+ "website": "http://www.kow-berlin.com",
+ "haeuser": {
+  "KOW": {
+   "haus": "KOW",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "Nur Donnerstag–Samstag 12–18 Uhr während Ausstellungszeiten",
+   "bessere_seite": "https://www.kow-berlin.com/contact",
+   "quelle": "https://www.kow-berlin.com/contact"
+  }
+ },
+ "seiten": [
+  "https://www.kow-berlin.com/kow",
+  "https://www.kow-berlin.com/contact"
+ ],
+ "abgerufen": "2026-10-12T07:36:47",
+ "status": "unvollständig"
+}

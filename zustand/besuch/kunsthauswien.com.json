@@ -1,0 +1,26 @@
+{
+ "domain": "kunsthauswien.com",
+ "website": "http://www.kunsthauswien.com/",
+ "haeuser": {
+  "KunstHausWien": {
+   "haus": "KunstHausWien",
+   "oeffnungszeiten": {
+    "mo": "10:00-18:00",
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.kunsthauswien.com/besuch#tickets-preise",
+   "quelle": "https://www.kunsthauswien.com/besuch"
+  }
+ },
+ "seiten": [
+  "https://www.kunsthauswien.com/besuch"
+ ],
+ "abgerufen": "2026-10-08T18:06:14",
+ "status": "ok"
+}

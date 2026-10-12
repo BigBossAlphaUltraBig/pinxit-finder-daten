@@ -1,0 +1,27 @@
+{
+ "domain": "larkinerdmann.com",
+ "website": "https://www.larkinerdmann.com",
+ "haeuser": {
+  "Larkin Erdmann Gallery": {
+   "haus": "Larkin Erdmann Gallery",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.larkinerdmann.com/contact",
+   "quelle": "https://www.larkinerdmann.com/contact"
+  }
+ },
+ "seiten": [
+  "https://www.larkinerdmann.com/",
+  "https://www.larkinerdmann.com/contact"
+ ],
+ "abgerufen": "2026-10-12T07:36:52",
+ "status": "unvollständig"
+}

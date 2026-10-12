@@ -1,0 +1,27 @@
+{
+ "domain": "kunstnet.or.at",
+ "website": "http://www.kunstnet.or.at/v+v",
+ "haeuser": {
+  "Galerie V&V": {
+   "haus": "Galerie V&V",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "13:00-19:00",
+    "do": "13:00-19:00",
+    "fr": "13:00-19:00",
+    "sa": "12:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "http://www.galerievundv.com/",
+   "quelle": "https://www.galerievundv.com/"
+  }
+ },
+ "seiten": [
+  "https://www.kunstnet.at/v+v/",
+  "https://www.galerievundv.com/"
+ ],
+ "abgerufen": "2026-10-12T07:36:49",
+ "status": "unvollständig"
+}

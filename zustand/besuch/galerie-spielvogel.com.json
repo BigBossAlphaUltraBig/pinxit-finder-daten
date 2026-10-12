@@ -1,0 +1,26 @@
+{
+ "domain": "galerie-spielvogel.com",
+ "website": "https://galerie-spielvogel.com",
+ "haeuser": {
+  "Galerie Gudrun Spielvogel – Galerie & Edition": {
+   "haus": "Galerie Gudrun Spielvogel – Galerie & Edition",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "14:00-18:00",
+    "do": "14:00-18:00",
+    "fr": "14:00-18:00",
+    "sa": "11:00-14:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "nach Vereinbarung möglich",
+   "quelle": "https://galerie-spielvogel.com/"
+  }
+ },
+ "seiten": [
+  "https://galerie-spielvogel.com/"
+ ],
+ "abgerufen": "2026-10-12T07:34:52",
+ "status": "unvollständig"
+}

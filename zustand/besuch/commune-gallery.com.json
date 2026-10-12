@@ -1,0 +1,28 @@
+{
+ "domain": "commune-gallery.com",
+ "website": "https://www.commune-gallery.com",
+ "haeuser": {
+  "Commune": {
+   "haus": "Commune",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.commune-gallery.com/contact/",
+   "quelle": "https://www.commune-gallery.com/contact/",
+   "hinweis_oeffnung": "Oder nach Vereinbarung"
+  }
+ },
+ "seiten": [
+  "https://www.commune-gallery.com/",
+  "https://www.commune-gallery.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:33:40",
+ "status": "unvollständig"
+}

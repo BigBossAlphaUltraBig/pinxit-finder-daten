@@ -1,0 +1,28 @@
+{
+ "domain": "galerie-krinzinger.at",
+ "website": "https://www.galerie-krinzinger.at",
+ "haeuser": {
+  "Galerie Krinzinger": {
+   "haus": "Galerie Krinzinger",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "12:00-18:00",
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "11:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://galerie-krinzinger.at/contact/",
+   "hinweis_oeffnung": "Öffnungszeiten und Eintrittspreise auf der Seite nicht angegeben",
+   "quelle": "https://galerie-krinzinger.at/contact/"
+  }
+ },
+ "seiten": [
+  "https://galerie-krinzinger.at/",
+  "https://galerie-krinzinger.at/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:34:44",
+ "status": "ok"
+}

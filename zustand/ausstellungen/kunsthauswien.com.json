@@ -1,0 +1,112 @@
+{
+ "domain": "kunsthauswien.com",
+ "website": "http://www.kunsthauswien.com/",
+ "haeuser": "KunstHausWien",
+ "land": "AT",
+ "ids": "Q638493",
+ "status": "ok",
+ "seiten": [
+  "https://www.kunsthauswien.com/ausstellungen-und-programm",
+  "https://www.kunsthauswien.com/ausstellung/seeds"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Hundertwasser",
+   "untertitel": "Dauerausstellung",
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "KunstHausWien",
+   "rang": 2,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": "Werke und Architektur des Künstlers Friedensreich Hundertwasser",
+   "einzelausstellung_von": "Friedensreich Hundertwasser",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Friedensreich Hundertwasser"
+   ],
+   "url": "https://www.kunsthauswien.com/museum-hundertwasser",
+   "quelle": "https://www.kunsthauswien.com/ausstellungen-und-programm",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Seeds. Reclaiming Roots, Sowing Futures",
+   "untertitel": null,
+   "beginn": "2026-04-10",
+   "ende": "2027-02-14",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "KunstHausWien",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [],
+   "schwerpunkt": "Samen, Wurzeln, nachhaltiges Saatgut und landwirtschaftliche Zukunft",
+   "url": "https://www.kunsthauswien.com/ausstellung/seeds",
+   "quelle": "https://www.kunsthauswien.com/ausstellungen-und-programm",
+   "verpasst": 1
+  },
+  {
+   "titel": "Mehr zur Sammlung Hundertwasser",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "fachgebiet": "bildende_kunst",
+   "haus": "KunstHausWien",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Friedensreich Hundertwasser"
+   ],
+   "schwerpunkt": "Werke von Friedensreich Hundertwasser, Malerei und Kunsthandwerk",
+   "url": "https://www.kunsthauswien.com/museum-hundertwasser",
+   "quelle": "https://www.kunsthauswien.com/ausstellungen-und-programm",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Seeds",
+   "untertitel": "Reclaiming Roots, Sowing Futures",
+   "beginn": "2026-04-10",
+   "ende": "2027-02-14",
+   "art": "wechselausstellung",
+   "fachgebiet": "natur",
+   "haus": "KunstHausWien",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Saatgut, Biodiversität und Umwelt im Dialog mit Kunst",
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Ackroyd & Harvey",
+    "Maria Thereza Alves",
+    "Alexandra Baumgartner",
+    "Tue Greenfort",
+    "Kapwani Kiwanga",
+    "Dominique Koch",
+    "Jumana Manna",
+    "Christian Kosmas Mayer",
+    "Marzia Migliora",
+    "Lucia Pizzani",
+    "Michaela Putz",
+    "Cecilia Vicuña",
+    "Munem Wasif"
+   ],
+   "url": "https://www.kunsthauswien.com/ausstellung/seeds",
+   "quelle": "https://www.kunsthauswien.com/ausstellungen-und-programm",
+   "detail_geprueft": "2026-10-12",
+   "grund": "keine Kunst (natur)"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 2
+}

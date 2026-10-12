@@ -1,0 +1,29 @@
+{
+ "domain": "konradfischergalerie.de",
+ "website": "http://konradfischergalerie.de",
+ "haeuser": {
+  "Konrad Fischer Galerie": {
+   "haus": "Konrad Fischer Galerie",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://konradfischergalerie.de/about/contact/",
+   "hinweis_oeffnung": "Informationen nicht auf Startseite vorhanden",
+   "quelle": "https://konradfischergalerie.de/about/contact/"
+  }
+ },
+ "seiten": [
+  "https://konradfischergalerie.de/",
+  "https://konradfischergalerie.de/about/about/",
+  "https://konradfischergalerie.de/about/contact/"
+ ],
+ "abgerufen": "2026-10-12T08:06:41",
+ "status": "ok"
+}

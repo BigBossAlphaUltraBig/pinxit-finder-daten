@@ -1,0 +1,100 @@
+{
+ "domain": "villastuck.de",
+ "website": "http://www.villastuck.de/",
+ "haeuser": "Villa Stuck",
+ "land": "DE",
+ "ids": "Q264573",
+ "status": "ok",
+ "seiten": [
+  "https://www.villastuck.de/programm"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "NO SINGLE VIEW",
+   "untertitel": null,
+   "beginn": "2026-05-15",
+   "ende": "2026-10-18",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Villa Stuck",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Ilit Azoulay"
+   ],
+   "einzelausstellung_von": "Ilit Azoulay",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.villastuck.de/programm/detail/no-single-view",
+   "quelle": "https://www.villastuck.de/programm"
+  },
+  {
+   "titel": "ZEHN LEBEN",
+   "untertitel": null,
+   "beginn": "2026-05-15",
+   "ende": "2026-11-08",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Villa Stuck",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Delschad Numan Khorschid",
+    "Jan-Hendrik Pelz"
+   ],
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.villastuck.de/programm/detail/zehn-leben",
+   "quelle": "https://www.villastuck.de/programm"
+  },
+  {
+   "titel": "MATER",
+   "untertitel": null,
+   "beginn": "2026-10-29",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Villa Stuck",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Gonzalo Borondo"
+   ],
+   "einzelausstellung_von": "Gonzalo Borondo",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.villastuck.de/programm/detail/mater",
+   "quelle": "https://www.villastuck.de/programm"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "PFOTEN, PRANKEN, KLAUEN, FLOSSEN, PATSCHEN, PRATZEN, TATZEN, HÄNDE, KRALLEN",
+   "untertitel": null,
+   "beginn": "2027-05-07",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "natur",
+   "haus": "Villa Stuck",
+   "rang": 4,
+   "epoche": "andere",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.villastuck.de/programm/detail/pfoten-pranken-klauen-flossen-patschen-pratzen-tatzen-haende-krallen",
+   "quelle": "https://www.villastuck.de/programm",
+   "grund": "keine Kunst (natur)"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

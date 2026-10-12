@@ -1,0 +1,26 @@
+{
+ "domain": "maulberger.de",
+ "website": "https://maulberger.de",
+ "haeuser": {
+  "Galerie Maulberger": {
+   "haus": "Galerie Maulberger",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "10:00-14:30",
+    "do": null,
+    "fr": "10:00-14:30",
+    "sa": "11:00-14:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "quelle": "https://maulberger.de/"
+  }
+ },
+ "seiten": [
+  "https://maulberger.de/zangs-info/",
+  "https://maulberger.de/"
+ ],
+ "abgerufen": "2026-10-12T07:37:12",
+ "status": "unvollständig"
+}

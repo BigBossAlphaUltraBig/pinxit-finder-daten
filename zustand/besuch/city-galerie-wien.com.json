@@ -1,0 +1,28 @@
+{
+ "domain": "city-galerie-wien.com",
+ "website": "https://www.city-galerie-wien.com",
+ "haeuser": {
+  "City Galerie Wien": {
+   "haus": "City Galerie Wien",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": "14:00-18:00",
+    "sa": "12:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://city-galerie-wien.com/Contact",
+   "quelle": "https://city-galerie-wien.com/Contact",
+   "hinweis_oeffnung": "oder nach Vereinbarung"
+  }
+ },
+ "seiten": [
+  "https://city-galerie-wien.com/",
+  "https://city-galerie-wien.com/Contact"
+ ],
+ "abgerufen": "2026-10-12T07:33:36",
+ "status": "unvollständig"
+}

@@ -1,0 +1,26 @@
+{
+ "domain": "galerie-slavik.com",
+ "website": "https://www.galerie-slavik.com",
+ "haeuser": {
+  "Galerie Slavik": {
+   "haus": "Galerie Slavik",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "11:00-13:00, 14:00-18:00",
+    "do": "11:00-13:00, 14:00-18:00",
+    "fr": "11:00-13:00, 14:00-18:00",
+    "sa": "11:00-17:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "Im Juli Sa 11-14h statt 11-17h",
+   "quelle": "https://www.galerie-slavik.com/"
+  }
+ },
+ "seiten": [
+  "https://www.galerie-slavik.com/"
+ ],
+ "abgerufen": "2026-10-12T07:34:47",
+ "status": "unvollständig"
+}

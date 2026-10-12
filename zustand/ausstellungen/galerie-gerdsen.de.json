@@ -1,0 +1,65 @@
+{
+ "domain": "galerie-gerdsen.de",
+ "website": "https://galerie-gerdsen.de",
+ "haeuser": "Galerie Magnus P. Gerdsen",
+ "land": "DE",
+ "ids": "galerie-galerie-magnus-p-gerdsen-hamburg",
+ "status": "ok",
+ "seiten": [
+  "https://www.galerie-gerdsen.de/?page_id=278",
+  "https://www.galerie-gerdsen.de/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "nah am Wasser...",
+   "untertitel": "mit Arbeiten von Kai Quedens, Eduard Bargheer, Bernhard Vogel, Götz Sambale u.a.",
+   "beginn": "2025-10-10",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Magnus P. Gerdsen",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Kai Quedens",
+    "Eduard Bargheer",
+    "Bernhard Vogel",
+    "Götz Sambale"
+   ],
+   "eroeffnung": null,
+   "url": "https://www.galerie-gerdsen.de/?page_id=278",
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://www.galerie-gerdsen.de/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Die Farbe hat mich!",
+   "untertitel": "Farbe als Anlass zur Bildfindung: Eduard Bargheer und das Licht im Süden, Kai Quedens und die Atmosphäre der norddeutschen Weite",
+   "beginn": "2024-10-01",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Magnus P. Gerdsen",
+   "rang": 1,
+   "epoche": "moderne",
+   "kuenstler": [
+    "Eduard Bargheer",
+    "Kai Quedens"
+   ],
+   "gemeinfrei": true,
+   "url": "https://www.galerie-gerdsen.de/?p=3857",
+   "quelle": "https://www.galerie-gerdsen.de/?page_id=278",
+   "eroeffnung": null,
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

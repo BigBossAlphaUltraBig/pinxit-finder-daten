@@ -1,0 +1,39 @@
+{
+ "domain": "danielblau.com",
+ "website": "https://danielblau.com/exhibitions",
+ "haeuser": "Daniel Blau",
+ "land": "DE",
+ "ids": "galerie-daniel-blau-muenchen",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://danielblau.com/exhibitions",
+  "https://danielblau.com/exhibition-antonius-hockelmann"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "Antonius Höckelmann",
+   "untertitel": "Works on Paper",
+   "beginn": "2024-02-15",
+   "ende": "2024-03-26",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Daniel Blau",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Antonius Höckelmann"
+   ],
+   "einzelausstellung_von": "Antonius Höckelmann",
+   "anderer_ort": null,
+   "eroeffnung": "2024-02-15",
+   "url": "https://danielblau.com/exhibition-antonius-hockelmann",
+   "quelle": "https://danielblau.com/exhibition-antonius-hockelmann",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

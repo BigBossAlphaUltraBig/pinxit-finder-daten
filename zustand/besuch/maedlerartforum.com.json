@@ -1,0 +1,27 @@
+{
+ "domain": "maedlerartforum.com",
+ "website": "https://maedlerartforum.com/",
+ "haeuser": {
+  "MÄDLER ART FORUM": {
+   "haus": "MÄDLER ART FORUM",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "14:00-18:00",
+    "do": "14:00-18:00",
+    "fr": "14:00-18:00",
+    "sa": "14:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://maedlerartforum.com/about/",
+   "quelle": "https://maedlerartforum.com/about/"
+  }
+ },
+ "seiten": [
+  "https://maedlerartforum.com/",
+  "https://maedlerartforum.com/about/"
+ ],
+ "abgerufen": "2026-10-12T08:08:06",
+ "status": "unvollständig"
+}

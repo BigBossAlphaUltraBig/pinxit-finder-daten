@@ -1,0 +1,61 @@
+{
+ "domain": "nrw-forum.de",
+ "website": "https://www.nrw-forum.de/",
+ "haeuser": "NRW-Forum",
+ "land": "DE",
+ "ids": "Q973307",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://www.nrw-forum.de/ausstellungen",
+  "https://www.nrw-forum.de/ausstellungen/asia-pop"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "ASIA POP",
+   "untertitel": "Ostasiatische Popkultur im globalen Mainstream",
+   "beginn": "2026-09-17",
+   "ende": "2027-05-23",
+   "art": "wechselausstellung",
+   "fachgebiet": "sonstiges",
+   "haus": "NRW-Forum",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Emil Adam",
+    "Chim↑Pom",
+    "Choy Ka Fai",
+    "Soya Arakawa",
+    "Marie Ogoshi",
+    "Liza Dieckwisch",
+    "Julia Gruner",
+    "FAMEME",
+    "Cao Fei",
+    "Corina Gertz",
+    "Akihiro Higuchi",
+    "Jae Ho Jung",
+    "Taka Kagitomi",
+    "Helena Parada Kim",
+    "Lisa Mayer",
+    "Miho Nozaki",
+    "Takumi Ogata",
+    "Bart Seng Wen Long",
+    "Oliver Sieber",
+    "Katja Stuke",
+    "Kayan Tam",
+    "Hiroki Tsukuda",
+    "Sin Wai Kin"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.nrw-forum.de/ausstellungen/asia-pop",
+   "quelle": "https://www.nrw-forum.de/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "grund": "keine Kunst (sonstiges)"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

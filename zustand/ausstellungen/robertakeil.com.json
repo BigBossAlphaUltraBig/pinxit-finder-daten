@@ -1,0 +1,38 @@
+{
+ "domain": "robertakeil.com",
+ "website": "https://www.robertakeil.com",
+ "haeuser": "Galerie Roberta Keil",
+ "land": "AT",
+ "ids": "galerie-galerie-roberta-keil-wien",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://www.robertakeil.com/exhibitions"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "Superego Jungle",
+   "untertitel": "Zwölf neue Arbeiten",
+   "beginn": "2026-06-25",
+   "ende": "2026-08-22",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Roberta Keil",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Madita Kloss",
+   "kuenstler": [
+    "Madita Kloss"
+   ],
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "url": "https://www.robertakeil.com/superegojungle",
+   "quelle": "https://www.robertakeil.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

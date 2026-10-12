@@ -1,0 +1,45 @@
+{
+ "domain": "bruecke-museum.de",
+ "website": "http://www.bruecke-museum.de/",
+ "haeuser": [
+  {
+   "id": "Q833759",
+   "name": "Brücke-Museum Berlin"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Brücke-Museum Berlin",
+   "titel": "Die Sammlung",
+   "art": "dauerausstellung",
+   "epoche": "moderne",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Werke der Brücke-Künstler und Wegbegleiter",
+   "kuenstler": [
+    "Ernst Ludwig Kirchner",
+    "Karl Schmidt-Rottluff",
+    "Erich Heckel",
+    "Otto Mueller",
+    "Emil Nolde"
+   ],
+   "url": "https://www.bruecke-museum.de/de/sammlung/",
+   "quelle": "https://www.bruecke-museum.de/de/sammlung/"
+  },
+  {
+   "haus": "Brücke-Museum Berlin",
+   "titel": "Karl Schmidt-Rottluffs Sammlung von Objekten aus kolonialen Kontexten",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "kunsthandwerk",
+   "untertitel": "Circa 100 Objekte aus kolonialen Kontexten",
+   "url": "https://www.bruecke-museum.de/de/sammlung/1448/karl-schmidt-rottluffs-sammlung-von-objekten-aus-kolonialen-kontexten",
+   "quelle": "https://www.bruecke-museum.de/de/sammlung/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.bruecke-museum.de/de/sammlung/"
+ ],
+ "abgerufen": "2026-10-08T22:19:06",
+ "status": "ok"
+}

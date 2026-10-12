@@ -1,0 +1,103 @@
+{
+ "domain": "amart.at",
+ "website": "https://www.amart.at",
+ "haeuser": "Galerie Amart",
+ "land": "AT",
+ "ids": "node/11272298469",
+ "status": "ok",
+ "seiten": [
+  "https://www.amart.at/ausstellung/",
+  "https://www.amart.at/marquant-online-ausstellung-2026/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "10 Jahre Galerie Amart",
+   "untertitel": "Eine Gruppenausstellung mit Harald Gangl, Joanna Gleich, Paul Jenkins, Burkhard Legenstein, Gottfried Mairwöger, Peter Marquant, Maria Moser, Serge Poliakoff, Arnulf Rainer, Saar, Pierre Soulages, Hermann Staudinger, Helmut Swoboda, Antoni Tàpies, Jan Valik, Linde Waber",
+   "beginn": "2026-09-24",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Amart",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Harald Gangl",
+    "Joanna Gleich",
+    "Paul Jenkins",
+    "Burkhard Legenstein",
+    "Gottfried Mairwöger",
+    "Peter Marquant",
+    "Maria Moser",
+    "Serge Poliakoff",
+    "Arnulf Rainer",
+    "Saar",
+    "Pierre Soulages",
+    "Hermann Staudinger",
+    "Helmut Swoboda",
+    "Antoni Tàpies",
+    "Jan Valik",
+    "Linde Waber"
+   ],
+   "schwerpunkt": "Gruppenausstellung zum zehnjährigen Jubiläum der Galerie",
+   "eroeffnung": "2026-09-24T18:00",
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "url": "https://www.amart.at/ausstellung/",
+   "quelle": "https://www.amart.at/ausstellung/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Helmut Swoboda",
+   "beginn": "2026-11-05",
+   "ende": "2027-01-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Amart",
+   "rang": 2,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Helmut Swoboda"
+   ],
+   "schwerpunkt": "Einzelausstellung des Künstlers Helmut Swoboda",
+   "eroeffnung": "2026-11-05T18:00",
+   "einzelausstellung_von": "Helmut Swoboda",
+   "anderer_ort": null,
+   "url": "https://www.amart.at/k%C3%BCnstlerinnen/helmut-swoboda/",
+   "quelle": "https://www.amart.at/ausstellung/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Marquant Online Ausstellung 2026",
+   "untertitel": "Peter Marquant: Die besten Werke auf Papier",
+   "beginn": null,
+   "ende": null,
+   "art": "veranstaltung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Amart",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Peter Marquant"
+   ],
+   "einzelausstellung_von": "Peter Marquant",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.amart.at/marquant-online-ausstellung-2026/",
+   "quelle": "https://www.amart.at/marquant-online-ausstellung-2026/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

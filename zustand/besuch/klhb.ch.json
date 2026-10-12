@@ -1,0 +1,28 @@
+{
+ "domain": "klhb.ch",
+ "website": "http://www.klhb.ch/",
+ "haeuser": {
+  "Kunstlabor": {
+   "haus": "Kunstlabor",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "http://www.klhb.ch/kontakt.html",
+   "quelle": "http://www.klhb.ch/index.php"
+  }
+ },
+ "seiten": [
+  "http://www.klhb.ch/",
+  "http://www.klhb.ch/kontakt.html",
+  "http://www.klhb.ch/index.php"
+ ],
+ "abgerufen": "2026-10-12T08:06:35",
+ "status": "unvollständig"
+}

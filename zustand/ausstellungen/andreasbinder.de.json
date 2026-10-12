@@ -1,0 +1,65 @@
+{
+ "domain": "andreasbinder.de",
+ "website": "https://andreasbinder.de",
+ "haeuser": "Galerie Andreas Binder",
+ "land": "DE",
+ "ids": "galerie-galerie-andreas-binder-muenchen",
+ "status": "ok",
+ "seiten": [
+  "https://www.galerieandreasbinder.de/current-exhibition",
+  "https://www.galerieandreasbinder.de/upcoming-exhibition"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Turn It Over",
+   "untertitel": null,
+   "beginn": "2026-09-18",
+   "ende": "2026-11-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Andreas Binder",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Julio Rondo",
+   "kuenstler": [
+    "Julio Rondo"
+   ],
+   "eroeffnung": "2026-09-17",
+   "anderer_ort": null,
+   "url": "https://www.galerieandreasbinder.de/julio-rondo-works",
+   "quelle": "https://www.galerieandreasbinder.de/current-exhibition",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Erlkönig",
+   "untertitel": null,
+   "beginn": "2026-11-13",
+   "ende": "2026-12-22",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Andreas Binder",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Philipp Lachenmann"
+   ],
+   "einzelausstellung_von": "Philipp Lachenmann",
+   "eroeffnung": "2026-11-12",
+   "anderer_ort": null,
+   "url": "https://www.galerieandreasbinder.de/philipp-lachenmann-works",
+   "quelle": "https://www.galerieandreasbinder.de/upcoming-exhibition",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

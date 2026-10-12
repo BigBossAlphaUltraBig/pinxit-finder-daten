@@ -1,0 +1,27 @@
+{
+ "domain": "helmut-newton-foundation.org",
+ "website": "https://www.helmut-newton-foundation.org/",
+ "haeuser": {
+  "Helmut Newton Stiftung": {
+   "haus": "Helmut Newton Stiftung",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "11:00-19:00",
+    "mi": "11:00-19:00",
+    "do": "11:00-20:00",
+    "fr": "11:00-19:00",
+    "sa": "11:00-19:00",
+    "so": "11:00-19:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "12 €",
+   "eintritt_ermaessigt": "6 €",
+   "quelle": "https://newton-foundation.org/kontakt/"
+  }
+ },
+ "seiten": [
+  "https://newton-foundation.org/kontakt/"
+ ],
+ "abgerufen": "2026-10-12T08:06:04",
+ "status": "ok"
+}

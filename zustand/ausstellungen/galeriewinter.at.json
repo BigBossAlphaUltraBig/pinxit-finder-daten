@@ -1,0 +1,74 @@
+{
+ "domain": "galeriewinter.at",
+ "website": "https://www.galeriewinter.at",
+ "haeuser": "Galerie Hubert Winter",
+ "land": "AT",
+ "ids": "node/10794560411",
+ "status": "ok",
+ "seiten": [
+  "https://www.galeriewinter.at/ausstellungen/",
+  "https://www.galeriewinter.at/ausstellungen/curated-by/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "I AM A WANDERER IN MY HEART",
+   "untertitel": "Curated by Théo-Mario Coppola",
+   "beginn": "2026-09-15",
+   "ende": "2026-10-23",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Hubert Winter",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Yasmina Benabderrahmane",
+    "Pauline Boudry",
+    "Renate Lorenz",
+    "Barbara Hammer",
+    "Hudinilson Jr.",
+    "Bhupen Khakhar",
+    "Lalitha Lajmi",
+    "Jimmy Robert",
+    "Kirill Savchenkov",
+    "J Triangular"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.galeriewinter.at/ausstellungen/curated-by/",
+   "quelle": "https://www.galeriewinter.at/ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "The Third House",
+   "untertitel": "null",
+   "beginn": "2026-11-06",
+   "ende": "2026-12-23",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Hubert Winter",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "James Lewis",
+   "kuenstler": [
+    "James Lewis"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.galeriewinter.at/ausstellungen/the-third-house/",
+   "quelle": "https://www.galeriewinter.at/ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

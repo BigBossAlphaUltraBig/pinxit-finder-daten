@@ -1,0 +1,27 @@
+{
+ "domain": "kvhbf.de",
+ "website": "http://kvhbf.de/",
+ "haeuser": {
+  "Kunstverein Harburger Bahnhof": {
+   "haus": "Kunstverein Harburger Bahnhof",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "14:00-18:00",
+    "do": "14:00-18:00",
+    "fr": "14:00-18:00",
+    "sa": "14:00-18:00",
+    "so": "14:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "Öffnungszeiten nur während Ausstellungen",
+   "bessere_seite": "https://kvhbf.de/#/kontakt",
+   "quelle": "https://kvhbf.de/#/"
+  }
+ },
+ "seiten": [
+  "https://kvhbf.de/#/"
+ ],
+ "abgerufen": "2026-10-12T08:07:51",
+ "status": "ok"
+}

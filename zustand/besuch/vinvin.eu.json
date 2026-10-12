@@ -1,0 +1,26 @@
+{
+ "domain": "vinvin.eu",
+ "website": "https://www.vinvin.eu",
+ "haeuser": {
+  "VIN VIN Gallery": {
+   "haus": "VIN VIN Gallery",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://vinvin.eu/#about",
+   "quelle": "https://vinvin.eu/"
+  }
+ },
+ "seiten": [
+  "https://vinvin.eu/"
+ ],
+ "abgerufen": "2026-10-12T07:38:53",
+ "status": "unvollständig"
+}

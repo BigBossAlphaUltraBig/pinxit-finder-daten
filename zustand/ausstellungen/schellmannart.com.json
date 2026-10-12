@@ -1,0 +1,50 @@
+{
+ "domain": "schellmannart.com",
+ "website": "https://schellmannart.com",
+ "haeuser": "Schellmann Art",
+ "land": "DE",
+ "ids": "galerie-schellmann-art-muenchen",
+ "status": "ok",
+ "seiten": [
+  "https://www.schellmannart.com/en/exhibitions",
+  "https://www.schellmannart.com/en/online-exhibitions",
+  "https://www.schellmannart.com/en"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "55 Years. 55 Works.",
+   "untertitel": "Exhibition of 55 different artworks to celebrate 55 years of Schellmann Art.",
+   "beginn": "2025-01-01",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Schellmann Art",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Andy Warhol",
+    "Keith Haring",
+    "Donald Judd",
+    "Christo and Jeanne-Claude",
+    "Jenny Holzer",
+    "Anish Kapoor",
+    "Peter Halley",
+    "Cory Arcangel"
+   ],
+   "url": "https://www.schellmannart.com/en/major-exhibitions",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "ausstellungsseite_gefunden": true,
+   "quelle": "https://www.schellmannart.com/en",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

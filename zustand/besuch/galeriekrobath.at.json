@@ -1,0 +1,28 @@
+{
+ "domain": "galeriekrobath.at",
+ "website": "https://www.galeriekrobath.at",
+ "haeuser": {
+  "Krobath Wien": {
+   "haus": "Krobath Wien",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-15:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.galeriekrobath.at/kontakt/",
+   "hinweis_oeffnung": "nach telefonischer Vereinbarung",
+   "quelle": "https://www.galeriekrobath.at/kontakt/"
+  }
+ },
+ "seiten": [
+  "https://www.galeriekrobath.at/",
+  "https://www.galeriekrobath.at/kontakt/"
+ ],
+ "abgerufen": "2026-10-12T07:35:22",
+ "status": "ok"
+}

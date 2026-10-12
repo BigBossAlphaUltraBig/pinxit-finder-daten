@@ -1,0 +1,25 @@
+{
+ "domain": "rodler-gschwenter.com",
+ "website": "https://www.rodler-gschwenter.com",
+ "haeuser": {
+  "Rodler Gschwentner Gallery": {
+   "haus": "Rodler Gschwentner Gallery",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "12:00-15:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "quelle": "https://www.rodler-gschwenter.com/"
+  }
+ },
+ "seiten": [
+  "https://www.rodler-gschwenter.com/"
+ ],
+ "abgerufen": "2026-10-12T07:38:06",
+ "status": "ok"
+}

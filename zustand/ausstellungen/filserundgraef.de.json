@@ -1,0 +1,66 @@
+{
+ "domain": "filserundgraef.de",
+ "website": "https://filserundgraef.de",
+ "haeuser": "Galerie Filser & Gräf",
+ "land": "DE",
+ "ids": "galerie-galerie-filser-graef-muenchen",
+ "status": "ok",
+ "seiten": [
+  "https://filserundgraef.de/exhibitions/",
+  "https://filserundgraef.de/exhibitions/theatre-of-life-jimmy-vuong-lilidelacrows-in-cooperation-with-tartch-gallery-taipei-taiwan-882846e3/?tab=e-n-tab-title-805756971"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Logbuch",
+   "untertitel": "Christa Filser",
+   "beginn": "2026-10-16",
+   "ende": "2026-11-27",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Filser & Gräf",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Christa Filser"
+   ],
+   "eroeffnung": "2026-10-16T18:00",
+   "anderer_ort": null,
+   "einzelausstellung_von": "Christa Filser",
+   "url": "https://filserundgraef.de/exhibitions/logbuch-christa-filser-edfe618f/",
+   "quelle": "https://filserundgraef.de/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Theatre of Life",
+   "untertitel": "Jimmy Vuong & Lilidelacrows / In Cooperation with Tartch Gallery Taipei / Taiwan",
+   "kuenstler": [
+    "Jimmy Vuong",
+    "Lilidelacrows"
+   ],
+   "beginn": "2026-07-03",
+   "ende": "2026-10-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Filser & Gräf",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-07-03T18:00",
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "url": "https://filserundgraef.de/exhibitions/theatre-of-life-jimmy-vuong-lilidelacrows-in-cooperation-with-tartch-gallery-taipei-taiwan-882846e3/?tab=e-n-tab-title-805756971",
+   "quelle": "https://filserundgraef.de/exhibitions/theatre-of-life-jimmy-vuong-lilidelacrows-in-cooperation-with-tartch-gallery-taipei-taiwan-882846e3/?tab=e-n-tab-title-805756971",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

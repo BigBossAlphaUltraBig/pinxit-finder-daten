@@ -1,0 +1,64 @@
+{
+ "domain": "nagel-draxler.de",
+ "website": "http://nagel-draxler.de",
+ "haeuser": "Galerie Nagel Draxler",
+ "land": "DE",
+ "ids": "node/7932307104",
+ "status": "ok",
+ "seiten": [
+  "https://nagel-draxler.de/exhibition/the-image-is-a-public-menace/",
+  "https://nagel-draxler.de/exhibition/memory-loss/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "The Image is a Public Menace",
+   "untertitel": "",
+   "beginn": "2026-09-11",
+   "ende": "2026-11-14",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Nagel Draxler",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Abdulnasser Gharem"
+   ],
+   "einzelausstellung_von": "Abdulnasser Gharem",
+   "eroeffnung": "2026-09-10T18:00",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "url": "https://nagel-draxler.de/exhibition/the-image-is-a-public-menace/",
+   "quelle": "https://nagel-draxler.de/exhibition/the-image-is-a-public-menace/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "MEMORY LOSS",
+   "untertitel": "Nadya Tolokonnikova",
+   "beginn": "2026-09-05",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Nagel Draxler",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Nadya Tolokonnikova"
+   ],
+   "eroeffnung": "2026-09-04T18:00",
+   "anderer_ort": null,
+   "url": "https://nagel-draxler.de/exhibition/memory-loss/",
+   "quelle": "https://nagel-draxler.de/exhibition/memory-loss/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

@@ -1,0 +1,29 @@
+{
+ "domain": "sommergallery.com",
+ "website": "https://www.sommergallery.com",
+ "haeuser": {
+  "Sommer Salon": {
+   "haus": "Sommer Salon",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-14:00",
+    "sa": "11:00-14:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://sommergallery.com/sommer-salon-zurich/",
+   "hinweis_oeffnung": "By appointment",
+   "quelle": "https://sommergallery.com/about/"
+  }
+ },
+ "seiten": [
+  "https://sommergallery.com/",
+  "https://sommergallery.com/sommer-salon-zurich/",
+  "https://sommergallery.com/about/"
+ ],
+ "abgerufen": "2026-10-12T07:38:31",
+ "status": "unvollständig"
+}

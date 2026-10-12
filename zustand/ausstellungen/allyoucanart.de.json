@@ -1,0 +1,178 @@
+{
+ "domain": "allyoucanart.de",
+ "website": "https://allyoucanart.de",
+ "haeuser": "All You Can Art Gallery",
+ "land": "DE",
+ "ids": "node/11762426618",
+ "status": "ok",
+ "seiten": [
+  "https://www.allyoucanart.de/ausstellungen_messen/",
+  "https://www.allyoucanart.de/art/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "ELVIRA BACH - ICH BIN WIE ICH BIN",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "All You Can Art Gallery",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "beginn": "2026-08-16",
+   "ende": "2026-12-18",
+   "untertitel": "Eine Frau. Ein Statement. Eine unverwechselbare Bildsprache.",
+   "einzelausstellung_von": "Elvira Bach",
+   "kuenstler": [
+    "Elvira Bach"
+   ],
+   "eroeffnung": "2026-08-16",
+   "url": "https://www.allyoucanart.de/ausstellungen_messen/elvira-bach-ich-bin-wie-ich-bin/",
+   "gemeinfrei": false,
+   "quelle": "https://www.allyoucanart.de/ausstellungen_messen/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "THE BIG SUMMER SHOW",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "All You Can Art Gallery",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "beginn": "2026-06-25",
+   "ende": "2026-09-26",
+   "untertitel": "Eine internationale Gruppenausstellung mit 12 zeitgenössischen Künstlerinnen und Künstlern",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Katharina Arndt",
+    "Diana Korn",
+    "Edyta Grzyb",
+    "Johannes Ehemann",
+    "Cevin Parker"
+   ],
+   "eroeffnung": "2026-07-08T18:00",
+   "url": "https://www.allyoucanart.de/ausstellungen_messen/the-big-summer-show/",
+   "gemeinfrei": false,
+   "quelle": "https://www.allyoucanart.de/ausstellungen_messen/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  },
+  {
+   "titel": "AFFORDABLE ART FAIR VIENNA MAI 2026",
+   "art": "messe_markt",
+   "fachgebiet": "bildende_kunst",
+   "haus": "All You Can Art Gallery",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "beginn": "2026-05-01",
+   "ende": "2026-05-31",
+   "untertitel": "Kunst von 100 bis 10.000 Euro in der Marx Halle",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Diana Korn",
+    "Aleksandar Bezinovic",
+    "Martina Hamrik",
+    "Tanja Hirschfeld",
+    "Marcus Steffen",
+    "Alexander Deubl"
+   ],
+   "eroeffnung": "2026-05-28T16:00",
+   "url": "https://www.allyoucanart.de/ausstellungen_messen/affordable-art-fair-vienna-28-31-05-2026/",
+   "gemeinfrei": false,
+   "anderer_ort": "Wien",
+   "quelle": "https://www.allyoucanart.de/ausstellungen_messen/",
+   "eintritt": "Freitickets vorhanden",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  },
+  {
+   "titel": "EYES & CURVES",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "All You Can Art Gallery",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "beginn": "2026-04-24",
+   "ende": "2026-06-26",
+   "untertitel": "Drei Künstlerinnen, drei unverwechselbare Positionen – vereint in einem spannungsvollen Dialog zwischen Figuration und Abstraktion",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Julia Morganho"
+   ],
+   "eroeffnung": "2026-04-24",
+   "url": "https://www.allyoucanart.de/ausstellungen_messen/eyes-curves-vernissage-24-04-26-06-2026/",
+   "gemeinfrei": false,
+   "quelle": "https://www.allyoucanart.de/ausstellungen_messen/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  },
+  {
+   "titel": "ZWISCHEN BLICK & FORM",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "All You Can Art Gallery",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "beginn": "2026-02-16",
+   "ende": "2026-03-28",
+   "untertitel": "Zwei künstlerische Positionen zwischen Abstraktion und Figuration",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Aleksandar Bezinovic",
+    "Tanja Hirschfeld"
+   ],
+   "eroeffnung": "2026-03-04T18:00",
+   "url": "https://www.allyoucanart.de/ausstellungen_messen/kunstausstellung/",
+   "gemeinfrei": false,
+   "quelle": "https://www.allyoucanart.de/ausstellungen_messen/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  },
+  {
+   "titel": "DUO SHOW ART KARLSRUHE 2026 - CHRISTIAN MUSCHEID & TANJA HIRSCHFELD",
+   "art": "messe_markt",
+   "fachgebiet": "bildende_kunst",
+   "haus": "All You Can Art Gallery",
+   "rang": 6,
+   "epoche": "zeitgenoessisch",
+   "beginn": "2026-02-05",
+   "ende": "2026-02-08",
+   "untertitel": "Abstrakt & Figurativ - Reduzierte, minimalistische Malerei in geometrischer Formensprache",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Christian Muscheid",
+    "Tanja Hirschfeld"
+   ],
+   "eroeffnung": null,
+   "url": "https://www.allyoucanart.de/ausstellungen_messen/unsere-duo-show-auf-der-art-karlsruhe-05-02-08-02-2026/",
+   "gemeinfrei": false,
+   "anderer_ort": "Karlsruhe",
+   "quelle": "https://www.allyoucanart.de/ausstellungen_messen/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  },
+  {
+   "titel": "Nicole Giesa - LONESOME ASTRONAUT",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "All You Can Art Gallery",
+   "rang": 7,
+   "epoche": "zeitgenoessisch",
+   "beginn": "2026-01-09",
+   "ende": "2026-01-24",
+   "untertitel": "a personal journey in photographs",
+   "einzelausstellung_von": "Nicole Giesa",
+   "kuenstler": [
+    "Nicole Giesa"
+   ],
+   "eroeffnung": "2026-01-14",
+   "url": "https://www.allyoucanart.de/ausstellungen_messen/ausstellung-nicole-giesa-lonesome-astronaut/",
+   "gemeinfrei": false,
+   "quelle": "https://www.allyoucanart.de/ausstellungen_messen/",
+   "eintritt": "Eintritt frei",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T07:16:13"
+}

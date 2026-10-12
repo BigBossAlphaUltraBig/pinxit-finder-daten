@@ -1,0 +1,121 @@
+{
+ "domain": "kunsthalleexnergasse.wuk.at",
+ "website": "https://www.kunsthalleexnergasse.wuk.at/",
+ "haeuser": "Kunsthalle Exnergasse",
+ "land": "AT",
+ "ids": "nachtrag-kunsthalle-exnergasse",
+ "status": "ok",
+ "seiten": [
+  "https://www.wuk.at/programm/on-chewing-shoelaces-art-mess-and-radical-kinship/ausstellungseroeffnung-on-chewing-shoelaces/",
+  "https://www.wuk.at/programm/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "On Chewing Shoelaces",
+   "untertitel": "Art, Mess and Radical Kinship",
+   "beginn": "2026-09-17",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthalle Exnergasse",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": "2026-09-16T15:00",
+   "kuenstler": [
+    "Liesel Burisch",
+    "Club Fortuna",
+    "Nana Mandl",
+    "Jesseline Preach",
+    "Rychèl Thérin Scott",
+    "Sarah Sternat",
+    "HOOD dreamers",
+    "Im_flieger"
+   ],
+   "url": "https://www.wuk.at/programm/on-chewing-shoelaces-art-mess-and-radical-kinship/",
+   "quelle": "https://www.wuk.at/programm/on-chewing-shoelaces-art-mess-and-radical-kinship/ausstellungseroeffnung-on-chewing-shoelaces/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "ON CHEWING SHOELACES: ART, MESS AND RADICAL KINSHIP",
+   "untertitel": "WAS, WENN MESS – DAS DURCHEINANDER – DIE METHODE IST?",
+   "beginn": "2026-09-17",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthalle Exnergasse",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Liesel Burisch",
+    "Club Fortuna",
+    "Nana Mandl",
+    "Jesseline Preach",
+    "Rychèl Thérin Scott",
+    "Sarah Sternat",
+    "HOOD dreamers"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-17",
+   "url": "https://www.wuk.at/programm/on-chewing-shoelaces-art-mess-and-radical-kinship/",
+   "quelle": "https://www.wuk.at/programm/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Rückrufaktion",
+   "untertitel": "Eine interaktive Soundinstallation über die allgegenwärtigen Fetzen fremder Telefongespräche im öffentlichen Raum",
+   "beginn": "2026-09-23",
+   "ende": "2026-11-06",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Kunsthalle Exnergasse",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Hannes Gröblacher"
+   ],
+   "anderer_ort": "Kunstzelle im Hof",
+   "eroeffnung": "2026-09-23T19:00",
+   "url": "https://www.wuk.at/programm/hannes-groeblacher-rueckrufaktion/",
+   "quelle": "https://www.wuk.at/programm/",
+   "eintritt": "Eintritt frei",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Kunstzelle im Hof"
+  },
+  {
+   "titel": "Graues Rauschen",
+   "untertitel": "Fotoausstellung von Julius Werner Chromecek, Daniela Zeilinger und Bastian Hackl-Schwind",
+   "beginn": "2026-10-17",
+   "ende": "2026-10-18",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Kunsthalle Exnergasse",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Julius Werner Chromecek",
+    "Daniela Zeilinger",
+    "Bastian Hackl-Schwind"
+   ],
+   "anderer_ort": "WSB Plenarraum",
+   "eroeffnung": null,
+   "url": "https://www.wuk.at/programm/graues-rauschen/",
+   "quelle": "https://www.wuk.at/programm/",
+   "eintritt": "Eintritt frei",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: WSB Plenarraum"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

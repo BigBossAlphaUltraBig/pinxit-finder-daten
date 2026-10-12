@@ -1,0 +1,60 @@
+{
+ "domain": "mdbk.de",
+ "website": "https://mdbk.de/en",
+ "haeuser": [
+  {
+   "id": "Q566661",
+   "name": "Museum der bildenden Künste"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Museum der bildenden Künste",
+   "titel": "Sammlung: Niederländische Malerei",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Alte Meister vom Spätmittelalter bis 17. Jh.",
+   "kuenstler": [
+    "Rogier van der Weyden",
+    "Elisabetta Sirani",
+    "Rachel Ruysch"
+   ],
+   "url": "https://mdbk-digital.de/raeume/aff902e7-0158-4b10-a27e-7f4d7c2bb2bc",
+   "quelle": "https://mdbk-digital.de/"
+  },
+  {
+   "haus": "Museum der bildenden Künste",
+   "titel": "Sammlung: Schenkung Bühler-Brockhaus",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Europäische Kunst vom 19. Jahrhundert bis Gegenwart",
+   "kuenstler": [
+    "Max Klinger",
+    "Ben Willikens",
+    "Stephan Huber"
+   ],
+   "url": "https://mdbk-digital.de/raeume/d6bd8a5a-3b58-4fb2-8c7c-e0631b51a050",
+   "quelle": "https://mdbk-digital.de/"
+  },
+  {
+   "haus": "Museum der bildenden Künste",
+   "titel": "Sammlung: Tübke Stiftung und Tübke-Bestand",
+   "art": "sammlungspraesentation",
+   "epoche": "moderne",
+   "fachgebiet": "bildende_kunst",
+   "kuenstler": [
+    "Werner Tübke"
+   ],
+   "url": "https://mdbk-digital.de/themen/b333814c-cb22-4ef4-9aac-5746ed487fa7",
+   "quelle": "https://mdbk-digital.de/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://mdbk-digital.de/"
+ ],
+ "abgerufen": "2026-10-12T08:13:28",
+ "status": "ok"
+}

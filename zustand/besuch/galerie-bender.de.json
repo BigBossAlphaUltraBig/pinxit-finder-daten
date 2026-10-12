@@ -1,0 +1,26 @@
+{
+ "domain": "galerie-bender.de",
+ "website": "https://galerie-bender.de",
+ "haeuser": {
+  "Galerie Renate Bender": {
+   "haus": "Galerie Renate Bender",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "13:00-17:00",
+    "mi": "13:00-17:00",
+    "do": "13:00-17:00",
+    "fr": "13:00-17:00",
+    "sa": "12:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "Geschlossen 12.-15.10.2026 wegen Ausstellungsumbau",
+   "quelle": "https://www.galerie-bender.de/de/"
+  }
+ },
+ "seiten": [
+  "https://www.galerie-bender.de/de/"
+ ],
+ "abgerufen": "2026-10-12T07:34:28",
+ "status": "ok"
+}

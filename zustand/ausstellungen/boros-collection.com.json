@@ -1,0 +1,62 @@
+{
+ "domain": "boros-collection.com",
+ "website": "https://boros-collection.com/en/",
+ "haeuser": "Sammlung Boros",
+ "land": "DE",
+ "ids": "Q15126890",
+ "status": "ok",
+ "seiten": [
+  "https://boros-collection.com/en/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Collection #4",
+   "untertitel": "2022–2026",
+   "beginn": "2022-01-01",
+   "ende": "2026-12-31",
+   "art": "sammlungspraesentation",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Sammlung Boros",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Zeitgenössische internationale Kunst seit 1990 aus der Sammlung Boros",
+   "kuenstler": [
+    "Tomma Abts",
+    "Lorenzo Amos",
+    "Ed Atkins",
+    "Oliver Bak",
+    "Adriano Costa",
+    "Grant Falardeau",
+    "Louis Fratino",
+    "Cyprien Gaillard",
+    "Salim Green",
+    "Lukas Heerich",
+    "Samuel Hindolo",
+    "Klára Hosnedlová",
+    "Brook Hsu",
+    "Kitty Kraus",
+    "Mire Lee",
+    "Benjamin Lallier",
+    "Klara Lidén",
+    "Conny Maier",
+    "Kresiah Mukwazhi",
+    "Jill Mulleady",
+    "Jonathan Okoronkwo",
+    "Silke Otto-Knapp",
+    "Rim Park",
+    "Jeremy Shaw",
+    "Pol Taburet",
+    "Sung Tieu",
+    "Paloma Varga Weisz"
+   ],
+   "url": "https://boros-collection.com/en/2021-2026",
+   "quelle": "https://boros-collection.com/en/",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

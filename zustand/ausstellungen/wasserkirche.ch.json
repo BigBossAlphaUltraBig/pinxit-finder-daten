@@ -1,0 +1,60 @@
+{
+ "domain": "wasserkirche.ch",
+ "website": "https://www.wasserkirche.ch/",
+ "haeuser": "Wasserkirche",
+ "land": "CH",
+ "ids": "Q477189",
+ "status": "ok",
+ "seiten": [
+  "https://reformiert-zuerich.ch/kirchgemeinde/kirchen/johanneskirche/kunst/aktuelle-ausstellung/",
+  "https://reformiert-zuerich.ch/event/palliative-care-bilder-einer-realitat-14358"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "«Nette Fette Kette» Mickry 3",
+   "untertitel": "eine Nette Fette Kette in der Johanneskirche",
+   "kuenstler": [
+    "Mickry 3"
+   ],
+   "beginn": "2026-09-01",
+   "ende": "2026-12-09",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Wasserkirche",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Mickry 3",
+   "url": "https://reformiert-zuerich.ch/kirchgemeinde/kirchen/johanneskirche/kunst/aktuelle-ausstellung/",
+   "quelle": "https://reformiert-zuerich.ch/kirchgemeinde/kirchen/johanneskirche/kunst/aktuelle-ausstellung/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Palliative Care – Bilder einer Realität",
+   "untertitel": "Bilder einer Realität",
+   "beginn": "2026-10-24",
+   "ende": "2026-11-01",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Wasserkirche",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "",
+   "kuenstler": [
+    "Gaëtan Bally"
+   ],
+   "eroeffnung": "2026-10-22T18:00",
+   "anderer_ort": null,
+   "einzelausstellung_von": "Gaëtan Bally",
+   "url": "https://reformiert-zuerich.ch/event/palliative-care-bilder-einer-realitat-14358",
+   "quelle": "https://reformiert-zuerich.ch/event/palliative-care-bilder-einer-realitat-14358",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

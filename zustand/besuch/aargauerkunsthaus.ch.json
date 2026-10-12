@@ -1,0 +1,26 @@
+{
+ "domain": "aargauerkunsthaus.ch",
+ "website": "https://aargauerkunsthaus.ch/",
+ "haeuser": {
+  "Aargauer Kunsthaus": {
+   "haus": "Aargauer Kunsthaus",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-17:00",
+    "mi": "10:00-17:00",
+    "do": "10:00-20:00",
+    "fr": "10:00-17:00",
+    "sa": "10:00-17:00",
+    "so": "10:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://shop.aargauerkunsthaus.ch/events/#eintritt",
+   "quelle": "https://aargauerkunsthaus.ch/de/besuch/besuch-planen/"
+  }
+ },
+ "seiten": [
+  "https://aargauerkunsthaus.ch/de/besuch/besuch-planen/"
+ ],
+ "abgerufen": "2026-10-08T18:04:59",
+ "status": "ok"
+}

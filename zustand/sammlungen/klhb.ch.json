@@ -1,0 +1,48 @@
+{
+ "domain": "klhb.ch",
+ "website": "http://www.klhb.ch/",
+ "haeuser": [
+  {
+   "id": "Q130247556",
+   "name": "Kunstlabor"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Kunstlabor",
+   "titel": "Aktueller Fokus",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Werke in Akrylglas und Glas",
+   "url": "http://www.klhb.ch/aktueller-fokus.html",
+   "quelle": "http://www.klhb.ch/galerie.php"
+  },
+  {
+   "haus": "Kunstlabor",
+   "titel": "Raumobjekte",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Werke aus Stahl und anderen Materialien",
+   "url": "http://www.klhb.ch/raumobjekte.html",
+   "quelle": "http://www.klhb.ch/galerie.php"
+  },
+  {
+   "haus": "Kunstlabor",
+   "titel": "Experimente",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Mischtechnik auf Leinwand",
+   "url": "http://www.klhb.ch/experimente.html",
+   "quelle": "http://www.klhb.ch/galerie.php"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "http://www.klhb.ch/galerie.php"
+ ],
+ "abgerufen": "2026-10-12T08:12:42",
+ "status": "ok"
+}

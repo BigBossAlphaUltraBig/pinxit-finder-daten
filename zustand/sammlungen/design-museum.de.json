@@ -1,0 +1,49 @@
+{
+ "domain": "design-museum.de",
+ "website": "http://www.design-museum.de/",
+ "haeuser": [
+  {
+   "id": "Q700747",
+   "name": "Vitra Design Museum"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Vitra Design Museum",
+   "titel": "Archiv Charles & Ray Eames",
+   "art": "sammlungspraesentation",
+   "epoche": "moderne",
+   "fachgebiet": "design",
+   "kuenstler": [
+    "Charles Eames",
+    "Ray Eames"
+   ],
+   "url": "https://collection.design-museum.de/de/exhibitions/exhibition/1005/",
+   "quelle": "https://collection.design-museum.de/de/"
+  },
+  {
+   "haus": "Vitra Design Museum",
+   "titel": "Meisterwerke des Leuchtendesigns",
+   "art": "sammlungspraesentation",
+   "epoche": "moderne",
+   "fachgebiet": "design",
+   "url": "https://collection.design-museum.de/de/exhibitions/exhibition/1004/",
+   "quelle": "https://collection.design-museum.de/de/"
+  },
+  {
+   "haus": "Vitra Design Museum",
+   "titel": "Stahlrohr-Klassiker",
+   "art": "sammlungspraesentation",
+   "epoche": "moderne",
+   "fachgebiet": "design",
+   "url": "https://collection.design-museum.de/de/exhibitions/exhibition/2002/",
+   "quelle": "https://collection.design-museum.de/de/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://collection.design-museum.de/de/"
+ ],
+ "abgerufen": "2026-10-12T08:11:41",
+ "status": "ok"
+}

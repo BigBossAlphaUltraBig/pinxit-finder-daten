@@ -1,0 +1,46 @@
+{
+ "domain": "hfbk-dresden.de",
+ "website": "https://www.hfbk-dresden.de/hochschule/profil/ausstellungen/ausstellungsprofil/",
+ "haeuser": "Kunstforum Oktogon",
+ "land": "DE",
+ "ids": "node/2512299343",
+ "status": "ok",
+ "seiten": [
+  "https://www.hfbk-dresden.de/hochschule/einrichtungen/ausstellungswesen",
+  "https://www.hfbk-dresden.de/studium/studienorganisation/studienberatung"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "POST WOKE PUNK",
+   "untertitel": "Helen Verhoeven + Malwut",
+   "kuenstler": [
+    "Helen Verhoeven",
+    "Tatjana Doll",
+    "Maja Drachsel",
+    "Hedwig Eberle",
+    "Helen Hu",
+    "Lisa Kränzler",
+    "Anna Leonhardt",
+    "Monika Michalko",
+    "Kirsi Mikkola",
+    "Anna Steinert"
+   ],
+   "haus": "Kunstforum Oktogon",
+   "beginn": "2026-10-15",
+   "ende": "2026-12-13",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "gemeinfrei": false,
+   "epoche": "zeitgenoessisch",
+   "schwerpunkt": null,
+   "rang": 1,
+   "url": "https://www.hfbk-dresden.de/veranstaltungenkalender/details/post-woke-punk-ausstellung",
+   "eroeffnung": "2026-10-15T19:00",
+   "anderer_ort": null,
+   "quelle": "https://www.hfbk-dresden.de/hochschule/einrichtungen/ausstellungswesen",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

@@ -1,0 +1,65 @@
+{
+ "domain": "michaelwerner.de",
+ "website": "https://www.michaelwerner.de",
+ "haeuser": "Galerie Michael Werner",
+ "land": "DE",
+ "ids": "galerie-galerie-michael-werner-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://www.michaelwerner.de/de/ausstellungen",
+  "https://www.michaelwerner.de/de/ausstellung/andre-derain-modell-fuer-malerei"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "ANDRÉ DERAIN - MODELL FÜR MALEREI",
+   "untertitel": null,
+   "beginn": "2026-09-11",
+   "ende": "2026-11-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Michael Werner",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": true,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "André Derain"
+   ],
+   "einzelausstellung_von": "André Derain",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.michaelwerner.de/de/ausstellung/andre-derain-modell-fuer-malerei",
+   "quelle": "https://www.michaelwerner.de/de/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Markus Lüpertz oder Die Überwindung der Moderne",
+   "untertitel": "Die Überwindung der Moderne",
+   "beginn": "2026-05-02",
+   "ende": "2026-07-25",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Michael Werner",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Markus Lüpertz"
+   ],
+   "einzelausstellung_von": "Markus Lüpertz",
+   "eroeffnung": "2026-05-01",
+   "anderer_ort": null,
+   "url": "https://www.michaelwerner.de/de/ausstellung/markus-luepertz-oder-die-ueberwindung-der-moderne",
+   "quelle": "https://www.michaelwerner.de/de/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

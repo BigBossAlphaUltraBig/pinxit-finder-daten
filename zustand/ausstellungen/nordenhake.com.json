@@ -1,0 +1,80 @@
+{
+ "domain": "nordenhake.com",
+ "website": "http://www.nordenhake.com",
+ "haeuser": "Galerie Nordenhake",
+ "land": "DE",
+ "ids": "galerie-galerie-nordenhake-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://nordenhake.com/exhibitions/2026/inaugural-group-exhibition-opening-our-new-location-at-goethestrasse-2-3",
+  "https://nordenhake.com/exhibitions/2026/miroslaw-balka"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Symptoms",
+   "untertitel": "Inaugural Group Exhibition at our New Space at Goethestrasse 2–3",
+   "beginn": "2026-09-11",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Nordenhake",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": "2026-09-10",
+   "kuenstler": [
+    "Mamma Andersson",
+    "Mirosław Bałka",
+    "John Coplans",
+    "Ann Edholm",
+    "Ayan Farah",
+    "George Grosz",
+    "Valentina Kozinets",
+    "Alex Müller",
+    "Edvard Munch",
+    "Francis Offman",
+    "Benjamin Orlow",
+    "Frida Orupabo",
+    "Naufus Ramírez-Figueroa",
+    "Sophie Reinhold",
+    "Michael Schmidt",
+    "Not Vital"
+   ],
+   "url": "https://nordenhake.com/exhibitions/2026/inaugural-group-exhibition-opening-our-new-location-at-goethestrasse-2-3",
+   "quelle": "https://nordenhake.com/exhibitions/2026/inaugural-group-exhibition-opening-our-new-location-at-goethestrasse-2-3",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "»BEING«",
+   "untertitel": "»BEING«",
+   "beginn": "2026-10-01",
+   "ende": "2026-11-08",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Nordenhake",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": "Stockholm",
+   "einzelausstellung_von": "Mirosław Bałka",
+   "kuenstler": [
+    "Mirosław Bałka"
+   ],
+   "eroeffnung": null,
+   "url": "https://nordenhake.com/exhibitions/2026/miroslaw-balka",
+   "quelle": "https://nordenhake.com/exhibitions/2026/miroslaw-balka",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Stockholm"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

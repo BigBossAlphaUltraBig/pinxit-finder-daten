@@ -1,0 +1,17 @@
+{
+ "domain": "kunstverein.de",
+ "website": "https://www.kunstverein.de/",
+ "haeuser": [
+  {
+   "id": "nachtrag-kunstverein-in-hamburg",
+   "name": "Kunstverein in Hamburg"
+  }
+ ],
+ "sammlungen": [],
+ "keine_sammlung": true,
+ "seiten": [
+  "https://www.kunstverein.de/"
+ ],
+ "abgerufen": "2026-10-12T08:13:14",
+ "status": "keine Sammlung"
+}

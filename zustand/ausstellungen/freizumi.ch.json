@@ -1,0 +1,38 @@
+{
+ "domain": "freizumi.ch",
+ "website": "https://freizumi.ch/galerie-milchhuette/",
+ "haeuser": "Galerie Milchhütte",
+ "land": "CH",
+ "ids": "Q111884267",
+ "status": "ok",
+ "seiten": [
+  "https://freizumi.ch/galerie-milchhuette/aktuelles-programm/",
+  "https://freizumi.ch/galerie-milchhuette/ausstellungsbedingungen/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Georg Gerster",
+   "untertitel": null,
+   "kuenstler": [
+    "Georg Gerster"
+   ],
+   "beginn": "2026-11-05",
+   "ende": "2026-11-22",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Galerie Milchhütte",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Georg Gerster",
+   "url": "https://freizumi.ch/galerie-milchhuette/aktuelles-programm/",
+   "quelle": "https://freizumi.ch/galerie-milchhuette/aktuelles-programm/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

@@ -1,0 +1,137 @@
+{
+ "domain": "gezwanzig.com",
+ "website": "https://www.gezwanzig.com",
+ "haeuser": "Gezwanzig",
+ "land": "AT",
+ "ids": "galerie-gezwanzig-wien",
+ "status": "ok",
+ "seiten": [
+  "https://www.gezwanzig.com/exhibitions/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Farbstift-Serien",
+   "untertitel": "",
+   "beginn": "2026-09-03",
+   "ende": "2026-11-13",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Gezwanzig",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Tamás Jovanovics",
+   "kuenstler": [
+    "Tamás Jovanovics"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.gezwanzig.com/farbstift-serien/",
+   "quelle": "https://www.gezwanzig.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "ritual studies",
+   "untertitel": "ritual studies",
+   "beginn": "2026-09-16",
+   "ende": "2026-11-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Gezwanzig",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Linda Ebert",
+   "kuenstler": [
+    "Linda Ebert"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.gezwanzig.com/ritual-studies/",
+   "quelle": "https://www.gezwanzig.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "DAS SCHUBLADISIERTE GEHIRN",
+   "untertitel": "",
+   "beginn": "2026-11-19",
+   "ende": "2027-01-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Gezwanzig",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Billi Thanner",
+   "kuenstler": [
+    "Billi Thanner"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.gezwanzig.com/das-schubladisierte-gehirn/",
+   "quelle": "https://www.gezwanzig.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "A – Variationen",
+   "untertitel": "Maria Vill",
+   "beginn": "2026-11-11",
+   "ende": "2027-01-15",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Gezwanzig",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Maria Vill",
+   "kuenstler": [
+    "Maria Vill"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.gezwanzig.com/a-variationen/",
+   "quelle": "https://www.gezwanzig.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "study 02",
+   "untertitel": "showcase",
+   "beginn": "2026-09-18",
+   "ende": "2026-11-13",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Gezwanzig",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "STATION ROSE",
+    "Viktoria Morgenstern"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": "Rooseveltplatz, Wien (Container-Ausstellungsplattform)",
+   "url": "https://www.gezwanzig.com/study-02/",
+   "quelle": "https://www.gezwanzig.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Rooseveltplatz, Wien (Container-Ausstellungsplattform)"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

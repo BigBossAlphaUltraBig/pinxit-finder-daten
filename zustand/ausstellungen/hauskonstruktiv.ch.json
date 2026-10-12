@@ -1,0 +1,66 @@
+{
+ "domain": "hauskonstruktiv.ch",
+ "website": "https://www.hauskonstruktiv.ch",
+ "haeuser": "Haus Konstruktiv",
+ "land": "CH",
+ "ids": "Q252513",
+ "status": "ok",
+ "seiten": [
+  "https://www.hauskonstruktiv.ch/ausstellungen/",
+  "https://www.hauskonstruktiv.ch/ausstellungen/the-body-within-abstraction"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "The Body Within Abstraction",
+   "untertitel": "Mit dieser prominent besetzten Ausstellung feiert das Museum Haus Konstruktiv sein 40-jähriges Jubiläum.",
+   "beginn": "2026-09-26",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Haus Konstruktiv",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Heidi Bucher",
+    "Eva Fàbregas",
+    "Kimsooja",
+    "Dóra Maurer",
+    "Bruce Nauman",
+    "Steven Parrino",
+    "Chiharu Shiota",
+    "Franz West"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.hauskonstruktiv.ch/ausstellungen/the-body-within-abstraction",
+   "quelle": "https://www.hauskonstruktiv.ch/ausstellungen/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Rockefeller Dining Room",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Haus Konstruktiv",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Permanente Präsentation mit Arbeit von Michael Riedel",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Michael Riedel"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.hauskonstruktiv.ch/ausstellungen/rockefeller-dining-room",
+   "quelle": "https://www.hauskonstruktiv.ch/ausstellungen/"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

@@ -1,0 +1,32 @@
+{
+ "domain": "g2-leipzig.de",
+ "website": "http://g2-leipzig.de/",
+ "haeuser": {
+  "G2 Kunsthalle": {
+   "haus": "G2 Kunsthalle",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "15:00-20:00",
+    "do": null,
+    "fr": "12:00-17:00",
+    "sa": "12:00-17:00",
+    "so": "12:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "5 €",
+   "eintritt_ermaessigt": "3 €",
+   "frei_fuer": "Kinder unter 12 Jahren, Studierende der Kunstwissenschaften und bildenden Kunst, ICOM-Mitglieder",
+   "quelle": "http://g2-leipzig.de/",
+   "hinweis_oeffnung": "Geschlossen 4.10.-15.10.2026",
+   "bessere_seite": "http://g2-leipzig.de/besuch"
+  }
+ },
+ "seiten": [
+  "http://g2-leipzig.de/besuch",
+  "http://g2-leipzig.de/besuch",
+  "http://g2-leipzig.de/"
+ ],
+ "abgerufen": "2026-10-12T08:04:51",
+ "status": "unvollständig"
+}

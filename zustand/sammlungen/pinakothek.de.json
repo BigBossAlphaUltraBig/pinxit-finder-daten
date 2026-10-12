@@ -1,0 +1,35 @@
+{
+ "domain": "pinakothek.de",
+ "website": "https://www.pinakothek.de/en/visit/alte-pinakothek",
+ "haeuser": [
+  {
+   "id": "Q154568",
+   "name": "Alte Pinakothek"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Alte Pinakothek",
+   "titel": "Die Sammlung Schack",
+   "art": "dauerausstellung",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Deutsche Malerei des 19. Jahrhunderts",
+   "kuenstler": [
+    "Franz von Lenbach",
+    "Arnold Böcklin",
+    "Anselm Feuerbach",
+    "Moritz von Schwind",
+    "Carl Spitzweg"
+   ],
+   "url": "https://www.pinakothek.de/en/sammlung-schack",
+   "quelle": "https://www.pinakothek.de/en/sammlung-schack"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.pinakothek.de/en/sammlung-schack"
+ ],
+ "abgerufen": "2026-10-12T08:14:22",
+ "status": "ok"
+}

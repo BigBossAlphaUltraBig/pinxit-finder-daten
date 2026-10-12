@@ -1,0 +1,40 @@
+{
+ "domain": "multiple-box.de",
+ "website": "https://multiple-box.de",
+ "haeuser": "Multiple Box",
+ "land": "DE",
+ "ids": "galerie-multiple-box-hamburg",
+ "status": "ok",
+ "seiten": [
+  "https://www.multiple-box.de/aktuelle-angebote/",
+  "https://www.multiple-box.de/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "PAUL WUNDERLICH",
+   "untertitel": "99 x Paul Wunderlich zum 99. Geburtstag – Lithografien und Plastiken",
+   "beginn": "2026-09-03",
+   "ende": "2026-10-16",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Multiple Box",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Paul Wunderlich"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.multiple-box.de/2026/04/07/6153/",
+   "quelle": "https://www.multiple-box.de/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

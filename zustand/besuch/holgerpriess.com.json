@@ -1,0 +1,25 @@
+{
+ "domain": "holgerpriess.com",
+ "website": "https://holgerpriess.com",
+ "haeuser": {
+  "Holger Priess Galerie": {
+   "haus": "Holger Priess Galerie",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": "14:00-18:00",
+    "fr": "14:00-18:00",
+    "sa": "12:00-15:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "quelle": "https://holgerpriess.com/"
+  }
+ },
+ "seiten": [
+  "https://holgerpriess.com/"
+ ],
+ "abgerufen": "2026-10-12T07:36:27",
+ "status": "unvollständig"
+}

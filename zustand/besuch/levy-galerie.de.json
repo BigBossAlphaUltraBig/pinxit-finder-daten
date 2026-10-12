@@ -1,0 +1,27 @@
+{
+ "domain": "levy-galerie.de",
+ "website": "https://levy-galerie.de",
+ "haeuser": {
+  "Levy Galerie": {
+   "haus": "Levy Galerie",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://levy-galerie.de/contact/",
+   "quelle": "https://levy-galerie.de/contact/"
+  }
+ },
+ "seiten": [
+  "https://levy-galerie.de/",
+  "https://levy-galerie.de/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:36:59",
+ "status": "unvollständig"
+}

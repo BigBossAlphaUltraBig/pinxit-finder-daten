@@ -1,0 +1,48 @@
+{
+ "domain": "shore-gallery.eu",
+ "website": "https://www.shore-gallery.eu",
+ "haeuser": "Shore",
+ "land": "AT",
+ "ids": "galerie-shore-wien",
+ "status": "ok",
+ "seiten": [
+  "https://www.shore-gallery.eu/exhibitions.html"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "BABYBUBU NEVER DIE",
+   "untertitel": "Curated by Amalia Ulman",
+   "beginn": "2026-09-11",
+   "ende": "2026-10-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Shore",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "url": "https://www.shore-gallery.eu/Curated-By-Amalia-Ulman.html",
+   "kuenstler": [
+    "Alexandr Hackenschmied",
+    "Maya Deren",
+    "Judith Hopf",
+    "Gretchen Lawrence",
+    "Margaret Tashkova",
+    "Zoë Lund",
+    "Jennifer Moon",
+    "Laub",
+    "Libby Rothfeld",
+    "Bruno Zhu"
+   ],
+   "eroeffnung": null,
+   "quelle": "https://www.shore-gallery.eu/exhibitions.html",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

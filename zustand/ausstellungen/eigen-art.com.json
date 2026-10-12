@@ -1,0 +1,136 @@
+{
+ "domain": "eigen-art.com",
+ "website": "http://www.eigen-art.com",
+ "haeuser": "Galerie Eigen + Art",
+ "land": "DE",
+ "ids": "galerie-galerie-eigen-art-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://eigen-art.com/plus/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Stef Heidhues",
+   "untertitel": "hook, line and sinker",
+   "beginn": "2026-01-01",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Eigen + Art",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Stef Heidhues"
+   ],
+   "url": "https://eigen-art.com/en/exhibitions/current/stefheidhues_berlin26/",
+   "quelle": "https://eigen-art.com/plus/",
+   "detail_geprueft": "2026-10-12",
+   "eroeffnung": "2026-09-10T18:00",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "WAS ICH WILL: Die Künstlerinnen der Galerie",
+   "untertitel": null,
+   "beginn": "2026-09-05",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Eigen + Art",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Maja Behrmann",
+    "Birgit Brenner",
+    "Cihan Çakmak",
+    "Louisa Clement",
+    "Stella Hamberg",
+    "Stef Heidhues",
+    "Christine Hill",
+    "Gabrielle Kruger",
+    "Melora Kuhn",
+    "Lada Nakonechna",
+    "Madeleine Roger-Lacan",
+    "Ricarda Roggan",
+    "Yehudit Sasportas",
+    "Kristina Schuldt",
+    "Annelie Štrba",
+    "Ulrike Theusner",
+    "Mirjam Völker"
+   ],
+   "url": null,
+   "quelle": "https://eigen-art.com/plus/",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "occasional lovers",
+   "untertitel": "null",
+   "beginn": "2026-01-01",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Eigen + Art",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Brett Charles Seiler"
+   ],
+   "url": "https://eigen-art.com/en/exhibitions/current/brett-seiler_berlin-2026/",
+   "quelle": "https://eigen-art.com/plus/",
+   "eroeffnung": null,
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Brett Charles Seiler",
+   "untertitel": "occasional lovers",
+   "beginn": "2026-01-01",
+   "ende": "2026-11-28",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Eigen + Art",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Brett Charles Seiler"
+   ],
+   "einzelausstellung_von": "Brett Charles Seiler",
+   "url": "https://eigen-art.com/en/exhibitions/current/brett-seiler_berlin-2026/",
+   "gemeinfrei": false,
+   "quelle": "https://eigen-art.com/plus/",
+   "eroeffnung": "2026-10-17T11:00",
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Ansichten über einen Raum 1983 – 1990",
+   "untertitel": "Insights into the archives of the EIGEN + ART gallery and works from the series \"Encounters in Studios\" by Karin Wieckhorst",
+   "beginn": "2026-03-14",
+   "ende": "2026-04-18",
+   "art": "wechselausstellung",
+   "fachgebiet": "geschichte",
+   "haus": "Galerie Eigen + Art",
+   "rang": 4,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Karin Wieckhorst"
+   ],
+   "url": "https://eigen-art.com/en/exhibitions/current/ansichten-ueber-einen-raum_leipzig-2026/",
+   "quelle": "https://eigen-art.com/plus/",
+   "eroeffnung": null,
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "rueckfall": "claude-haiku-4-5-20251001",
+ "vom_vorlauf_behalten": 1
+}

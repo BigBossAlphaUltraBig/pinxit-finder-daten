@@ -1,0 +1,35 @@
+{
+ "domain": "museum-ludwig.de",
+ "website": "http://www.museum-ludwig.de/",
+ "haeuser": [
+  {
+   "id": "Q703640",
+   "name": "Museum Ludwig"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Museum Ludwig",
+   "titel": "Sammlung Fotografie: Zweimal Deutschland um 1980",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "fotografie",
+   "untertitel": "Fotografien aus Ost- und Westdeutschland um 1980",
+   "kuenstler": [
+    "Derek Bennett",
+    "Christiane Eisler",
+    "Karl Kugel",
+    "Ute Mahler",
+    "Evelyn Richter"
+   ],
+   "url": "https://www.museum-ludwig.de/de/ausstellungen/sammlung-fotografie-zweimal-deutschland-um-1980",
+   "quelle": "https://www.museum-ludwig.de/de/ausstellungen/sammlung-fotografie-zweimal-deutschland-um-1980"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.museum-ludwig.de/de/ausstellungen/sammlung-fotografie-zweimal-deutschland-um-1980"
+ ],
+ "abgerufen": "2026-10-12T08:14:03",
+ "status": "ok"
+}

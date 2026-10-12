@@ -1,0 +1,29 @@
+{
+ "domain": "nano-raumfuerkunst.ch",
+ "website": "https://nano-raumfuerkunst.ch/",
+ "haeuser": {
+  "nano - Raum für Kunst": {
+   "haus": "nano - Raum für Kunst",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://nano-raumfuerkunst.ch/NANO/",
+   "quelle": "https://nano-raumfuerkunst.ch/KONTAKT/",
+   "hinweis_oeffnung": "Öffnungszeiten nicht auf Kontakt-Seite verfügbar"
+  }
+ },
+ "seiten": [
+  "https://nano-raumfuerkunst.ch/",
+  "https://nano-raumfuerkunst.ch/NANO/",
+  "https://nano-raumfuerkunst.ch/KONTAKT/"
+ ],
+ "abgerufen": "2026-10-12T08:09:38",
+ "status": "unvollständig"
+}

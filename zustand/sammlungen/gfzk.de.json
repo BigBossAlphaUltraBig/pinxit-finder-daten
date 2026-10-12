@@ -1,0 +1,29 @@
+{
+ "domain": "gfzk.de",
+ "website": "http://www.gfzk.de/en/",
+ "haeuser": [
+  {
+   "id": "Q1491911",
+   "name": "Galerie für Zeitgenössische Kunst"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Galerie für Zeitgenössische Kunst",
+   "titel": "Die Sammlung",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Kunstsammlung nach 1945, zeitgenössische Kunstpositionen",
+   "url": "https://gfzk.de/en/aktivitaeten/sammlung/",
+   "bessere_seite": "https://gfzk.de/en/aktivitaeten/sammlung/",
+   "quelle": "https://gfzk.de/en/aktivitaeten/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://gfzk.de/en/aktivitaeten/"
+ ],
+ "abgerufen": "2026-10-12T08:12:11",
+ "status": "ok"
+}

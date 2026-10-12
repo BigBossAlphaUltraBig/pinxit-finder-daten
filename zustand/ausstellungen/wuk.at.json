@@ -1,0 +1,123 @@
+{
+ "domain": "wuk.at",
+ "website": "https://www.wuk.at",
+ "haeuser": "Kunsthalle Exnergasse",
+ "land": "AT",
+ "ids": "node/2082707954",
+ "status": "ok",
+ "seiten": [
+  "https://www.wuk.at/programm/",
+  "https://www.wuk.at/programm/baba-zula-2026/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "ON CHEWING SHOELACES",
+   "untertitel": "ART, MESS AND RADICAL KINSHIP",
+   "kuenstler": [
+    "Liesel Burisch",
+    "Club Fortuna",
+    "Nana Mandl",
+    "Jesseline Preach",
+    "Rychèl Thérin Scott",
+    "Sarah Sternat",
+    "HOOD dreamers"
+   ],
+   "beginn": "2026-09-17",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthalle Exnergasse",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "url": "https://www.wuk.at/programm/on-chewing-shoelaces-art-mess-and-radical-kinship/",
+   "eroeffnung": "2026-09-16T15:00",
+   "einzelausstellung_von": null,
+   "quelle": "https://www.wuk.at/programm/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "HANNES GRÖBLACHER - RÜCKRUFAKTION",
+   "untertitel": "Eine interaktive Soundinstallation",
+   "kuenstler": [
+    "Hannes Gröblacher"
+   ],
+   "beginn": "2026-09-23",
+   "ende": "2026-11-06",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthalle Exnergasse",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": "Kunstzelle im Hof",
+   "url": "https://www.wuk.at/programm/hannes-groeblacher-rueckrufaktion/",
+   "eroeffnung": "2026-09-23T19:00",
+   "einzelausstellung_von": "Hannes Gröblacher",
+   "quelle": "https://www.wuk.at/programm/",
+   "eintritt": "Eintritt frei",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Kunstzelle im Hof"
+  },
+  {
+   "titel": "GRAUES RAUSCHEN",
+   "untertitel": "Fotoausstellung von Julius Werner Chromecek, Daniela Zeilinger und Bastian Hackl-Schwind",
+   "kuenstler": [
+    "Julius Werner Chromecek",
+    "Daniela Zeilinger",
+    "Bastian Hackl-Schwind"
+   ],
+   "beginn": "2026-10-17",
+   "ende": "2026-10-18",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Kunsthalle Exnergasse",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": "WSB Plenarraum",
+   "url": "https://www.wuk.at/programm/graues-rauschen/",
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://www.wuk.at/programm/",
+   "eintritt": "Eintritt frei",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: WSB Plenarraum"
+  },
+  {
+   "titel": "TRIGGER HAPPY",
+   "untertitel": "Open Stage Experiment zur Reiz-Reaktion-Mechanik",
+   "kuenstler": [
+    "Olivier Hölzl",
+    "Julia Fromm",
+    "Sebastian Pflügelmeier",
+    "Daria Savytska",
+    "Jakob Liu Wächter de Zordo"
+   ],
+   "beginn": "2026-10-13",
+   "ende": "2026-10-13",
+   "art": "veranstaltung",
+   "fachgebiet": "medienkunst",
+   "haus": "Kunsthalle Exnergasse",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": "WSB-Studio",
+   "url": "https://www.wuk.at/programm/trigger-happy/",
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://www.wuk.at/programm/",
+   "eintritt": "Eintritt frei",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

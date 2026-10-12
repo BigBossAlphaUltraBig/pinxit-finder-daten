@@ -1,0 +1,48 @@
+{
+ "domain": "markk-hamburg.de",
+ "website": "https://markk-hamburg.de/",
+ "haeuser": [
+  {
+   "id": "nachtrag-markk-museum-am-rothenbaum",
+   "name": "MARKK – Museum am Rothenbaum"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "MARKK – Museum am Rothenbaum",
+   "titel": "Ein Hauch von Ewigkeit",
+   "untertitel": "Die Kultur des Alten Ägypten",
+   "art": "sammlungspraesentation",
+   "epoche": "alte_meister",
+   "fachgebiet": "kunsthandwerk",
+   "url": "https://markk-hamburg.de/ausstellungen/ein-hauch-von-ewigkeit/",
+   "quelle": "https://markk-hamburg.de/ausstellungstypen/dauerausstellungen/"
+  },
+  {
+   "haus": "MARKK – Museum am Rothenbaum",
+   "titel": "Das Haus Rauru",
+   "untertitel": "Meisterwerk der Māori",
+   "art": "dauerausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "kunsthandwerk",
+   "url": "https://markk-hamburg.de/ausstellungen/das-haus-rauru/",
+   "quelle": "https://markk-hamburg.de/ausstellungstypen/dauerausstellungen/"
+  },
+  {
+   "haus": "MARKK – Museum am Rothenbaum",
+   "titel": "Masken der Südsee",
+   "untertitel": "Masken aus Neuguinea und Inselstaaten",
+   "art": "dauerausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "kunsthandwerk",
+   "url": "https://markk-hamburg.de/ausstellungen/masken-der-suedsee/",
+   "quelle": "https://markk-hamburg.de/ausstellungstypen/dauerausstellungen/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://markk-hamburg.de/ausstellungstypen/dauerausstellungen/"
+ ],
+ "abgerufen": "2026-10-12T08:13:27",
+ "status": "ok"
+}

@@ -1,0 +1,28 @@
+{
+ "domain": "galerie-frey.com",
+ "website": "https://www.galerie-frey.com",
+ "haeuser": {
+  "Galerie Frey": {
+   "haus": "Galerie Frey",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "10:00-14:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.galerie-frey.com/ausstellungen",
+   "hinweis_oeffnung": "und nach Vereinbarung",
+   "quelle": "https://www.galerie-frey.com/"
+  }
+ },
+ "seiten": [
+  "https://www.galerie-frey.com/exhibitions/50-jahre-informel",
+  "https://www.galerie-frey.com/"
+ ],
+ "abgerufen": "2026-10-12T07:34:29",
+ "status": "ok"
+}

@@ -1,0 +1,30 @@
+{
+ "domain": "museum-fuenf-kontinente.de",
+ "website": "https://www.museum-fuenf-kontinente.de/",
+ "haeuser": {
+  "Museum Fünf Kontinente": {
+   "haus": "Museum Fünf Kontinente",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "09:30-17:30",
+    "mi": "09:30-17:30",
+    "do": "09:30-17:30",
+    "fr": "09:30-17:30",
+    "sa": "09:30-17:30",
+    "so": "09:30-17:30"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "9 €",
+   "eintritt_ermaessigt": "7 €",
+   "frei_fuer": "Kinder und Jugendliche bis zum vollendeten 18. Lebensjahr",
+   "frei_wann": "jeden Sonntag (1 € regulär)",
+   "hinweis_oeffnung": "Öffnet wieder am Dienstag (aktuell geschlossen)",
+   "quelle": "https://www.museum-fuenf-kontinente.de/besuch/besuch-planen"
+  }
+ },
+ "seiten": [
+  "https://www.museum-fuenf-kontinente.de/besuch/besuch-planen"
+ ],
+ "abgerufen": "2026-10-12T08:09:02",
+ "status": "ok"
+}

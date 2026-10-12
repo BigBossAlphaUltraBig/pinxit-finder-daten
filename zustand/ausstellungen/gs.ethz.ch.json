@@ -1,0 +1,38 @@
+{
+ "domain": "gs.ethz.ch",
+ "website": "https://www.gs.ethz.ch",
+ "haeuser": "Graphische Sammlung der ETH",
+ "land": "CH",
+ "ids": "Q27490235",
+ "status": "ok",
+ "seiten": [
+  "https://gs.ethz.ch/ausstellungen/",
+  "https://gs.ethz.ch/aktuell/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Fliessen und Spriessen. Das druckgrafische Schaffen",
+   "untertitel": "Das druckgrafische Schaffen",
+   "beginn": "2026-08-19",
+   "ende": "2026-11-08",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Graphische Sammlung der ETH",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Hugo Suter"
+   ],
+   "eroeffnung": "2026-08-18",
+   "einzelausstellung_von": "Hugo Suter",
+   "anderer_ort": null,
+   "url": "https://gs.ethz.ch/aktuell/",
+   "quelle": "https://gs.ethz.ch/aktuell/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

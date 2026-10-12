@@ -1,0 +1,28 @@
+{
+ "domain": "soycapitan.de",
+ "website": "https://soycapitan.de",
+ "haeuser": {
+  "Soy Capitán": {
+   "haus": "Soy Capitán",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://soycapitan.de/about/",
+   "quelle": "https://soycapitan.de/about/",
+   "hinweis_oeffnung": "Öffnung nach Vereinbarung möglich"
+  }
+ },
+ "seiten": [
+  "https://soycapitan.de/",
+  "https://soycapitan.de/about/"
+ ],
+ "abgerufen": "2026-10-12T07:38:35",
+ "status": "unvollständig"
+}

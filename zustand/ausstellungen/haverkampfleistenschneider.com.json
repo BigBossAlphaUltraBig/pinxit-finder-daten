@@ -1,0 +1,65 @@
+{
+ "domain": "haverkampfleistenschneider.com",
+ "website": "https://haverkampfleistenschneider.com",
+ "haeuser": "Haverkampf Leistenschneider",
+ "land": "DE",
+ "ids": "galerie-haverkampf-leistenschneider-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://haverkampfleistenschneider.com/exhibitions/",
+  "https://haverkampfleistenschneider.com/exhibitions/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "MAXI THOM",
+   "untertitel": "Gallery Cabinet",
+   "beginn": "2026-10-01",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Haverkampf Leistenschneider",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Maxi Thom"
+   ],
+   "einzelausstellung_von": "Maxi Thom",
+   "anderer_ort": null,
+   "eroeffnung": "2026-10-01T17:00",
+   "url": "https://haverkampfleistenschneider.com/exhibitions/maxi-thom-gallery-cabinet-d2ce6b91/",
+   "quelle": "https://haverkampfleistenschneider.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Gestern ist Heute",
+   "untertitel": null,
+   "beginn": "2026-10-16",
+   "ende": "2026-12-19",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Haverkampf Leistenschneider",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Alex Müller"
+   ],
+   "einzelausstellung_von": "Alex Müller",
+   "anderer_ort": null,
+   "eroeffnung": "2026-10-15T18:00",
+   "url": "https://haverkampfleistenschneider.com/exhibitions/gestern-ist-heute-62b16a3c/",
+   "quelle": "https://haverkampfleistenschneider.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

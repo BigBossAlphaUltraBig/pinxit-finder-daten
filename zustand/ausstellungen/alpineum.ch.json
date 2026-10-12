@@ -1,0 +1,70 @@
+{
+ "domain": "alpineum.ch",
+ "website": "https://www.alpineum.ch",
+ "haeuser": "Alpineum",
+ "land": "CH",
+ "ids": "Q4735602",
+ "status": "ok",
+ "seiten": [
+  "https://www.alpineum.ch/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Das Stereo-Bild",
+   "untertitel": "Die Geschichte der räumlichen Photographie um 1900",
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "fachgebiet": "fotografie",
+   "haus": "Alpineum",
+   "rang": 1,
+   "epoche": "19_jahrhundert",
+   "gemeinfrei": true,
+   "schwerpunkt": "Geschichte der räumlichen Photographie um 1900",
+   "url": "https://www.alpineum.ch/",
+   "quelle": "https://www.alpineum.ch/",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Alpenpanorama-Diorama",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Alpineum",
+   "rang": 2,
+   "epoche": "19_jahrhundert",
+   "gemeinfrei": true,
+   "schwerpunkt": "Riesige Diorama-Gemälde der Schweizer Alpen von 1880er-Jahren",
+   "url": "https://www.alpineum.ch/",
+   "quelle": "https://www.alpineum.ch/",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "3D-Alpen Diorama",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "epoche": "19_jahrhundert",
+   "gemeinfrei": true,
+   "schwerpunkt": "Diorama-Gemälde der Schweizer Alpenregionen von Hodel",
+   "kuenstler": [
+    "Ernst Hodel sen.",
+    "Ernst Hodel jun."
+   ],
+   "kunst": true,
+   "haus": "Alpineum",
+   "rang": 1,
+   "url": "https://www.alpineum.ch/ueber-uns",
+   "quelle": "https://www.alpineum.ch/",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

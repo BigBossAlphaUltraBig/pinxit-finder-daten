@@ -1,0 +1,26 @@
+{
+ "domain": "samscherrer.ch",
+ "website": "https://www.samscherrer.ch",
+ "haeuser": {
+  "Sam Scherrer Contemporary": {
+   "haus": "Sam Scherrer Contemporary",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": "14:00-18:00",
+    "fr": "14:00-18:00",
+    "sa": "14:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "Öffnungszeiten während Ausstellungen; Mo-Mi nach Vereinbarung",
+   "quelle": "https://www.samscherrer.ch/"
+  }
+ },
+ "seiten": [
+  "https://www.samscherrer.ch/"
+ ],
+ "abgerufen": "2026-10-12T07:38:15",
+ "status": "unvollständig"
+}

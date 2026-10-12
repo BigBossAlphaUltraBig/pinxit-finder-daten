@@ -1,0 +1,25 @@
+{
+ "domain": "galerie1565.de",
+ "website": "https://galerie1565.de",
+ "haeuser": {
+  "Galerie 1565": {
+   "haus": "Galerie 1565",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "12:00-18:00",
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://galerie1565.de/"
+  }
+ },
+ "seiten": [
+  "https://galerie1565.de/"
+ ],
+ "abgerufen": "2026-10-12T07:34:57",
+ "status": "ok"
+}

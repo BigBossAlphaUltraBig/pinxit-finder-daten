@@ -1,0 +1,32 @@
+{
+ "domain": "pavillon-le-corbusier.ch",
+ "website": "https://www.pavillon-le-corbusier.ch/",
+ "haeuser": [
+  {
+   "id": "Q638236",
+   "name": "Centre Le Corbusier"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Centre Le Corbusier",
+   "titel": "Die Sammlung",
+   "untertitel": "Architektonische Sammlung und Exponate",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "architektur",
+   "kuenstler": [
+    "Le Corbusier"
+   ],
+   "url": "https://pavillon-le-corbusier.ch/de",
+   "bessere_seite": "https://museum-gestaltung.ch/de",
+   "quelle": "https://pavillon-le-corbusier.ch/de"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://pavillon-le-corbusier.ch/de"
+ ],
+ "abgerufen": "2026-10-12T08:14:16",
+ "status": "ok"
+}

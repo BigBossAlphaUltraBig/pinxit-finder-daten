@@ -1,0 +1,38 @@
+{
+ "domain": "abtart.com",
+ "website": "http://www.abtart.com/",
+ "haeuser": "Galerie Abtart",
+ "land": "DE",
+ "ids": "way/42995648",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://www.abtart.de/ausstellungen.html"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "Ulrich Klieber: Arbeiten mit Papier, Arbeiten aus Papier",
+   "untertitel": "eine Retrospektive 1979 bis heute",
+   "beginn": "2026-07-03",
+   "ende": "2026-10-09",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Abtart",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Ulrich Klieber"
+   ],
+   "eroeffnung": "2026-07-03T19:30",
+   "einzelausstellung_von": "Ulrich Klieber",
+   "anderer_ort": null,
+   "url": "https://www.abtart.de/ausstellungen/aktuell/detail/51-3373.html",
+   "quelle": "https://www.abtart.de/ausstellungen.html",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

@@ -1,0 +1,39 @@
+{
+ "domain": "maulberger.de",
+ "website": "https://maulberger.de/ausstellungenmessen/",
+ "haeuser": "Galerie Maulberger",
+ "land": "DE",
+ "ids": "galerie-galerie-maulberger-muenchen",
+ "status": "ok",
+ "seiten": [
+  "https://maulberger.de/ausstellungenmessen/",
+  "https://maulberger.de/2022/03/23/informel-abenteuer-struktur/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "DIE KLAVIATUR DER ABSTRAKTION",
+   "beginn": "2026-10-09",
+   "ende": "2026-11-28",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Maulberger",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [],
+   "untertitel": null,
+   "url": "https://maulberger.de/2026/09/17/5868/",
+   "quelle": "https://maulberger.de/ausstellungenmessen/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

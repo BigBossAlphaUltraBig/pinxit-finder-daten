@@ -1,0 +1,27 @@
+{
+ "domain": "maxgoelitz.com",
+ "website": "https://maxgoelitz.com",
+ "haeuser": {
+  "Max Goelitz": {
+   "haus": "Max Goelitz",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "11:00-19:00",
+    "do": "11:00-19:00",
+    "fr": "11:00-19:00",
+    "sa": "12:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.maxgoelitz.com/contact/",
+   "quelle": "https://www.maxgoelitz.com/contact/"
+  }
+ },
+ "seiten": [
+  "https://www.maxgoelitz.com/",
+  "https://www.maxgoelitz.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:37:17",
+ "status": "unvollständig"
+}

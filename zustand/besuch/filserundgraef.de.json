@@ -1,0 +1,28 @@
+{
+ "domain": "filserundgraef.de",
+ "website": "https://filserundgraef.de",
+ "haeuser": {
+  "Galerie Filser & Gräf": {
+   "haus": "Galerie Filser & Gräf",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "13:00-18:00",
+    "mi": "13:00-18:00",
+    "do": "13:00-18:00",
+    "fr": "13:00-18:00",
+    "sa": "13:00-17:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://filserundgraef.de/de/kontakt/",
+   "quelle": "https://filserundgraef.de/de/kontakt/"
+  }
+ },
+ "seiten": [
+  "https://filserundgraef.de/",
+  "https://filserundgraef.de/de/about/",
+  "https://filserundgraef.de/de/kontakt/"
+ ],
+ "abgerufen": "2026-10-12T07:34:21",
+ "status": "ok"
+}

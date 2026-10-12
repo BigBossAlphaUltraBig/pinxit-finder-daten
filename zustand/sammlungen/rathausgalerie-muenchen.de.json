@@ -1,0 +1,17 @@
+{
+ "domain": "rathausgalerie-muenchen.de",
+ "website": "https://www.rathausgalerie-muenchen.de/de",
+ "haeuser": [
+  {
+   "id": "node-1132414558",
+   "name": "Rathausgalerie | Kunsthalle"
+  }
+ ],
+ "sammlungen": [],
+ "keine_sammlung": true,
+ "seiten": [
+  "https://www.rathausgalerie-muenchen.de/de/startseite"
+ ],
+ "abgerufen": "2026-10-12T08:14:29",
+ "status": "keine Sammlung"
+}

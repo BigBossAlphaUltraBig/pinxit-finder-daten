@@ -1,0 +1,28 @@
+{
+ "domain": "kuenstlerhaus.de",
+ "website": "https://kuenstlerhaus.de/",
+ "haeuser": {
+  "Künstlerhaus Stuttgart": {
+   "haus": "Künstlerhaus Stuttgart",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": "14:00-18:00",
+    "sa": "14:00-18:00",
+    "so": "14:00-18:00"
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://kuenstlerhaus.de/ueber-uns/",
+   "bessere_seite": "https://kuenstlerhaus.de/ueber-uns#besuch"
+  }
+ },
+ "seiten": [
+  "https://kuenstlerhaus.de/ueber-uns/",
+  "https://kuenstlerhaus.de/",
+  "https://kuenstlerhaus.de/ueber-uns/"
+ ],
+ "abgerufen": "2026-10-12T08:06:49",
+ "status": "unvollständig"
+}

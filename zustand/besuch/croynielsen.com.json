@@ -1,0 +1,28 @@
+{
+ "domain": "croynielsen.com",
+ "website": "https://croynielsen.com",
+ "haeuser": {
+  "Croy Nielsen": {
+   "haus": "Croy Nielsen",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "quelle": "https://croynielsen.com/",
+   "bessere_seite": "https://croynielsen.com/#info",
+   "hinweis_oeffnung": "Informationen nicht auf der Hauptseite verfügbar"
+  }
+ },
+ "seiten": [
+  "https://croynielsen.com/info/",
+  "https://croynielsen.com/"
+ ],
+ "abgerufen": "2026-10-12T07:33:43",
+ "status": "unvollständig"
+}

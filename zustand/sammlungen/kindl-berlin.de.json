@@ -1,0 +1,17 @@
+{
+ "domain": "kindl-berlin.de",
+ "website": "https://www.kindl-berlin.de/",
+ "haeuser": [
+  {
+   "id": "node-5306246621",
+   "name": "Kindl - Zentrum für zeitgenössische Kunst"
+  }
+ ],
+ "sammlungen": [],
+ "keine_sammlung": true,
+ "seiten": [
+  "https://www.kindl-berlin.de/"
+ ],
+ "abgerufen": "2026-10-12T08:12:42",
+ "status": "keine Sammlung"
+}

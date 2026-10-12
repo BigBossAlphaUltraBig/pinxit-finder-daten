@@ -1,0 +1,64 @@
+{
+ "domain": "galerie-jovandeloo.com",
+ "website": "https://galerie-jovandeloo.com",
+ "haeuser": "Galerie Jo van de Loo",
+ "land": "DE",
+ "ids": "node/3739778200",
+ "status": "ok",
+ "seiten": [
+  "https://www.galerie-jovandeloo.com/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "PLITSCHER PLÄTSCHER",
+   "untertitel": null,
+   "beginn": "2026-09-18",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Jo van de Loo",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Georg Haberler",
+   "kuenstler": [
+    "Georg Haberler"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-17",
+   "url": "https://www.galerie-jovandeloo.com/26-plitscher-pl%C3%A4tscher",
+   "quelle": "https://www.galerie-jovandeloo.com/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "DER GOLEM",
+   "untertitel": "(AUF DEM WEG NACH PRAG)",
+   "beginn": "2026-07-02",
+   "ende": "2025-03-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Jo van de Loo",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Boris Saccone",
+   "kuenstler": [
+    "Boris Saccone"
+   ],
+   "anderer_ort": "Pinakothek der Moderne, München",
+   "eroeffnung": null,
+   "url": "https://www.galerie-jovandeloo.com/25-der-hase-rannte",
+   "quelle": "https://www.galerie-jovandeloo.com/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

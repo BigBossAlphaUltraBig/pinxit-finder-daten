@@ -1,0 +1,25 @@
+{
+ "domain": "larsfriedrich.net",
+ "website": "http://www.larsfriedrich.net",
+ "haeuser": {
+  "Galerie Lars Friedrich": {
+   "haus": "Galerie Lars Friedrich",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "12:00-16:00",
+    "do": "13:00-18:00",
+    "fr": "13:00-18:00",
+    "sa": "13:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://larsfriedrich.net/"
+  }
+ },
+ "seiten": [
+  "https://larsfriedrich.net/"
+ ],
+ "abgerufen": "2026-10-12T07:36:54",
+ "status": "unvollständig"
+}

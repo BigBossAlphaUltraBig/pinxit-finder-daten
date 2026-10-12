@@ -1,0 +1,112 @@
+{
+ "domain": "emanuellayr.com",
+ "website": "https://www.emanuellayr.com",
+ "haeuser": "Layr",
+ "land": "AT",
+ "ids": "galerie-layr-wien",
+ "status": "ok",
+ "seiten": [
+  "https://emanuellayr.com/exhibitions/",
+  "https://emanuellayr.com/exhibitions/walter-or-you-jerk-you-didnt-call-me-up/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Walter or You jerk you didn’t call me up",
+   "untertitel": "",
+   "beginn": "2026-09-11",
+   "ende": "2026-10-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Layr",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Kai Althoff",
+    "Larry Clark",
+    "Lili Dujourie",
+    "William Gaucher",
+    "Brook Hsu",
+    "Sergej Jensen",
+    "Oscar Kargruber",
+    "Felix Krapp-Raczek",
+    "Silke Otto-Knapp",
+    "Trevor Shimizu",
+    "Kazuyuki Takezaki",
+    "Vunkwan Tam",
+    "Evelyn Taocheng Wang",
+    "Franz West"
+   ],
+   "anderer_ort": null,
+   "url": "https://emanuellayr.com/exhibitions/walter-or-you-jerk-you-didnt-call-me-up/",
+   "eroeffnung": null,
+   "quelle": "https://emanuellayr.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "The Uselessness of Defense",
+   "untertitel": "Layr Andräkirche / St. Andrew's Church, Salzburg",
+   "beginn": "2026-07-25",
+   "ende": "2026-08-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Layr",
+   "rang": 99,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Matthias Noggler"
+   ],
+   "anderer_ort": null,
+   "url": "https://emanuellayr.com/exhibitions/the-uselessness-of-defense/",
+   "eroeffnung": "2026-07-24T18:00",
+   "quelle": "https://emanuellayr.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  },
+  {
+   "titel": "Guided Tour",
+   "untertitel": "Walter or You jerk you didn't call me up",
+   "beginn": "2026-10-09",
+   "ende": "2026-10-09",
+   "art": "veranstaltung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Layr",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://emanuellayr.com/exhibitions/walter-or-you-jerk-you-didnt-call-me-up/",
+   "kuenstler": [
+    "Kai Althoff",
+    "Larry Clark",
+    "Lili Dujourie",
+    "William Gaucher",
+    "Brook Hsu",
+    "Sergej Jensen",
+    "Oscar Kargruber",
+    "Felix Krapp-Raczek",
+    "Silke Otto-Knapp",
+    "Trevor Shimizu",
+    "Kazuyuki Takezaki",
+    "Vunkwan Tam",
+    "Evelyn Taocheng Wang",
+    "Franz West"
+   ],
+   "quelle": "https://emanuellayr.com/exhibitions/walter-or-you-jerk-you-didnt-call-me-up/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

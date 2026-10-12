@@ -1,0 +1,31 @@
+{
+ "domain": "kunstverein-muenchen.de",
+ "website": "https://www.kunstverein-muenchen.de/",
+ "haeuser": {
+  "Kunstverein München": {
+   "haus": "Kunstverein München",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "12:00-18:00",
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-18:00",
+    "so": "12:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.kunstverein-muenchen.de/de/kontakt",
+   "quelle": "https://www.kunstverein-muenchen.de/de/kontakt",
+   "eintritt_regulaer": "5 EUR",
+   "eintritt_ermaessigt": "3 EUR",
+   "frei_fuer": "km Mitglieder, ADKV-Mitglieder, ICOM-Mitglieder, Kinder bis 12 Jahre",
+   "hinweis_oeffnung": "An Feiertagen geschlossen, außer Ostersonntag, Christi Himmelfahrt, Pfingstsonntag, Tag der dt. Einheit"
+  }
+ },
+ "seiten": [
+  "https://www.kunstverein-muenchen.de/de",
+  "https://www.kunstverein-muenchen.de/de/kontakt"
+ ],
+ "abgerufen": "2026-10-12T08:07:42",
+ "status": "ok"
+}

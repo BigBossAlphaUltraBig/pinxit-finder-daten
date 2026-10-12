@@ -1,0 +1,26 @@
+{
+ "domain": "deborahschamoni.com",
+ "website": "https://deborahschamoni.com",
+ "haeuser": {
+  "Deborah Schamoni": {
+   "haus": "Deborah Schamoni",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "Samstag zusätzlich nach Vereinbarung",
+   "quelle": "https://deborahschamoni.com/"
+  }
+ },
+ "seiten": [
+  "https://deborahschamoni.com/"
+ ],
+ "abgerufen": "2026-10-12T07:33:50",
+ "status": "unvollständig"
+}

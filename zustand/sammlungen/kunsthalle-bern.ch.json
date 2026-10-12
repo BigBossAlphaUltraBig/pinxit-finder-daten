@@ -1,0 +1,17 @@
+{
+ "domain": "kunsthalle-bern.ch",
+ "website": "https://www.kunsthalle-bern.ch",
+ "haeuser": [
+  {
+   "id": "Q612774",
+   "name": "Kunsthalle Bern"
+  }
+ ],
+ "sammlungen": [],
+ "keine_sammlung": true,
+ "seiten": [
+  "https://kunsthallebern.ch/de"
+ ],
+ "abgerufen": "2026-10-12T08:12:52",
+ "status": "keine Sammlung"
+}

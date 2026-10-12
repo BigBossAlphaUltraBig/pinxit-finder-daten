@@ -1,0 +1,86 @@
+{
+ "domain": "larkinerdmann.com",
+ "website": "https://www.larkinerdmann.com",
+ "haeuser": "Larkin Erdmann Gallery",
+ "land": "CH",
+ "ids": "galerie-larkin-erdmann-gallery-zuerich",
+ "status": "ok",
+ "seiten": [
+  "https://www.larkinerdmann.com/exhibitions"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Antonio Calderara, The Transition",
+   "untertitel": "The Transition",
+   "beginn": "2026-11-26",
+   "ende": "2027-03-25",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Larkin Erdmann Gallery",
+   "rang": 1,
+   "epoche": "moderne",
+   "kuenstler": [
+    "Antonio Calderara"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "url": "https://www.larkinerdmann.com/exhibitions/upcoming-antonio-calderara",
+   "anderer_ort": null,
+   "einzelausstellung_von": "Antonio Calderara",
+   "quelle": "https://www.larkinerdmann.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "The Transition",
+   "untertitel": "<UNKNOWN>",
+   "beginn": "2026-10-12",
+   "ende": "2027-03-25",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Larkin Erdmann Gallery",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Antonio Calderara"
+   ],
+   "einzelausstellung_von": "Antonio Calderara",
+   "url": "https://www.larkinerdmann.com/exhibitions/upcoming-antonio-calderara",
+   "eroeffnung": null,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "quelle": "https://www.larkinerdmann.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
+  },
+  {
+   "titel": "Dama e quadretti",
+   "untertitel": "A selection of the rare Dama series from 1967–68 and a selection of embroidered quadretti made between 1977 and 1990",
+   "beginn": "2026-09-10",
+   "ende": "2026-11-20",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Larkin Erdmann Gallery",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Alighiero Boetti"
+   ],
+   "einzelausstellung_von": "Alighiero Boetti",
+   "url": "https://www.larkinerdmann.com/exhibitions/alighiero-boetti-dama-e-quadretti",
+   "eroeffnung": null,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "quelle": "https://www.larkinerdmann.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 2
+}

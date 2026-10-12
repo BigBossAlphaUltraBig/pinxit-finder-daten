@@ -1,0 +1,27 @@
+{
+ "domain": "galeriewittenbrink.de",
+ "website": "https://galeriewittenbrink.de",
+ "haeuser": {
+  "Galerie Wittenbrink": {
+   "haus": "Galerie Wittenbrink",
+   "oeffnungszeiten": {
+    "di": "11:00-18:00",
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": "11:00-18:00",
+    "so": null,
+    "mo": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.galeriewittenbrink.de/kontakt-wittenbrink.html",
+   "quelle": "https://www.galeriewittenbrink.de/kontakt-wittenbrink.html"
+  }
+ },
+ "seiten": [
+  "https://www.galeriewittenbrink.de/",
+  "https://www.galeriewittenbrink.de/kontakt-wittenbrink.html"
+ ],
+ "abgerufen": "2026-10-12T07:36:03",
+ "status": "unvollständig"
+}

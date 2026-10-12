@@ -1,0 +1,26 @@
+{
+ "domain": "multiple-box.de",
+ "website": "https://multiple-box.de",
+ "haeuser": {
+  "Multiple Box": {
+   "haus": "Multiple Box",
+   "oeffnungszeiten": {
+    "mo": "11:00-19:00",
+    "di": "11:00-19:00",
+    "mi": "11:00-19:00",
+    "do": "11:00-19:00",
+    "fr": "11:00-19:00",
+    "sa": "11:00-17:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "u.n.V. (nach Vereinbarung)",
+   "quelle": "https://www.multiple-box.de/suchservice/"
+  }
+ },
+ "seiten": [
+  "https://www.multiple-box.de/suchservice/"
+ ],
+ "abgerufen": "2026-10-12T07:37:37",
+ "status": "ok"
+}

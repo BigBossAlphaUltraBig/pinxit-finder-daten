@@ -1,0 +1,27 @@
+{
+ "domain": "shore-gallery.eu",
+ "website": "https://www.shore-gallery.eu",
+ "haeuser": {
+  "Shore": {
+   "haus": "Shore",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "quelle": "https://www.shore-gallery.eu/",
+   "bessere_seite": "https://www.shore-gallery.eu/info.html"
+  }
+ },
+ "seiten": [
+  "https://www.shore-gallery.eu/info.html",
+  "https://www.shore-gallery.eu/"
+ ],
+ "abgerufen": "2026-10-12T07:38:22",
+ "status": "unvollständig"
+}

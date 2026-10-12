@@ -1,0 +1,25 @@
+{
+ "domain": "michaelwerner.de",
+ "website": "https://www.michaelwerner.de",
+ "haeuser": {
+  "Galerie Michael Werner": {
+   "haus": "Galerie Michael Werner",
+   "oeffnungszeiten": {
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "10:00-16:00",
+    "mo": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://www.michaelwerner.de/"
+  }
+ },
+ "seiten": [
+  "https://www.michaelwerner.de/"
+ ],
+ "abgerufen": "2026-10-12T07:37:23",
+ "status": "ok"
+}

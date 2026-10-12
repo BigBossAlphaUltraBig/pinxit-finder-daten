@@ -1,0 +1,44 @@
+{
+ "domain": "kunsthausbaselland.ch",
+ "website": "https://www.kunsthausbaselland.ch",
+ "haeuser": [
+  {
+   "id": "Q1792438",
+   "name": "Kunsthaus Baselland"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Kunsthaus Baselland",
+   "titel": "Sammlung Kunstverein Baselland",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Gemälde, Druckgrafiken und Zeichnungen seit 1944",
+   "kuenstler": [
+    "Ruth Pfalzberger",
+    "Romy Weber",
+    "Hanspeter Hofmann",
+    "Marcel Stüssi"
+   ],
+   "url": "https://www.kunsthausbaselland.ch/sammlung",
+   "quelle": "https://www.kunsthausbaselland.ch/sammlung"
+  },
+  {
+   "haus": "Kunsthaus Baselland",
+   "titel": "Sammlung dotMov.bl",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "medienkunst",
+   "untertitel": "Werke des Bewegtbildes seit den 1970er-Jahren",
+   "url": "https://www.kunsthausbaselland.ch/sammlung",
+   "quelle": "https://www.kunsthausbaselland.ch/sammlung"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.kunsthausbaselland.ch/sammlung"
+ ],
+ "abgerufen": "2026-10-12T08:12:59",
+ "status": "ok"
+}

@@ -1,0 +1,26 @@
+{
+ "domain": "antikensammlung.unibe.ch",
+ "website": "http://www.antikensammlung.unibe.ch",
+ "haeuser": {
+  "Antikensammlung": {
+   "haus": "Antikensammlung",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": "14:00-17:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "Nach Vereinbarung. Abguss-Sammlung samstags 14-17 Uhr; Originalsammlung geöffnet nach Vereinbarung. Gratis ins Museum an bestimmten Samstagen (08.08., 15.08., 22.08., 29.08.2026)",
+   "quelle": "https://www.iaw.unibe.ch/forschung/archaeologie_des_mittelmeerraumes/antikensammlung_bern/index_ger.html"
+  }
+ },
+ "seiten": [
+  "https://www.iaw.unibe.ch/forschung/archaeologie_des_mittelmeerraumes/antikensammlung_bern/index_ger.html"
+ ],
+ "abgerufen": "2026-10-12T08:03:33",
+ "status": "unvollständig"
+}

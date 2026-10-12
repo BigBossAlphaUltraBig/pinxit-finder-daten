@@ -1,0 +1,28 @@
+{
+ "domain": "museum-schnuetgen.de",
+ "website": "https://museum-schnuetgen.de/Home",
+ "haeuser": [
+  {
+   "id": "Q950",
+   "name": "Museum Schnütgen"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Museum Schnütgen",
+   "titel": "Die Sammlung",
+   "art": "dauerausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Mittelalterliche Kunst vom 9. bis zum 19. Jahrhundert",
+   "url": "https://www.museum-schnuetgen.de/sammlung-digital/das-virtuelle-museum/360-rundgang",
+   "quelle": "https://www.museum-schnuetgen.de/sammlung-digital"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.museum-schnuetgen.de/sammlung-digital"
+ ],
+ "abgerufen": "2026-10-12T08:14:08",
+ "status": "ok"
+}

@@ -1,0 +1,28 @@
+{
+ "domain": "w-k.art",
+ "website": "https://www.w-k.art",
+ "haeuser": {
+  "Wienerroither & Kohlbacher": {
+   "haus": "Wienerroither & Kohlbacher",
+   "oeffnungszeiten": {
+    "mo": "10:00-18:00",
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.w-k.art/gallery/about",
+   "hinweis_oeffnung": "Öffnungszeiten auf der Website nicht angegeben",
+   "quelle": "https://www.w-k.art/gallery/contact"
+  }
+ },
+ "seiten": [
+  "https://www.w-k.art/",
+  "https://www.w-k.art/gallery/contact"
+ ],
+ "abgerufen": "2026-10-12T07:38:55",
+ "status": "ok"
+}

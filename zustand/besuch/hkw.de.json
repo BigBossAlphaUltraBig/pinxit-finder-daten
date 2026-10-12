@@ -1,0 +1,26 @@
+{
+ "domain": "hkw.de",
+ "website": "https://www.hkw.de/",
+ "haeuser": {
+  "Haus der Kulturen der Welt": {
+   "haus": "Haus der Kulturen der Welt",
+   "oeffnungszeiten": {
+    "mo": "12:00-19:00",
+    "di": "12:00-19:00",
+    "mi": "12:00-19:00",
+    "do": "12:00-19:00",
+    "fr": "12:00-19:00",
+    "sa": "12:00-19:00",
+    "so": "12:00-19:00"
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.hkw.de/the-house/visit/visit",
+   "quelle": "https://www.hkw.de/the-house/visit/tickets"
+  }
+ },
+ "seiten": [
+  "https://www.hkw.de/the-house/visit/tickets"
+ ],
+ "abgerufen": "2026-10-12T08:06:11",
+ "status": "ok"
+}

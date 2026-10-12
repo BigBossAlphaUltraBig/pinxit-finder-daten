@@ -1,0 +1,30 @@
+{
+ "domain": "clemens-sels-museum-neuss.de",
+ "website": "https://www.clemens-sels-museum-neuss.de/",
+ "haeuser": {
+  "Clemens Sels Museum Neuss": {
+   "haus": "Clemens Sels Museum Neuss",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-17:00",
+    "mi": "11:00-17:00",
+    "do": "11:00-17:00",
+    "fr": "11:00-17:00",
+    "sa": "11:00-17:00",
+    "so": "11:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "5,00 Euro",
+   "eintritt_ermaessigt": "2,50 Euro",
+   "frei_fuer": "bis 21 Jahre",
+   "frei_wann": "jeden 1. Sonntag im Monat",
+   "hinweis_oeffnung": "Letzter Donnerstag im Monat 11–20 Uhr (Langer Donnerstag)",
+   "quelle": "https://clemens-sels-museum-neuss.de/besuch"
+  }
+ },
+ "seiten": [
+  "https://clemens-sels-museum-neuss.de/besuch"
+ ],
+ "abgerufen": "2026-10-12T08:03:59",
+ "status": "ok"
+}

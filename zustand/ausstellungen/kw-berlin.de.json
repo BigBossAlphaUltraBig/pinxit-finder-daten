@@ -1,0 +1,142 @@
+{
+ "domain": "kw-berlin.de",
+ "website": "https://www.kw-berlin.de",
+ "haeuser": "KW Institute for Contemporary Art",
+ "land": "DE",
+ "ids": "Q1792296",
+ "status": "ok",
+ "seiten": [
+  "https://www.kw-berlin.de/de/ausstellungen",
+  "https://www.kw-berlin.de/de/ausstellungen/koo-jeong-a-ousssean"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Bad Dreams",
+   "untertitel": "Bad Dreams",
+   "beginn": "2026-10-17",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "KW Institute for Contemporary Art",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-10-16T19:00",
+   "anderer_ort": null,
+   "einzelausstellung_von": "Susan Hiller",
+   "kuenstler": [
+    "Susan Hiller"
+   ],
+   "url": "https://www.kw-berlin.de/de/ausstellungen/susan-hiller-bad-dreams",
+   "quelle": "https://www.kw-berlin.de/de/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "OUSSSEAN",
+   "untertitel": "null",
+   "beginn": "2026-10-17",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "KW Institute for Contemporary Art",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-10-16T19:00",
+   "anderer_ort": null,
+   "einzelausstellung_von": "KOO JEONG A",
+   "kuenstler": [
+    "KOO JEONG A"
+   ],
+   "url": "https://www.kw-berlin.de/de/ausstellungen/koo-jeong-a-ousssean",
+   "quelle": "https://www.kw-berlin.de/de/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "The City and the City",
+   "untertitel": "Man erinnert sich nicht, sondern man schreibt das Gedächtnis um",
+   "beginn": "2026-10-17",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "KW Institute for Contemporary Art",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-10-16T19:00",
+   "anderer_ort": null,
+   "einzelausstellung_von": "Rafik Greiss",
+   "kuenstler": [
+    "Rafik Greiss"
+   ],
+   "url": "https://www.kw-berlin.de/de/ausstellungen/rafik-greiss-the-city-and-the-city",
+   "quelle": "https://www.kw-berlin.de/de/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "BPA// Exhibition 2026",
+   "untertitel": "Arbeiten von Künstler*innen des BPA// Berlin program for artists",
+   "beginn": "2026-12-05",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "KW Institute for Contemporary Art",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-12-04",
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Ouassila Arras",
+    "Arijit Bhattacharyya",
+    "Belia Brückner",
+    "Caroline Douville",
+    "Robin Kötzle",
+    "Leon Leube",
+    "Jorge Loureiro",
+    "Peter Polack",
+    "Alina Schmuch",
+    "Lauryn Youden"
+   ],
+   "url": "https://www.kw-berlin.de/de/ausstellungen/bpa-exhibition-2026",
+   "quelle": "https://www.kw-berlin.de/de/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "KOO JEONG A – OUSSSEAN",
+   "untertitel": null,
+   "beginn": "2026-10-17",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "KW Institute for Contemporary Art",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "KOO JEONG A",
+   "kuenstler": [
+    "KOO JEONG A"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": "Immaterielle Phänomene, Wahrnehmung, multisensorische Umgebungen",
+   "url": "https://www.kw-berlin.de/de/ausstellungen/koo-jeong-a-ousssean",
+   "quelle": "https://www.kw-berlin.de/de/ausstellungen/koo-jeong-a-ousssean",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

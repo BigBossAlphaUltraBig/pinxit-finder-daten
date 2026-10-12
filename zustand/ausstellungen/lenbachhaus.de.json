@@ -1,0 +1,170 @@
+{
+ "domain": "lenbachhaus.de",
+ "website": "http://www.lenbachhaus.de/",
+ "haeuser": "Städtische Galerie im Lenbachhaus und Kunstbau München",
+ "land": "DE",
+ "ids": "Q262234",
+ "status": "ok",
+ "seiten": [
+  "https://www.lenbachhaus.de/programm/ausstellungen"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "ÜBER DIE WELT HINAUS. DER BLAUE REITER",
+   "untertitel": null,
+   "beginn": "2026-03-10",
+   "ende": "2027-09-05",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Städtische Galerie im Lenbachhaus und Kunstbau München",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": true,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Der Blaue Reiter"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.lenbachhaus.de/programm/ausstellungen/detail/ueber-die-welt-hinaus-der-blaue-reiter",
+   "quelle": "https://www.lenbachhaus.de/programm/ausstellungen"
+  },
+  {
+   "titel": "SHIFTING THE SILENCE. DIE STILLE VERSCHIEBEN",
+   "untertitel": "Gegenwartskunst im Lenbachhaus",
+   "beginn": "2025-10-14",
+   "ende": "2027-01-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Städtische Galerie im Lenbachhaus und Kunstbau München",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.lenbachhaus.de/programm/ausstellungen/detail/shifting-the-silence",
+   "quelle": "https://www.lenbachhaus.de/programm/ausstellungen"
+  },
+  {
+   "titel": "JOSEPH BEUYS",
+   "untertitel": "PLASTIKEN UND ENVIRONMENTS",
+   "beginn": null,
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Städtische Galerie im Lenbachhaus und Kunstbau München",
+   "rang": 4,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Joseph Beuys"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.lenbachhaus.de/programm/ausstellungen/detail/joseph-beuys",
+   "quelle": "https://www.lenbachhaus.de/programm/ausstellungen"
+  },
+  {
+   "titel": "KUNST AM BAU",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Städtische Galerie im Lenbachhaus und Kunstbau München",
+   "rang": 6,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": "Kunst im öffentlichen Raum am Lenbachhaus-Gebäude",
+   "kuenstler": [],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.lenbachhaus.de/programm/ausstellungen/detail/kunst-am-bau",
+   "quelle": "https://www.lenbachhaus.de/programm/ausstellungen"
+  },
+  {
+   "titel": "MARIA JAREMA",
+   "untertitel": "REVOLUTIONÄRE KOMMISSARIN DER ABSTRAKTION",
+   "beginn": "2026-10-27",
+   "ende": "2027-04-25",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Städtische Galerie im Lenbachhaus und Kunstbau München",
+   "rang": 7,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Maria Jarema"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.lenbachhaus.de/programm/ausstellungen/detail/maria-jarema",
+   "quelle": "https://www.lenbachhaus.de/programm/ausstellungen"
+  },
+  {
+   "titel": "DIE \"BLAUEN REITERREITERINNEN\"",
+   "untertitel": null,
+   "beginn": "2027-10-12",
+   "ende": "2028-04-23",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Städtische Galerie im Lenbachhaus und Kunstbau München",
+   "rang": 8,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.lenbachhaus.de/programm/ausstellungen/detail/die-blauen-reiterreiterinnen",
+   "quelle": "https://www.lenbachhaus.de/programm/ausstellungen"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "WAS ZU VERSCHWINDEN DROHT, WIRD BILD.",
+   "untertitel": "MENSCH – NATUR – KUNST",
+   "beginn": null,
+   "ende": "2028-01-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "natur",
+   "haus": "Städtische Galerie im Lenbachhaus und Kunstbau München",
+   "rang": 3,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.lenbachhaus.de/programm/ausstellungen/detail/was-zu-verschwinden-droht-wird-bild",
+   "quelle": "https://www.lenbachhaus.de/programm/ausstellungen",
+   "grund": "keine Kunst (natur)"
+  },
+  {
+   "titel": "HISTORISCHE RÄUME DER VILLA FRANZ VON LENBACH",
+   "untertitel": "ehemalige Prachträume des Künstlers",
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "geschichte",
+   "haus": "Städtische Galerie im Lenbachhaus und Kunstbau München",
+   "rang": 5,
+   "epoche": "19_jahrhundert",
+   "gemeinfrei": true,
+   "schwerpunkt": "Historische Wohnräume des Malers Franz von Lenbach in der Villa",
+   "kuenstler": [
+    "Franz von Lenbach"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.lenbachhaus.de/programm/ausstellungen/detail/historische-raeume-der-villa-franz-von-lenbach",
+   "quelle": "https://www.lenbachhaus.de/programm/ausstellungen",
+   "grund": "keine Kunst (geschichte)"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

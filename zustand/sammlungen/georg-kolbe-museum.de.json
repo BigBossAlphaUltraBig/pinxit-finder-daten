@@ -1,0 +1,57 @@
+{
+ "domain": "georg-kolbe-museum.de",
+ "website": "http://www.georg-kolbe-museum.de",
+ "haeuser": [
+  {
+   "id": "way-72509827",
+   "name": "Georg-Kolbe-Museum"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Georg-Kolbe-Museum",
+   "titel": "Skulpturengarten",
+   "art": "dauerausstellung",
+   "epoche": "moderne",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Figürliche Plastik im 20. Jahrhundert",
+   "kuenstler": [
+    "Georg Kolbe"
+   ],
+   "url": "https://sammlung.georg-kolbe-museum.de/de/suche?term=Thema%3A%20Gartenplasti*",
+   "quelle": "https://sammlung.georg-kolbe-museum.de/"
+  },
+  {
+   "haus": "Georg-Kolbe-Museum",
+   "titel": "Sammlung in Bewegung",
+   "art": "sammlungspraesentation",
+   "epoche": "moderne",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Wechselnde Präsentationen im Schaudepot",
+   "kuenstler": [
+    "Georg Kolbe"
+   ],
+   "url": "https://sammlung.georg-kolbe-museum.de/",
+   "quelle": "https://sammlung.georg-kolbe-museum.de/"
+  },
+  {
+   "haus": "Georg-Kolbe-Museum",
+   "titel": "Zeichnungen",
+   "art": "dauerausstellung",
+   "epoche": "moderne",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Meisterhafte Zeichnungen mit Fokus auf Tanz",
+   "kuenstler": [
+    "Georg Kolbe"
+   ],
+   "url": "https://sammlung.georg-kolbe-museum.de/de/suche?term=&filter%5Bwork_type_fct%5D%5B0%5D=Zeichnung",
+   "quelle": "https://sammlung.georg-kolbe-museum.de/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://sammlung.georg-kolbe-museum.de/"
+ ],
+ "abgerufen": "2026-10-12T08:12:07",
+ "status": "ok"
+}

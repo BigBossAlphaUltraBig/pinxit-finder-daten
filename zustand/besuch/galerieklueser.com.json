@@ -1,0 +1,28 @@
+{
+ "domain": "galerieklueser.com",
+ "website": "https://galerieklueser.com",
+ "haeuser": {
+  "Galerie Klüser": {
+   "haus": "Galerie Klüser",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-14:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.galerieklueser.com/kontakt/",
+   "hinweis_oeffnung": "An gesetzlichen Feiertagen geschlossen",
+   "quelle": "https://www.galerieklueser.com/kontakt/"
+  }
+ },
+ "seiten": [
+  "https://www.galerieklueser.com/",
+  "https://www.galerieklueser.com/kontakt/"
+ ],
+ "abgerufen": "2026-10-12T07:35:21",
+ "status": "ok"
+}

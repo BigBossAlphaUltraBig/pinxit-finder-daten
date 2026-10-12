@@ -1,0 +1,28 @@
+{
+ "domain": "ebensperger.net",
+ "website": "https://ebensperger.net",
+ "haeuser": {
+  "Ebensperger": {
+   "haus": "Ebensperger",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://ebensperger.net/",
+   "hinweis_oeffnung": "Angaben nicht auf der bereitgestellten Seite vorhanden",
+   "quelle": "https://ebensperger.net/contact"
+  }
+ },
+ "seiten": [
+  "https://ebensperger.net/",
+  "https://ebensperger.net/contact"
+ ],
+ "abgerufen": "2026-10-12T07:33:54",
+ "status": "unvollständig"
+}

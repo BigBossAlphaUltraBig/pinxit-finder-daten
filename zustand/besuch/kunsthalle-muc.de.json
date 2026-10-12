@@ -1,0 +1,31 @@
+{
+ "domain": "kunsthalle-muc.de",
+ "website": "http://www.kunsthalle-muc.de/",
+ "haeuser": {
+  "Kunsthalle der Hypo-Kulturstiftung": {
+   "haus": "Kunsthalle der Hypo-Kulturstiftung",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "18 €",
+   "eintritt_ermaessigt": "50% Ermäßigung jeden Dienstag",
+   "frei_fuer": "Kinder 0–5 Jahre, Menschen mit Behinderungsgrad 100",
+   "hinweis_oeffnung": "AKTUELL WEGEN AUSSTELLUNGSUMBAU BIS 22.10.2026 GESCHLOSSEN. Ab 23.10.2026: täglich 10–20 Uhr. Ausnahmen: Am 24.12. geschlossen, 31.12. 10–17 Uhr. Jeden 3. Mittwoch bis 22 Uhr.",
+   "quelle": "https://www.kunsthalle-muc.de/",
+   "bessere_seite": "https://www.kunsthalle-muc.de/informationen/"
+  }
+ },
+ "seiten": [
+  "https://www.kunsthalle-muc.de/informationen/",
+  "https://www.kunsthalle-muc.de/"
+ ],
+ "abgerufen": "2026-10-12T08:07:02",
+ "status": "unvollständig"
+}

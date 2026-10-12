@@ -1,0 +1,41 @@
+{
+ "domain": "janssen-stg.de",
+ "website": "https://janssen-stg.de",
+ "haeuser": "Galerie St. Gertrude",
+ "land": "DE",
+ "ids": "galerie-galerie-st-gertrude-hamburg",
+ "status": "ok",
+ "seiten": [
+  "https://st-gertrude.de/exhibitions/",
+  "https://st-gertrude.de/exhibitions/lichte-welt-6830e7d9/?tab=e-n-tab-title-1766378471"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Lichte Welt",
+   "untertitel": null,
+   "beginn": "2026-09-03",
+   "ende": "2026-10-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie St. Gertrude",
+   "rang": 1,
+   "epoche": "moderne",
+   "einzelausstellung_von": "Raimund Girke",
+   "kuenstler": [
+    "Raimund Girke"
+   ],
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "anderer_ort": null,
+   "url": "https://st-gertrude.de/exhibitions/lichte-welt-6830e7d9/",
+   "eroeffnung": null,
+   "quelle": "https://st-gertrude.de/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

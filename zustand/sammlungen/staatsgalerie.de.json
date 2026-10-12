@@ -1,0 +1,35 @@
+{
+ "domain": "staatsgalerie.de",
+ "website": "http://www.staatsgalerie.de/index_e.php",
+ "haeuser": [
+  {
+   "id": "Q14917275",
+   "name": "Staatsgalerie Stuttgart"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Staatsgalerie Stuttgart",
+   "titel": "Die Sammlung",
+   "untertitel": "700 Jahre Kunstgeschichte: Gemälde, Skulpturen, Zeichnungen",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "kuenstler": [
+    "Lucas Cranach d. Ä.",
+    "Claude Monet",
+    "Rembrandt",
+    "Franz Marc",
+    "Wilhelm Lehmbruck"
+   ],
+   "url": "https://www.staatsgalerie.de/de/sammlung-digital",
+   "quelle": "https://www.staatsgalerie.de/de/sammlung-digital"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.staatsgalerie.de/de/sammlung-digital"
+ ],
+ "abgerufen": "2026-10-12T08:14:38",
+ "status": "ok"
+}

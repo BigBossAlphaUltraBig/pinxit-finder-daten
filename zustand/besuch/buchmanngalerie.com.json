@@ -1,0 +1,28 @@
+{
+ "domain": "buchmanngalerie.com",
+ "website": "http://www.buchmanngalerie.com",
+ "haeuser": {
+  "Buchmann Galerie": {
+   "haus": "Buchmann Galerie",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://buchmanngalerie.com/contact",
+   "hinweis_oeffnung": "Öffnungszeiten und Eintritt nicht auf Homepage verfügbar",
+   "quelle": "https://buchmanngalerie.com/contact"
+  }
+ },
+ "seiten": [
+  "https://buchmanngalerie.com/",
+  "https://buchmanngalerie.com/contact"
+ ],
+ "abgerufen": "2026-10-12T07:33:20",
+ "status": "ok"
+}

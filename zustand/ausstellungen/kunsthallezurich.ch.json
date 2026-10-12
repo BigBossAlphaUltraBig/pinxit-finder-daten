@@ -1,0 +1,89 @@
+{
+ "domain": "kunsthallezurich.ch",
+ "website": "http://www.kunsthallezurich.ch",
+ "haeuser": "Kunsthalle Zürich",
+ "land": "CH",
+ "ids": "Q1792425",
+ "status": "ok",
+ "seiten": [
+  "https://www.kunsthallezurich.ch/de/ausstellungen/",
+  "https://www.kunsthallezurich.ch/de/ausstellungen/10329-ayo-akingbade"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Ayo Akingbade",
+   "untertitel": "Crossing",
+   "beginn": "2026-09-26",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthalle Zürich",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Ayo Akingbade"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-25T18:00",
+   "einzelausstellung_von": null,
+   "url": "https://www.kunsthallezurich.ch/de/ausstellungen/10329-ayo-akingbade",
+   "quelle": "https://www.kunsthallezurich.ch/de/ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Crossing",
+   "untertitel": "Crossing",
+   "beginn": "2026-09-26",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Kunsthalle Zürich",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Ayo Akingbade",
+   "eroeffnung": "2026-09-25T18:00",
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "anderer_ort": null,
+   "kuenstler": [
+    "Ayo Akingbade"
+   ],
+   "url": "https://www.kunsthallezurich.ch/de/ausstellungen/10329-ayo-akingbade",
+   "quelle": "https://www.kunsthallezurich.ch/de/ausstellungen/10329-ayo-akingbade",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Caspar Heinemann",
+   "untertitel": "Tempting Fate",
+   "beginn": "2026-09-26",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthalle Zürich",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Caspar Heinemann"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-25T18:00",
+   "einzelausstellung_von": null,
+   "url": "https://www.kunsthallezurich.ch/de/ausstellungen/10330-caspar-heinemann",
+   "quelle": "https://www.kunsthallezurich.ch/de/ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

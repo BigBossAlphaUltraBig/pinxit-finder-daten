@@ -1,0 +1,29 @@
+{
+ "domain": "berlinische-galerie.de",
+ "website": "http://www.berlinische-galerie.de/",
+ "haeuser": {
+  "Berlinische Galerie": {
+   "haus": "Berlinische Galerie",
+   "oeffnungszeiten": {
+    "mo": "10:00-18:00",
+    "di": "geschlossen",
+    "mi": "10:00-18:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_regulaer": "14 €",
+   "eintritt_ermaessigt": "7 €",
+   "eintritt_immer_frei": false,
+   "frei_fuer": "unter 18 Jahren, Geflüchtete",
+   "hinweis_oeffnung": "Ab 9.10.2026 gelten die neuen Preise (14 € regulär, 7 € ermäßigt)",
+   "quelle": "https://berlinischegalerie.de/besuch/service/"
+  }
+ },
+ "seiten": [
+  "https://berlinischegalerie.de/besuch/service/"
+ ],
+ "abgerufen": "2026-10-08T18:05:46",
+ "status": "ok"
+}

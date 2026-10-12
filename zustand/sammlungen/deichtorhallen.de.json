@@ -1,0 +1,45 @@
+{
+ "domain": "deichtorhallen.de",
+ "website": "https://www.deichtorhallen.de/",
+ "haeuser": [
+  {
+   "id": "Q1183156",
+   "name": "Deichtorhallen"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Deichtorhallen",
+   "titel": "Sammlung F.C. Gundlach",
+   "art": "dauerausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "fotografie",
+   "untertitel": "Etwa 17.000 Fotografien, Schwerpunkt Menschenbild",
+   "kuenstler": [
+    "F.C. Gundlach",
+    "David Octavius Hill",
+    "Julia Margaret Cameron",
+    "Diane Arbus",
+    "Robert Frank"
+   ],
+   "url": "https://www.deichtorhallen.de/de/deichtorhallen/sammlungen/",
+   "quelle": "https://www.deichtorhallen.de/de/deichtorhallen/sammlungen/"
+  },
+  {
+   "haus": "Deichtorhallen",
+   "titel": "Sammlung Falckenberg",
+   "art": "dauerausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Über 2.200 Werke von 450 Künstlern, Counter Culture",
+   "url": "https://www.deichtorhallen.de/de/deichtorhallen/sammlungen/",
+   "quelle": "https://www.deichtorhallen.de/de/deichtorhallen/sammlungen/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.deichtorhallen.de/de/deichtorhallen/sammlungen/"
+ ],
+ "abgerufen": "2026-10-12T08:11:39",
+ "status": "ok"
+}

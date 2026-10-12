@@ -1,0 +1,29 @@
+{
+ "domain": "akbild.ac.at",
+ "website": "https://www.akbild.ac.at/",
+ "haeuser": {
+  "Akademie der bildenden Künste Wien": {
+   "haus": "Akademie der bildenden Künste Wien",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "Das Datum 2026-10-08 fällt nach den Sommerferien (bis 27.09.2026). Am 26.10.2026 ist Nationalfeiertag (geschlossen).",
+   "quelle": "https://www.akbild.ac.at/de",
+   "bessere_seite": "https://www.akbild.ac.at/de/universitaet/universitaetsbibliothek/oeffnungszeiten"
+  }
+ },
+ "seiten": [
+  "https://www.akbild.ac.at/de/universitaet/universitaetsbibliothek/oeffnungszeiten",
+  "https://www.akbild.ac.at/de/studium/stipendien-preise/akademiestipendien",
+  "https://www.akbild.ac.at/de"
+ ],
+ "abgerufen": "2026-10-08T18:04:59",
+ "status": "unvollständig"
+}

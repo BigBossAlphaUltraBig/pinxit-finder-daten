@@ -1,0 +1,28 @@
+{
+ "domain": "galeriewinter.at",
+ "website": "https://www.galeriewinter.at",
+ "haeuser": {
+  "Galerie Hubert Winter": {
+   "haus": "Galerie Hubert Winter",
+   "oeffnungszeiten": {
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-14:00",
+    "mo": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.galeriewinter.at/kontakt/",
+   "hinweis_oeffnung": "Öffnungszeiten nicht auf Startseite angegeben",
+   "quelle": "https://www.galeriewinter.at/kontakt/"
+  }
+ },
+ "seiten": [
+  "https://www.galeriewinter.at/",
+  "https://www.galeriewinter.at/kontakt/"
+ ],
+ "abgerufen": "2026-10-12T07:36:02",
+ "status": "ok"
+}

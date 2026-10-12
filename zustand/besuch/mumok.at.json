@@ -1,0 +1,28 @@
+{
+ "domain": "mumok.at",
+ "website": "https://www.mumok.at/en",
+ "haeuser": {
+  "Museum Moderner Kunst Stiftung Ludwig Wien": {
+   "haus": "Museum Moderner Kunst Stiftung Ludwig Wien",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "€ 18,–",
+   "eintritt_ermaessigt": "€ 15,–",
+   "frei_fuer": "unter 19 Jahren",
+   "quelle": "https://www.mumok.at/en/visit/tickets-opening-hours"
+  }
+ },
+ "seiten": [
+  "https://www.mumok.at/en/visit/tickets-opening-hours"
+ ],
+ "abgerufen": "2026-10-08T18:06:44",
+ "status": "ok"
+}

@@ -1,0 +1,30 @@
+{
+ "domain": "hauskunstmitte.de",
+ "website": "https://www.hauskunstmitte.de/",
+ "haeuser": {
+  "Haus Kunst Mitte": {
+   "haus": "Haus Kunst Mitte",
+   "oeffnungszeiten": {
+    "mo": "12:00-18:00",
+    "di": "geschlossen",
+    "mi": "geschlossen",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-18:00",
+    "so": "12:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "8 Euro",
+   "eintritt_ermaessigt": "5 Euro",
+   "frei_fuer": "bis 18 Jahre, Geflüchtete",
+   "frei_wann": "jeden Sonntag",
+   "hinweis_oeffnung": "An Feiertagen geschlossen (außer 8. März)",
+   "quelle": "https://www.hauskunstmitte.de/besuch"
+  }
+ },
+ "seiten": [
+  "https://www.hauskunstmitte.de/besuch"
+ ],
+ "abgerufen": "2026-10-12T08:05:54",
+ "status": "ok"
+}

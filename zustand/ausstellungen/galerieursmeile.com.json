@@ -1,0 +1,158 @@
+{
+ "domain": "galerieursmeile.com",
+ "website": "https://www.galerieursmeile.com/exhibitions/current",
+ "haeuser": "Galerie Urs Meile (Ankerstrasse)",
+ "land": "CH",
+ "ids": "galerie-galerie-urs-meile-ankerstrasse-zuerich",
+ "status": "ok",
+ "seiten": [
+  "https://www.galerieursmeile.com/exhibitions/current",
+  "https://www.galerieursmeile.com/exhibitions/upcoming"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Martin Disler",
+   "untertitel": "Galerie Urs Meile, Zurich Ankerstrasse",
+   "beginn": "2026-11-19",
+   "ende": "2027-01-09",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Urs Meile (Ankerstrasse)",
+   "rang": 2,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Martin Disler"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": "2026-11-19T18:00",
+   "einzelausstellung_von": "Martin Disler",
+   "url": "https://www.galerieursmeile.com/exhibitions/upcoming",
+   "quelle": "https://www.galerieursmeile.com/exhibitions/upcoming",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Horsehair takes a long time to burn",
+   "untertitel": null,
+   "beginn": "2026-09-10",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Urs Meile (Ankerstrasse)",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Rebekka Steiger"
+   ],
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-10T18:00",
+   "url": "https://www.galerieursmeile.com/exhibitions/event/horsehair",
+   "einzelausstellung_von": "Rebekka Steiger",
+   "quelle": "https://www.galerieursmeile.com/exhibitions/current",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Mount of Time",
+   "untertitel": "null",
+   "beginn": "2026-08-29",
+   "ende": "2026-10-18",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Urs Meile (Ankerstrasse)",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Cai Dongdong"
+   ],
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "anderer_ort": "Beijing",
+   "eroeffnung": "2026-08-29T16:00",
+   "url": "https://www.galerieursmeile.com/exhibitions/event/cai-dongdong-2",
+   "einzelausstellung_von": "Cai Dongdong",
+   "quelle": "https://www.galerieursmeile.com/exhibitions/current",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Beijing"
+  },
+  {
+   "titel": "Landscape As Body",
+   "untertitel": "Landscape As Body",
+   "beginn": "2026-08-29",
+   "ende": "2026-10-18",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Urs Meile (Ankerstrasse)",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Han Yong"
+   ],
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "anderer_ort": "Beijing",
+   "eroeffnung": "2026-08-29T16:00",
+   "url": "https://www.galerieursmeile.com/exhibitions/event/LandscapeAsBody",
+   "einzelausstellung_von": "Han Yong",
+   "quelle": "https://www.galerieursmeile.com/exhibitions/current",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Beijing"
+  },
+  {
+   "titel": "Holding Things Together",
+   "untertitel": "Holding Things Together",
+   "beginn": "2026-09-17",
+   "ende": "2026-11-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Urs Meile (Ankerstrasse)",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Loredana Sperini"
+   ],
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "anderer_ort": "Rämistrasse Zürich",
+   "eroeffnung": "2026-09-17T18:00",
+   "url": "https://www.galerieursmeile.com/exhibitions/event/holdingthingstogether",
+   "einzelausstellung_von": "Loredana Sperini",
+   "quelle": "https://www.galerieursmeile.com/exhibitions/current",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Rämistrasse Zürich"
+  },
+  {
+   "titel": "Time Out of Joint",
+   "untertitel": "Group Exhibition",
+   "beginn": "2026-10-31",
+   "ende": "2026-12-13",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Urs Meile (Ankerstrasse)",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Martin Disler"
+   ],
+   "anderer_ort": "Beijing",
+   "eroeffnung": "2026-10-31T16:00",
+   "einzelausstellung_von": null,
+   "url": "https://www.galerieursmeile.com/exhibitions/upcoming",
+   "quelle": "https://www.galerieursmeile.com/exhibitions/upcoming",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Beijing"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

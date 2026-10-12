@@ -1,0 +1,29 @@
+{
+ "domain": "kunstmuseumbasel.ch",
+ "website": "https://kunstmuseumbasel.ch/",
+ "haeuser": {
+  "Kunstmuseum Basel": {
+   "haus": "Kunstmuseum Basel",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-18:00",
+    "mi": "10:00-20:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "25 CHF",
+   "eintritt_ermaessigt": "12 CHF",
+   "frei_fuer": "Geflüchtete und Asylsuchende (Basel-Stadt/Basellandschaft)",
+   "frei_wann": "jeden 1. Sonntag im Monat und Di/Do/Fr 17-18 Uhr, Mi 17-20 Uhr",
+   "quelle": "https://kunstmuseumbasel.ch/de/besuch/besuch-planen"
+  }
+ },
+ "seiten": [
+  "https://kunstmuseumbasel.ch/de/besuch/besuch-planen"
+ ],
+ "abgerufen": "2026-10-12T08:07:18",
+ "status": "ok"
+}

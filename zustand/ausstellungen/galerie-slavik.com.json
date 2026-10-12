@@ -1,0 +1,44 @@
+{
+ "domain": "galerie-slavik.com",
+ "website": "https://www.galerie-slavik.com",
+ "haeuser": "Galerie Slavik",
+ "land": "AT",
+ "ids": "galerie-galerie-slavik-wien",
+ "status": "ok",
+ "seiten": [
+  "https://www.galerie-slavik.com/ausstellungen/",
+  "https://www.galerie-slavik.com/ausstellungen/aktuelle-ausstellungen/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Material Matters",
+   "untertitel": "",
+   "beginn": "2026-09-09",
+   "ende": "2026-10-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Slavik",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "anderer_ort": null,
+   "beginn_text": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Ramon Puig Cuyàs",
+    "Silvia Walz",
+    "Annamaria Zanella"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://www.galerie-slavik.com/ausstellungen/aktuelle-ausstellungen/",
+   "quelle": "https://www.galerie-slavik.com/ausstellungen/aktuelle-ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

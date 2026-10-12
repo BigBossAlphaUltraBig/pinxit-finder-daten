@@ -1,0 +1,26 @@
+{
+ "domain": "photobastei.ch",
+ "website": "https://www.photobastei.ch/",
+ "haeuser": {
+  "Photobastei": {
+   "haus": "Photobastei",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "12:00-18:00",
+    "do": "12:00-21:00",
+    "fr": "12:00-21:00",
+    "sa": "12:00-21:00",
+    "so": "12:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://portal.photobastei.ch/homepage",
+   "quelle": "https://portal.photobastei.ch/homepage"
+  }
+ },
+ "seiten": [
+  "https://portal.photobastei.ch/homepage"
+ ],
+ "abgerufen": "2026-10-12T08:09:50",
+ "status": "ok"
+}

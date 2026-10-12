@@ -1,0 +1,33 @@
+{
+ "domain": "museum-gestaltung.ch",
+ "website": "http://www.museum-gestaltung.ch",
+ "haeuser": {
+  "Museum für Gestaltung": {
+   "haus": "Museum für Gestaltung",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-17:00",
+    "mi": "10:00-17:00",
+    "do": "10:00-20:00",
+    "fr": "10:00-17:00",
+    "sa": "10:00-17:00",
+    "so": "10:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "CHF 15",
+   "eintritt_ermaessigt": "CHF 10",
+   "frei_fuer": "unter 20 Jahren",
+   "frei_wann": "jeden Donnerstag ab 17:00",
+   "hinweis_oeffnung": "Museum hat drei Standorte in Zürich",
+   "bessere_seite": "https://museum-gestaltung.ch/de/besuch",
+   "quelle": "https://museum-gestaltung.ch/de/besuch/ausstellungsstrasse"
+  }
+ },
+ "seiten": [
+  "https://museum-gestaltung.ch/de/besuch",
+  "https://museum-gestaltung.ch/de",
+  "https://museum-gestaltung.ch/de/besuch/ausstellungsstrasse"
+ ],
+ "abgerufen": "2026-10-12T08:09:10",
+ "status": "ok"
+}

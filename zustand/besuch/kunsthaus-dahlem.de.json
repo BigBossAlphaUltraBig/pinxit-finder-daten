@@ -1,0 +1,28 @@
+{
+ "domain": "kunsthaus-dahlem.de",
+ "website": "http://kunsthaus-dahlem.de",
+ "haeuser": {
+  "Kunsthaus Dahlem": {
+   "haus": "Kunsthaus Dahlem",
+   "oeffnungszeiten": {
+    "mo": "11:00-17:00",
+    "di": "geschlossen",
+    "mi": "11:00-17:00",
+    "do": "11:00-17:00",
+    "fr": "11:00-17:00",
+    "sa": "11:00-17:00",
+    "so": "11:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "6,– €",
+   "eintritt_ermaessigt": "4,– €",
+   "frei_fuer": "Kinder und Jugendliche bis 18 Jahre",
+   "quelle": "https://kunsthaus-dahlem.de/besuch/oeffnung-preise/"
+  }
+ },
+ "seiten": [
+  "https://kunsthaus-dahlem.de/besuch/oeffnung-preise/"
+ ],
+ "abgerufen": "2026-10-08T18:06:14",
+ "status": "ok"
+}

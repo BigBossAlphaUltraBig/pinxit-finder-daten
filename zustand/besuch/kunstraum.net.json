@@ -1,0 +1,26 @@
+{
+ "domain": "kunstraum.net",
+ "website": "https://www.kunstraum.net/",
+ "haeuser": {
+  "Kunstraum Niederösterreich": {
+   "haus": "Kunstraum Niederösterreich",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "11:00-19:00",
+    "mi": "11:00-19:00",
+    "do": "11:00-19:00",
+    "fr": "11:00-19:00",
+    "sa": "11:00-15:00",
+    "so": "geschlossen"
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "Mo, So und Feiertag geschlossen. Öffnungszeiten während der Ausstellung.",
+   "quelle": "https://www.kunstraum.net/de/besuch"
+  }
+ },
+ "seiten": [
+  "https://www.kunstraum.net/de/besuch"
+ ],
+ "abgerufen": "2026-10-08T18:06:17",
+ "status": "ok"
+}

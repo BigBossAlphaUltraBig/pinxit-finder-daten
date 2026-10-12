@@ -1,0 +1,38 @@
+{
+ "domain": "annex14.ch",
+ "website": "https://www.annex14.ch",
+ "haeuser": "annex14",
+ "land": "CH",
+ "ids": "galerie-annex14-zuerich",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://annex14.com/exhibitions",
+  "https://annex14.com/assets/exhibition//"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "'Groundhog Day'",
+   "untertitel": null,
+   "beginn": "2026-10-24",
+   "ende": "2026-12-20",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "annex14",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Dominik Stauch"
+   ],
+   "einzelausstellung_von": "Dominik Stauch",
+   "anderer_ort": "annex14bis, Schlossmattweg 7, Zollikofen/Bern",
+   "eroeffnung": "2026-10-24",
+   "url": null,
+   "quelle": "https://annex14.com/exhibitions",
+   "grund": "anderer Ort: annex14bis, Schlossmattweg 7, Zollikofen/Bern"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

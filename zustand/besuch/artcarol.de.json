@@ -1,0 +1,28 @@
+{
+ "domain": "artcarol.de",
+ "website": "https://artcarol.de",
+ "haeuser": {
+  "Galerie Carol Johnssen": {
+   "haus": "Galerie Carol Johnssen",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "13:00-18:00",
+    "mi": "13:00-18:00",
+    "do": "13:00-18:00",
+    "fr": "13:00-18:00",
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.artcarol.de/contact",
+   "quelle": "https://www.artcarol.de/contact",
+   "hinweis_oeffnung": "nach Vereinbarung möglich"
+  }
+ },
+ "seiten": [
+  "https://www.artcarol.de/",
+  "https://www.artcarol.de/contact"
+ ],
+ "abgerufen": "2026-10-12T07:32:45",
+ "status": "unvollständig"
+}

@@ -1,0 +1,156 @@
+{
+ "domain": "deichtorhallen.de~sammlung-falckenberg",
+ "website": "https://www.deichtorhallen.de/sammlung-falckenberg",
+ "haeuser": "Sammlung Falckenberg",
+ "land": "DE",
+ "ids": "nachtrag-sammlung-falckenberg",
+ "status": "ok",
+ "seiten": [
+  "https://www.deichtorhallen.de/de/ausstellungen",
+  "https://www.deichtorhallen.de/de/ausstellungen/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Eyes for You",
+   "untertitel": "Eyes for You",
+   "kuenstler": [
+    "Joyce Pensato"
+   ],
+   "beginn": "2026-10-10",
+   "ende": "2027-04-04",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Sammlung Falckenberg",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "url": "https://www.deichtorhallen.de/de/ausstellungen/joyce-pensato/",
+   "eroeffnung": null,
+   "quelle": "https://www.deichtorhallen.de/de/ausstellungen",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Rotting from Within",
+   "untertitel": "PHOXXI – Haus der Photographie temporär",
+   "kuenstler": [
+    "Abdulhamid Kircher"
+   ],
+   "beginn": "2026-06-05",
+   "ende": "2026-11-01",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Sammlung Falckenberg",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": "PHOXXI – Haus der Photographie temporär",
+   "url": "https://www.deichtorhallen.de/de/ausstellungen/abdulhamid-kircher/",
+   "eroeffnung": null,
+   "quelle": "https://www.deichtorhallen.de/de/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: PHOXXI – Haus der Photographie temporär"
+  },
+  {
+   "titel": "Residual Sky under Contamination",
+   "untertitel": "PHOXXI – Haus der Photographie temporär",
+   "kuenstler": [
+    "Akosua Viktoria Adu-Sanyah"
+   ],
+   "beginn": "2026-06-05",
+   "ende": "2026-11-01",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Sammlung Falckenberg",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": "PHOXXI – Haus der Photographie temporär",
+   "url": "https://www.deichtorhallen.de/de/ausstellungen/akosua-viktoria-adu-sanyah/",
+   "eroeffnung": null,
+   "quelle": "https://www.deichtorhallen.de/de/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: PHOXXI – Haus der Photographie temporär"
+  },
+  {
+   "titel": "Hito Steyerl – Deine Mutta macht Show",
+   "untertitel": "Deine Mutta macht Show",
+   "kuenstler": [
+    "Hito Steyerl"
+   ],
+   "beginn": "2026-10-30",
+   "ende": "2027-03-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Sammlung Falckenberg",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": "Halle für aktuelle Kunst",
+   "url": "https://www.deichtorhallen.de/de/ausstellungen/hito-steyerl/",
+   "eroeffnung": "2026-10-29T19:00",
+   "quelle": "https://www.deichtorhallen.de/de/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Halle für aktuelle Kunst"
+  },
+  {
+   "titel": "Tomorrow's Ghosts – (Zeit-)Geister des Fotografischen",
+   "untertitel": "Expanded Horizons – Neue fotografische Perspektiven",
+   "kuenstler": [
+    "Teresa Fischer",
+    "Lisa Mazenauer",
+    "Cedric Zellweger",
+    "Mai Do",
+    "Pavle Nikolić",
+    "Anastasiia Batishcheva",
+    "Nora Handsley",
+    "Vincent Völker"
+   ],
+   "beginn": "2026-11-20",
+   "ende": "2027-04-04",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Sammlung Falckenberg",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": "PHOXXI – Haus der Photographie temporär",
+   "url": "https://www.deichtorhallen.de/de/ausstellungen/expanded-horizons/",
+   "eroeffnung": null,
+   "quelle": "https://www.deichtorhallen.de/de/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: PHOXXI – Haus der Photographie temporär"
+  },
+  {
+   "titel": "Deine Mudda macht Show",
+   "untertitel": "Hito Steyerl – Deine Mudda macht Show",
+   "beginn": "2026-10-30",
+   "ende": "2027-03-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Sammlung Falckenberg",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Hito Steyerl",
+   "kuenstler": [
+    "Hito Steyerl"
+   ],
+   "anderer_ort": "Halle für aktuelle Kunst",
+   "eroeffnung": "2026-10-29T19:00",
+   "url": "https://www.deichtorhallen.de/de/ausstellungen/hito-steyerl/",
+   "quelle": "https://www.deichtorhallen.de/de/ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Halle für aktuelle Kunst"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

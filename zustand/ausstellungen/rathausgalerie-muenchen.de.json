@@ -1,0 +1,60 @@
+{
+ "domain": "rathausgalerie-muenchen.de",
+ "website": "https://www.rathausgalerie-muenchen.de/de",
+ "haeuser": "Rathausgalerie | Kunsthalle",
+ "land": "DE",
+ "ids": "node/1132414558",
+ "status": "ok",
+ "seiten": [
+  "https://www.rathausgalerie-muenchen.de/de/ausstellungen",
+  "https://www.rathausgalerie-muenchen.de/de/foerderpreis/plakatausstellung-orte"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Orte",
+   "untertitel": "Plakatausstellung",
+   "beginn": "2026-10-02",
+   "ende": "2026-11-12",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Rathausgalerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "anderer_ort": null,
+   "url": "https://www.rathausgalerie-muenchen.de/de/foerderpreis/plakatausstellung-orte",
+   "quelle": "https://www.rathausgalerie-muenchen.de/de/foerderpreis/plakatausstellung-orte",
+   "detail_geprueft": "2026-10-12",
+   "standort": "Rathausgalerie / Kunsthalle"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "FELD",
+   "untertitel": "Sichtbar. Verknüpft. Frei.",
+   "beginn": "2026-05-16",
+   "ende": "2026-09-20",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Rathausgalerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://www.rathausgalerie-muenchen.de/de/veranstaltung/feld",
+   "kuenstler": [
+    "Philipp Messner"
+   ],
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "quelle": "https://www.rathausgalerie-muenchen.de/de/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

@@ -1,0 +1,65 @@
+{
+ "domain": "shahinzarinbal.com",
+ "website": "https://shahinzarinbal.com",
+ "haeuser": "Shahin Zarinbal",
+ "land": "DE",
+ "ids": "galerie-shahin-zarinbal-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://shahinzarinbal.com/exhibitions/",
+  "https://shahinzarinbal.com/exhibitions-2026-sinaida-michalskaja/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Cat on tree",
+   "untertitel": null,
+   "beginn": "2026-09-11",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Shahin Zarinbal",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Sinaida Michalskaja",
+   "kuenstler": [
+    "Sinaida Michalskaja"
+   ],
+   "url": "https://shahinzarinbal.com/exhibitions-2026-sinaida-michalskaja/",
+   "quelle": "https://shahinzarinbal.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Study of a Lion",
+   "untertitel": "null",
+   "beginn": "2026-07-03",
+   "ende": "2026-08-08",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Shahin Zarinbal",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Miriam Stoney",
+   "kuenstler": [
+    "Miriam Stoney"
+   ],
+   "url": "https://shahinzarinbal.com/exhibitions-2026-miriam-stoney/",
+   "quelle": "https://shahinzarinbal.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

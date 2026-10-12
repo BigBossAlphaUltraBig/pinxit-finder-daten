@@ -1,0 +1,25 @@
+{
+ "domain": "kunstraumkreuzberg.de",
+ "website": "https://www.kunstraumkreuzberg.de/",
+ "haeuser": {
+  "Kunstraum Kreuzberg/Bethanien": {
+   "haus": "Kunstraum Kreuzberg/Bethanien",
+   "oeffnungszeiten": {
+    "mo": "10:00-20:00",
+    "di": "10:00-20:00",
+    "mi": "10:00-20:00",
+    "do": "10:00-20:00",
+    "fr": "10:00-20:00",
+    "sa": "10:00-20:00",
+    "so": "10:00-20:00"
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://kunstraumkreuzberg.de/english-info/"
+  }
+ },
+ "seiten": [
+  "https://kunstraumkreuzberg.de/english-info/"
+ ],
+ "abgerufen": "2026-10-12T08:07:36",
+ "status": "ok"
+}

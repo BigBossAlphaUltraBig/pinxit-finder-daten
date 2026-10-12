@@ -1,0 +1,47 @@
+{
+ "domain": "mmk.art",
+ "website": "https://www.mmk.art",
+ "haeuser": {
+  "Museum für Moderne Kunst": {
+   "haus": "Museum für Moderne Kunst",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-18:00",
+    "mi": "10:00-20:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "Derzeit geschlossen wegen Brandschutzoptimierung",
+   "bessere_seite": "https://www.mmk.art/de/visit/museum",
+   "quelle": "https://www.mmk.art/de/visit/tower",
+   "eintritt_regulaer": "8 €",
+   "eintritt_ermaessigt": "4 €",
+   "frei_fuer": "unter 18 Jahren, Freunde des MMK, ICOM-Karteninhaber, Museumsufer Card-Inhaber, Studierende bestimmter Hochschulen, Lehrer mit Schulklasse, geflüchtete Menschen",
+   "frei_wann": "jeden letzten Samstag im Monat (SaTOURday)"
+  },
+  "Tower MMK": {
+   "haus": "Tower MMK",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-18:00",
+    "mi": "10:00-20:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.mmk.art/de/visit/tower",
+   "quelle": "https://www.mmk.art/de/visit"
+  }
+ },
+ "seiten": [
+  "https://www.mmk.art/de/visit",
+  "https://www.mmk.art/de/visit/tower"
+ ],
+ "abgerufen": "2026-10-12T08:08:37",
+ "status": "ok"
+}

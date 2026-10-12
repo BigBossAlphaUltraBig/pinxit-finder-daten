@@ -1,0 +1,29 @@
+{
+ "domain": "dantendorfer.art",
+ "website": "https://www.dantendorfer.art",
+ "haeuser": {
+  "Galerie Dantendorfer": {
+   "haus": "Galerie Dantendorfer",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.dantendorfer.art/startseite/kontakt/",
+   "quelle": "https://www.dantendorfer.art/startseite/kontakt/",
+   "hinweis_oeffnung": "Öffnungszeiten auf Anfrage"
+  }
+ },
+ "seiten": [
+  "https://www.dantendorfer.art/",
+  "https://www.dantendorfer.art/startseite/ueber-uns/",
+  "https://www.dantendorfer.art/startseite/kontakt/"
+ ],
+ "abgerufen": "2026-10-12T07:33:46",
+ "status": "unvollständig"
+}

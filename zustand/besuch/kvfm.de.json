@@ -1,0 +1,29 @@
+{
+ "domain": "kvfm.de",
+ "website": "https://kvfm.de",
+ "haeuser": {
+  "Kunstverein Familie Montez": {
+   "haus": "Kunstverein Familie Montez",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "13:00-18:00",
+    "mi": "13:00-18:00",
+    "do": "13:00-18:00",
+    "fr": "13:00-18:00",
+    "sa": "13:00-18:00",
+    "so": "13:00-18:00"
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://kvfm.de/kontakt/",
+   "quelle": "https://kvfm.de/kontakt/",
+   "hinweis_oeffnung": "Oktober bis März; April bis September: 13:00-19:00 Uhr"
+  }
+ },
+ "seiten": [
+  "https://kvfm.de/",
+  "https://kvfm.de/familie-montez/",
+  "https://kvfm.de/kontakt/"
+ ],
+ "abgerufen": "2026-10-12T08:07:50",
+ "status": "ok"
+}

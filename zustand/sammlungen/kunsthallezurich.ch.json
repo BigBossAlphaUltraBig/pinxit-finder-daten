@@ -1,0 +1,17 @@
+{
+ "domain": "kunsthallezurich.ch",
+ "website": "http://www.kunsthallezurich.ch",
+ "haeuser": [
+  {
+   "id": "Q1792425",
+   "name": "Kunsthalle Zürich"
+  }
+ ],
+ "sammlungen": [],
+ "keine_sammlung": true,
+ "seiten": [
+  "https://www.kunsthallezurich.ch/de/"
+ ],
+ "abgerufen": "2026-10-08T22:19:16",
+ "status": "keine Sammlung"
+}

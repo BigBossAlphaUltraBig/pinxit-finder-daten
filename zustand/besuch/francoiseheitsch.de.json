@@ -1,0 +1,28 @@
+{
+ "domain": "francoiseheitsch.de",
+ "website": "https://francoiseheitsch.de",
+ "haeuser": {
+  "Françoise Heitsch": {
+   "haus": "Françoise Heitsch",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "14:00-19:00",
+    "do": "14:00-19:00",
+    "fr": "14:00-19:00",
+    "sa": "12:00-17:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.francoiseheitsch.de/contact",
+   "quelle": "https://www.francoiseheitsch.de/contact",
+   "hinweis_oeffnung": "Geschlossen während bayerischer Schulferien; vor Ausstellungseröffnungen abweichende Zeiten"
+  }
+ },
+ "seiten": [
+  "https://www.francoiseheitsch.de/",
+  "https://www.francoiseheitsch.de/contact"
+ ],
+ "abgerufen": "2026-10-12T07:34:24",
+ "status": "unvollständig"
+}

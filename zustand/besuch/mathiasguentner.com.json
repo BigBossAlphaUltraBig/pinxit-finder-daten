@@ -1,0 +1,26 @@
+{
+ "domain": "mathiasguentner.com",
+ "website": "https://mathiasguentner.com",
+ "haeuser": {
+  "Galerie Mathias Güntner": {
+   "haus": "Galerie Mathias Güntner",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-15:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "Hamburg: Mi–Fr 12–18 Uhr, Sa 12–15 Uhr; Berlin: Do–Sa 12–18 Uhr",
+   "quelle": "https://www.mathiasguentner.com/"
+  }
+ },
+ "seiten": [
+  "https://www.mathiasguentner.com/"
+ ],
+ "abgerufen": "2026-10-12T07:37:11",
+ "status": "unvollständig"
+}

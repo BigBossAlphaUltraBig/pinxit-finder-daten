@@ -1,0 +1,29 @@
+{
+ "domain": "staedelmuseum.de",
+ "website": "https://www.staedelmuseum.de/",
+ "haeuser": {
+  "Städelsches Kunstinstitut": {
+   "haus": "Städelsches Kunstinstitut",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-21:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_regulaer": "19 €",
+   "eintritt_ermaessigt": "17 €",
+   "eintritt_immer_frei": false,
+   "frei_fuer": "unter 12 Jahren",
+   "frei_wann": "dienstags ab 15:00 Uhr (10 € Einheitspreis für alle)",
+   "quelle": "https://www.staedelmuseum.de/de/besuch"
+  }
+ },
+ "seiten": [
+  "https://www.staedelmuseum.de/de/besuch"
+ ],
+ "abgerufen": "2026-10-08T18:07:19",
+ "status": "ok"
+}

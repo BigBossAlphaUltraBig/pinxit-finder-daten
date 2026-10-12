@@ -1,0 +1,67 @@
+{
+ "domain": "ebensperger.net",
+ "website": "https://ebensperger.net",
+ "haeuser": "Ebensperger",
+ "land": "DE",
+ "ids": "galerie-ebensperger-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://ebensperger.net/exhibitions",
+  "https://ebensperger.net/schmidlehner-cuivre"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Chicks on Speed",
+   "untertitel": "RRRRRREMIX - RESIDENCY - REPEAT",
+   "kuenstler": [
+    "Chicks on Speed"
+   ],
+   "beginn": "2026-09-10",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Ebensperger",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Chicks on Speed",
+   "url": "https://ebensperger.net/cchicks-on-speed-rrrrrremix-residency-repeat/",
+   "quelle": "https://ebensperger.net/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "standort": "EBENSPERGER",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Bonnie Camplin Archive (BCA)",
+   "untertitel": "null",
+   "kuenstler": [
+    "Bonnie Camplin"
+   ],
+   "beginn": "2026-09-10",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Ebensperger",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-13",
+   "einzelausstellung_von": "Bonnie Camplin",
+   "url": "https://ebensperger.net/bonnie-camplin/",
+   "quelle": "https://ebensperger.net/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "standort": "EBENSPERGER",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

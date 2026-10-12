@@ -1,0 +1,29 @@
+{
+ "domain": "hek.ch",
+ "website": "https://www.hek.ch",
+ "haeuser": {
+  "HeK (Haus der elektronischen Künste Basel)": {
+   "haus": "HeK (Haus der elektronischen Künste Basel)",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "12:00-18:00",
+    "do": "12:00-20:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-17:00",
+    "so": "12:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "12 CHF",
+   "eintritt_ermaessigt": "8 CHF",
+   "frei_fuer": "Kinder bis und mit 16 Jahren, Studierende von Kunsthochschulen, Begleitpersonen von Menschen mit Behinderungen, Lehrpersonen zur Unterrichtsvorbereitung",
+   "frei_wann": "jeden ersten Sonntag im Monat (Happy Sunday), Mittwoch bis Freitag 17:00-18:00 (Happy Hour)",
+   "quelle": "https://hek.ch/besuchen/"
+  }
+ },
+ "seiten": [
+  "https://hek.ch/besuchen/"
+ ],
+ "abgerufen": "2026-10-12T08:05:59",
+ "status": "ok"
+}

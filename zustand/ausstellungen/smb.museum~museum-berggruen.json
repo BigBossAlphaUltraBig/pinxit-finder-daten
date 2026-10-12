@@ -1,0 +1,37 @@
+{
+ "domain": "smb.museum~museum-berggruen",
+ "website": "https://www.smb.museum/museen-einrichtungen/museum-berggruen/home/",
+ "haeuser": "Museum Berggruen",
+ "land": "DE",
+ "ids": "nachtrag-museum-berggruen",
+ "status": "ok",
+ "seiten": [
+  "https://www.smb.museum/ausstellungen/aktuell/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Rubens, Jordaens, van Dyck",
+   "untertitel": "Flämische Meisterzeichnungen",
+   "beginn": "2026-10-10",
+   "ende": "2027-01-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Berggruen",
+   "rang": 1,
+   "epoche": "alte_meister",
+   "gemeinfrei": true,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Peter Paul Rubens",
+    "Jacob Jordaens",
+    "Anthony van Dyck"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.smb.museum/ausstellungen/detail/rubens-jordaens-van-dyck/",
+   "quelle": "https://www.smb.museum/ausstellungen/aktuell/"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

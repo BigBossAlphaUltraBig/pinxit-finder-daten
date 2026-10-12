@@ -1,0 +1,26 @@
+{
+ "domain": "sabineknust.com",
+ "website": "https://sabineknust.com",
+ "haeuser": {
+  "Knust Kunz Gallery Editions": {
+   "haus": "Knust Kunz Gallery Editions",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-15:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://sabineknust.com/gallery/",
+   "quelle": "https://sabineknust.com/exhibitions/never-quit-on-a-bad-day"
+  }
+ },
+ "seiten": [
+  "https://sabineknust.com/exhibitions/never-quit-on-a-bad-day"
+ ],
+ "abgerufen": "2026-10-12T07:38:15",
+ "status": "ok"
+}

@@ -1,0 +1,63 @@
+{
+ "domain": "sam-basel.org",
+ "website": "http://www.sam-basel.org/",
+ "haeuser": "Schweizerisches Architekturmuseum",
+ "land": "CH",
+ "ids": "Q692040",
+ "status": "ok",
+ "seiten": [
+  "https://www.sam-basel.org/de/ausstellungen/aktuell",
+  "https://www.sam-basel.org/de/veranstaltungen/rundgang-duch-die-ausstellung-im-rahmen-von-die-architekturtage-2026"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "PRACTICE",
+   "untertitel": "Tony Fretton",
+   "beginn": "2026-09-19",
+   "ende": "2027-01-03",
+   "art": "wechselausstellung",
+   "fachgebiet": "architektur",
+   "haus": "Schweizerisches Architekturmuseum",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Tony Fretton",
+   "kuenstler": [
+    "Tony Fretton"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.sam-basel.org/de/ausstellungen/aktuell",
+   "quelle": "https://www.sam-basel.org/de/ausstellungen/aktuell",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Tony Fretton: Practice",
+   "untertitel": "Practice",
+   "beginn": "2026-10-18",
+   "ende": "2026-10-18",
+   "art": "veranstaltung",
+   "fachgebiet": "architektur",
+   "haus": "Schweizerisches Architekturmuseum",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Tony Fretton",
+   "kuenstler": [
+    "Tony Fretton"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.sam-basel.org/de/veranstaltungen/rundgang-duch-die-ausstellung-im-rahmen-von-die-architekturtage-2026",
+   "quelle": "https://www.sam-basel.org/de/veranstaltungen/rundgang-duch-die-ausstellung-im-rahmen-von-die-architekturtage-2026",
+   "eintritt": "CHF 12.–, erm. CHF 8.–",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

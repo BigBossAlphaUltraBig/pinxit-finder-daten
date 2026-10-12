@@ -1,0 +1,40 @@
+{
+ "domain": "aokunsthalle.com",
+ "website": "https://aokunsthalle.com/",
+ "haeuser": "a&o Kunsthalle",
+ "land": "DE",
+ "ids": "node/7625398885",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://aokunsthalle.com/category/exhibitions/",
+  "https://aokunsthalle.com/about-us/"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "A Shared Studio",
+   "untertitel": "Duo-Ausstellung mit Lucia Graf und Katharina Zimmerhackl",
+   "beginn": "2026-03-26",
+   "ende": "2026-05-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "a&o Kunsthalle",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Lucia Graf",
+    "Katharina Zimmerhackl"
+   ],
+   "url": "https://aokunsthalle.com/duo-ausstellung-a-shared-studio/",
+   "quelle": "https://aokunsthalle.com/category/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

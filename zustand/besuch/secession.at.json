@@ -1,0 +1,29 @@
+{
+ "domain": "secession.at",
+ "website": "https://www.secession.at/",
+ "haeuser": {
+  "Wiener Secessionsgebäude": {
+   "haus": "Wiener Secessionsgebäude",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "13,00 €",
+   "eintritt_ermaessigt": "7,50 €",
+   "frei_fuer": "Kinder unter 12",
+   "frei_wann": "jeden ersten Mittwoch im Monat",
+   "quelle": "https://secession.at/informationen_tickets"
+  }
+ },
+ "seiten": [
+  "https://secession.at/informationen_tickets"
+ ],
+ "abgerufen": "2026-10-08T18:07:01",
+ "status": "ok"
+}

@@ -1,0 +1,29 @@
+{
+ "domain": "antike-am-koenigsplatz.mwn.de",
+ "website": "https://www.antike-am-koenigsplatz.mwn.de/en/glyptothek-munich.html",
+ "haeuser": {
+  "Glyptothek": {
+   "haus": "Glyptothek",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-17:00",
+    "mi": "10:00-17:00",
+    "do": "10:00-20:00",
+    "fr": "10:00-17:00",
+    "sa": "10:00-17:00",
+    "so": "10:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "€6",
+   "eintritt_ermaessigt": "€4",
+   "frei_fuer": "unter 18 Jahren",
+   "hinweis_oeffnung": "13. Oktober (Dienstag) geschlossen",
+   "quelle": "https://www.antike-am-koenigsplatz.mwn.de/en/visitor-information/"
+  }
+ },
+ "seiten": [
+  "https://www.antike-am-koenigsplatz.mwn.de/en/visitor-information/"
+ ],
+ "abgerufen": "2026-10-12T08:03:26",
+ "status": "ok"
+}

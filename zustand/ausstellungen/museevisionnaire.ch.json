@@ -1,0 +1,34 @@
+{
+ "domain": "museevisionnaire.ch",
+ "website": "http://museevisionnaire.ch",
+ "haeuser": "Musée Visionnaire Zürich",
+ "land": "CH",
+ "ids": "Q27490260",
+ "status": "ok",
+ "seiten": [
+  "https://www.museevisionnaire.ch/listed-lives/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "LISTED LIVES",
+   "untertitel": "Listen als ästhetische, performative und dokumentarische Praxis",
+   "beginn": "2026-06-10",
+   "ende": "2026-12-20",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Musée Visionnaire Zürich",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.museevisionnaire.ch/listed-lives/",
+   "quelle": "https://www.museevisionnaire.ch/listed-lives/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

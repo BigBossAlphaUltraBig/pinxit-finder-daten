@@ -1,0 +1,27 @@
+{
+ "domain": "fabianlang.ch",
+ "website": "https://www.fabianlang.ch",
+ "haeuser": {
+  "Galerie Fabian Lang": {
+   "haus": "Galerie Fabian Lang",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://fabianlang.ch/",
+   "quelle": "https://fabianlang.ch/about"
+  }
+ },
+ "seiten": [
+  "https://fabianlang.ch/",
+  "https://fabianlang.ch/about"
+ ],
+ "abgerufen": "2026-10-12T07:34:18",
+ "status": "unvollständig"
+}

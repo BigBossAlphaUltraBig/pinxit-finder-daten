@@ -1,0 +1,74 @@
+{
+ "domain": "dg-kunstraum.de",
+ "website": "https://www.dg-kunstraum.de/",
+ "haeuser": "Deutsche Gesellschaft für christliche Kunst | DG Kunstraum Diskurs Gegenwart",
+ "land": "DE",
+ "ids": "Q15109311 node/3739469646",
+ "status": "ok",
+ "seiten": [
+  "https://www.dg-kunstraum.de/galerie/aktuelle-ausstellungen/",
+  "https://www.dg-kunstraum.de/ausstellung-erdanziehung/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Doppelpass VIII. Erdanziehung",
+   "untertitel": "Judith Neunhäuserer & Lukas Kindermann",
+   "beginn": "2026-09-18",
+   "ende": "2026-11-12",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Deutsche Gesellschaft für christliche Kunst",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-17",
+   "kuenstler": [
+    "Judith Neunhäuserer",
+    "Lukas Kindermann"
+   ],
+   "url": "https://www.dg-kunstraum.de/ausstellung-erdanziehung/",
+   "quelle": "https://www.dg-kunstraum.de/ausstellung-erdanziehung/",
+   "detail_geprueft": "2026-10-12",
+   "standort": "Deutsche Gesellschaft für christliche Kunst / DG Kunstraum Diskurs Gegenwart"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Fast eine Tonne: Atemraum",
+   "untertitel": "Gruppenausstellung mit Performances",
+   "beginn": "2026-06-19",
+   "ende": "2026-08-13",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Deutsche Gesellschaft für christliche Kunst",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": "2026-06-18T18:00",
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Afra Dopfer",
+    "Carsten Fock",
+    "Alexander Gerner",
+    "Janna Jirkova",
+    "Sara Mayoral Jimenez",
+    "Daiki Kimoto",
+    "Christoph Lammers",
+    "Jin Lee",
+    "Susanne Wagner",
+    "Benjamin Zuber"
+   ],
+   "url": "https://www.dg-kunstraum.de/fast-eine-tonne-atemraum/",
+   "quelle": "https://www.dg-kunstraum.de/galerie/aktuelle-ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet",
+   "standort": "Deutsche Gesellschaft für christliche Kunst / DG Kunstraum Diskurs Gegenwart"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

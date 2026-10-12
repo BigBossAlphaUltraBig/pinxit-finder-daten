@@ -1,0 +1,88 @@
+{
+ "domain": "mumok.at",
+ "website": "https://www.mumok.at/en",
+ "haeuser": "Museum Moderner Kunst Stiftung Ludwig Wien",
+ "land": "AT",
+ "ids": "Q689951",
+ "status": "ok",
+ "seiten": [
+  "https://www.mumok.at/ausstellungen/aktuell",
+  "https://www.mumok.at/en/exhibitions/current"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Terminal Piece",
+   "untertitel": "Ebenen 4, 3, 2/2B, 0, -2B",
+   "beginn": "2026-06-20",
+   "ende": "2027-02-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Moderner Kunst Stiftung Ludwig Wien",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Kate Millett",
+    "Anna Viebrock",
+    "Nina Porter"
+   ],
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.mumok.at/ausstellungen/terminal-piece",
+   "quelle": "https://www.mumok.at/ausstellungen/aktuell",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Figure of the Child",
+   "untertitel": "Figure of the Child",
+   "beginn": "2026-06-20",
+   "ende": "2026-11-01",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Moderner Kunst Stiftung Ludwig Wien",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Tolia Astakhishvili"
+   ],
+   "einzelausstellung_von": "Tolia Astakhishvili",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.mumok.at/ausstellungen/tolia-astakhishvili",
+   "quelle": "https://www.mumok.at/ausstellungen/aktuell",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Tolia Astakhishvili",
+   "untertitel": "Figure of the Child",
+   "beginn": "2026-06-20",
+   "ende": "2026-11-01",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Moderner Kunst Stiftung Ludwig Wien",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Tolia Astakhishvili"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Tolia Astakhishvili",
+   "anderer_ort": null,
+   "url": "https://www.mumok.at/ausstellungen/tolia-astakhishvili",
+   "quelle": "https://www.mumok.at/ausstellungen/aktuell",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

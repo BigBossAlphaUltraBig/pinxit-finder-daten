@@ -1,0 +1,39 @@
+{
+ "domain": "suppanfinearts.com",
+ "website": "https://www.suppanfinearts.com",
+ "haeuser": "Suppan Fine Arts",
+ "land": "AT",
+ "ids": "galerie-suppan-fine-arts-wien",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://www.suppanfinearts.com/de/exhibitions",
+  "https://www.suppanfinearts.com/de"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "HERMANN NITSCH",
+   "untertitel": "WERKE AUS 1984 - 2021",
+   "beginn": "2026-07-09",
+   "ende": "2026-08-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Suppan Fine Arts",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Hermann Nitsch"
+   ],
+   "einzelausstellung_von": "Hermann Nitsch",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "schwerpunkt": null,
+   "url": "https://www.suppanfinearts.com/de/exhibitions/current/hermann-nitsch-2026",
+   "quelle": "https://www.suppanfinearts.com/de/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

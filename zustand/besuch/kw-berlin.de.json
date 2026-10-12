@@ -1,0 +1,30 @@
+{
+ "domain": "kw-berlin.de",
+ "website": "https://www.kw-berlin.de",
+ "haeuser": {
+  "KW Institute for Contemporary Art": {
+   "haus": "KW Institute for Contemporary Art",
+   "oeffnungszeiten": {
+    "mo": "11:00-19:00",
+    "di": "geschlossen",
+    "mi": "11:00-19:00",
+    "do": "11:00-19:00",
+    "fr": "11:00-19:00",
+    "sa": "11:00-19:00",
+    "so": "11:00-19:00"
+   },
+   "eintritt_regulaer": "10 €",
+   "eintritt_ermaessigt": "6 €",
+   "eintritt_immer_frei": false,
+   "frei_fuer": "bis einschließlich 18 Jahre",
+   "frei_wann": "jeden Donnerstag im Monat von 16:00 bis 21:00 Uhr",
+   "hinweis_oeffnung": "Geschlossen bis 16.10.26",
+   "quelle": "https://www.kw-berlin.de/de/besuch/tickets"
+  }
+ },
+ "seiten": [
+  "https://www.kw-berlin.de/de/besuch/tickets"
+ ],
+ "abgerufen": "2026-10-08T18:06:30",
+ "status": "ok"
+}

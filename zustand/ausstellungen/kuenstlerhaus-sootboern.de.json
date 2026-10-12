@@ -1,0 +1,37 @@
+{
+ "domain": "kuenstlerhaus-sootboern.de",
+ "website": "http://kuenstlerhaus-sootboern.de",
+ "haeuser": "Künstlerhaus Sootbörn",
+ "land": "DE",
+ "ids": "way/52722410",
+ "status": "ok",
+ "seiten": [
+  "https://kuenstlerhaus-sootboern.de/yesterdays-adoration-2/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Harmony of Chaos",
+   "untertitel": null,
+   "kuenstler": [
+    "Karolína Netolická",
+    "Nadine Kles"
+   ],
+   "beginn": "2026-10-10",
+   "ende": "2026-10-25",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Künstlerhaus Sootbörn",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": "2026-10-09T19:00",
+   "einzelausstellung_von": null,
+   "url": "https://kuenstlerhaus-sootboern.de/yesterdays-adoration-2/",
+   "quelle": "https://kuenstlerhaus-sootboern.de/yesterdays-adoration-2/"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

@@ -1,0 +1,28 @@
+{
+ "domain": "galeriethoman.com",
+ "website": "https://www.galeriethoman.com",
+ "haeuser": {
+  "Galerie Elisabeth & Klaus Thoman": {
+   "haus": "Galerie Elisabeth & Klaus Thoman",
+   "oeffnungszeiten": {
+    "mo": "12:00-15:00",
+    "di": "12:00-15:00",
+    "mi": "12:00-15:00",
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.galeriethoman.com/contact/",
+   "hinweis_oeffnung": "and by appointment",
+   "quelle": "https://www.galeriethoman.com/contact/"
+  }
+ },
+ "seiten": [
+  "https://www.galeriethoman.com/",
+  "https://www.galeriethoman.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:35:46",
+ "status": "unvollständig"
+}

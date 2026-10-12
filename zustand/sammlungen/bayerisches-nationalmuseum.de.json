@@ -1,0 +1,47 @@
+{
+ "domain": "bayerisches-nationalmuseum.de",
+ "website": "https://www.bayerisches-nationalmuseum.de/besuch/zweigmuseen/kunst-und-wunderkammer",
+ "haeuser": [
+  {
+   "id": "node-2724086490",
+   "name": "Kunst- und Wunderkammer"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Kunst- und Wunderkammer",
+   "titel": "Die Sammlung",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Europäische Kunst vom Mittelalter bis zum Jugendstil",
+   "url": "https://www.bayerisches-nationalmuseum.de/sammlung",
+   "quelle": "https://www.bayerisches-nationalmuseum.de/sammlung"
+  },
+  {
+   "haus": "Kunst- und Wunderkammer",
+   "titel": "Krippen",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "kunsthandwerk",
+   "untertitel": "Weltberühmte Sammlung zur Krippenkunst 17.–20. Jh.",
+   "url": "https://www.bayerisches-nationalmuseum.de/sammlung/krippen",
+   "quelle": "https://www.bayerisches-nationalmuseum.de/sammlung"
+  },
+  {
+   "haus": "Kunst- und Wunderkammer",
+   "titel": "Goldschmiedekunst",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "kunsthandwerk",
+   "url": "https://www.bayerisches-nationalmuseum.de/sammlung/goldschmiedekunst",
+   "quelle": "https://www.bayerisches-nationalmuseum.de/sammlung"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.bayerisches-nationalmuseum.de/sammlung"
+ ],
+ "abgerufen": "2026-10-12T08:11:23",
+ "status": "ok"
+}

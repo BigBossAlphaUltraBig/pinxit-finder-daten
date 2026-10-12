@@ -1,0 +1,25 @@
+{
+ "domain": "markmueller.ch",
+ "website": "https://www.markmueller.ch",
+ "haeuser": {
+  "Galerie Mark Müller": {
+   "haus": "Galerie Mark Müller",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "11:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://www.markmueller.ch/"
+  }
+ },
+ "seiten": [
+  "https://www.markmueller.ch/"
+ ],
+ "abgerufen": "2026-10-12T07:37:07",
+ "status": "unvollständig"
+}

@@ -1,0 +1,35 @@
+{
+ "domain": "caricatura-museum.de",
+ "website": "https://caricatura-museum.de/",
+ "haeuser": [
+  {
+   "id": "Q1525564",
+   "name": "Caricatura Museum für Komische Kunst"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Caricatura Museum für Komische Kunst",
+   "titel": "Die Sammlungsausstellung",
+   "untertitel": "Werke der Neuen Frankfurter Schule und zeitgenössischer Künstler",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "kuenstler": [
+    "F. W. Bernstein",
+    "Robert Gernhardt",
+    "Hans Traxler",
+    "F. K. Waechter",
+    "Chlodwig Poth"
+   ],
+   "url": "https://caricatura-museum.de/ausstellungen/sammlungsausstellung/",
+   "quelle": "https://caricatura-museum.de/ausstellungen/sammlungsausstellung/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://caricatura-museum.de/ausstellungen/sammlungsausstellung/"
+ ],
+ "abgerufen": "2026-10-12T08:11:34",
+ "status": "ok"
+}

@@ -1,0 +1,29 @@
+{
+ "domain": "nagel-draxler.de",
+ "website": "http://nagel-draxler.de",
+ "haeuser": {
+  "Galerie Nagel Draxler": {
+   "haus": "Galerie Nagel Draxler",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "12:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://nagel-draxler.de/city/berlin/",
+   "hinweis_oeffnung": "Geschlossen 23.12.2025 – 05.01.2026",
+   "quelle": "https://nagel-draxler.de/city/berlin/"
+  }
+ },
+ "seiten": [
+  "http://nagel-draxler.de/",
+  "https://nagel-draxler.de/contact/",
+  "https://nagel-draxler.de/city/berlin/"
+ ],
+ "abgerufen": "2026-10-12T07:37:39",
+ "status": "ok"
+}

@@ -1,0 +1,29 @@
+{
+ "domain": "galeriehaas.com",
+ "website": "https://galeriehaas.com",
+ "haeuser": {
+  "Galerie Haas": {
+   "haus": "Galerie Haas",
+   "oeffnungszeiten": {
+    "di": "11:00-18:00",
+    "mi": null,
+    "do": null,
+    "fr": "11:00-18:00",
+    "sa": "11:00-17:00",
+    "so": null,
+    "mo": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://galeriehaas.com/contact/",
+   "quelle": "https://galeriehaas.com/contact/",
+   "hinweis_oeffnung": "Öffnungszeiten und Eintritt nicht auf Startseite angegeben"
+  }
+ },
+ "seiten": [
+  "https://galeriehaas.com/cookie-policy-eu/",
+  "https://galeriehaas.com/",
+  "https://galeriehaas.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:35:12",
+ "status": "unvollständig"
+}

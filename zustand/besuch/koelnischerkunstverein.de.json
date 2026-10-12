@@ -1,0 +1,27 @@
+{
+ "domain": "koelnischerkunstverein.de",
+ "website": "https://www.koelnischerkunstverein.de/",
+ "haeuser": {
+  "Kölnischer Kunstverein": {
+   "haus": "Kölnischer Kunstverein",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": "11:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "Am 11.11.2026 bleiben die Ausstellungen geschlossen; während der Ausstellungspausen geschlossen",
+   "bessere_seite": "https://koelnischerkunstverein.de/institution/",
+   "quelle": "https://koelnischerkunstverein.de/aktuelle-informationen/"
+  }
+ },
+ "seiten": [
+  "https://koelnischerkunstverein.de/aktuelle-informationen/"
+ ],
+ "abgerufen": "2026-10-12T08:06:38",
+ "status": "ok"
+}

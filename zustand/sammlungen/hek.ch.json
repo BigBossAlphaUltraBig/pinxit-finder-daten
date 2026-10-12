@@ -1,0 +1,35 @@
+{
+ "domain": "hek.ch",
+ "website": "https://www.hek.ch",
+ "haeuser": [
+  {
+   "id": "Q1112536",
+   "name": "HeK (Haus der elektronischen Künste Basel)"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "HeK (Haus der elektronischen Künste Basel)",
+   "titel": "Die Sammlung",
+   "untertitel": "Born-digital-art mit Fokus auf Software- und Netzkunst",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "medienkunst",
+   "kuenstler": [
+    "Alexis O'Hara",
+    "Jodi",
+    "Christina Kubisch",
+    "Ursula Damm",
+    "Adam Cruces"
+   ],
+   "url": "https://hek.ch/sammlung/",
+   "quelle": "https://hek.ch/sammlung/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://hek.ch/sammlung/"
+ ],
+ "abgerufen": "2026-10-12T08:12:29",
+ "status": "ok"
+}

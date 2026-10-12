@@ -1,0 +1,29 @@
+{
+ "domain": "melbye-konan.com",
+ "website": "https://melbye-konan.com",
+ "haeuser": {
+  "Galerie Melbye-Konan": {
+   "haus": "Galerie Melbye-Konan",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.melbye-konan.com/contact/",
+   "hinweis_oeffnung": "Nur nach Vereinbarung zugänglich. Öffentliche Öffnungszeiten nicht vorhanden.",
+   "quelle": "https://www.melbye-konan.com/contact/"
+  }
+ },
+ "seiten": [
+  "https://www.melbye-konan.com/",
+  "https://www.melbye-konan.com/about/",
+  "https://www.melbye-konan.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:37:18",
+ "status": "unvollständig"
+}

@@ -1,0 +1,56 @@
+{
+ "domain": "sl-galerie.at",
+ "website": "https://www.sl-galerie.at",
+ "haeuser": "Galerie Schnitzler und Lindenberger",
+ "land": "AT",
+ "ids": "node/4634672330",
+ "status": "ok",
+ "seiten": [
+  "https://www.sl-galerie.at/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Daydrifters",
+   "untertitel": "Anja Korherr",
+   "beginn": "2026-10-15",
+   "ende": "2027-03-25",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Galerie Schnitzler und Lindenberger",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Anja Korherr"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": "2026-10-14T19:00",
+   "einzelausstellung_von": "Anja Korherr",
+   "url": "https://www.sl-galerie.at/",
+   "quelle": "https://www.sl-galerie.at/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Schaudepot",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Schnitzler und Lindenberger",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Arbeiten eng mit der Galerie verbundener Künstlerinnen und Künstler",
+   "kuenstler": [],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "url": "https://www.sl-galerie.at/schaudepot/",
+   "quelle": "https://www.sl-galerie.at/"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

@@ -1,0 +1,29 @@
+{
+ "domain": "kunstverein-wiesbaden.de",
+ "website": "http://www.kunstverein-wiesbaden.de/",
+ "haeuser": {
+  "Nassauischer Kunstverein": {
+   "haus": "Nassauischer Kunstverein",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "14:00-18:00",
+    "mi": "14:00-18:00",
+    "do": "14:00-18:00",
+    "fr": "14:00-18:00",
+    "sa": "11:00-18:00",
+    "so": "11:00-18:00"
+   },
+   "eintritt_regulaer": "5 €",
+   "eintritt_ermaessigt": "3 €",
+   "eintritt_immer_frei": false,
+   "frei_fuer": "unter 18 Jahren; Mitglieder des Nassauischer Kunstvereins; Freunde des Museums Wiesbaden; ICOM-Mitglieder; Mitglieder anderer ADKV-Kunstvereine; Kunst-Studierende bestimmter Hochschulen; Lehrkräfte mit Schulklasse; Ehrenamtskarteninhaber; geflüchtete Menschen",
+   "hinweis_oeffnung": "Sommerschließzeit 27.07.-02.09.26; Geschlossen Pfingstmontag (25.05.)",
+   "quelle": "https://www.kunstverein-wiesbaden.de/besucherinfo"
+  }
+ },
+ "seiten": [
+  "https://www.kunstverein-wiesbaden.de/besucherinfo"
+ ],
+ "abgerufen": "2026-10-08T18:06:29",
+ "status": "ok"
+}

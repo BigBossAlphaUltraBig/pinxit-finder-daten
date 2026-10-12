@@ -1,0 +1,30 @@
+{
+ "domain": "museum-fuer-ostasiatische-kunst.de",
+ "website": "http://www.museum-fuer-ostasiatische-kunst.de/",
+ "haeuser": {
+  "Museum für Ostasiatische Kunst": {
+   "haus": "Museum für Ostasiatische Kunst",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "11:00-17:00",
+    "mi": "11:00-17:00",
+    "do": "11:00-17:00",
+    "fr": "11:00-17:00",
+    "sa": "11:00-17:00",
+    "so": "11:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "7,50 €",
+   "eintritt_ermaessigt": "3,50 €",
+   "frei_fuer": "Kölner*innen mit Nachweis",
+   "frei_wann": "jeden ersten Donnerstag im Monat",
+   "hinweis_oeffnung": "jeden ersten Donnerstag im Monat 11:00-22:00 Uhr; geschlossen 1.1., 24.12., 25.12., 31.12.; geöffnet an Ostermontag, Pfingstmontag, Christi Himmelfahrt, Frohnleichnam",
+   "quelle": "https://museum-fuer-ostasiatische-kunst.de/Information"
+  }
+ },
+ "seiten": [
+  "https://museum-fuer-ostasiatische-kunst.de/Information"
+ ],
+ "abgerufen": "2026-10-12T08:09:07",
+ "status": "ok"
+}

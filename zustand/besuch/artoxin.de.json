@@ -1,0 +1,29 @@
+{
+ "domain": "artoxin.de",
+ "website": "https://artoxin.de",
+ "haeuser": {
+  "Galerie Artoxin": {
+   "haus": "Galerie Artoxin",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "13:00-18:00",
+    "do": "13:00-18:00",
+    "fr": "13:00-18:00",
+    "sa": "13:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://artoxin.de/oeffnungszeiten/",
+   "quelle": "https://artoxin.de/oeffnungszeiten/"
+  }
+ },
+ "seiten": [
+  "https://artoxin.de/",
+  "https://artoxin.de/kontakt/",
+  "https://artoxin.de/ueber-uns/",
+  "https://artoxin.de/oeffnungszeiten/"
+ ],
+ "abgerufen": "2026-10-12T07:32:53",
+ "status": "unvollständig"
+}

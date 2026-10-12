@@ -1,0 +1,28 @@
+{
+ "domain": "gs.ethz.ch",
+ "website": "https://www.gs.ethz.ch",
+ "haeuser": [
+  {
+   "id": "Q27490235",
+   "name": "Graphische Sammlung der ETH"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Graphische Sammlung der ETH",
+   "titel": "Die Sammlung",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Graphische Werke und Kunstobjekte der ETH-Sammlung",
+   "url": "https://gs.ethz.ch/sammlung/",
+   "quelle": "https://gs.ethz.ch/sammlung/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://gs.ethz.ch/sammlung/"
+ ],
+ "abgerufen": "2026-10-12T08:12:13",
+ "status": "ok"
+}

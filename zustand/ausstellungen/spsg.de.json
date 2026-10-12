@@ -1,0 +1,35 @@
+{
+ "domain": "spsg.de",
+ "website": "https://www.spsg.de/schloesser-gaerten/objekt/bildergalerie/",
+ "haeuser": "Bildergalerie | Jagdschloss Grunewald",
+ "land": "DE",
+ "ids": "Q451555 Q531032",
+ "status": "ok",
+ "seiten": [
+  "https://www.spsg.de/aktuelles/ausstellungen",
+  "https://www.spsg.de/aktuelles/heute"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Cranach in Grunewald",
+   "untertitel": "Meisterwerke Lucas Cranachs des Älteren, des Jüngeren und ihrer Werkstatt",
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Jagdschloss Grunewald",
+   "rang": 1,
+   "epoche": "alte_meister",
+   "gemeinfrei": true,
+   "schwerpunkt": "Lucas Cranach, Malerei, Renaissance, Kunsthandwerk",
+   "url": "https://www.spsg.de/aktuelles/ausstellung/cranach-in-grunewald",
+   "quelle": "https://www.spsg.de/aktuelles/ausstellungen",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "rueckfall": "claude-haiku-4-5-20251001",
+ "vom_vorlauf_behalten": 0
+}

@@ -1,0 +1,29 @@
+{
+ "domain": "hausdespapiers.com",
+ "website": "https://www.hausdespapiers.com/",
+ "haeuser": {
+  "Haus des Papiers": {
+   "haus": "Haus des Papiers",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": "10:00-17:00",
+    "sa": null,
+    "so": "10:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "frei_fuer": "Kinder unter 6 Jahren",
+   "quelle": "https://www.hausdespapiers.com/",
+   "eintritt_regulaer": "10,00 €",
+   "eintritt_ermaessigt": "7,00 €"
+  }
+ },
+ "seiten": [
+  "https://www.hausdespapiers.com/besuch",
+  "https://www.hausdespapiers.com/"
+ ],
+ "abgerufen": "2026-10-12T08:05:45",
+ "status": "unvollständig"
+}

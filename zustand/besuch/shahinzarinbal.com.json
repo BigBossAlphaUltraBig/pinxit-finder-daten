@@ -1,0 +1,25 @@
+{
+ "domain": "shahinzarinbal.com",
+ "website": "https://shahinzarinbal.com",
+ "haeuser": {
+  "Shahin Zarinbal": {
+   "haus": "Shahin Zarinbal",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": "14:00-18:00",
+    "fr": "14:00-18:00",
+    "sa": "14:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "quelle": "https://shahinzarinbal.com/"
+  }
+ },
+ "seiten": [
+  "https://shahinzarinbal.com/"
+ ],
+ "abgerufen": "2026-10-12T07:38:21",
+ "status": "unvollständig"
+}

@@ -1,0 +1,30 @@
+{
+ "domain": "gedok-stuttgart.de",
+ "website": "https://www.gedok-stuttgart.de/",
+ "haeuser": {
+  "Gedok Gemeinschaft der Künstlerinnen und Kunstfreunde e. V.": {
+   "haus": "Gedok Gemeinschaft der Künstlerinnen und Kunstfreunde e. V.",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.gedok-stuttgart.de/atelierhaus/galerie/",
+   "hinweis_oeffnung": "Reguläre Wochenöffnungszeiten und Eintrittspreise nicht auf der Veranstaltungsseite verfügbar",
+   "quelle": "https://www.gedok-stuttgart.de/aktuell/veranstaltungen/"
+  }
+ },
+ "seiten": [
+  "https://www.gedok-stuttgart.de/kontakt/anfahrt/",
+  "https://www.gedok-stuttgart.de/",
+  "https://www.gedok-stuttgart.de/atelierhaus/galerie/",
+  "https://www.gedok-stuttgart.de/aktuell/veranstaltungen/"
+ ],
+ "abgerufen": "2026-10-12T08:05:06",
+ "status": "unvollständig"
+}

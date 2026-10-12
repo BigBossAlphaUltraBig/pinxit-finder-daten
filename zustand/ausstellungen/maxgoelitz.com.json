@@ -1,0 +1,65 @@
+{
+ "domain": "maxgoelitz.com",
+ "website": "https://maxgoelitz.com",
+ "haeuser": "Max Goelitz",
+ "land": "DE",
+ "ids": "node/299100566",
+ "status": "ok",
+ "seiten": [
+  "https://www.maxgoelitz.com/exhibitions/",
+  "https://www.maxgoelitz.com/exhibitions/73-addresses-without-names-ju-young-kim/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "addresses without names",
+   "untertitel": "",
+   "beginn": "2026-09-17",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Max Goelitz",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Ju Young Kim"
+   ],
+   "eroeffnung": "2026-09-17T18:00",
+   "anderer_ort": null,
+   "einzelausstellung_von": "Ju Young Kim",
+   "url": "https://www.maxgoelitz.com/exhibitions/73-addresses-without-names-ju-young-kim/",
+   "quelle": "https://www.maxgoelitz.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "new works",
+   "untertitel": "new works",
+   "beginn": "2026-06-11",
+   "ende": "2026-07-25",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Max Goelitz",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Troika"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": "Berlin",
+   "einzelausstellung_von": "Troika",
+   "url": "https://www.maxgoelitz.com/exhibitions/71-new-works-troika/",
+   "quelle": "https://www.maxgoelitz.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

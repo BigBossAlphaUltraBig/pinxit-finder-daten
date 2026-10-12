@@ -1,0 +1,62 @@
+{
+ "domain": "gmurzynska.com",
+ "website": "https://www.gmurzynska.com",
+ "haeuser": "Galerie Gmurzynska",
+ "land": "CH",
+ "ids": "Q5518446",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://www.gmurzynska.com/exhibitions",
+  "https://www.gmurzynska.com/exhibitions/christoph-niemann-urban-horizons"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "Revolutionizing Collage",
+   "untertitel": "Revolutionizing Collage",
+   "beginn": "2026-09-24",
+   "ende": "2026-10-23",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Gmurzynska",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Jiří Kolář"
+   ],
+   "einzelausstellung_von": "Jiří Kolář",
+   "anderer_ort": "New York, 595 Madison Avenue",
+   "eroeffnung": null,
+   "url": "https://www.gmurzynska.com/exhibitions/jiri-kolar-revolutionizing-collage",
+   "quelle": "https://www.gmurzynska.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: New York, 595 Madison Avenue"
+  },
+  {
+   "titel": "Urban Horizons",
+   "untertitel": "Christoph Niemann",
+   "beginn": "2026-06-12",
+   "ende": "2026-09-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Gmurzynska",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Stadtansichten und New York-Motive in Acryl und Siebdruck",
+   "url": "https://www.gmurzynska.com/exhibitions/christoph-niemann-urban-horizons",
+   "eroeffnung": null,
+   "einzelausstellung_von": "Christoph Niemann",
+   "anderer_ort": null,
+   "kuenstler": [
+    "Christoph Niemann"
+   ],
+   "quelle": "https://www.gmurzynska.com/exhibitions/christoph-niemann-urban-horizons",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

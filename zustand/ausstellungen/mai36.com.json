@@ -1,0 +1,122 @@
+{
+ "domain": "mai36.com",
+ "website": "https://www.mai36.com",
+ "haeuser": "Mai 36 Galerie",
+ "land": "CH",
+ "ids": "galerie-mai-36-galerie-zuerich",
+ "status": "ok",
+ "seiten": [
+  "https://mai36.com/exhibitions",
+  "https://mai36.com/exhibitions/markus-saile"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "False Horizon",
+   "untertitel": null,
+   "beginn": "2026-09-10",
+   "ende": "2026-11-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Mai 36 Galerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Markus Saile",
+   "kuenstler": [
+    "Markus Saile"
+   ],
+   "eroeffnung": null,
+   "url": "https://mai36.com/exhibitions/markus-saile",
+   "quelle": "https://mai36.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Inferno",
+   "untertitel": null,
+   "beginn": "2026-09-10",
+   "ende": "2026-11-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Mai 36 Galerie",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Hiroki Tsukuda",
+   "kuenstler": [
+    "Hiroki Tsukuda"
+   ],
+   "eroeffnung": null,
+   "url": "https://mai36.com/exhibitions/hiroki-tsukuda",
+   "quelle": "https://mai36.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "flowers",
+   "untertitel": "Group Show",
+   "beginn": "2026-09-11",
+   "ende": "2026-11-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Mai 36 Galerie",
+   "rang": 3,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [],
+   "eroeffnung": null,
+   "url": null,
+   "quelle": "https://mai36.com/exhibitions",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Art Basel Paris 2026",
+   "untertitel": "Art Fair, Grand Palais, Paris | Booth B51",
+   "beginn": "2026-10-20",
+   "ende": "2026-10-25",
+   "art": "messe_markt",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Mai 36 Galerie",
+   "rang": 4,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Rémy Zaugg",
+    "John Baldessari",
+    "Matt Mullican",
+    "Robert Ryman",
+    "Peter Hujar",
+    "Irma Blank",
+    "Flavio Garciandía",
+    "Luigi Ghirri",
+    "Poppy Jones",
+    "Jacopo Benassi",
+    "Leon Xu",
+    "Maia Ruth Lee",
+    "Raphael Hefti"
+   ],
+   "eroeffnung": null,
+   "url": "https://mai36.com/exhibitions/art-basel-paris-2026",
+   "quelle": "https://mai36.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Messe/Markt, keine Ausstellung"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

@@ -1,0 +1,29 @@
+{
+ "domain": "museum-der-stille.de",
+ "website": "http://museum-der-stille.de/de/",
+ "haeuser": {
+  "Museum der Stille": {
+   "haus": "Museum der Stille",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": "14:00-19:00",
+    "so": "14:00-19:00"
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "http://museum-der-stille.de/#museum",
+   "hinweis_oeffnung": "Öffnungszeiten und Eintritt stehen nicht auf dieser Seite",
+   "quelle": "http://museum-der-stille.de/de/"
+  }
+ },
+ "seiten": [
+  "http://museum-der-stille.de/de/568-2/",
+  "http://museum-der-stille.de/de/",
+  "http://museum-der-stille.de/de/"
+ ],
+ "abgerufen": "2026-10-12T08:08:54",
+ "status": "unvollständig"
+}

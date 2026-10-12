@@ -1,0 +1,56 @@
+{
+ "domain": "kleinegegenwart.de",
+ "website": "https://kleinegegenwart.de",
+ "haeuser": "Kleine Gegenwart",
+ "land": "DE",
+ "ids": "galerie-kleine-gegenwart-hamburg",
+ "status": "ok",
+ "seiten": [
+  "https://www.kleinegegenwart.de/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Liebe Grüße, Jenny",
+   "untertitel": null,
+   "beginn": "2026-09-18",
+   "ende": "2026-10-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kleine Gegenwart",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Jenny Schäfer"
+   ],
+   "url": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Jenny Schäfer",
+   "quelle": "https://www.kleinegegenwart.de/",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "JENNY SCHÄFER - LIEBE GRÜßE, JENNY",
+   "beginn": "2026-09-18",
+   "ende": "2026-10-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kleine Gegenwart",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Jenny Schäfer",
+   "kuenstler": [
+    "Jenny Schäfer"
+   ],
+   "url": null,
+   "quelle": "https://www.kleinegegenwart.de/",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

@@ -1,0 +1,29 @@
+{
+ "domain": "schaulager.org",
+ "website": "https://www.schaulager.org",
+ "haeuser": {
+  "Schaulager": {
+   "haus": "Schaulager",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "Bis 2027 nur für Schulen, Hochschulen, Forschungsbesuche und monatliche Führungen geöffnet",
+   "bessere_seite": "https://schaulager.org/de/besuch/oeffnungszeiten",
+   "quelle": "https://schaulager.org/de/besuch/fuehrungen"
+  }
+ },
+ "seiten": [
+  "https://schaulager.org/de/besuch/oeffnungszeiten",
+  "https://schaulager.org/",
+  "https://schaulager.org/de/besuch/fuehrungen"
+ ],
+ "abgerufen": "2026-10-12T08:10:18",
+ "status": "unvollständig"
+}

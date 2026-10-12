@@ -1,0 +1,66 @@
+{
+ "domain": "galeriesusannealbrecht.de",
+ "website": "https://www.galeriesusannealbrecht.de/",
+ "haeuser": "Galerie Albrecht",
+ "land": "DE",
+ "ids": "node/299513604",
+ "status": "ok",
+ "seiten": [
+  "https://www.galeriesusannealbrecht.de/exhibitions/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Übern Wald",
+   "untertitel": "Peter Bialobrzeski und Miwa Ogasawara",
+   "beginn": "2026-09-05",
+   "ende": "2026-10-23",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Galerie Albrecht",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Peter Bialobrzeski",
+    "Miwa Ogasawara"
+   ],
+   "url": "https://www.galeriesusannealbrecht.de/uebern-wald-peter-bialobrzeski-und-miwa-ogasawara/",
+   "quelle": "https://www.galeriesusannealbrecht.de/exhibitions/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Sachlichkeit",
+   "untertitel": "Die Seite nennt keinen eigenen Untertitel; der Begriff Sachlichkeit wird im Text als Bezug zur „Neuen Sachlichkeit“ erläutert.",
+   "beginn": "2026-05-02",
+   "ende": "2026-08-15",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Albrecht",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Kate Diehn-Bitt",
+    "Michael Langer",
+    "Rafael Cidoncha",
+    "Emese Kazár",
+    "Sabine Herrmann"
+   ],
+   "url": "https://www.galeriesusannealbrecht.de/sachlichkeit/",
+   "quelle": "https://www.galeriesusannealbrecht.de/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

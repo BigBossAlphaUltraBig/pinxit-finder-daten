@@ -1,0 +1,89 @@
+{
+ "domain": "produzentengalerie.com",
+ "website": "https://produzentengalerie.com",
+ "haeuser": "Produzentengalerie Hamburg",
+ "land": "DE",
+ "ids": "galerie-produzentengalerie-hamburg-hamburg",
+ "status": "ok",
+ "seiten": [
+  "https://www.produzentengalerie.com/exhibitions/",
+  "https://www.produzentengalerie.com/exhibitions/um-2000/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Support Act or Minor Character",
+   "untertitel": "Solo Exhibition",
+   "kuenstler": [
+    "Nicole Wermers"
+   ],
+   "beginn": "2026-09-04",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Produzentengalerie Hamburg",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://www.produzentengalerie.com/exhibitions/support-acts-or-minor-characters/",
+   "eroeffnung": "2026-09-03T18:00",
+   "anderer_ort": null,
+   "einzelausstellung_von": "Nicole Wermers",
+   "quelle": "https://www.produzentengalerie.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "um 2000",
+   "untertitel": "Solo Exhibition",
+   "beginn": "2026-11-13",
+   "ende": "2027-01-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Produzentengalerie Hamburg",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Heinrich Modersohn"
+   ],
+   "einzelausstellung_von": "Heinrich Modersohn",
+   "eroeffnung": "2026-11-12T18:00",
+   "anderer_ort": null,
+   "url": "https://www.produzentengalerie.com/exhibitions/um-2000/",
+   "quelle": "https://www.produzentengalerie.com/exhibitions/um-2000/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Overshoot",
+   "untertitel": "Solo Exhibition",
+   "kuenstler": [
+    "Tobias Zielony"
+   ],
+   "beginn": "2026-05-22",
+   "ende": "2026-07-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Produzentengalerie Hamburg",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://www.produzentengalerie.com/exhibitions/12453/",
+   "eroeffnung": "2026-05-21T18:00",
+   "anderer_ort": null,
+   "einzelausstellung_von": "Tobias Zielony",
+   "quelle": "https://www.produzentengalerie.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

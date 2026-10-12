@@ -1,0 +1,28 @@
+{
+ "domain": "bruecke-museum.de",
+ "website": "http://www.bruecke-museum.de/",
+ "haeuser": {
+  "Brücke-Museum Berlin": {
+   "haus": "Brücke-Museum Berlin",
+   "oeffnungszeiten": {
+    "mo": "11:00-17:00",
+    "di": "geschlossen",
+    "mi": "11:00-17:00",
+    "do": "11:00-17:00",
+    "fr": "11:00-17:00",
+    "sa": "11:00-17:00",
+    "so": "11:00-17:00"
+   },
+   "eintritt_regulaer": "€ 6",
+   "eintritt_ermaessigt": "€ 4",
+   "eintritt_immer_frei": false,
+   "frei_fuer": "unter 18 Jahren, sowie Schüler*innen, Studierende und Auszubildende in Deutschland ab 18 bis 27 Jahren",
+   "quelle": "https://www.bruecke-museum.de/de/besuch/21/eintrittspreise"
+  }
+ },
+ "seiten": [
+  "https://www.bruecke-museum.de/de/besuch/21/eintrittspreise"
+ ],
+ "abgerufen": "2026-10-08T18:05:53",
+ "status": "ok"
+}

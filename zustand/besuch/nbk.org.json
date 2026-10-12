@@ -1,0 +1,25 @@
+{
+ "domain": "nbk.org",
+ "website": "https://www.nbk.org/de",
+ "haeuser": {
+  "Neuer Berliner Kunstverein": {
+   "haus": "Neuer Berliner Kunstverein",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "12:00-18:00",
+    "mi": "12:00-18:00",
+    "do": "12:00-20:00",
+    "fr": "12:00-18:00",
+    "sa": null,
+    "so": "12:00-18:00"
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://www.nbk.org/de/institution"
+  }
+ },
+ "seiten": [
+  "https://www.nbk.org/de/institution"
+ ],
+ "abgerufen": "2026-10-08T18:06:46",
+ "status": "ok"
+}

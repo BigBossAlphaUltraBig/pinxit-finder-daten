@@ -1,0 +1,28 @@
+{
+ "domain": "westlicht.com",
+ "website": "https://www.westlicht.com/",
+ "haeuser": {
+  "WestLicht": {
+   "haus": "WestLicht",
+   "oeffnungszeiten": {
+    "mo": "11:00-19:00",
+    "di": "11:00-19:00",
+    "mi": "11:00-19:00",
+    "do": "11:00-21:00",
+    "fr": "11:00-19:00",
+    "sa": "11:00-19:00",
+    "so": "11:00-19:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "16 €",
+   "eintritt_ermaessigt": "12 €",
+   "frei_fuer": "Kinder unter 6 Jahre; Menschen mit Behindertenausweis ab 6 €",
+   "quelle": "https://www.westlicht.com/westlicht/de/besuch"
+  }
+ },
+ "seiten": [
+  "https://www.westlicht.com/westlicht/de/besuch"
+ ],
+ "abgerufen": "2026-10-08T18:07:27",
+ "status": "ok"
+}

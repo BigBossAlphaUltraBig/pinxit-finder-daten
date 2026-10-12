@@ -1,0 +1,28 @@
+{
+ "domain": "akbild.ac.at",
+ "website": "https://www.akbild.ac.at/",
+ "haeuser": [
+  {
+   "id": "Q414219",
+   "name": "Akademie der bildenden Künste Wien"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Akademie der bildenden Künste Wien",
+   "titel": "Die Sammlung",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Werke aus dem Bestand der Akademie",
+   "url": "https://www.akbild.ac.at/",
+   "quelle": "https://www.akbild.ac.at/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.akbild.ac.at/"
+ ],
+ "abgerufen": "2026-10-08T22:18:45",
+ "status": "ok"
+}

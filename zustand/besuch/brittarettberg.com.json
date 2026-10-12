@@ -1,0 +1,27 @@
+{
+ "domain": "brittarettberg.com",
+ "website": "https://brittarettberg.com",
+ "haeuser": {
+  "Britta Rettberg": {
+   "haus": "Britta Rettberg",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://brittarettberg.com/contact/",
+   "quelle": "https://brittarettberg.com/contact/"
+  }
+ },
+ "seiten": [
+  "https://brittarettberg.com/",
+  "https://brittarettberg.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:33:14",
+ "status": "unvollständig"
+}

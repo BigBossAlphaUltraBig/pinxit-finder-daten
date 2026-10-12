@@ -1,0 +1,29 @@
+{
+ "domain": "kunstverein-neckar-odenwald.de",
+ "website": "https://www.kunstverein-neckar-odenwald.de/",
+ "haeuser": {
+  "Kunstverein Neckar-Odenwald": {
+   "haus": "Kunstverein Neckar-Odenwald",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "Öffnungszeiten und Eintrittspreise nicht auf dieser Seite verfügbar",
+   "bessere_seite": "https://kunstverein-neckar-odenwald.de/kunstverein/",
+   "quelle": "https://kunstverein-neckar-odenwald.de/programm-2026/"
+  }
+ },
+ "seiten": [
+  "https://kunstverein-neckar-odenwald.de/",
+  "https://kunstverein-neckar-odenwald.de/kunstverein/",
+  "https://kunstverein-neckar-odenwald.de/programm-2026/"
+ ],
+ "abgerufen": "2026-10-08T18:06:19",
+ "status": "unvollständig"
+}

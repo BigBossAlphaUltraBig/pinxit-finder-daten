@@ -1,0 +1,57 @@
+{
+ "domain": "fondationbeyeler.ch",
+ "website": "https://www.fondationbeyeler.ch",
+ "haeuser": "Fondation Beyeler",
+ "land": "CH",
+ "ids": "Q673833",
+ "status": "ok",
+ "seiten": [
+  "https://www.fondationbeyeler.ch/de/ausstellungen/constellations",
+  "https://www.fondationbeyeler.ch/de/ausstellungen/ruth-asawa"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Constellations",
+   "untertitel": "",
+   "beginn": "2026-09-26",
+   "ende": "2027-09-05",
+   "art": "sammlungspraesentation",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Fondation Beyeler",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": "Dialog zwischen Kunst, Architektur und Natur, Werke des 19. bis 21. Jahrhunderts",
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "kuenstler": [],
+   "url": "https://www.fondationbeyeler.ch/de/ausstellungen/constellations",
+   "quelle": "https://www.fondationbeyeler.ch/de/ausstellungen/constellations"
+  },
+  {
+   "titel": "Ruth Asawa",
+   "untertitel": "Die erste Retrospektive Ruth Asawas (1926–2013) in Europa",
+   "beginn": "2026-10-18",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Fondation Beyeler",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": "",
+   "kuenstler": [
+    "Ruth Asawa"
+   ],
+   "einzelausstellung_von": "Ruth Asawa",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.fondationbeyeler.ch/de/ausstellungen/ruth-asawa",
+   "quelle": "https://www.fondationbeyeler.ch/de/ausstellungen/ruth-asawa",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

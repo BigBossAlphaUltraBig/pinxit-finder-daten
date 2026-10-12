@@ -1,0 +1,29 @@
+{
+ "domain": "keramik-museum-berlin.de",
+ "website": "http://www.keramik-museum-berlin.de",
+ "haeuser": {
+  "Keramik-Museum Berlin": {
+   "haus": "Keramik-Museum Berlin",
+   "oeffnungszeiten": {
+    "mo": "13:00-17:00",
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": "13:00-17:00",
+    "sa": "13:00-17:00",
+    "so": "13:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "5 €",
+   "eintritt_ermaessigt": "3 €",
+   "quelle": "http://www.keramik-museum-berlin.de/"
+  }
+ },
+ "seiten": [
+  "http://www.keramik-museum-berlin.de/category/ausstellungen/",
+  "http://www.keramik-museum-berlin.de/museum/information-in-english/",
+  "http://www.keramik-museum-berlin.de/"
+ ],
+ "abgerufen": "2026-10-08T18:06:05",
+ "status": "unvollständig"
+}

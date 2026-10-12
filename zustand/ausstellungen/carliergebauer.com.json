@@ -1,0 +1,63 @@
+{
+ "domain": "carliergebauer.com",
+ "website": "http://www.carliergebauer.com",
+ "haeuser": "Carlier Gebauer",
+ "land": "DE",
+ "ids": "galerie-carlier-gebauer-berlin",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://www.carliergebauer.com/external-exhibition/clearview-galeria-arsenal-bialystok/",
+  "https://www.carliergebauer.com/external-exhibition/lucia-koch-anatomy-of-presence-schauwerk-sindelfingen/"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "CLEARVIEW",
+   "untertitel": "Pakui Hardware",
+   "beginn": "2026-09-25",
+   "ende": "2027-02-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Carlier Gebauer",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Pakui Hardware"
+   ],
+   "anderer_ort": "Galeria Arsenal, Białystok",
+   "eroeffnung": null,
+   "schwerpunkt": null,
+   "url": "https://www.carliergebauer.com/external-exhibition/clearview-galeria-arsenal-bialystok/",
+   "quelle": "https://www.carliergebauer.com/external-exhibition/clearview-galeria-arsenal-bialystok/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Galeria Arsenal, Białystok"
+  },
+  {
+   "titel": "Anatomy Of Presence",
+   "untertitel": "Lúcia Koch",
+   "beginn": "2026-09-27",
+   "ende": "2027-07-18",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Carlier Gebauer",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Lúcia Koch",
+    "Vivian Caccuri",
+    "Henrique Oliveira"
+   ],
+   "anderer_ort": "SCHAUWERK Sindelfingen",
+   "url": "https://www.carliergebauer.com/external-exhibition/lucia-koch-anatomy-of-presence-schauwerk-sindelfingen/",
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://www.carliergebauer.com/external-exhibition/lucia-koch-anatomy-of-presence-schauwerk-sindelfingen/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: SCHAUWERK Sindelfingen"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

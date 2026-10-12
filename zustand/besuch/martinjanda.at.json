@@ -1,0 +1,28 @@
+{
+ "domain": "martinjanda.at",
+ "website": "https://www.martinjanda.at",
+ "haeuser": {
+  "Galerie Martin Janda": {
+   "haus": "Galerie Martin Janda",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.martinjanda.at/contact/",
+   "quelle": "https://www.martinjanda.at/contact/"
+  }
+ },
+ "seiten": [
+  "https://www.martinjanda.at/cookie-policy-eu/",
+  "https://www.martinjanda.at/",
+  "https://www.martinjanda.at/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:37:10",
+ "status": "ok"
+}

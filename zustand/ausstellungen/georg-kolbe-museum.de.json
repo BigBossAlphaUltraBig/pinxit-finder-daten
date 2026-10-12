@@ -1,0 +1,118 @@
+{
+ "domain": "georg-kolbe-museum.de",
+ "website": "http://www.georg-kolbe-museum.de",
+ "haeuser": "Georg-Kolbe-Museum",
+ "land": "DE",
+ "ids": "way/72509827",
+ "status": "ok",
+ "seiten": [
+  "https://georg-kolbe-museum.de/programm/ausstellungen/",
+  "https://georg-kolbe-museum.de/programm/ausstellungen/everybody/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Ro Robertson – The Swimmer",
+   "untertitel": "Räume schaffen. Die Konstruktivistin Marlow Moss. Mit Leonor Antunes, Tacita Dean, Florette Dijkstra und Ro Robertson",
+   "beginn": "2026-04-02",
+   "ende": "2026-10-18",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Georg-Kolbe-Museum",
+   "rang": 1,
+   "epoche": "gemischt",
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Ro Robertson"
+   ],
+   "url": "https://georg-kolbe-museum.de/programm/ausstellungen/ro-robertson-freeform-i/",
+   "quelle": "https://georg-kolbe-museum.de/programm/ausstellungen/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "everybody",
+   "untertitel": "Mit Pauline Boudry und Renate Lorenz, EVA & ADELE, Carolyn Lazard, Monilola Olayemi Ilupeju, Janne Kummer, Luís Lázaro Matos und Lauryn Youden",
+   "beginn": "2026-08-08",
+   "ende": "2026-11-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Georg-Kolbe-Museum",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Pauline Boudry",
+    "Renate Lorenz",
+    "EVA & ADELE",
+    "Carolyn Lazard",
+    "Monilola Olayemi Ilupeju",
+    "Janne Kummer",
+    "Luís Lázaro Matos",
+    "Lauryn Youden"
+   ],
+   "url": "https://georg-kolbe-museum.de/programm/ausstellungen/everybody/",
+   "quelle": "https://georg-kolbe-museum.de/programm/ausstellungen/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Waschbären, Wildschweine, Windhunde",
+   "untertitel": "Arbeiten auf Papier im Georg Kolbe Museum",
+   "beginn": "2026-12-12",
+   "ende": "2027-02-28",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Georg-Kolbe-Museum",
+   "rang": 3,
+   "epoche": "gemischt",
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Max Liebermann",
+    "Aristide Maillol",
+    "Gerhard Marcks",
+    "Max Pechstein",
+    "Pierre-Auguste Renoir",
+    "Auguste Rodin",
+    "Karl Schmidt-Rottluff",
+    "Renée Sintenis"
+   ],
+   "url": "https://georg-kolbe-museum.de/programm/ausstellungen/waschbaeren-wildschweine-windhunde/",
+   "quelle": "https://georg-kolbe-museum.de/programm/ausstellungen/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Gerd Rohling. Das Licht der Welt",
+   "untertitel": "Das Licht der Welt",
+   "beginn": "2027-04-10",
+   "ende": "2027-09-12",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Georg-Kolbe-Museum",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Gerd Rohling",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Gerd Rohling"
+   ],
+   "url": "https://georg-kolbe-museum.de/programm/ausstellungen/gerd-rohling-das-licht-der-welt/",
+   "quelle": "https://georg-kolbe-museum.de/programm/ausstellungen/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

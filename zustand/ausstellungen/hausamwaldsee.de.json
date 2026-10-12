@@ -1,0 +1,60 @@
+{
+ "domain": "hausamwaldsee.de",
+ "website": "https://www.hausamwaldsee.de/",
+ "haeuser": "Haus am Waldsee",
+ "land": "DE",
+ "ids": "way/31283095",
+ "status": "ok",
+ "seiten": [
+  "https://hausamwaldsee.de/aktuell/",
+  "https://hausamwaldsee.de/vorschau/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Peter Wächtler",
+   "untertitel": "Ständig",
+   "beginn": "2026-10-16",
+   "ende": "2027-01-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Haus am Waldsee",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Peter Wächtler"
+   ],
+   "einzelausstellung_von": "Peter Wächtler",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://hausamwaldsee.de/peter-waechtler/",
+   "quelle": "https://hausamwaldsee.de/aktuell/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Gigantomania",
+   "untertitel": "Das dritte und letzte Kapitel der Ausstellungsreihe „Seit…“ zum 80. Jubiläum des Haus am Waldsee",
+   "beginn": "2026-10-16",
+   "ende": "2027-01-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Haus am Waldsee",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Sophie Kovel"
+   ],
+   "einzelausstellung_von": "Sophie Kovel",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://hausamwaldsee.de/sophie-kovel/",
+   "quelle": "https://hausamwaldsee.de/aktuell/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

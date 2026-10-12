@@ -1,0 +1,28 @@
+{
+ "domain": "westlicht.com",
+ "website": "https://www.westlicht.com/",
+ "haeuser": [
+  {
+   "id": "Q14550991",
+   "name": "WestLicht"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "WestLicht",
+   "titel": "Kameramuseum",
+   "art": "dauerausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "fotografie",
+   "untertitel": "Sammlung historischer Kameras",
+   "url": "https://3dkameramuseum.westlicht.com/",
+   "quelle": "https://www.westlicht.com/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.westlicht.com/"
+ ],
+ "abgerufen": "2026-10-08T22:19:34",
+ "status": "ok"
+}

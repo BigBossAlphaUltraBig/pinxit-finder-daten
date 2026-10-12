@@ -1,0 +1,28 @@
+{
+ "domain": "galeriewatson.de",
+ "website": "https://galeriewatson.de",
+ "haeuser": {
+  "Galerie Watson": {
+   "haus": "Galerie Watson",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.galeriewatson.de/",
+   "hinweis_oeffnung": "Nur nach Vereinbarung (by appointment only)",
+   "quelle": "https://www.galeriewatson.de/contact/"
+  }
+ },
+ "seiten": [
+  "https://www.galeriewatson.de/",
+  "https://www.galeriewatson.de/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:35:58",
+ "status": "unvollständig"
+}

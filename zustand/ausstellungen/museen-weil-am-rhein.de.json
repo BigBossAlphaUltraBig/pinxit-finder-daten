@@ -1,0 +1,55 @@
+{
+ "domain": "museen-weil-am-rhein.de",
+ "website": "https://www.museen-weil-am-rhein.de/stapflehus.html",
+ "haeuser": "Stapflehus",
+ "land": "DE",
+ "ids": "way/100784190",
+ "status": "ok",
+ "seiten": [
+  "https://www.museen-weil-am-rhein.de/ausstellungen.html"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Begegnungen -Skulpturen- Fotografie",
+   "untertitel": "null",
+   "beginn": "2026-03-22",
+   "ende": "2026-10-25",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Stapflehus",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.museen-weil-am-rhein.de/dorfstube.html",
+   "quelle": "https://www.museen-weil-am-rhein.de/ausstellungen.html",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Regelmäßige Führungen mit Rahmenprogramm",
+   "untertitel": "Dauerausstellung im Landwirtschaftsmuseum",
+   "beginn": "2026-04-12",
+   "ende": "2026-10-11",
+   "art": "veranstaltung",
+   "fachgebiet": "geschichte",
+   "haus": "Stapflehus",
+   "rang": 2,
+   "epoche": "andere",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.museen-weil-am-rhein.de/landwirtschaftsmuseum.html",
+   "quelle": "https://www.museen-weil-am-rhein.de/ausstellungen.html",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

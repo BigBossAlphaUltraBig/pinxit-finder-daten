@@ -1,0 +1,65 @@
+{
+ "domain": "galeriejahn.com",
+ "website": "https://galeriejahn.com",
+ "haeuser": "Galerie Wolfgang Jahn",
+ "land": "DE",
+ "ids": "node/3739913973",
+ "status": "ok",
+ "seiten": [
+  "https://galeriejahn.com/de/ausstellungen",
+  "https://galeriejahn.com/de/ausstellungen/Sven-Dr%C3%BChl-09-2026"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Kailash...",
+   "beginn": "2026-10-07",
+   "ende": "2026-11-13",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Wolfgang Jahn",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Bernd Zimmer",
+   "kuenstler": [
+    "Bernd Zimmer"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "untertitel": "Kailash...",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://galeriejahn.com/de/ausstellungen/bernd-zimmer-oktober-2026-la",
+   "quelle": "https://galeriejahn.com/de/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Landscape Engineering II",
+   "beginn": "2026-09-16",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Wolfgang Jahn",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Sven Drühl",
+   "kuenstler": [
+    "Sven Drühl"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "untertitel": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://galeriejahn.com/de/ausstellungen/Sven-Dr%C3%BChl-09-2026",
+   "quelle": "https://galeriejahn.com/de/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

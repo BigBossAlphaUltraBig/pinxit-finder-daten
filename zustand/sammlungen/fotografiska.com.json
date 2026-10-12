@@ -1,0 +1,17 @@
+{
+ "domain": "fotografiska.com",
+ "website": "https://www.fotografiska.com/berlin",
+ "haeuser": [
+  {
+   "id": "node-11272995330",
+   "name": "Fotografiska Berlin"
+  }
+ ],
+ "sammlungen": [],
+ "keine_sammlung": true,
+ "seiten": [
+  "https://berlin.fotografiska.com/en"
+ ],
+ "abgerufen": "2026-10-12T08:11:58",
+ "status": "keine Sammlung"
+}

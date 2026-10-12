@@ -1,0 +1,42 @@
+{
+ "domain": "galerie1565.de",
+ "website": "https://galerie1565.de",
+ "haeuser": "Galerie 1565",
+ "land": "DE",
+ "ids": "node/13336850731",
+ "status": "ok",
+ "seiten": [
+  "https://galerie1565.de/ausstellungen/",
+  "https://galerie1565.de/2026/08/26/common-grounds/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Common Grounds",
+   "untertitel": "",
+   "beginn": "2026-10-01",
+   "ende": "2027-01-27",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie 1565",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Katharina Duwe",
+    "Birgit Klerch"
+   ],
+   "eroeffnung": "2026-09-30T17:30",
+   "url": "https://galerie1565.de/2026/08/26/common-grounds/",
+   "anderer_ort": null,
+   "quelle": "https://galerie1565.de/2026/08/26/common-grounds/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

@@ -1,0 +1,31 @@
+{
+ "domain": "dg-kunstraum.de",
+ "website": "https://www.dg-kunstraum.de/",
+ "haeuser": [
+  {
+   "id": "Q15109311",
+   "name": "Deutsche Gesellschaft für christliche Kunst"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Deutsche Gesellschaft für christliche Kunst",
+   "titel": "Sichtlinien des Möglichen",
+   "art": "dauerausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "medienkunst",
+   "untertitel": "Lichtinstallation von Brigitte Kowanz",
+   "kuenstler": [
+    "Brigitte Kowanz"
+   ],
+   "url": "https://www.dg-kunstraum.de/sichtlinien-kowanz/",
+   "quelle": "https://www.dg-kunstraum.de/sichtlinien-kowanz/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.dg-kunstraum.de/sichtlinien-kowanz/"
+ ],
+ "abgerufen": "2026-10-12T08:11:43",
+ "status": "ok"
+}

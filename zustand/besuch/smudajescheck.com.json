@@ -1,0 +1,26 @@
+{
+ "domain": "smudajescheck.com",
+ "website": "https://smudajescheck.com",
+ "haeuser": {
+  "Smudajescheck Galerie": {
+   "haus": "Smudajescheck Galerie",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "13:00-18:00",
+    "do": null,
+    "fr": "13:00-18:00",
+    "sa": "12:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "gerne nach Vereinbarung",
+   "quelle": "https://smudajescheck.com/"
+  }
+ },
+ "seiten": [
+  "https://smudajescheck.com/"
+ ],
+ "abgerufen": "2026-10-12T07:38:31",
+ "status": "unvollständig"
+}

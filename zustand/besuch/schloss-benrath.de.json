@@ -1,0 +1,28 @@
+{
+ "domain": "schloss-benrath.de",
+ "website": "https://www.schloss-benrath.de/entdecken/museum-fuer-gartenkunst/",
+ "haeuser": {
+  "Museum für Europäische Gartenkunst": {
+   "haus": "Museum für Europäische Gartenkunst",
+   "oeffnungszeiten": {
+    "mo": "11:00-17:00",
+    "di": "11:00-17:00",
+    "mi": "geschlossen",
+    "do": "geschlossen",
+    "fr": "14:00-17:00",
+    "sa": "11:00-18:00",
+    "so": "11:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://tickets.schloss-benrath.de/",
+   "quelle": "https://www.schloss-benrath.de/museum-fuer-gartenkunst"
+  }
+ },
+ "seiten": [
+  "https://www.schloss-benrath.de/besucherinformation",
+  "https://tickets.schloss-benrath.de/",
+  "https://www.schloss-benrath.de/museum-fuer-gartenkunst"
+ ],
+ "abgerufen": "2026-10-12T08:10:24",
+ "status": "ok"
+}

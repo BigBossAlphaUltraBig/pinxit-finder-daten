@@ -1,0 +1,29 @@
+{
+ "domain": "hauskonstruktiv.ch",
+ "website": "https://www.hauskonstruktiv.ch",
+ "haeuser": {
+  "Haus Konstruktiv": {
+   "haus": "Haus Konstruktiv",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "11:00-18:00",
+    "mi": "11:00-20:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": "11:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "CHF 18",
+   "eintritt_ermaessigt": "CHF 12",
+   "frei_fuer": "bis 18 Jahre, Gönner:innen, Mitglieder",
+   "hinweis_oeffnung": "Während Umbauphasen zwischen Ausstellungen geschlossen",
+   "quelle": "https://www.hauskonstruktiv.ch/besuch"
+  }
+ },
+ "seiten": [
+  "https://www.hauskonstruktiv.ch/besuch"
+ ],
+ "abgerufen": "2026-10-12T08:05:47",
+ "status": "ok"
+}

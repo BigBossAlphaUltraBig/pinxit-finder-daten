@@ -1,0 +1,28 @@
+{
+ "domain": "galerie-karin-guenther.de",
+ "website": "https://galerie-karin-guenther.de",
+ "haeuser": {
+  "Galerie Karin Guenther": {
+   "haus": "Galerie Karin Guenther",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "14:00-18:00",
+    "do": "14:00-18:00",
+    "fr": "14:00-18:00",
+    "sa": "12:00-15:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://galerie-karin-guenther.de/contact.html",
+   "hinweis_oeffnung": "Öffnungszeiten und Eintrittspreise auf der Seite nicht angegeben. Die Kontaktseite kann weitere Informationen enthalten.",
+   "quelle": "https://galerie-karin-guenther.de/contact.html"
+  }
+ },
+ "seiten": [
+  "https://galerie-karin-guenther.de/",
+  "https://galerie-karin-guenther.de/contact.html"
+ ],
+ "abgerufen": "2026-10-12T07:34:40",
+ "status": "unvollständig"
+}

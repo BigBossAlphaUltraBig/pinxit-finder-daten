@@ -1,0 +1,91 @@
+{
+ "domain": "galeriethoman.com",
+ "website": "https://www.galeriethoman.com",
+ "haeuser": "Galerie Elisabeth & Klaus Thoman",
+ "land": "AT",
+ "ids": "galerie-galerie-elisabeth-klaus-thoman-wien",
+ "status": "ok",
+ "seiten": [
+  "https://www.galeriethoman.com/exhibitions/",
+  "https://www.galeriethoman.com/exhibitions/after-love-curated-by-benedikt-wyss-469f0b18/?tab=e-n-tab-title-1614615612"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "After Love",
+   "untertitel": "curated by Benedikt Wyss",
+   "beginn": "2026-09-14",
+   "ende": "2026-10-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Elisabeth & Klaus Thoman",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Museum of Broken Relationships",
+    "Nanna Kaiser",
+    "R. Sebastian Schachinger"
+   ],
+   "url": "https://www.galeriethoman.com/exhibitions/after-love-curated-by-benedikt-wyss-469f0b18/",
+   "quelle": "https://www.galeriethoman.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "SOPRATUTTO",
+   "untertitel": "null",
+   "beginn": "2026-06-20",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Elisabeth & Klaus Thoman",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": "2026-06-19T18:00",
+   "einzelausstellung_von": "Florin Kompatscher",
+   "kuenstler": [
+    "Florin Kompatscher"
+   ],
+   "url": "https://www.galeriethoman.com/exhibitions/sopratutto-2da972a1/",
+   "quelle": "https://www.galeriethoman.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "The Crunchtime. Where the rubber hit the road",
+   "untertitel": "Where the rubber hit the road",
+   "beginn": "2026-11-13",
+   "ende": "2027-01-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Elisabeth & Klaus Thoman",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Julia Haugeneder",
+   "kuenstler": [
+    "Julia Haugeneder"
+   ],
+   "url": "https://www.galeriethoman.com/exhibitions/the-crunchtime-where-the-rubber-hit-the-road-08a30b9f/",
+   "quelle": "https://www.galeriethoman.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

@@ -1,0 +1,28 @@
+{
+ "domain": "sophietappeiner.com",
+ "website": "https://www.sophietappeiner.com",
+ "haeuser": {
+  "Sophie Tappeiner": {
+   "haus": "Sophie Tappeiner",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.sophietappeiner.com/contact/",
+   "hinweis_oeffnung": "Geschlossen an österreichischen Feiertagen. Nach Vereinbarung geöffnet.",
+   "quelle": "https://www.sophietappeiner.com/contact/"
+  }
+ },
+ "seiten": [
+  "https://www.sophietappeiner.com/",
+  "https://www.sophietappeiner.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:38:35",
+ "status": "unvollständig"
+}

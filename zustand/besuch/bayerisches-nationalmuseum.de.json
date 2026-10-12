@@ -1,0 +1,29 @@
+{
+ "domain": "bayerisches-nationalmuseum.de",
+ "website": "https://www.bayerisches-nationalmuseum.de/besuch/zweigmuseen/kunst-und-wunderkammer",
+ "haeuser": {
+  "Kunst- und Wunderkammer": {
+   "haus": "Kunst- und Wunderkammer",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-17:00",
+    "mi": "10:00-17:00",
+    "do": "10:00-20:00",
+    "fr": "10:00-17:00",
+    "sa": null,
+    "so": "10:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "7,00 Euro",
+   "eintritt_ermaessigt": "6,00 Euro",
+   "frei_fuer": "unter 18 Jahren",
+   "frei_wann": "jeden Sonntag",
+   "quelle": "https://www.bayerisches-nationalmuseum.de/besuch"
+  }
+ },
+ "seiten": [
+  "https://www.bayerisches-nationalmuseum.de/besuch"
+ ],
+ "abgerufen": "2026-10-12T08:03:43",
+ "status": "ok"
+}

@@ -1,0 +1,6057 @@
+{
+ "node-11272298469": {
+  "haus": "Galerie Amart",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": "11:00-19:00",
+   "fr": "11:00-19:00",
+   "sa": "11:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.amart.at/kontakt/",
+  "quelle": "https://www.amart.at/kontakt/",
+  "hinweis_oeffnung": "Mo, Di, Mi nach Vereinbarung",
+  "stand": "2026-10-12"
+ },
+ "Q107719070": {
+  "haus": "Galerie Artecont",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-16:00",
+   "so": "geschlossen"
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "An Sonn- und Feiertagen geschlossen",
+  "quelle": "https://www.artecont.at/",
+  "stand": "2026-10-12"
+ },
+ "node-13361062401": {
+  "haus": "Commune",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.commune-gallery.com/contact/",
+  "quelle": "https://www.commune-gallery.com/contact/",
+  "hinweis_oeffnung": "Oder nach Vereinbarung",
+  "stand": "2026-10-12"
+ },
+ "node-10794560411": {
+  "haus": "Galerie Hubert Winter",
+  "oeffnungszeiten": {
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-14:00",
+   "mo": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.galeriewinter.at/kontakt/",
+  "hinweis_oeffnung": "Öffnungszeiten nicht auf Startseite angegeben",
+  "quelle": "https://www.galeriewinter.at/kontakt/",
+  "stand": "2026-10-12"
+ },
+ "Q1491869": {
+  "haus": "Galerie Konzett",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-14:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.artkonzett.com/en/konzett-gallery-en/",
+  "quelle": "https://www.artkonzett.com/en/exhibitions/current/",
+  "stand": "2026-10-12"
+ },
+ "Q50376654": {
+  "haus": "Sylvia Kovacek",
+  "oeffnungszeiten": {
+   "mo": "10:00-18:00",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-14:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.kovacek.at/de",
+  "stand": "2026-10-12"
+ },
+ "Q18624392": {
+  "haus": "Galerie Kovacek & Zetter",
+  "oeffnungszeiten": {
+   "mo": "10:00-18:00",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "11:00-15:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.kovacek-zetter.at/",
+  "stand": "2026-10-12"
+ },
+ "Q115861120": {
+  "haus": "Galerie Krinzinger",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "11:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://galerie-krinzinger.at/contact/",
+  "hinweis_oeffnung": "Öffnungszeiten und Eintrittspreise auf der Seite nicht angegeben",
+  "quelle": "https://galerie-krinzinger.at/contact/",
+  "stand": "2026-10-12"
+ },
+ "node-12285168501": {
+  "haus": "Galerie Kandlhofer",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.kandlhofer.com/contact/",
+  "quelle": "https://www.kandlhofer.com/contact/",
+  "stand": "2026-10-12"
+ },
+ "node-2522324106": {
+  "haus": "Galerie Reinthaler",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "13:00-18:00",
+   "mi": "13:00-18:00",
+   "do": "13:00-18:00",
+   "fr": "13:00-18:00",
+   "sa": "12:00-15:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.agnesreinthaler.com/",
+  "stand": "2026-10-12"
+ },
+ "node-10998260523": {
+  "haus": "Wienerroither & Kohlbacher",
+  "oeffnungszeiten": {
+   "mo": "10:00-18:00",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.w-k.art/gallery/about",
+  "hinweis_oeffnung": "Öffnungszeiten auf der Website nicht angegeben",
+  "quelle": "https://www.w-k.art/gallery/contact",
+  "stand": "2026-10-12"
+ },
+ "node-3906053348": {
+  "haus": "Galerie Ernst Hilger",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Saturday on appointment",
+  "quelle": "https://www.hilger.at/",
+  "stand": "2026-10-12"
+ },
+ "node-6294281849": {
+  "haus": "Smolka Contemporary",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "13:00-18:00",
+   "mi": "13:00-18:00",
+   "do": "13:00-18:00",
+   "fr": "13:00-18:00",
+   "sa": "11:00-14:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "nach Vereinbarung möglich",
+  "quelle": "https://smolkacontemporary.at/de/",
+  "stand": "2026-10-12"
+ },
+ "node-4088663777": {
+  "haus": "zs art galerie",
+  "oeffnungszeiten": {
+   "mo": "12:00-18:00",
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "geschlossen",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.zsart.at/de/exhibitions/2026/charaktere/",
+  "quelle": "https://www.zsart.at/de/",
+  "hinweis_oeffnung": "Sa nach Vereinbarung",
+  "stand": "2026-10-12"
+ },
+ "Q414219": {
+  "haus": "Akademie der bildenden Künste Wien",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "Das Datum 2026-10-08 fällt nach den Sommerferien (bis 27.09.2026). Am 26.10.2026 ist Nationalfeiertag (geschlossen).",
+  "quelle": "https://www.akbild.ac.at/de",
+  "bessere_seite": "https://www.akbild.ac.at/de/universitaet/universitaetsbibliothek/oeffnungszeiten",
+  "stand": "2026-10-08"
+ },
+ "Q371908": {
+  "haus": "Albertina",
+  "oeffnungszeiten": {
+   "mo": "10:00-18:00",
+   "di": "10:00-18:00",
+   "mi": "10:00-21:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-21:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.albertina.at/besuch/tickets/",
+  "quelle": "https://www.albertina.at/besuch/oeffnungszeiten/",
+  "stand": "2026-10-08"
+ },
+ "node-9983513676": {
+  "haus": "Albertina modern",
+  "oeffnungszeiten": {
+   "mo": "10:00-18:00",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.albertina.at/besuch/tickets/",
+  "quelle": "https://www.albertina.at/besuch/oeffnungszeiten/",
+  "stand": "2026-10-08"
+ },
+ "Q635399": {
+  "haus": "Architekturzentrum Wien",
+  "oeffnungszeiten": {
+   "mo": "10:00-18:00",
+   "di": "10:00-18:00",
+   "mi": "10:00-20:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "€ 12",
+  "eintritt_ermaessigt": "€ 9",
+  "frei_fuer": "Kinder unter 6 Jahren, ICOM Karte, Kulturpassbesitzer*innen, Fremdenführer*innen, Az W-Partner*innen, Beschäftigungslose, Vienna Expertsclub, IAA, Studierende und Schüler*innen (Mittwoch 17:00-20:00 Uhr)",
+  "frei_wann": "1. Mai und 26. Oktober; Mittwoch 17:00-20:00 Uhr für Studierende und Schüler*innen",
+  "quelle": "https://www.azw.at/de/artikel/besuch/",
+  "stand": "2026-10-12"
+ },
+ "Q703964": {
+  "haus": "Ars Electronica Center",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-17:00",
+   "mi": "10:00-17:00",
+   "do": "10:00-17:00",
+   "fr": "10:00-17:00",
+   "sa": "10:00-17:00",
+   "so": "10:00-17:00"
+  },
+  "eintritt_regulaer": "14,00 €",
+  "eintritt_ermaessigt": "12,00 €",
+  "eintritt_immer_frei": false,
+  "frei_fuer": "unter 6 Jahren",
+  "frei_wann": "jeden Sonntag (1+1 gratis mit LINZ AG Fahrkarte/KlimaTicket)",
+  "hinweis_oeffnung": "geschlossen am 24.12., 25.12., 31.12., 1.1., 1.5.",
+  "quelle": "https://ars.electronica.art/center/de/tickets/",
+  "stand": "2026-10-08"
+ },
+ "Q780583": {
+  "haus": "Ausstellungsbrücke",
+  "oeffnungszeiten": {
+   "mo": "08:00-18:00",
+   "di": "08:00-18:00",
+   "mi": "08:00-18:00",
+   "do": "08:00-18:00",
+   "fr": "08:00-18:00",
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Sa., So. u. Feiertag beim Portier läuten",
+  "quelle": "https://www.noe.gv.at/noe/Kunst-Kultur/Besucherinfos_Ausstellungsbruecke.html",
+  "stand": "2026-10-08"
+ },
+ "node-1747565712": {
+  "haus": "Christine König Galerie",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://christinekoeniggalerie.com/contact/",
+  "quelle": "https://christinekoeniggalerie.com/contact/",
+  "stand": "2026-10-12"
+ },
+ "node-12691488939": {
+  "haus": "Foto Arsenal Wien",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-19:00",
+   "mi": "11:00-19:00",
+   "do": "11:00-19:00",
+   "fr": "11:00-19:00",
+   "sa": "11:00-19:00",
+   "so": "11:00-19:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "10 €",
+  "eintritt_ermaessigt": "7 €",
+  "frei_fuer": "unter 19 Jahren",
+  "quelle": "https://www.fotoarsenalwien.at/de/kontakt",
+  "stand": "2026-10-12"
+ },
+ "Q19823294": {
+  "haus": "Galerie nächst St. Stephan",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.schwarzwaelder.at/",
+  "quelle": "https://www.schwarzwaelder.at/contact",
+  "hinweis_oeffnung": "Öffnungszeiten auf der About-Seite nicht angegeben",
+  "stand": "2026-10-08"
+ },
+ "node-4634672330": {
+  "haus": "Galerie Schnitzler und Lindenberger",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "15:00-18:00",
+   "do": "15:00-18:00",
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.sl-galerie.at/",
+  "stand": "2026-10-12"
+ },
+ "way-29714953": {
+  "haus": "Halle für Kunst Steiermark",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "5 Euro",
+  "eintritt_ermaessigt": "4 Euro",
+  "frei_fuer": "unter 19 Jahren sowie Künstler:innen",
+  "hinweis_oeffnung": "Geschlossen 22.12.2026–6.1.2027",
+  "quelle": "https://halle-fuer-kunst.at/info/besuch/",
+  "stand": "2026-10-12"
+ },
+ "Q136771971": {
+  "haus": "Heidi Horten Collection",
+  "oeffnungszeiten": {
+   "mo": "11:00-19:00",
+   "di": "geschlossen",
+   "mi": "11:00-19:00",
+   "do": "11:00-21:00",
+   "fr": "11:00-19:00",
+   "sa": "11:00-19:00",
+   "so": "11:00-19:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "€ 18",
+  "eintritt_ermaessigt": "€ 16 (Senior*innen über 65, Gruppen ab 10), € 9 (Studierende unter 27 + Zivildienst)",
+  "frei_fuer": "Kinder & Jugendliche unter 19 Jahre, Personen mit Behindertenausweis + Assistenzperson",
+  "quelle": "https://hortencollection.com/tickets",
+  "stand": "2026-10-08"
+ },
+ "Q677548": {
+  "haus": "Kunsthalle Wien",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-20:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://kunsthallewien.at/besuch/eintrittspreise",
+  "quelle": "https://kunsthallewien.at/besuch/offnungszeiten",
+  "stand": "2026-10-08"
+ },
+ "Q597137": {
+  "haus": "Kunsthaus Graz",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "13 €",
+  "eintritt_ermaessigt": "6,50 €",
+  "frei_fuer": "unter 19 Jahren",
+  "bessere_seite": "https://www.museum-joanneum.at/en/neue-galerie-graz",
+  "quelle": "https://www.museum-joanneum.at/en/kunsthaus-graz/your-visit/admission",
+  "stand": "2026-10-12"
+ },
+ "Q1979511": {
+  "haus": "Neue Galerie Graz",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.museum-joanneum.at/en/neue-galerie-graz/your-visit/admission",
+  "quelle": "https://www.museum-joanneum.at/en/neue-galerie-graz/your-visit/admission",
+  "eintritt_regulaer": "13 €",
+  "eintritt_ermaessigt": "11 €",
+  "frei_fuer": "Kinder unter 6 Jahren",
+  "stand": "2026-10-12"
+ },
+ "Q638493": {
+  "haus": "KunstHausWien",
+  "oeffnungszeiten": {
+   "mo": "10:00-18:00",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.kunsthauswien.com/besuch#tickets-preise",
+  "quelle": "https://www.kunsthauswien.com/besuch",
+  "stand": "2026-10-08"
+ },
+ "Q95569": {
+  "haus": "Kunsthistorisches Museum Wien",
+  "oeffnungszeiten": {
+   "mo": "10:00-18:00",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-21:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "€24",
+  "eintritt_ermaessigt": "€20",
+  "frei_fuer": "unter 19 Jahren",
+  "hinweis_oeffnung": "Ab 8. September 2026 nur mit reserviertem Zeitfenster",
+  "quelle": "https://www.khm.at/en/visit",
+  "stand": "2026-10-08"
+ },
+ "Q1792553": {
+  "haus": "Kunstmuseum Waldviertel",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "10:00-17:00",
+   "mi": "10:00-17:00",
+   "do": "10:00-17:00",
+   "fr": "10:00-17:00",
+   "sa": "10:00-17:00",
+   "so": "10:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "€ 10,90",
+  "eintritt_ermaessigt": "€ 8,90",
+  "frei_fuer": "NÖ Card, Förderer des Museums, Jahreskartenbesitzer",
+  "hinweis_oeffnung": "Oktober bis Jänner (aktuell); Juli-September täglich 10-18 Uhr; geschlossen 24.12., 25.12., 26.12., 31.12., 01.01.",
+  "quelle": "https://daskunstmuseum.at/oeffnungszeiten-eintrittspreise/",
+  "stand": "2026-10-08"
+ },
+ "node-11411007720": {
+  "haus": "Kunstraum Niederösterreich",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-19:00",
+   "mi": "11:00-19:00",
+   "do": "11:00-19:00",
+   "fr": "11:00-19:00",
+   "sa": "11:00-15:00",
+   "so": "geschlossen"
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Mo, So und Feiertag geschlossen. Öffnungszeiten während der Ausstellung.",
+  "quelle": "https://www.kunstraum.net/de/besuch",
+  "stand": "2026-10-08"
+ },
+ "Q284902": {
+  "haus": "Künstlerhaus Wien",
+  "oeffnungszeiten": {
+   "mo": "10:00-18:00",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "€ 12,-",
+  "eintritt_ermaessigt": "€ 9,-",
+  "frei_fuer": "Schüler*innen (< 19 Jahre), Kulturpass, Museumsbund, ADKV, AICA, IAA, ICOM, BÖKWE, Phileas, Österreichischer Verband der Kulturvermittler*innen, Mitglieder der Künstlerhaus Vereinigung, Behindertenausweis Besitzer*innen und eine Begleitperson",
+  "quelle": "https://www.kuenstlerhaus.at/besuch/info-ticket/",
+  "stand": "2026-10-08"
+ },
+ "Q59435": {
+  "haus": "Leopold Museum",
+  "oeffnungszeiten": {
+   "mo": "10:00-18:00",
+   "di": "geschlossen",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.leopoldmuseum.org/en/visit/tickets",
+  "quelle": "https://www.leopoldmuseum.org/en/visit/opening-hours",
+  "stand": "2026-10-08"
+ },
+ "Q478455": {
+  "haus": "MAK - Museum für angewandte Kunst",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-21:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.mak.at/tickets",
+  "quelle": "https://www.mak.at/besuch",
+  "stand": "2026-10-08"
+ },
+ "Q1775271": {
+  "haus": "Museum der Moderne Salzburg",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-20:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_regulaer": "€ 15",
+  "eintritt_ermaessigt": "€ 12",
+  "frei_fuer": "unter 19 Jahren",
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "Mo geöffnet an Feiertagen und während Oster-, Pfingst- und Sommerfestspielen 10:00-18:00",
+  "quelle": "https://www.museumdermoderne.at/ihr-besuch/",
+  "stand": "2026-10-12"
+ },
+ "relation-3327361": {
+  "haus": "Museum Gugging",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-17:00",
+   "mi": "10:00-17:00",
+   "do": "10:00-17:00",
+   "fr": "10:00-17:00",
+   "sa": "10:00-17:00",
+   "so": "10:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.museumgugging.at/de/besuch/informationen",
+  "quelle": "https://www.museumgugging.at/de/besuch",
+  "stand": "2026-10-08"
+ },
+ "Q689951": {
+  "haus": "Museum Moderner Kunst Stiftung Ludwig Wien",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "€ 18,–",
+  "eintritt_ermaessigt": "€ 15,–",
+  "frei_fuer": "unter 19 Jahren",
+  "quelle": "https://www.mumok.at/en/visit/tickets-opening-hours",
+  "stand": "2026-10-08"
+ },
+ "Q699943": {
+  "haus": "MuseumsQuartier",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.mqw.at/en/visit/ticket-information/",
+  "hinweis_oeffnung": "MQ-Gelände 24h offen, MQ Tickets & Shop 10:00-19:00",
+  "quelle": "https://www.mqw.at/en/venues-spaces/",
+  "stand": "2026-10-08"
+ },
+ "Q140218216": {
+  "haus": "Rhizom",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://rhizom.mur.at/about/",
+  "quelle": "https://rhizom.mur.at/kontakt/",
+  "stand": "2026-10-12"
+ },
+ "Q686488": {
+  "haus": "Weltmuseum Wien",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-21:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "€ 16",
+  "eintritt_ermaessigt": "€ 12",
+  "frei_fuer": "unter 19 Jahren",
+  "hinweis_oeffnung": "Aufgrund von Fassadensanierungsarbeiten der Neuen Hofburg können kurzfristige Raumschließungen vorkommen",
+  "quelle": "https://www.weltmuseumwien.at/besuch",
+  "stand": "2026-10-08"
+ },
+ "Q14550991": {
+  "haus": "WestLicht",
+  "oeffnungszeiten": {
+   "mo": "11:00-19:00",
+   "di": "11:00-19:00",
+   "mi": "11:00-19:00",
+   "do": "11:00-21:00",
+   "fr": "11:00-19:00",
+   "sa": "11:00-19:00",
+   "so": "11:00-19:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "16 €",
+  "eintritt_ermaessigt": "12 €",
+  "frei_fuer": "Kinder unter 6 Jahre; Menschen mit Behindertenausweis ab 6 €",
+  "quelle": "https://www.westlicht.com/westlicht/de/besuch",
+  "stand": "2026-10-08"
+ },
+ "Q505873": {
+  "haus": "Wien Museum",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.wienmuseum.at/standorte",
+  "quelle": "https://www.wienmuseum.at/wien_museum",
+  "hinweis_oeffnung": "Öffnungszeiten und Eintrittspreise stehen auf der Standorte-Seite",
+  "stand": "2026-10-08"
+ },
+ "Q265129": {
+  "haus": "Wiener Secessionsgebäude",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "13,00 €",
+  "eintritt_ermaessigt": "7,50 €",
+  "frei_fuer": "Kinder unter 12",
+  "frei_wann": "jeden ersten Mittwoch im Monat",
+  "quelle": "https://secession.at/informationen_tickets",
+  "stand": "2026-10-08"
+ },
+ "Q303139": {
+  "haus": "Österreichische Galerie Belvedere",
+  "oeffnungszeiten": {
+   "mo": "09:00-18:00",
+   "di": "09:00-18:00",
+   "mi": "09:00-18:00",
+   "do": "09:00-18:00",
+   "fr": "09:00-18:00",
+   "sa": "09:00-18:00",
+   "so": "09:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "€ 23,00",
+  "bessere_seite": "https://www.belvedere.at/en/visit/upper-belvedere",
+  "quelle": "https://www.belvedere.at/en/visit/upper-belvedere",
+  "stand": "2026-10-08"
+ },
+ "node-2681794868": {
+  "haus": "Galerie Mark Müller",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "11:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.markmueller.ch/",
+  "stand": "2026-10-12"
+ },
+ "node-11633753606": {
+  "haus": "Galerie Peter Kilchmann (Zahnradstrasse)",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "11:00-17:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.peterkilchmann.com/about/locations/",
+  "hinweis_oeffnung": "Öffnungszeiten laut Website, by appointment möglich",
+  "quelle": "https://www.peterkilchmann.com/exhibitions/649-didier-william-lot-bo-d-lo-a-the-other-side-of/",
+  "stand": "2026-10-12"
+ },
+ "node-11758825733": {
+  "haus": "Häusler Contemporary",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://haeusler-contemporary.com/kontakt",
+  "quelle": "https://haeusler-contemporary.com/kontakt",
+  "hinweis_oeffnung": "Sa nach Vereinbarung; keine Eintrittspreise auf der Website angegeben",
+  "stand": "2026-10-12"
+ },
+ "node-11608415098": {
+  "haus": "Lullin + Ferrari",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "11:00-17:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.lullinferrari.com/",
+  "stand": "2026-10-12"
+ },
+ "Q130247070": {
+  "haus": "9a am Stauffacherplatz – das kleine Kunsthaus",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.9a-stauffacherplatz.ch/",
+  "hinweis_oeffnung": "Website zeigt nur Ausstellungstermine, reguläre Wochenöffnungszeiten nicht verfügbar",
+  "quelle": "https://www.9a-stauffacherplatz.ch/%C3%BCber-uns",
+  "stand": "2026-10-12"
+ },
+ "Q130247332": {
+  "haus": "_artundweise kunst- und denkraum",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": "16:00-19:00",
+   "fr": "14:00-19:00",
+   "sa": "14:00-17:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Ausstellungsspezifische Zeiten, gerne nach Vereinbarung",
+  "quelle": "https://www.art-und-weise.org/",
+  "stand": "2026-10-12"
+ },
+ "Q29574934": {
+  "haus": "Aargauer Kunsthaus",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-17:00",
+   "mi": "10:00-17:00",
+   "do": "10:00-20:00",
+   "fr": "10:00-17:00",
+   "sa": "10:00-17:00",
+   "so": "10:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://shop.aargauerkunsthaus.ch/events/#eintritt",
+  "quelle": "https://aargauerkunsthaus.ch/de/besuch/besuch-planen/",
+  "stand": "2026-10-08"
+ },
+ "Q318289": {
+  "haus": "Abegg-Stiftung",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "14:00-17:30",
+   "mi": "14:00-17:30",
+   "do": "14:00-17:30",
+   "fr": "14:00-17:30",
+   "sa": "14:00-17:30",
+   "so": "14:00-17:30"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "CHF 10.–",
+  "eintritt_ermaessigt": "CHF 5.–",
+  "frei_fuer": "Kinder, Schulpflichtige, Lehrlinge und Studierende; Schweizer Museumspass, Museums-PASS-Musées; Raiffeisen-Karte mit MemberPlus-Mitgliedschaft; ICOM-, ICOMOS und VMS-Mitglieder",
+  "hinweis_oeffnung": "26. April – 8. November 2026",
+  "quelle": "https://www.abegg-stiftung.ch/ihr-besuch",
+  "stand": "2026-10-08"
+ },
+ "Q27488831": {
+  "haus": "Alberto Giacometti Museum Sent",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-18:00",
+   "so": "12:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.aldier.ch/de/alberto-giacometti/alberto-giacometti-museum/37-0.html",
+  "quelle": "https://www.aldier.ch/de/alberto-giacometti/alberto-giacometti-museum/37-0.html",
+  "eintritt_regulaer": "CHF 10.00",
+  "stand": "2026-10-08"
+ },
+ "Q4735602": {
+  "haus": "Alpineum",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "09:00-18:00",
+   "mi": "09:00-18:00",
+   "do": "09:00-18:00",
+   "fr": "09:00-18:00",
+   "sa": "09:00-18:00",
+   "so": "09:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "CHF 10.00",
+  "eintritt_ermaessigt": "CHF 7.00",
+  "quelle": "https://www.alpineum.ch/",
+  "stand": "2026-10-08"
+ },
+ "Q27488845": {
+  "haus": "Andrea Robbi Museum",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "11:00-17:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "oder nach Vereinbarung",
+  "quelle": "https://www.stephanwitschi.ch/",
+  "stand": "2026-10-12"
+ },
+ "Q576081": {
+  "haus": "Antikenmuseum Basel und Sammlung Ludwig",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-17:00",
+   "mi": "11:00-17:00",
+   "do": "11:00-17:00",
+   "fr": "11:00-22:00",
+   "sa": "11:00-17:00",
+   "so": "11:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.antikenmuseumbasel.ch/de/ueber-uns.html",
+  "hinweis_oeffnung": "Informationen zu regulären Öffnungszeiten und Eintritt nicht auf der angegebenen Seite verfügbar",
+  "quelle": "https://www.antikenmuseumbasel.ch/de/kalender.html",
+  "eintritt_ermaessigt": "CHF 5",
+  "frei_fuer": "Schulklassen aus BS und BL bis 12 Jahre",
+  "stand": "2026-10-12"
+ },
+ "Q27479777": {
+  "haus": "Antikensammlung",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": "14:00-17:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Nach Vereinbarung. Abguss-Sammlung samstags 14-17 Uhr; Originalsammlung geöffnet nach Vereinbarung. Gratis ins Museum an bestimmten Samstagen (08.08., 15.08., 22.08., 29.08.2026)",
+  "quelle": "https://www.iaw.unibe.ch/forschung/archaeologie_des_mittelmeerraumes/antikensammlung_bern/index_ger.html",
+  "stand": "2026-10-12"
+ },
+ "Q19362470": {
+  "haus": "Berner Designstiftung (ehemals Bernische Stiftung für angewandte Kunst und Gestaltung)",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://bernerdesignstiftung.ch/de/",
+  "quelle": "https://bernerdesignstiftung.ch/de/ueber-uns/",
+  "stand": "2026-10-12"
+ },
+ "Q638236": {
+  "haus": "Centre Le Corbusier",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-20:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-18:00",
+   "so": "12:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "CHF 15",
+  "eintritt_ermaessigt": "CHF 10",
+  "frei_fuer": "unter 20 Jahren",
+  "frei_wann": "jeden Donnerstag ab 17:00",
+  "hinweis_oeffnung": "Saison: 17. April bis 29. November",
+  "quelle": "https://pavillon-le-corbusier.ch/de",
+  "stand": "2026-10-12"
+ },
+ "Q673833": {
+  "haus": "Fondation Beyeler",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "geschlossen",
+   "mi": "10:00-20:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.fondationbeyeler.ch/de/besuch/tickets",
+  "quelle": "https://www.fondationbeyeler.ch/de/besuch",
+  "hinweis_oeffnung": "Preview Phase ab 26. September 2026 mit speziellen Öffnungszeiten",
+  "stand": "2026-10-12"
+ },
+ "node-793916698": {
+  "haus": "Galerie Kornfeld",
+  "oeffnungszeiten": {
+   "mo": "14:00-17:00",
+   "di": "14:00-17:00",
+   "mi": "14:00-17:00",
+   "do": "14:00-17:00",
+   "fr": "14:00-17:00",
+   "sa": "10:00-14:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.kornfeld.ch/d625.html",
+  "hinweis_oeffnung": "Öffnungszeiten auf der Seite Galerie Kornfeld verfügbar",
+  "quelle": "https://www.kornfeld.ch/d625.html",
+  "stand": "2026-10-12"
+ },
+ "Q111884267": {
+  "haus": "Galerie Milchhütte",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://freizumi.ch/galerie-milchhuette/",
+  "quelle": "https://freizumi.ch/galerie-milchhuette/aktuelles-programm/",
+  "hinweis_oeffnung": "Informationen nicht auf der angegebenen Seite verfügbar",
+  "stand": "2026-10-12"
+ },
+ "Q27490235": {
+  "haus": "Graphische Sammlung der ETH",
+  "oeffnungszeiten": {
+   "mo": "10:00-17:00",
+   "di": "10:00-17:00",
+   "mi": "10:00-17:00",
+   "do": "10:00-17:00",
+   "fr": "10:00-17:00",
+   "sa": "10:00-17:00",
+   "so": "10:00-17:00"
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://gs.ethz.ch/oeffnungszeiten/",
+  "stand": "2026-10-12"
+ },
+ "Q252513": {
+  "haus": "Haus Konstruktiv",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-18:00",
+   "mi": "11:00-20:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "CHF 18",
+  "eintritt_ermaessigt": "CHF 12",
+  "frei_fuer": "bis 18 Jahre, Gönner:innen, Mitglieder",
+  "hinweis_oeffnung": "Während Umbauphasen zwischen Ausstellungen geschlossen",
+  "quelle": "https://www.hauskonstruktiv.ch/besuch",
+  "stand": "2026-10-12"
+ },
+ "Q1112536": {
+  "haus": "HeK (Haus der elektronischen Künste Basel)",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-18:00",
+   "do": "12:00-20:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-17:00",
+   "so": "12:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "12 CHF",
+  "eintritt_ermaessigt": "8 CHF",
+  "frei_fuer": "Kinder bis und mit 16 Jahren, Studierende von Kunsthochschulen, Begleitpersonen von Menschen mit Behinderungen, Lehrpersonen zur Unterrichtsvorbereitung",
+  "frei_wann": "jeden ersten Sonntag im Monat (Happy Sunday), Mittwoch bis Freitag 17:00-18:00 (Happy Hour)",
+  "quelle": "https://hek.ch/besuchen/",
+  "stand": "2026-10-12"
+ },
+ "Q27490241": {
+  "haus": "Helmhaus Zürich",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://helmhaus.org/de/home",
+  "quelle": "https://helmhaus.org/de/home",
+  "stand": "2026-10-12"
+ },
+ "Q27479797": {
+  "haus": "Kornhausforum",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://kornhausforum.ch/de/",
+  "stand": "2026-10-12"
+ },
+ "Q612774": {
+  "haus": "Kunsthalle Bern",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-20:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "CHF 10",
+  "eintritt_ermaessigt": "CHF 6",
+  "frei_fuer": "bis 16 Jahre",
+  "frei_wann": "jeden 1. Sonntag im Monat",
+  "quelle": "https://kunsthallebern.ch/de/visit",
+  "stand": "2026-10-12"
+ },
+ "Q1792425": {
+  "haus": "Kunsthalle Zürich",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-20:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "CHF 12",
+  "eintritt_ermaessigt": "CHF 8",
+  "frei_fuer": "Kinder und Jugendliche bis 16 Jahre; Studierende ZHdK & F+F; Euro 26, Young Swiss Card; Mitglieder Kunsthalle Zürich; ZürichCARD, Schweizer Museumspass, KulturLegi und weitere; Personen mit Ausweis N/S/F; Begleitpersonen von Menschen mit Behinderungen",
+  "frei_wann": "Donnerstag 17:00-20:00 Uhr",
+  "quelle": "https://www.kunsthallezurich.ch/de/besuch/",
+  "stand": "2026-10-08"
+ },
+ "Q130247260": {
+  "haus": "Kunsthaus Aussersihl",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.kunsthausaussersihl.ch/Kunsthaus+Aussersihl",
+  "quelle": "https://www.kunsthausaussersihl.ch/Aktuell",
+  "hinweis_oeffnung": "Installationen rund um die Uhr zugänglich",
+  "stand": "2026-10-12"
+ },
+ "Q1792438": {
+  "haus": "Kunsthaus Baselland",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-20:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-17:00",
+   "so": "11:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "CHF 12",
+  "eintritt_ermaessigt": "CHF 9",
+  "frei_fuer": "unter 26 Jahren",
+  "hinweis_oeffnung": "Montags geschlossen. Sonderschließungen: Basler Fasnacht (24.2.), Ostern (3.4., 6.4.), Auffahrt (14.5.), Pfingsten (25.5.), Nationalfeiertag (1.8.), Weihnacht/Neujahr (24.12., 25.12., 26.12., 31.12., 1.1.2027)",
+  "quelle": "https://www.kunsthausbaselland.ch/besuch",
+  "stand": "2026-10-12"
+ },
+ "Q685038": {
+  "haus": "Kunsthaus Zürich",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-20:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "36 CHF",
+  "eintritt_ermaessigt": "25 CHF",
+  "frei_fuer": "Kinder und Jugendliche unter 14 Jahren, Schulklassen Schweiz (bis 20 Jahre), Kunststudierende Schweiz, Vollzeitstudierende ZHDK, Gruppen von Studierenden Schweizer Universitäten/ETH/EPFL/Fachhochschulen, Gruppen Lernender von Berufs- und Fachschulen Schweiz, Rollstuhlfahrer:innen incl. Begleitperson, KulturLegi-Inhaber:innen Kanton Zürich, ICOM/VMS/CIMAM-Karteninhaber:innen, Mitglieder",
+  "frei_wann": "Mittwochs für alle (Sammlung)",
+  "quelle": "https://www.kunsthaus.ch/besuch-planen/besucherinfos/",
+  "stand": "2026-10-12"
+ },
+ "Q130247556": {
+  "haus": "Kunstlabor",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "http://www.klhb.ch/kontakt.html",
+  "quelle": "http://www.klhb.ch/index.php",
+  "stand": "2026-10-12"
+ },
+ "Q194626": {
+  "haus": "Kunstmuseum Basel",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-20:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "25 CHF",
+  "eintritt_ermaessigt": "12 CHF",
+  "frei_fuer": "Geflüchtete und Asylsuchende (Basel-Stadt/Basellandschaft)",
+  "frei_wann": "jeden 1. Sonntag im Monat und Di/Do/Fr 17-18 Uhr, Mi 17-20 Uhr",
+  "quelle": "https://kunstmuseumbasel.ch/de/besuch/besuch-planen",
+  "stand": "2026-10-12"
+ },
+ "Q194622": {
+  "haus": "Kunstmuseum Bern",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-20:00",
+   "mi": "10:00-17:00",
+   "do": "10:00-17:00",
+   "fr": "10:00-17:00",
+   "sa": "10:00-17:00",
+   "so": "10:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "Heute (2026-10-12, Montag) geschlossen",
+  "bessere_seite": "https://www.kunstmuseumbern.ch/de/tickets",
+  "quelle": "https://www.kunstmuseumbern.ch/de",
+  "stand": "2026-10-12"
+ },
+ "Q27480193": {
+  "haus": "Kunstplattform akku",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": "14:00-17:00",
+   "sa": "14:00-17:00",
+   "so": "10:00-16:00"
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Öffnungszeiten nur während einer Ausstellung; 2026-10-08 liegt außerhalb der aktuellen Ausstellung (03.10 - 08.11)",
+  "quelle": "https://www.akku-emmen.ch/",
+  "stand": "2026-10-08"
+ },
+ "Q1380528": {
+  "haus": "Migros Museum für Gegenwartskunst",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-20:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://migrosmuseum.ch/besuchen",
+  "stand": "2026-10-12"
+ },
+ "Q668213": {
+  "haus": "Museum für Gestaltung",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-17:00",
+   "mi": "10:00-17:00",
+   "do": "10:00-20:00",
+   "fr": "10:00-17:00",
+   "sa": "10:00-17:00",
+   "so": "10:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "CHF 15",
+  "eintritt_ermaessigt": "CHF 10",
+  "frei_fuer": "unter 20 Jahren",
+  "frei_wann": "jeden Donnerstag ab 17:00",
+  "hinweis_oeffnung": "Museum hat drei Standorte in Zürich",
+  "bessere_seite": "https://museum-gestaltung.ch/de/besuch",
+  "quelle": "https://museum-gestaltung.ch/de/besuch/ausstellungsstrasse",
+  "stand": "2026-10-12"
+ },
+ "Q1954786": {
+  "haus": "Museum zu Allerheiligen",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-17:00",
+   "mi": "11:00-17:00",
+   "do": "11:00-17:00",
+   "fr": "11:00-17:00",
+   "sa": "11:00-17:00",
+   "so": "11:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "Letzter Do im Monat 11:00-20:00",
+  "bessere_seite": "https://allerheiligen.ch/besuchen/besuch-planen/#accordion1583375995",
+  "quelle": "https://allerheiligen.ch/besuchen/besuch-planen/",
+  "stand": "2026-10-08"
+ },
+ "Q27490260": {
+  "haus": "Musée Visionnaire Zürich",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "13:00-17:00",
+   "do": "13:00-20:00",
+   "fr": "13:00-17:00",
+   "sa": "11:00-17:00",
+   "so": "11:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.museevisionnaire.ch/",
+  "hinweis_oeffnung": "Öffnungszeiten nicht auf der Führungsseite angegeben",
+  "quelle": "https://www.museevisionnaire.ch/",
+  "eintritt_regulaer": "CHF 10",
+  "eintritt_ermaessigt": "CHF 8",
+  "frei_fuer": "Kinder bis 16 Jahre, Mitglieder, Gönner*innen, Zürich Card, Vitamin K Pass, VKKS-Mitglieder",
+  "frei_wann": "Donnerstag 17:00-20:00 Uhr",
+  "stand": "2026-10-12"
+ },
+ "Q124479467": {
+  "haus": "nano - Raum für Kunst",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://nano-raumfuerkunst.ch/NANO/",
+  "quelle": "https://nano-raumfuerkunst.ch/KONTAKT/",
+  "hinweis_oeffnung": "Öffnungszeiten nicht auf Kontakt-Seite verfügbar",
+  "stand": "2026-10-12"
+ },
+ "Q666572": {
+  "haus": "Schaulager",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "Bis 2027 nur für Schulen, Hochschulen, Forschungsbesuche und monatliche Führungen geöffnet",
+  "bessere_seite": "https://schaulager.org/de/besuch/oeffnungszeiten",
+  "quelle": "https://schaulager.org/de/besuch/fuehrungen",
+  "stand": "2026-10-12"
+ },
+ "Q692040": {
+  "haus": "Schweizerisches Architekturmuseum",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-20:30",
+   "fr": "11:00-18:00",
+   "sa": "11:00-17:00",
+   "so": "11:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "CHF 12.00",
+  "eintritt_ermaessigt": "CHF 8.00",
+  "frei_fuer": "unter 18 Jahren, S AM Mitglieder, Schüler*innen und Studierende von BS und BL, IV-Bezüger*innen und Begleitperson, Personen mit Behinderung und Begleitpersonen, ICOM-Mitglieder und weitere",
+  "quelle": "https://www.sam-basel.org/de/besuch",
+  "stand": "2026-10-12"
+ },
+ "Q27490302": {
+  "haus": "Shedhalle",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": "12:00-19:00",
+   "fr": "12:00-19:00",
+   "sa": "12:00-17:00",
+   "so": "12:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "25 CHF",
+  "eintritt_ermaessigt": "5 CHF, 15 CHF",
+  "frei_fuer": "Personen mit Aufenthaltsausweis N, F, S",
+  "hinweis_oeffnung": "Öffnungszeiten der aktuellen Ausstellung \"Chorós: Alle zugleich\"",
+  "quelle": "https://shedhalle.ch/",
+  "bessere_seite": "https://shedhalle.ch/besuch/besuchsinfos/",
+  "stand": "2026-10-12"
+ },
+ "node-11762426618": {
+  "haus": "All You Can Art Gallery",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": "12:00-17:00",
+   "fr": "12:00-17:00",
+   "sa": "12:00-15:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.allyoucanart.de/",
+  "stand": "2026-10-12"
+ },
+ "node-3739707090": {
+  "haus": "American Contemporary Art Gallery",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "Nur nach Vereinbarung (By appointment)",
+  "bessere_seite": "https://americancontemporaryartgallery.com/",
+  "quelle": "https://americancontemporaryartgallery.com/locations/horn/",
+  "stand": "2026-10-12"
+ },
+ "node-3739707091": {
+  "haus": "Galerie Artoxin",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "13:00-18:00",
+   "do": "13:00-18:00",
+   "fr": "13:00-18:00",
+   "sa": "13:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://artoxin.de/oeffnungszeiten/",
+  "quelle": "https://artoxin.de/oeffnungszeiten/",
+  "stand": "2026-10-12"
+ },
+ "node-3752304094": {
+  "haus": "Behncke Gallery",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "12:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Dienstag-Freitag: 13-14 Uhr Pause",
+  "quelle": "https://behncke-gallery.com/de",
+  "stand": "2026-10-12"
+ },
+ "node-3739707094": {
+  "haus": "Braun-Falco Galerie",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "13:00-18:00",
+   "mi": "13:00-18:00",
+   "do": "13:00-18:00",
+   "fr": "13:00-18:00",
+   "sa": "11:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Öffnung auch nach Vereinbarung",
+  "quelle": "https://www.braunfalco.com/",
+  "stand": "2026-10-12"
+ },
+ "way-29053886": {
+  "haus": "Capitain Petzel",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.capitainpetzel.de/contact/",
+  "quelle": "https://www.capitainpetzel.de/contact/",
+  "stand": "2026-10-12"
+ },
+ "node-5408778943": {
+  "haus": "ChertLüdde",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://chertluedde.com/about/",
+  "quelle": "https://chertluedde.com/about/",
+  "stand": "2026-10-12"
+ },
+ "node-1288267210": {
+  "haus": "Daniel und die Kunst",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.danielunddiekunst.com/kontakt",
+  "quelle": "https://www.danielunddiekunst.com/kontakt",
+  "hinweis_oeffnung": "Termine nach Vereinbarung möglich",
+  "stand": "2026-10-12"
+ },
+ "node-3752303900": {
+  "haus": "Deborah Schamoni",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Samstag zusätzlich nach Vereinbarung",
+  "quelle": "https://deborahschamoni.com/",
+  "stand": "2026-10-12"
+ },
+ "node-4757755548": {
+  "haus": "Dittrich & Schlechtriem",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Die Website nennt unterschiedliche Öffnungszeiten für Berlin (Di-Sa) und Köln (Do-Sa), ohne Eintrittsinformationen",
+  "bessere_seite": "https://dittrich-schlechtriem.com/about/",
+  "quelle": "https://dittrich-schlechtriem.com/about/",
+  "stand": "2026-10-12"
+ },
+ "Q56703239": {
+  "haus": "Esther Schipper",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.estherschipper.com/gallery/#hours",
+  "hinweis_oeffnung": "Öffnungszeiten nicht auf dieser Seite sichtbar",
+  "quelle": "https://www.estherschipper.com/",
+  "stand": "2026-10-12"
+ },
+ "node-13336850731": {
+  "haus": "Galerie 1565",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://galerie1565.de/",
+  "stand": "2026-10-12"
+ },
+ "node-12256366641": {
+  "haus": "Galerie Anton Janizewski",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://antonjanizewski.com/contact/",
+  "quelle": "https://antonjanizewski.com/exhibitions/",
+  "stand": "2026-10-12"
+ },
+ "way-871078344": {
+  "haus": "Bastian",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-17:00",
+   "mi": "11:00-17:00",
+   "do": "11:00-17:00",
+   "fr": "11:00-17:00",
+   "sa": "11:00-17:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.bastian-gallery.com/kontakt/",
+  "quelle": "https://www.bastian-gallery.com/kontakt/",
+  "hinweis_oeffnung": "Feiertags geschlossen",
+  "stand": "2026-10-12"
+ },
+ "node-5898819726": {
+  "haus": "Britta Rettberg",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://brittarettberg.com/contact/",
+  "quelle": "https://brittarettberg.com/contact/",
+  "stand": "2026-10-12"
+ },
+ "node-3739778199": {
+  "haus": "Galerie Carol Johnssen",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "13:00-18:00",
+   "mi": "13:00-18:00",
+   "do": "13:00-18:00",
+   "fr": "13:00-18:00",
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.artcarol.de/contact",
+  "quelle": "https://www.artcarol.de/contact",
+  "hinweis_oeffnung": "nach Vereinbarung möglich",
+  "stand": "2026-10-12"
+ },
+ "node-3739707101": {
+  "haus": "Françoise Heitsch",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "14:00-19:00",
+   "do": "14:00-19:00",
+   "fr": "14:00-19:00",
+   "sa": "12:00-17:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.francoiseheitsch.de/contact",
+  "quelle": "https://www.francoiseheitsch.de/contact",
+  "hinweis_oeffnung": "Geschlossen während bayerischer Schulferien; vor Ausstellungseröffnungen abweichende Zeiten",
+  "stand": "2026-10-12"
+ },
+ "node-13015984599": {
+  "haus": "Galerie Herold",
+  "oeffnungszeiten": {
+   "mo": "11:00-18:00",
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "12:00-18:00"
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Galerie auf Sylt: Mo-Sa 11-18 Uhr, So ab 12 Uhr, bis 31.10.2026 dann wieder ab 25.12.2026. Galerie in Hamburg: Di-Fr 11-18 Uhr",
+  "bessere_seite": "https://galerie-herold.de/standorte/",
+  "quelle": "https://galerie-herold.de/",
+  "stand": "2026-10-12"
+ },
+ "node-13587193701": {
+  "haus": "Galerie Isabella Bortolozzi",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://bortolozzi.com/",
+  "quelle": "https://bortolozzi.com/",
+  "stand": "2026-10-12"
+ },
+ "node-3739778204": {
+  "haus": "Galerie Klüser",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-14:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.galerieklueser.com/kontakt/",
+  "hinweis_oeffnung": "An gesetzlichen Feiertagen geschlossen",
+  "quelle": "https://www.galerieklueser.com/kontakt/",
+  "stand": "2026-10-12"
+ },
+ "node-4912277543": {
+  "haus": "Galerie Mathias Güntner",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-15:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Hamburg: Mi–Fr 12–18 Uhr, Sa 12–15 Uhr; Berlin: Do–Sa 12–18 Uhr",
+  "quelle": "https://www.mathiasguentner.com/",
+  "stand": "2026-10-12"
+ },
+ "node-7932307104": {
+  "haus": "Galerie Nagel Draxler",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "12:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://nagel-draxler.de/city/berlin/",
+  "hinweis_oeffnung": "Geschlossen 23.12.2025 – 05.01.2026",
+  "quelle": "https://nagel-draxler.de/city/berlin/",
+  "stand": "2026-10-12"
+ },
+ "node-1552051436": {
+  "haus": "Galerie Neu",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://galerieneu.net/contact/imprint",
+  "quelle": "https://galerieneu.net/contact/imprint",
+  "stand": "2026-10-12"
+ },
+ "node-3739707107": {
+  "haus": "Galerie Renate Bender",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "13:00-17:00",
+   "mi": "13:00-17:00",
+   "do": "13:00-17:00",
+   "fr": "13:00-17:00",
+   "sa": "12:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Geschlossen 12.-15.10.2026 wegen Ausstellungsumbau",
+  "quelle": "https://www.galerie-bender.de/de/",
+  "stand": "2026-10-12"
+ },
+ "node-3740121306": {
+  "haus": "Galerie Rüdiger Schöttle",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "12:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://galerie-schoettle.de/contact/",
+  "hinweis_oeffnung": "Öffnungszeiten und Eintrittsinformationen auf der Website nicht verfügbar",
+  "quelle": "https://galerie-schoettle.de/contact/",
+  "stand": "2026-10-12"
+ },
+ "node-3739778206": {
+  "haus": "Knust Kunz Gallery Editions",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-15:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://sabineknust.com/gallery/",
+  "quelle": "https://sabineknust.com/exhibitions/never-quit-on-a-bad-day",
+  "stand": "2026-10-12"
+ },
+ "node-3740121310": {
+  "haus": "Galerie Wittenbrink",
+  "oeffnungszeiten": {
+   "di": "11:00-18:00",
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": "11:00-18:00",
+   "so": null,
+   "mo": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.galeriewittenbrink.de/kontakt-wittenbrink.html",
+  "quelle": "https://www.galeriewittenbrink.de/kontakt-wittenbrink.html",
+  "stand": "2026-10-12"
+ },
+ "node-3739913973": {
+  "haus": "Galerie Wolfgang Jahn",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "13:00-18:00",
+   "do": "13:00-18:00",
+   "fr": "13:00-18:00",
+   "sa": "12:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://galeriejahn.com/de/kontakt",
+  "quelle": "https://galeriejahn.com/de/kontakt",
+  "hinweis_oeffnung": "nach Vereinbarung möglich",
+  "stand": "2026-10-12"
+ },
+ "node-13587193702": {
+  "haus": "Hua International",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://hua-international.com/contact/",
+  "quelle": "https://hua-international.com/contact/",
+  "stand": "2026-10-12"
+ },
+ "node-3739778200": {
+  "haus": "Galerie Jo van de Loo",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-18:00",
+   "do": "12:00-20:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-15:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.galerie-jovandeloo.com/",
+  "stand": "2026-10-12"
+ },
+ "Q55421334": {
+  "haus": "Konrad Fischer Galerie",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://konradfischergalerie.de/about/contact/",
+  "hinweis_oeffnung": "Informationen nicht auf Startseite vorhanden",
+  "quelle": "https://konradfischergalerie.de/about/contact/",
+  "stand": "2026-10-12"
+ },
+ "node-299100566": {
+  "haus": "Max Goelitz",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "11:00-19:00",
+   "do": "11:00-19:00",
+   "fr": "11:00-19:00",
+   "sa": "12:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.maxgoelitz.com/contact/",
+  "quelle": "https://www.maxgoelitz.com/contact/",
+  "stand": "2026-10-12"
+ },
+ "node-3739913974": {
+  "haus": "Micheko Galerie",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "14:00-18:00",
+   "do": "14:00-18:00",
+   "fr": "14:00-18:00",
+   "sa": "12:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "Gerne nach Termin auch an Sonn- und Feiertagen",
+  "quelle": "https://www.micheko.com/",
+  "stand": "2026-10-12"
+ },
+ "node-12905548372": {
+  "haus": "Mountains",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://mountains.gallery/gallery/",
+  "hinweis_oeffnung": "Montag und Dienstag nur nach Vereinbarung, nur während Ausstellungen geöffnet",
+  "quelle": "https://mountains.gallery/gallery/",
+  "stand": "2026-10-12"
+ },
+ "node-9741714717": {
+  "haus": "Pace – Die Tankstelle",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.pacegallery.com/galleries/berlin/",
+  "stand": "2026-10-12"
+ },
+ "node-3752303909": {
+  "haus": "Smudajescheck Galerie",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "13:00-18:00",
+   "do": null,
+   "fr": "13:00-18:00",
+   "sa": "12:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "gerne nach Vereinbarung",
+  "quelle": "https://smudajescheck.com/",
+  "stand": "2026-10-12"
+ },
+ "node-3110935300": {
+  "haus": "Sperling",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.sperling-munich.com/exhibitions",
+  "quelle": "https://www.sperling-munich.com/exhibitions",
+  "hinweis_oeffnung": "Öffnungszeiten und Eintrittspreise auf der angegebenen Website nicht verfügbar",
+  "stand": "2026-10-12"
+ },
+ "Q270106": {
+  "haus": "7hours",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://7hours.com/_Actual_Page/html/info_BISKUP_GEITEL_09.htm",
+  "hinweis_oeffnung": "Keine Angaben auf dieser Website",
+  "quelle": "https://7hours.com/",
+  "stand": "2026-10-08"
+ },
+ "Q699780": {
+  "haus": "Albertinum",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-17:00",
+   "mi": "11:00-17:00",
+   "do": "11:00-17:00",
+   "fr": "11:00-17:00",
+   "sa": "11:00-17:00",
+   "so": "11:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "14 €",
+  "eintritt_ermaessigt": "10,50 €",
+  "frei_fuer": "Kinder bis Schuleintritt, Schülerinnen und Schüler (unter 20 Jahre) 2 €",
+  "hinweis_oeffnung": "Reformationstag 31.10.2026 und Buß- und Bettag 18.11.2026 geöffnet 11-17 Uhr",
+  "quelle": "https://albertinum.skd.museum/besuch/",
+  "stand": "2026-10-12"
+ },
+ "Q162111": {
+  "haus": "Alte Nationalgalerie",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.smb.museum/besuch-planen/preise-tickets/",
+  "quelle": "https://www.smb.museum/besuch-planen/oeffnungszeiten/",
+  "stand": "2026-10-08"
+ },
+ "Q154568": {
+  "haus": "Alte Pinakothek",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-20:00",
+   "mi": "10:00-20:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "9 Euro",
+  "eintritt_ermaessigt": "6 Euro",
+  "frei_fuer": "unter 18 Jahren",
+  "frei_wann": "jeden Sonntag (1 Euro)",
+  "quelle": "https://www.pinakothek.de/en/visit",
+  "stand": "2026-10-12"
+ },
+ "Q811389": {
+  "haus": "Bauhaus-Archiv",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "Derzeit Temporary Bauhaus-Archiv",
+  "quelle": "https://www.bauhaus.de/",
+  "bessere_seite": "https://www.bauhaus.de/besucherinformation/",
+  "stand": "2026-10-08"
+ },
+ "Q700222": {
+  "haus": "Berlinische Galerie",
+  "oeffnungszeiten": {
+   "mo": "10:00-18:00",
+   "di": "geschlossen",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_regulaer": "14 €",
+  "eintritt_ermaessigt": "7 €",
+  "eintritt_immer_frei": false,
+  "frei_fuer": "unter 18 Jahren, Geflüchtete",
+  "hinweis_oeffnung": "Ab 9.10.2026 gelten die neuen Preise (14 € regulär, 7 € ermäßigt)",
+  "quelle": "https://berlinischegalerie.de/besuch/service/",
+  "stand": "2026-10-08"
+ },
+ "Q131542539": {
+  "haus": "Braun-Sammlung Ettel",
+  "oeffnungszeiten": {
+   "mo": "11:00-17:00",
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": "11:00-17:00"
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://braundesignmuseum.de/",
+  "stand": "2026-10-08"
+ },
+ "Q568767": {
+  "haus": "Bröhan-Museum",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "9,00 €",
+  "eintritt_ermaessigt": "6,00 € (4,00 € jeden 1. Mittwoch im Monat)",
+  "frei_fuer": "unter 18 Jahren, Begleitpersonen von Schwerbehinderten (Merkzeichen B), Geflüchtete, ICOM/Museumsbund-Ausweis, Museumsmitarbeitende, Vereinsmitglieder, Studierende Kunstgeschichte, Presseausweis, Schulklassen/Kitas (mit Voranmeldung), Stadtführer",
+  "hinweis_oeffnung": "Montag geschlossen; 24.12., 31.12., Pfingstmontag geschlossen; 1.1. 12:00-18:00",
+  "quelle": "https://www.broehan-museum.de/service/#/",
+  "stand": "2026-10-08"
+ },
+ "Q833759": {
+  "haus": "Brücke-Museum Berlin",
+  "oeffnungszeiten": {
+   "mo": "11:00-17:00",
+   "di": "geschlossen",
+   "mi": "11:00-17:00",
+   "do": "11:00-17:00",
+   "fr": "11:00-17:00",
+   "sa": "11:00-17:00",
+   "so": "11:00-17:00"
+  },
+  "eintritt_regulaer": "€ 6",
+  "eintritt_ermaessigt": "€ 4",
+  "eintritt_immer_frei": false,
+  "frei_fuer": "unter 18 Jahren, sowie Schüler*innen, Studierende und Auszubildende in Deutschland ab 18 bis 27 Jahren",
+  "quelle": "https://www.bruecke-museum.de/de/besuch/21/eintrittspreise",
+  "stand": "2026-10-08"
+ },
+ "Q877566": {
+  "haus": "Bucerius Kunst Forum",
+  "oeffnungszeiten": {
+   "mo": "11:00-19:00",
+   "di": "11:00-19:00",
+   "mi": "11:00-19:00",
+   "do": "11:00-21:00",
+   "fr": "11:00-19:00",
+   "sa": "11:00-19:00",
+   "so": "11:00-19:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_ermaessigt": "6 €",
+  "frei_wann": "dienstags",
+  "bessere_seite": "https://www.buceriuskunstforum.de/ticketuebersicht",
+  "quelle": "https://www.buceriuskunstforum.de/besuch",
+  "stand": "2026-10-12"
+ },
+ "Q1525564": {
+  "haus": "Caricatura Museum für Komische Kunst",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-19:00",
+   "mi": "11:00-19:00",
+   "do": "11:00-19:00",
+   "fr": "11:00-19:00",
+   "sa": "11:00-19:00",
+   "so": "11:00-19:00"
+  },
+  "eintritt_regulaer": "8,00 €",
+  "eintritt_ermaessigt": "4,00 €",
+  "frei_fuer": "Kinder und Jugendliche bis 18 Jahre, Auszubildende ab 18 Jahre, bestimmte Studierendengruppen, Inhabende von Museumsuferkarte/Ehrenamtskarte/Juleica-Card, Begleitpersonen für Behinderte",
+  "eintritt_immer_frei": false,
+  "quelle": "https://caricatura-museum.de/besuch/informationen/",
+  "stand": "2026-10-12"
+ },
+ "Q1099859": {
+  "haus": "Clemens Sels Museum Neuss",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-17:00",
+   "mi": "11:00-17:00",
+   "do": "11:00-17:00",
+   "fr": "11:00-17:00",
+   "sa": "11:00-17:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "5,00 Euro",
+  "eintritt_ermaessigt": "2,50 Euro",
+  "frei_fuer": "bis 21 Jahre",
+  "frei_wann": "jeden 1. Sonntag im Monat",
+  "hinweis_oeffnung": "Letzter Donnerstag im Monat 11–20 Uhr (Langer Donnerstag)",
+  "quelle": "https://clemens-sels-museum-neuss.de/besuch",
+  "stand": "2026-10-12"
+ },
+ "Q23786353": {
+  "haus": "D21 Kunstraum Leipzig",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": "15:00-19:00",
+   "so": "15:00-19:00"
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.d21-leipzig.de/de/homepage/",
+  "stand": "2026-10-12"
+ },
+ "Q1183156": {
+  "haus": "Deichtorhallen",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "Geschlossen bis 30. Oktober 2026 wegen Umbauarbeiten. Jeden 1. Donnerstag im Monat 11:00-21:00 Uhr.",
+  "bessere_seite": "https://www.deichtorhallen.de/de/besuch/besuch-halle-fuer-aktuelle-kunst",
+  "quelle": "https://www.deichtorhallen.de/de/besuch/besuch-halle-fuer-aktuelle-kunst",
+  "eintritt_regulaer": "14 €",
+  "eintritt_ermaessigt": "9 €",
+  "frei_fuer": "Kinder und Jugendliche unter 18 Jahren",
+  "frei_wann": "jeden 1. Donnerstag im Monat (18:00-21:00 Uhr)",
+  "stand": "2026-10-12"
+ },
+ "Q15109311": {
+  "haus": "Deutsche Gesellschaft für christliche Kunst",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.dg-kunstraum.de/",
+  "stand": "2026-10-12"
+ },
+ "Q878325": {
+  "haus": "Ephraim-Palais",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "7 €",
+  "eintritt_ermaessigt": "kostenlos",
+  "frei_fuer": "unter 18 Jahren, Studierende, Azubis, FSJ-/FÖJ-/BFD-Leistende, Berlin-Ticket-S-Inhaber:innen, Schwerbehinderte (mind. 50 % GdB) sowie deren anerkannte Begleitperson, Geflüchtete, Empfänger:innen von Transferleistungen, Ehrenamtskarte-Inhaber:innen, Super-Ferienpass/Berliner Familienpass-Inhaber:innen, ICOM-Mitglieder, Mitglieder des Deutschen Museumsbunds, Fördervereins-Mitglieder, Medien-Vertreter:innen",
+  "hinweis_oeffnung": "auch an Feiertagen; Abweichungen: 24.12. geschlossen, 25.-26.12. 12-18 Uhr, 31.12. geschlossen, 01.01.2027 12-18 Uhr",
+  "bessere_seite": "https://www.berlin.museum/museum/ephraim-palais",
+  "quelle": "https://www.berlin.museum/veranstaltungen/in-60-minuten-durch-die-berlinzeit",
+  "stand": "2026-10-08"
+ },
+ "Q871581": {
+  "haus": "Ernst-Barlach-Haus",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "9 €",
+  "eintritt_ermaessigt": "6 €",
+  "frei_fuer": "Kinder und Jugendliche bis 18 Jahre",
+  "hinweis_oeffnung": "Montags geschlossen außer an Feiertagen; Heiligabend und Silvester geschlossen; Sonntags mit Klang & Form-Veranstaltungen um 16:30 Uhr geschlossen",
+  "quelle": "https://www.barlach-haus.de/besuch/oeffnungszeiten-tickets/",
+  "stand": "2026-10-12"
+ },
+ "Q61781086": {
+  "haus": "Fotografie Forum Frankfurt",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "8 Euro",
+  "eintritt_ermaessigt": "5 Euro",
+  "frei_fuer": "Kinder bis 6 Jahre, Kultur+FreizeitTicket (KUFTI), Mitglieder des FFF, Mitglieder des Photo Elysée Lausanne, Mitglieder des Foam Fotografie Museum Amsterdam, ICOM und Museumsbund, MuseumsuferTicket, MuseumsuferCard",
+  "hinweis_oeffnung": "Dienstag–Sonntag 11–18 Uhr, Montag geschlossen",
+  "quelle": "https://www.fffrankfurt.org/fuer_besucher/",
+  "stand": "2026-10-12"
+ },
+ "node-11272995330": {
+  "haus": "Fotografiska Berlin",
+  "oeffnungszeiten": {
+   "mo": "10:00-23:00",
+   "di": "10:00-23:00",
+   "mi": "10:00-23:00",
+   "do": "10:00-23:00",
+   "fr": "10:00-23:00",
+   "sa": "10:00-23:00",
+   "so": "10:00-23:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "15 €",
+  "eintritt_ermaessigt": "10 €",
+  "frei_fuer": "Kinder bis 12 Jahre (mit erwachsener Begleitung)",
+  "quelle": "https://berlin.fotografiska.com/en/visit",
+  "stand": "2026-10-12"
+ },
+ "Q1444994": {
+  "haus": "Frankfurter Kunstverein",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-19:00",
+   "mi": "11:00-19:00",
+   "do": "11:00-21:00",
+   "fr": "11:00-19:00",
+   "sa": "11:00-19:00",
+   "so": "11:00-19:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "10 €",
+  "eintritt_ermaessigt": "6 €",
+  "frei_fuer": "Kinder bis 6 Jahre; Mitglieder des Frankfurter Kunstvereins; Mitglieder eines ADKV-Kunstvereins; Inhaber:innen der MuseumsuferCard oder eines MuseumsuferTickets; Mitglieder von ICOM; Inhaber:innen einer AICA-Karte / Presse; Mitglieder von IKT; Inhaber:innen der Ehrenamtscard; Student:innen und Mitarbeiter:innen der Städelschule; Student:innen und Mitarbeiter:innen der HfG Offenbach; KUFTI",
+  "quelle": "https://www.fkv.de/besucherinformationen/",
+  "stand": "2026-10-12"
+ },
+ "Q23787561": {
+  "haus": "G2 Kunsthalle",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "15:00-20:00",
+   "do": null,
+   "fr": "12:00-17:00",
+   "sa": "12:00-17:00",
+   "so": "12:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "5 €",
+  "eintritt_ermaessigt": "3 €",
+  "frei_fuer": "Kinder unter 12 Jahren, Studierende der Kunstwissenschaften und bildenden Kunst, ICOM-Mitglieder",
+  "quelle": "http://g2-leipzig.de/",
+  "hinweis_oeffnung": "Geschlossen 4.10.-15.10.2026",
+  "bessere_seite": "http://g2-leipzig.de/besuch",
+  "stand": "2026-10-12"
+ },
+ "node-299513604": {
+  "haus": "Galerie Albrecht",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.galeriesusannealbrecht.de/",
+  "stand": "2026-10-12"
+ },
+ "Q1491911": {
+  "haus": "Galerie für Zeitgenössische Kunst",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "14:00-19:00",
+   "mi": "14:00-19:00",
+   "do": "14:00-19:00",
+   "fr": "14:00-19:00",
+   "sa": "12:00-18:00",
+   "so": "12:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "7€",
+  "eintritt_ermaessigt": "5€",
+  "frei_fuer": "unter 18 Jahren",
+  "frei_wann": "jeden Mittwoch",
+  "quelle": "https://gfzk.de/en/2023/deihr-besuchbarrierefreiheitenyour-visitaccessibility/",
+  "stand": "2026-10-12"
+ },
+ "Q1491884": {
+  "haus": "Galerie Stihl Waiblingen",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.galerie-stihl-waiblingen.de/besuchen",
+  "quelle": "https://www.galerie-stihl-waiblingen.de/besuchen",
+  "stand": "2026-10-12"
+ },
+ "node-672798786": {
+  "haus": "Galerie Wedding",
+  "oeffnungszeiten": {
+   "mo": "10:00-18:00",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://galeriewedding.de/besuch/",
+  "stand": "2026-10-12"
+ },
+ "Q4890": {
+  "haus": "Gemäldegalerie Alte Meister Dresden",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-17:00",
+   "mi": "10:00-17:00",
+   "do": "10:00-17:00",
+   "fr": "10:00-17:00",
+   "sa": "10:00-17:00",
+   "so": "10:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "14 €",
+  "eintritt_ermaessigt": "10,50 €",
+  "frei_fuer": "Kinder bis Schuleintritt, Schülerinnen und Schüler unter 20 Jahren (2 €)",
+  "hinweis_oeffnung": "Reformationstag (31.10.2026) und Buß- und Bettag (18.11.2026) geöffnet 10-17 Uhr; verlängerte Öffnungszeiten Fr-So 27.11.2026-30.12.2026 10-18 Uhr",
+  "quelle": "https://gemaeldegalerie.skd.museum/besuch/",
+  "stand": "2026-10-12"
+ },
+ "way-72509827": {
+  "haus": "Georg-Kolbe-Museum",
+  "oeffnungszeiten": {
+   "mo": "11:00-18:00",
+   "di": "geschlossen",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://georg-kolbe-museum.de/besuch/tickets/",
+  "quelle": "https://georg-kolbe-museum.de/besuch/tickets/#/",
+  "stand": "2026-10-12"
+ },
+ "Q162077": {
+  "haus": "Glyptothek",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-17:00",
+   "mi": "10:00-17:00",
+   "do": "10:00-20:00",
+   "fr": "10:00-17:00",
+   "sa": "10:00-17:00",
+   "so": "10:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "€6",
+  "eintritt_ermaessigt": "€4",
+  "frei_fuer": "unter 18 Jahren",
+  "hinweis_oeffnung": "13. Oktober (Dienstag) geschlossen",
+  "quelle": "https://www.antike-am-koenigsplatz.mwn.de/en/visitor-information/",
+  "stand": "2026-10-12"
+ },
+ "Q1543524": {
+  "haus": "GRASSI Museum für Angewandte Kunst Leipzig",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-20:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "frei_fuer": "unter 17 Jahren (Ausstellungen); alle (Ständige Ausstellungen)",
+  "frei_wann": "1. Mittwoch im Monat (Sonderausstellung: 3 €)",
+  "bessere_seite": "https://www.grassimak.de/besuch/preise/",
+  "quelle": "https://www.grassimak.de/besuch/service/",
+  "hinweis_oeffnung": "Geschlossen am 24.12. und 31.12.",
+  "stand": "2026-10-12"
+ },
+ "relation-11516702": {
+  "haus": "Gropius-Bau",
+  "oeffnungszeiten": {
+   "mo": "12:00-19:00",
+   "di": "geschlossen",
+   "mi": "12:00-19:00",
+   "do": "12:00-19:00",
+   "fr": "12:00-19:00",
+   "sa": "10:00-19:00",
+   "so": "10:00-19:00"
+  },
+  "eintritt_regulaer": "15 €",
+  "eintritt_ermaessigt": "10 €",
+  "frei_fuer": "unter 18 Jahren",
+  "eintritt_immer_frei": false,
+  "quelle": "https://www.berlinerfestspiele.de/gropius-bau/besuch/informationen",
+  "stand": "2026-10-12"
+ },
+ "Q169542": {
+  "haus": "Hamburger Kunsthalle",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-21:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.hamburger-kunsthalle.de/de/preise-tickets-gutscheine",
+  "quelle": "https://www.hamburger-kunsthalle.de/de/oeffnungszeiten",
+  "stand": "2026-10-12"
+ },
+ "way-31283095": {
+  "haus": "Haus am Waldsee",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "Wegen Ausstellungsumbau bis einschließlich 15.10.2026 geschlossen",
+  "bessere_seite": "https://hausamwaldsee.de/preise/",
+  "quelle": "https://hausamwaldsee.de/oeffnungszeiten/",
+  "stand": "2026-10-12"
+ },
+ "way-1065864180": {
+  "haus": "Haus der Kulturen der Welt",
+  "oeffnungszeiten": {
+   "mo": "12:00-19:00",
+   "di": "12:00-19:00",
+   "mi": "12:00-19:00",
+   "do": "12:00-19:00",
+   "fr": "12:00-19:00",
+   "sa": "12:00-19:00",
+   "so": "12:00-19:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.hkw.de/the-house/visit/visit",
+  "quelle": "https://www.hkw.de/the-house/visit/tickets",
+  "stand": "2026-10-12"
+ },
+ "Q697782": {
+  "haus": "Haus der Kunst",
+  "oeffnungszeiten": {
+   "mo": "10:00-20:00",
+   "di": "geschlossen",
+   "mi": "10:00-20:00",
+   "do": "10:00-20:00",
+   "fr": "10:00-20:00",
+   "sa": "10:00-20:00",
+   "so": "10:00-20:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "€15",
+  "eintritt_ermaessigt": "€11",
+  "frei_fuer": "Kinder unter 12 Jahren, Haus Club Mitglieder, Freunde Haus der Kunst, Kunststudenten, ICOM/CiMAM Mitglieder, Mitglieder Deutscher Museumsbund, Stadtführer mit Nachweis, Begleitpersonen von schwerbehinderten Personen mit B-Zertifikat, Geflüchtete mit Aufenthaltserlaubnis",
+  "frei_wann": "jeden letzten Freitag im Monat von 16:00-22:00 Uhr",
+  "quelle": "https://www.hausderkunst.de/en/plan-your-visit",
+  "stand": "2026-10-12"
+ },
+ "Q107313410": {
+  "haus": "Haus des Papiers",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": "10:00-17:00",
+   "sa": null,
+   "so": "10:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "frei_fuer": "Kinder unter 6 Jahren",
+  "quelle": "https://www.hausdespapiers.com/",
+  "eintritt_regulaer": "10,00 €",
+  "eintritt_ermaessigt": "7,00 €",
+  "stand": "2026-10-12"
+ },
+ "node-10041423479": {
+  "haus": "Haus Kunst Mitte",
+  "oeffnungszeiten": {
+   "mo": "12:00-18:00",
+   "di": "geschlossen",
+   "mi": "geschlossen",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-18:00",
+   "so": "12:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "8 Euro",
+  "eintritt_ermaessigt": "5 Euro",
+  "frei_fuer": "bis 18 Jahre, Geflüchtete",
+  "frei_wann": "jeden Sonntag",
+  "hinweis_oeffnung": "An Feiertagen geschlossen (außer 8. März)",
+  "quelle": "https://www.hauskunstmitte.de/besuch",
+  "stand": "2026-10-12"
+ },
+ "Q531032": {
+  "haus": "Jagdschloss Grunewald",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.spsg.de/schloesser-gaerten/oeffnungszeiten",
+  "quelle": "https://www.spsg.de/schloesser-gaerten/objekt/jagdschloss-grunewald/",
+  "hinweis_oeffnung": "Ab 2. November 2026 geschlossen wegen Instandsetzungsarbeiten (voraussichtlich bis April 2027)",
+  "stand": "2026-10-08"
+ },
+ "Q131673724": {
+  "haus": "K20",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "10 €",
+  "eintritt_ermaessigt": "8 €",
+  "frei_fuer": "Kinder/Jugendliche bis einschließlich 17 Jahre",
+  "frei_wann": "jeden 1. Mittwoch im Monat ab 18:00 Uhr",
+  "hinweis_oeffnung": "jeden 1. Mittwoch bis 22:00 Uhr; 24., 25., 31.12. und Rosenmontag geschlossen",
+  "quelle": "https://www.kunstsammlung.de/de/visit/",
+  "stand": "2026-10-12"
+ },
+ "Q2360156": {
+  "haus": "K21",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "15 €",
+  "eintritt_ermaessigt": "13 €",
+  "frei_fuer": "Kinder/Jugendliche bis einschließlich 17 Jahre",
+  "frei_wann": "jeden 1. Mittwoch im Monat ab 18:00 Uhr",
+  "hinweis_oeffnung": "jeden 1. Mittwoch bis 22:00 Uhr; 4.11.2026 nur 18:00-22:00 Uhr; 24., 25., 31.12. und Rosenmontag geschlossen",
+  "quelle": "https://www.kunstsammlung.de/de/visit/",
+  "stand": "2026-10-12"
+ },
+ "Q1722508": {
+  "haus": "Kallmann-Museum",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "13:00-17:00",
+   "mi": "13:00-17:00",
+   "do": "13:00-17:00",
+   "fr": "13:00-17:00",
+   "sa": "13:00-17:00",
+   "so": "13:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "6,00 €",
+  "eintritt_ermaessigt": "4,00 €",
+  "frei_fuer": "Kinder unter 16 Jahren, Studierende Kunst/Kunstgeschichte/Kunstwissenschaften/Kunstpädagogik, Schwerbehinderte und Begleitperson, VdK, ICOM, Deutscher Museumsbund, AICA, Presseausweis, Bürgergeld-Bezieher, Bayerische Ehrenamtskarte, LandkreisPass, Bildende Künstler BBK, Schulklassen und Gruppen unter Aufsicht, Lehrkräfte bei Schülertransport",
+  "hinweis_oeffnung": "Geschlossen: Faschingsdienstag, 24.12., 25.12., 31.12. Geöffnet: Ostermontag, Pfingstmontag, 26.12., Neujahr",
+  "quelle": "https://kallmann-museum.de/infos/",
+  "stand": "2026-10-12"
+ },
+ "Q1739162": {
+  "haus": "Keramik-Museum Berlin",
+  "oeffnungszeiten": {
+   "mo": "13:00-17:00",
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": "13:00-17:00",
+   "sa": "13:00-17:00",
+   "so": "13:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "5 €",
+  "eintritt_ermaessigt": "3 €",
+  "quelle": "http://www.keramik-museum-berlin.de/",
+  "stand": "2026-10-08"
+ },
+ "node-5306246621": {
+  "haus": "Kindl - Zentrum für zeitgenössische Kunst",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-20:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-18:00",
+   "so": "12:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "7 Euro",
+  "eintritt_ermaessigt": "4 Euro",
+  "frei_fuer": "unter 18 Jahren, ICOM/BBK/GEDOK/IAA-Mitglieder, Presse, Begleitpersonen von Schwerbehinderten",
+  "frei_wann": "jeden ersten Sonntag im Monat",
+  "hinweis_oeffnung": "24.12., 25.12. geschlossen; 26.12., 1.1. geöffnet",
+  "quelle": "https://www.kindl-berlin.de/besuch",
+  "stand": "2026-10-12"
+ },
+ "node-2724086490": {
+  "haus": "Kunst- und Wunderkammer",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-17:00",
+   "mi": "10:00-17:00",
+   "do": "10:00-20:00",
+   "fr": "10:00-17:00",
+   "sa": null,
+   "so": "10:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "7,00 Euro",
+  "eintritt_ermaessigt": "6,00 Euro",
+  "frei_fuer": "unter 18 Jahren",
+  "frei_wann": "jeden Sonntag",
+  "quelle": "https://www.bayerisches-nationalmuseum.de/besuch",
+  "stand": "2026-10-12"
+ },
+ "node-372353895": {
+  "haus": "Kunstforum Berliner Volksbank",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_regulaer": "5 Euro",
+  "eintritt_ermaessigt": "3 Euro",
+  "eintritt_immer_frei": false,
+  "frei_fuer": "Kinder und Jugendliche bis zum vollendeten 18. Lebensjahr",
+  "quelle": "https://kunstforum.berlin/stiftung-kunstforum/besucherinformationen/",
+  "stand": "2026-10-12"
+ },
+ "node-2512299343": {
+  "haus": "Kunstforum Oktogon",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.hfbk-dresden.de/hochschule/einrichtungen/ausstellungswesen",
+  "quelle": "https://www.hfbk-dresden.de/hochschule/portraet/standorte",
+  "hinweis_oeffnung": "Seite nicht erreichbar (404), siehe Ausstellungswesen-Link",
+  "stand": "2026-10-12"
+ },
+ "Q1367890": {
+  "haus": "Kunsthalle der Hypo-Kulturstiftung",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "18 €",
+  "eintritt_ermaessigt": "50% Ermäßigung jeden Dienstag",
+  "frei_fuer": "Kinder 0–5 Jahre, Menschen mit Behinderungsgrad 100",
+  "hinweis_oeffnung": "AKTUELL WEGEN AUSSTELLUNGSUMBAU BIS 22.10.2026 GESCHLOSSEN. Ab 23.10.2026: täglich 10–20 Uhr. Ausnahmen: Am 24.12. geschlossen, 31.12. 10–17 Uhr. Jeden 3. Mittwoch bis 22 Uhr.",
+  "quelle": "https://www.kunsthalle-muc.de/",
+  "bessere_seite": "https://www.kunsthalle-muc.de/informationen/",
+  "stand": "2026-10-12"
+ },
+ "Q50672242": {
+  "haus": "Kunsthaus Dahlem",
+  "oeffnungszeiten": {
+   "mo": "11:00-17:00",
+   "di": "geschlossen",
+   "mi": "11:00-17:00",
+   "do": "11:00-17:00",
+   "fr": "11:00-17:00",
+   "sa": "11:00-17:00",
+   "so": "11:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "6,– €",
+  "eintritt_ermaessigt": "4,– €",
+  "frei_fuer": "Kinder und Jugendliche bis 18 Jahre",
+  "quelle": "https://kunsthaus-dahlem.de/besuch/oeffnung-preise/",
+  "stand": "2026-10-08"
+ },
+ "Q24808815": {
+  "haus": "Kunstkraftwerk",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "geschlossen",
+   "mi": "geschlossen",
+   "do": "10:00-20:00",
+   "fr": "10:00-21:00",
+   "sa": "10:00-21:00",
+   "so": "10:00-20:00"
+  },
+  "eintritt_immer_frei": false,
+  "frei_fuer": "unter 6 Jahren, Begleitperson von Besuchern mit Behindertenausweis (B-Kennzeichnung)",
+  "hinweis_oeffnung": "Am 15. Oktober 2026 geschlossen (private Veranstaltung), am 16. Oktober ab 16 Uhr geöffnet",
+  "bessere_seite": "https://www.kunstkraftwerk-leipzig.com/tickets/",
+  "quelle": "https://www.kunstkraftwerk-leipzig.com/ihr-besuch/",
+  "stand": "2026-10-12"
+ },
+ "node-2503219196": {
+  "haus": "Kunstraum",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "14:00-19:00",
+   "do": null,
+   "fr": null,
+   "sa": "14:00-19:00",
+   "so": "14:00-19:00"
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "nur während Ausstellungen",
+  "quelle": "https://www.kunstraum-muenchen.de/",
+  "stand": "2026-10-12"
+ },
+ "node-4498605891": {
+  "haus": "Kunstraum34",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": "17:00-20:00",
+   "fr": "17:00-20:00",
+   "sa": "14:00-17:00",
+   "so": "14:00-17:00"
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "nach Vereinbarung möglich, bitte laufendes Programm beachten",
+  "quelle": "https://kunstraum34.de/",
+  "stand": "2026-10-12"
+ },
+ "node-3556668243": {
+  "haus": "Kunstverein Familie Montez",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "13:00-18:00",
+   "mi": "13:00-18:00",
+   "do": "13:00-18:00",
+   "fr": "13:00-18:00",
+   "sa": "13:00-18:00",
+   "so": "13:00-18:00"
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://kvfm.de/kontakt/",
+  "quelle": "https://kvfm.de/kontakt/",
+  "hinweis_oeffnung": "Oktober bis März; April bis September: 13:00-19:00 Uhr",
+  "stand": "2026-10-12"
+ },
+ "Q1792670": {
+  "haus": "Kunstverein Harburger Bahnhof",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "14:00-18:00",
+   "do": "14:00-18:00",
+   "fr": "14:00-18:00",
+   "sa": "14:00-18:00",
+   "so": "14:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "Öffnungszeiten nur während Ausstellungen",
+  "bessere_seite": "https://kvhbf.de/#/kontakt",
+  "quelle": "https://kvhbf.de/#/",
+  "stand": "2026-10-12"
+ },
+ "Q1792687": {
+  "haus": "Kunstverein in Hamburg",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_regulaer": "6€",
+  "eintritt_ermaessigt": "4€",
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "Erster Donnerstag des Monats 11:00-22:00",
+  "quelle": "https://kunsthaushamburg.de/besuch/",
+  "stand": "2026-10-12"
+ },
+ "Q1792677": {
+  "haus": "Kunstverein Neckar-Odenwald",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "Öffnungszeiten und Eintrittspreise nicht auf dieser Seite verfügbar",
+  "bessere_seite": "https://kunstverein-neckar-odenwald.de/kunstverein/",
+  "quelle": "https://kunstverein-neckar-odenwald.de/programm-2026/",
+  "stand": "2026-10-08"
+ },
+ "Q570620": {
+  "haus": "Kupferstichkabinett Dresden",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "geschlossen",
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "18 €",
+  "eintritt_ermaessigt": "13,50 €",
+  "frei_fuer": "unter 20 Jahren (Schüler): 2 €; bis Schuleintritt: frei",
+  "hinweis_oeffnung": "Dienstag geschlossen",
+  "quelle": "https://kupferstich-kabinett.skd.museum/besuch/",
+  "stand": "2026-10-12"
+ },
+ "Q1792296": {
+  "haus": "KW Institute for Contemporary Art",
+  "oeffnungszeiten": {
+   "mo": "11:00-19:00",
+   "di": "geschlossen",
+   "mi": "11:00-19:00",
+   "do": "11:00-19:00",
+   "fr": "11:00-19:00",
+   "sa": "11:00-19:00",
+   "so": "11:00-19:00"
+  },
+  "eintritt_regulaer": "10 €",
+  "eintritt_ermaessigt": "6 €",
+  "eintritt_immer_frei": false,
+  "frei_fuer": "bis einschließlich 18 Jahre",
+  "frei_wann": "jeden Donnerstag im Monat von 16:00 bis 21:00 Uhr",
+  "hinweis_oeffnung": "Geschlossen bis 16.10.26",
+  "quelle": "https://www.kw-berlin.de/de/besuch/tickets",
+  "stand": "2026-10-08"
+ },
+ "node-9979815161": {
+  "haus": "Käthe-Kollwitz-Museum Berlin",
+  "oeffnungszeiten": {
+   "mo": "11:00-18:00",
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_regulaer": "8,00 €",
+  "eintritt_ermaessigt": "5,00 €",
+  "frei_fuer": "unter 18 Jahren",
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "Heiligabend und Silvester geschlossen",
+  "quelle": "https://www.kaethe-kollwitz.berlin/besuch/oeffnungszeiten-und-tickets/",
+  "stand": "2026-10-12"
+ },
+ "Q1559479": {
+  "haus": "Kölnischer Kunstverein",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "Am 11.11.2026 bleiben die Ausstellungen geschlossen; während der Ausstellungspausen geschlossen",
+  "bessere_seite": "https://koelnischerkunstverein.de/institution/",
+  "quelle": "https://koelnischerkunstverein.de/aktuelle-informationen/",
+  "stand": "2026-10-12"
+ },
+ "way-26836899": {
+  "haus": "Liebermann-Villa",
+  "oeffnungszeiten": {
+   "mo": "11:00-17:00",
+   "di": "geschlossen",
+   "mi": "11:00-17:00",
+   "do": "11:00-17:00",
+   "fr": "11:00-17:00",
+   "sa": "11:00-17:00",
+   "so": "11:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "12,00 €",
+  "eintritt_ermaessigt": "6,00 €",
+  "frei_fuer": "Kinder und Jugendliche bis 18 Jahre, Mitglieder der Max-Liebermann-Gesellschaft, ICOM-Mitglieder, Mitglieder Deutscher Museumsbund, Mitglieder Deutscher Verband für Kunstgeschichte, Presse, Begleitpersonen von Menschen mit Schwerbehinderung (mit Merkzeichen B)",
+  "hinweis_oeffnung": "An Feiertagen geöffnet. Geschlossen am 24. und 31. Dezember",
+  "quelle": "https://liebermann-villa.de/besuch/ihr-besuch/",
+  "stand": "2026-10-12"
+ },
+ "Q1823966": {
+  "haus": "Liebieghaus  Skulpturensammlung",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "10:00-21:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "10 € (Di–Fr), 12 € (Sa–So)",
+  "eintritt_ermaessigt": "8 € (Di–Fr), 10 € (Sa–So)",
+  "frei_fuer": "unter 12 Jahren, Mitglieder Städelverein/Städelclub",
+  "hinweis_oeffnung": "Ab 12.10.2026 geschlossen wegen Umbau, Wiedereröffnung 18.11.2026",
+  "quelle": "https://www.liebieghaus.de/de/informationen-service",
+  "stand": "2026-10-12"
+ },
+ "Q1880284": {
+  "haus": "Lügenmuseum",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "9,– €",
+  "eintritt_ermaessigt": "6,– € (StudentInnen, Arbeitslose), 5,– € (SchülerInnen), 3,– € (Kinder bis 12 Jahre)",
+  "hinweis_oeffnung": "Geschlossen ab 30.9.2026",
+  "quelle": "https://www.luegenmuseum.de/",
+  "bessere_seite": "https://www.luegenmuseum.de/besuch",
+  "stand": "2026-10-12"
+ },
+ "node-3051807899": {
+  "haus": "Malkasten",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "17:00-21:00",
+   "mi": null,
+   "do": "11:00-17:00",
+   "fr": "11:00-17:00",
+   "sa": "11:00-17:00",
+   "so": "11:00-17:00"
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://malkasten.org/forum/?tab=aktuell",
+  "quelle": "https://malkasten.org/",
+  "stand": "2026-10-12"
+ },
+ "Q198418": {
+  "haus": "Museum Angewandte Kunst",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-20:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_regulaer": "14 €",
+  "eintritt_ermaessigt": "7 €",
+  "eintritt_immer_frei": false,
+  "frei_fuer": "Kinder und Jugendliche unter 18 Jahren",
+  "frei_wann": "jeden letzten Samstag im Monat",
+  "quelle": "https://www.museumangewandtekunst.de/de/besuch/informationen/",
+  "stand": "2026-10-12"
+ },
+ "Q258597": {
+  "haus": "Museum Brandhorst",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-20:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "7 €",
+  "eintritt_ermaessigt": "5 €",
+  "frei_fuer": "unter 18 Jahren",
+  "frei_wann": "Sonntags (1 €)",
+  "quelle": "https://www.museum-brandhorst.de/info-tickets/",
+  "stand": "2026-10-12"
+ },
+ "Q566661": {
+  "haus": "Museum der bildenden Künste",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "12:00-20:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "12 €",
+  "eintritt_ermaessigt": "6 €",
+  "frei_fuer": "Kinder unter 19 Jahren",
+  "frei_wann": "jeden 1. Mittwoch im Monat (3 €)",
+  "quelle": "https://mdbk.de/en/information/",
+  "stand": "2026-10-12"
+ },
+ "Q21712334": {
+  "haus": "Museum der Stille",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": "14:00-19:00",
+   "so": "14:00-19:00"
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "http://museum-der-stille.de/#museum",
+  "hinweis_oeffnung": "Öffnungszeiten und Eintritt stehen nicht auf dieser Seite",
+  "quelle": "http://museum-der-stille.de/de/",
+  "stand": "2026-10-12"
+ },
+ "Q1479961": {
+  "haus": "Museum Frieder Burda",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "An allen Feiertagen geöffnet (24. und 31. Dezember geschlossen)",
+  "bessere_seite": "https://www.museum-frieder-burda.de/besuch#collapsePrei01",
+  "quelle": "https://www.museum-frieder-burda.de/besuch",
+  "stand": "2026-10-12"
+ },
+ "Q877567": {
+  "haus": "Museum für Angewandte Kunst Köln",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "6 €",
+  "eintritt_ermaessigt": "3,50 €",
+  "frei_fuer": "unter 18 Jahren",
+  "hinweis_oeffnung": "Jeden 1. Donnerstag im Monat 10–22 Uhr (KölnTag); Montag geschlossen außer Ostermontag und Pfingstmontag; geschlossen an Heiligabend, Weihnachtstagen, Silvester, Neujahr, Karneval",
+  "quelle": "https://makk.de/besuchen/besuch-vorbereiten/oeffnungszeiten-und-preise",
+  "stand": "2026-10-12"
+ },
+ "node-4227219441": {
+  "haus": "Museum für Europäische Gartenkunst",
+  "oeffnungszeiten": {
+   "mo": "11:00-17:00",
+   "di": "11:00-17:00",
+   "mi": "geschlossen",
+   "do": "geschlossen",
+   "fr": "14:00-17:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://tickets.schloss-benrath.de/",
+  "quelle": "https://www.schloss-benrath.de/museum-fuer-gartenkunst",
+  "stand": "2026-10-12"
+ },
+ "Q1954640": {
+  "haus": "Museum für Kommunikation Frankfurt",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "09:00-17:00",
+   "mi": "10:00-20:00",
+   "do": "09:00-17:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "9 €",
+  "eintritt_ermaessigt": "5 €",
+  "frei_fuer": "Kinder unter 6 Jahren",
+  "hinweis_oeffnung": "Geschlossen: 24.12., 25.12., 31.12., 1.1. Geöffnet an Ostern und 26., 27., 29., 30.12.",
+  "quelle": "https://www.mfk-frankfurt.de/besuch/",
+  "stand": "2026-10-12"
+ },
+ "Q896052": {
+  "haus": "Museum für Kunst und Gewerbe Hamburg",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-21:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_regulaer": "14 Euro",
+  "eintritt_ermaessigt": "8 Euro",
+  "eintritt_immer_frei": false,
+  "frei_fuer": "unter 18 Jahren",
+  "frei_wann": "erster Donnerstag im Monat ab 18:00 Uhr",
+  "hinweis_oeffnung": "Donnerstag an Feiertagen 10-18 Uhr statt 10-21 Uhr",
+  "quelle": "https://www.mkg-hamburg.de/besuch",
+  "stand": "2026-10-12"
+ },
+ "Q456994": {
+  "haus": "Museum für Moderne Kunst",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-20:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "Derzeit geschlossen wegen Brandschutzoptimierung",
+  "bessere_seite": "https://www.mmk.art/de/visit/museum",
+  "quelle": "https://www.mmk.art/de/visit/tower",
+  "eintritt_regulaer": "8 €",
+  "eintritt_ermaessigt": "4 €",
+  "frei_fuer": "unter 18 Jahren, Freunde des MMK, ICOM-Karteninhaber, Museumsufer Card-Inhaber, Studierende bestimmter Hochschulen, Lehrer mit Schulklasse, geflüchtete Menschen",
+  "frei_wann": "jeden letzten Samstag im Monat (SaTOURday)",
+  "stand": "2026-10-12"
+ },
+ "node-3157469110": {
+  "haus": "Tower MMK",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-20:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.mmk.art/de/visit/tower",
+  "quelle": "https://www.mmk.art/de/visit",
+  "stand": "2026-10-12"
+ },
+ "Q884204": {
+  "haus": "Museum für Ostasiatische Kunst",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-17:00",
+   "mi": "11:00-17:00",
+   "do": "11:00-17:00",
+   "fr": "11:00-17:00",
+   "sa": "11:00-17:00",
+   "so": "11:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "7,50 €",
+  "eintritt_ermaessigt": "3,50 €",
+  "frei_fuer": "Kölner*innen mit Nachweis",
+  "frei_wann": "jeden ersten Donnerstag im Monat",
+  "hinweis_oeffnung": "jeden ersten Donnerstag im Monat 11:00-22:00 Uhr; geschlossen 1.1., 24.12., 25.12., 31.12.; geöffnet an Ostermontag, Pfingstmontag, Christi Himmelfahrt, Frohnleichnam",
+  "quelle": "https://museum-fuer-ostasiatische-kunst.de/Information",
+  "stand": "2026-10-12"
+ },
+ "Q1954440": {
+  "haus": "Museum Giersch",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-20:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "7 €",
+  "eintritt_ermaessigt": "5 €",
+  "frei_fuer": "unter 18 Jahren, Studierende der Goethe-Universität",
+  "hinweis_oeffnung": "An Feiertagen 10–18 Uhr geöffnet (auch montags). Zwischen Ausstellungen wegen Umbau geschlossen.",
+  "quelle": "https://www.mggu.de/besuch/",
+  "stand": "2026-10-12"
+ },
+ "Q27036848": {
+  "haus": "Museum im Kleihues-Bau",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "6,00 EUR",
+  "eintritt_ermaessigt": "4,00 EUR",
+  "frei_fuer": "unter 18 Jahren",
+  "bessere_seite": "https://museum-kleihues-bau.kornwestheim.de/start/besucherinfo/oeffnungszeiten.html",
+  "quelle": "https://museum-kleihues-bau.kornwestheim.de/start.html",
+  "stand": "2026-10-12"
+ },
+ "Q461277": {
+  "haus": "Museum Kunstpalast",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-21:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_regulaer": "17 €",
+  "eintritt_ermaessigt": "13 €",
+  "frei_fuer": "Kinder und Jugendliche unter 18 Jahren; Mitglieder des Freundeskreises",
+  "frei_wann": "jeden 1. Donnerstag im Monat von 18–21 Uhr (außer feiertags); mittwochs 9 € (14–18 Uhr, außer feiertags)",
+  "eintritt_immer_frei": false,
+  "quelle": "https://www.kunstpalast.de/de/besuch/",
+  "stand": "2026-10-12"
+ },
+ "Q703640": {
+  "haus": "Museum Ludwig",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-22:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "15,40 €",
+  "eintritt_ermaessigt": "10,40 €",
+  "frei_fuer": "Kinder und Jugendliche bis 18 Jahre",
+  "frei_wann": "jeden 1. Donnerstag im Monat ab 17 Uhr (Kölner*innen ganztägig)",
+  "hinweis_oeffnung": "Jeden 1. Donnerstag im Monat 10-22h; Montags geschlossen (außer an Feiertagen)",
+  "quelle": "https://www.museum-ludwig.de/de/besuch/informationen/tickets-oeffnungszeiten",
+  "stand": "2026-10-12"
+ },
+ "Q2719577": {
+  "haus": "Museum Morsbroich",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-17:00",
+   "mi": "11:00-17:00",
+   "do": "11:00-17:00",
+   "fr": "11:00-17:00",
+   "sa": "11:00-17:00",
+   "so": "11:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "10 €",
+  "eintritt_ermaessigt": "5 €",
+  "frei_fuer": "Kinder und Jugendliche bis einschließlich 17 Jahre",
+  "hinweis_oeffnung": "Montag geschlossen. An Feiertagen teilweise geöffnet (siehe Website).",
+  "quelle": "https://www.museum-morsbroich.de/kontakt-besuch/oeffnungszeiten-preise/",
+  "stand": "2026-10-12"
+ },
+ "Q950": {
+  "haus": "Museum Schnütgen",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-20:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.museum-schnuetgen.de/besuch/planen-sie-ihren-besuch",
+  "quelle": "https://www.museum-schnuetgen.de/besuch/planen-sie-ihren-besuch",
+  "eintritt_regulaer": "6 €",
+  "eintritt_ermaessigt": "3,50 €",
+  "frei_fuer": "Kinder unter 6 Jahren in Begleitung eines*einer Erwachsenen, Schüler*innen, Auszubildende, Kölner*innen unter 18 Jahren, Inhaber*innen des Köln-Passes und der ICOM-Card sowie Mitglieder des Freundeskreises Museum Schnütgen",
+  "hinweis_oeffnung": "Mo geschlossen; Do 10-20 Uhr; KölnTag (jeden 1. Do im Monat außer Feiertage) 10-22 Uhr; An Feiertagen 10-18 Uhr",
+  "stand": "2026-10-12"
+ },
+ "node-12849182465": {
+  "haus": "MÄDLER ART FORUM",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "14:00-18:00",
+   "do": "14:00-18:00",
+   "fr": "14:00-18:00",
+   "sa": "14:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://maedlerartforum.com/about/",
+  "quelle": "https://maedlerartforum.com/about/",
+  "stand": "2026-10-12"
+ },
+ "Q1774413": {
+  "haus": "Nassauischer Kunstverein",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "14:00-18:00",
+   "mi": "14:00-18:00",
+   "do": "14:00-18:00",
+   "fr": "14:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_regulaer": "5 €",
+  "eintritt_ermaessigt": "3 €",
+  "eintritt_immer_frei": false,
+  "frei_fuer": "unter 18 Jahren; Mitglieder des Nassauischer Kunstvereins; Freunde des Museums Wiesbaden; ICOM-Mitglieder; Mitglieder anderer ADKV-Kunstvereine; Kunst-Studierende bestimmter Hochschulen; Lehrkräfte mit Schulklasse; Ehrenamtskarteninhaber; geflüchtete Menschen",
+  "hinweis_oeffnung": "Sommerschließzeit 27.07.-02.09.26; Geschlossen Pfingstmontag (25.05.)",
+  "quelle": "https://www.kunstverein-wiesbaden.de/besucherinfo",
+  "stand": "2026-10-08"
+ },
+ "Q1980109": {
+  "haus": "Neuer Berliner Kunstverein",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-20:00",
+   "fr": "12:00-18:00",
+   "sa": null,
+   "so": "12:00-18:00"
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.nbk.org/de/institution",
+  "stand": "2026-10-08"
+ },
+ "Q133781200": {
+  "haus": "Port des Lumières",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "19 € (Mo-Fr) / 22 € (Sa-So)",
+  "eintritt_ermaessigt": "17 € (Mo-Fr) / 21 € (Sa-So)",
+  "frei_fuer": "Kinder unter 4 Jahren",
+  "hinweis_oeffnung": "Keine regulären Wochenöffnungszeiten auf der Seite verfügbar, nur Spielzeiten für Ausstellungen (Führungen)",
+  "quelle": "https://www.port-lumieres.com/de",
+  "bessere_seite": "https://www.port-lumieres.com/de/besuch/oeffnungszeiten-und-preise",
+  "stand": "2026-10-12"
+ },
+ "way-39383376": {
+  "haus": "Portikus",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "12:00-19:00",
+   "mi": "12:00-19:00",
+   "do": "12:00-19:00",
+   "fr": "12:00-19:00",
+   "sa": "11:00-19:00",
+   "so": "11:00-19:00"
+  },
+  "eintritt_immer_frei": false,
+  "quelle": "https://www.portikus.de/de/",
+  "stand": "2026-10-12"
+ },
+ "Q2145673": {
+  "haus": "Residenzmuseum",
+  "oeffnungszeiten": {
+   "mo": "10:00-17:00",
+   "di": "10:00-17:00",
+   "mi": "10:00-17:00",
+   "do": "10:00-17:00",
+   "fr": "10:00-17:00",
+   "sa": "10:00-17:00",
+   "so": "10:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "Closed 1 January, Shrove Tuesday, 24/25/31 December",
+  "bessere_seite": "https://www.residenz-muenchen.de/englisch/tourist/admiss.htm",
+  "quelle": "https://www.residenz-muenchen.de/englisch/tourist/opening.htm",
+  "stand": "2026-10-12"
+ },
+ "Q15126890": {
+  "haus": "Sammlung Boros",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "20 €",
+  "eintritt_ermaessigt": "12 €",
+  "frei_fuer": "Begleitperson von Besucher*innen mit Schwerbehindertenausweis",
+  "bessere_seite": "https://boros-collection.com/ticket-buchen",
+  "quelle": "https://boros-collection.com/besuch-planen",
+  "stand": "2026-10-08"
+ },
+ "Q176293": {
+  "haus": "Schirn Kunsthalle Frankfurt",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-19:00",
+   "mi": "10:00-19:00",
+   "do": "10:00-22:00",
+   "fr": "10:00-19:00",
+   "sa": "10:00-19:00",
+   "so": "10:00-19:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.schirn.de/preise-und-tickets/",
+  "hinweis_oeffnung": "Montag geschlossen; Sonderöffnungszeiten an Feiertagen",
+  "quelle": "https://www.schirn.de/oeffnungszeiten/",
+  "stand": "2026-10-12"
+ },
+ "Q869690": {
+  "haus": "Skulpturensammlung Dresden",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "Im Albertinum und im Zwinger derzeit geschlossen",
+  "bessere_seite": "https://skulpturensammlung.skd.museum/besuch/",
+  "quelle": "https://skulpturensammlung.skd.museum/",
+  "stand": "2026-10-12"
+ },
+ "Q653002": {
+  "haus": "Staatliche Kunstsammlungen Dresden",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.skd.museum/besuch/",
+  "hinweis_oeffnung": "Verbund aus 15 Museen an verschiedenen Standorten",
+  "quelle": "https://www.skd.museum/",
+  "stand": "2026-10-12"
+ },
+ "Q14917275": {
+  "haus": "Staatsgalerie Stuttgart",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-17:00",
+   "mi": "10:00-17:00",
+   "do": "10:00-20:00",
+   "fr": "10:00-17:00",
+   "sa": "10:00-17:00",
+   "so": "10:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "frei_wann": "Mittwoch",
+  "bessere_seite": "https://www.staatsgalerie.de/de/besuch/eintrittspreise",
+  "quelle": "https://www.staatsgalerie.de/de/besuch/oeffnungszeiten",
+  "stand": "2026-10-12"
+ },
+ "way-100784190": {
+  "haus": "Stapflehus",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.museen-weil-am-rhein.de/oeffnungszeiten.html",
+  "hinweis_oeffnung": "Geschlossen an Karfreitag, Heiligabend, Silvester und Neujahr",
+  "quelle": "https://www.museen-weil-am-rhein.de/stapflehus.html",
+  "stand": "2026-10-12"
+ },
+ "Q163804": {
+  "haus": "Städelsches Kunstinstitut",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-21:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_regulaer": "19 €",
+  "eintritt_ermaessigt": "17 €",
+  "eintritt_immer_frei": false,
+  "frei_fuer": "unter 12 Jahren",
+  "frei_wann": "dienstags ab 15:00 Uhr (10 € Einheitspreis für alle)",
+  "quelle": "https://www.staedelmuseum.de/de/besuch",
+  "stand": "2026-10-08"
+ },
+ "Q830042": {
+  "haus": "Städtische Galerie Dresden",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_regulaer": "8 €",
+  "eintritt_ermaessigt": "6 €",
+  "frei_fuer": "unter 7 Jahren",
+  "frei_wann": "freitags ab 12:00 Uhr",
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "24., 25., 31. DEZ und 01. JAN abweichend",
+  "quelle": "https://galerie-dresden.de/besuch/oeffnungszeiten-eintritt",
+  "stand": "2026-10-12"
+ },
+ "Q262234": {
+  "haus": "Städtische Galerie im Lenbachhaus und Kunstbau München",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-20:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.lenbachhaus.de/besuchen/allgemeine-informationen",
+  "hinweis_oeffnung": "Kunstbau 2026 geschlossen (Sanierung)",
+  "quelle": "https://www.lenbachhaus.de/besuchen/allgemeine-informationen",
+  "eintritt_regulaer": "10 Euro",
+  "eintritt_ermaessigt": "6 Euro",
+  "frei_wann": "jeden ersten Donnerstag im Monat von 18:00-22:00 Uhr",
+  "stand": "2026-10-12"
+ },
+ "Q111594318": {
+  "haus": "Urban Nation Museum For Urban Contempory Art",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "12:00-20:00",
+   "fr": "12:00-20:00",
+   "sa": "12:00-20:00",
+   "so": "12:00-20:00"
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://urban-nation.com/plan-your-visit/",
+  "stand": "2026-10-08"
+ },
+ "Q700747": {
+  "haus": "Vitra Design Museum",
+  "oeffnungszeiten": {
+   "mo": "10:00-18:00",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "16,00 €",
+  "eintritt_ermaessigt": "13,00 €",
+  "frei_fuer": "Kinder unter 13 Jahren",
+  "hinweis_oeffnung": "24. Dezember 10:00-14:00 Uhr",
+  "quelle": "https://www.design-museum.de/de/informationen/ihr-besuch.html",
+  "stand": "2026-10-12"
+ },
+ "Q2560329": {
+  "haus": "Werkbundarchiv – Museum der Dinge",
+  "oeffnungszeiten": {
+   "mo": "12:00-19:00",
+   "di": "geschlossen",
+   "mi": "geschlossen",
+   "do": "12:00-19:00",
+   "fr": "12:00-19:00",
+   "sa": "12:00-19:00",
+   "so": "12:00-19:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "6 €",
+  "eintritt_ermaessigt": "4 €",
+  "frei_fuer": "Kinder und Jugendliche bis 18 Jahre, Schüler*innen im Rahmen des betreuten Schulunterrichts, ALG II-Empfänger*innen, Werkbundarchiv e.V. Mitglieder, Inhaber*innen eines Berechtigungsnachweises (Berlinpass)",
+  "quelle": "https://museumderdinge.de/besuch/oeffnungszeiten-tickets/#/",
+  "stand": "2026-10-12"
+ },
+ "way-100050091": {
+  "haus": "Bund Bildender Künstlerinnen Württembergs e.V.",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.bbk-wuerttemberg.de/programm/",
+  "quelle": "https://www.bbk-wuerttemberg.de/kontakt/",
+  "stand": "2026-10-12"
+ },
+ "node-298125129": {
+  "haus": "Galerie Christine Mayer",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "14:00-18:00",
+   "mi": "14:00-18:00",
+   "do": "14:00-18:00",
+   "fr": "14:00-18:00",
+   "sa": "11:00-15:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.galeriechristinemayer.de/contact/",
+  "quelle": "https://www.galeriechristinemayer.de/contact/",
+  "stand": "2026-10-12"
+ },
+ "node-9235673428": {
+  "haus": "Gedok Gemeinschaft der Künstlerinnen und Kunstfreunde e. V.",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.gedok-stuttgart.de/atelierhaus/galerie/",
+  "hinweis_oeffnung": "Reguläre Wochenöffnungszeiten und Eintrittspreise nicht auf der Veranstaltungsseite verfügbar",
+  "quelle": "https://www.gedok-stuttgart.de/aktuell/veranstaltungen/",
+  "stand": "2026-10-12"
+ },
+ "Q18288036": {
+  "haus": "Kurt Mühlenhaupt Museum",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": null,
+   "mi": "14:00-18:00",
+   "do": "14:00-18:00",
+   "fr": "14:00-18:00",
+   "sa": "14:00-18:00",
+   "so": "14:00-18:00"
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.muehlenhaupt.de/besuch",
+  "stand": "2026-10-08"
+ },
+ "way-52722410": {
+  "haus": "Künstlerhaus Sootbörn",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://kuenstlerhaus-sootboern.de/anfahrt/",
+  "quelle": "https://kuenstlerhaus-sootboern.de/das-haus/",
+  "hinweis_oeffnung": "Informationen auf Kontakt-/Anfahrtsseite verfügbar",
+  "stand": "2026-10-12"
+ },
+ "way-28098273": {
+  "haus": "Künstlerhaus Stuttgart",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": "14:00-18:00",
+   "sa": "14:00-18:00",
+   "so": "14:00-18:00"
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://kuenstlerhaus.de/ueber-uns/",
+  "bessere_seite": "https://kuenstlerhaus.de/ueber-uns#besuch",
+  "stand": "2026-10-12"
+ },
+ "node-3929292574": {
+  "haus": "little ART - Münchner Künstlerhaus",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.little-art.org/",
+  "quelle": "https://www.little-art.org/kontakt",
+  "frei_fuer": "benachteiligte Kinder",
+  "hinweis_oeffnung": "Öffnungszeiten und Eintrittspreise nicht auf der Kontaktseite verfügbar",
+  "stand": "2026-10-12"
+ },
+ "nachtrag-photobastei": {
+  "haus": "Photobastei",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-18:00",
+   "do": "12:00-21:00",
+   "fr": "12:00-21:00",
+   "sa": "12:00-21:00",
+   "so": "12:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://portal.photobastei.ch/homepage",
+  "quelle": "https://portal.photobastei.ch/homepage",
+  "stand": "2026-10-12"
+ },
+ "nachtrag-hamburger-bahnhof-nationalgalerie-der-gegenwart": {
+  "haus": "Hamburger Bahnhof – Nationalgalerie der Gegenwart",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-20:00",
+   "fr": "10:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.smb.museum/besuch-planen/preise-tickets/",
+  "quelle": "https://www.smb.museum/besuch-planen/oeffnungszeiten/",
+  "stand": "2026-10-12"
+ },
+ "nachtrag-gem-ldegalerie": {
+  "haus": "Gemäldegalerie",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.smb.museum/besuch-planen/preise-tickets/",
+  "quelle": "https://www.smb.museum/besuch-planen/oeffnungszeiten/",
+  "stand": "2026-10-12"
+ },
+ "nachtrag-kunstgewerbemuseum": {
+  "haus": "Kunstgewerbemuseum",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "10:00-17:00",
+   "do": "10:00-17:00",
+   "fr": "10:00-17:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.smb.museum/besuch-planen/preise-tickets/",
+  "quelle": "https://www.smb.museum/besuch-planen/oeffnungszeiten/",
+  "stand": "2026-10-12"
+ },
+ "nachtrag-museum-f-r-fotografie": {
+  "haus": "Museum für Fotografie",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-19:00",
+   "mi": "11:00-19:00",
+   "do": "11:00-20:00",
+   "fr": "11:00-19:00",
+   "sa": "11:00-19:00",
+   "so": "11:00-19:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.smb.museum/besuch-planen/preise-tickets/",
+  "quelle": "https://www.smb.museum/besuch-planen/oeffnungszeiten/",
+  "stand": "2026-10-12"
+ },
+ "nachtrag-bode-museum": {
+  "haus": "Bode-Museum",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-17:00",
+   "mi": "10:00-17:00",
+   "do": "10:00-20:00",
+   "fr": "10:00-17:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.smb.museum/besuch-planen/preise-tickets/",
+  "quelle": "https://www.smb.museum/besuch-planen/oeffnungszeiten/",
+  "stand": "2026-10-12"
+ },
+ "nachtrag-c-o-berlin": {
+  "haus": "C/O Berlin",
+  "oeffnungszeiten": {
+   "mo": "11:00-20:00",
+   "di": "11:00-20:00",
+   "mi": "11:00-20:00",
+   "do": "11:00-20:00",
+   "fr": "11:00-20:00",
+   "sa": "11:00-20:00",
+   "so": "11:00-20:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "15 Euro",
+  "eintritt_ermaessigt": "8 Euro",
+  "frei_fuer": "bis einschließlich 18 Jahre",
+  "bessere_seite": "https://co-berlin.org/de/besuch/oeffnungszeiten-und-anreise",
+  "quelle": "https://co-berlin.org/de",
+  "stand": "2026-10-12"
+ },
+ "nachtrag-akademie-der-k-nste": {
+  "haus": "Akademie der Künste",
+  "oeffnungszeiten": {
+   "mo": "10:00-20:00",
+   "di": "10:00-20:00",
+   "mi": "10:00-20:00",
+   "do": "10:00-20:00",
+   "fr": "10:00-20:00",
+   "sa": "10:00-20:00",
+   "so": "10:00-20:00"
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "Am 24. und 31.12. geschlossen",
+  "bessere_seite": "https://adk.de/besuch/tickets-preise",
+  "quelle": "https://adk.de/besuch/oeffnungszeiten",
+  "stand": "2026-10-12"
+ },
+ "nachtrag-palaispopulaire": {
+  "haus": "PalaisPopulaire",
+  "oeffnungszeiten": {
+   "mo": "11:00-18:00",
+   "di": "geschlossen",
+   "mi": "11:00-18:00",
+   "do": "11:00-19:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "5 €",
+  "eintritt_ermaessigt": "3 €",
+  "frei_fuer": "unter 18 Jahren",
+  "frei_wann": "Montags",
+  "quelle": "https://palaispopulaire.db.com/Visit/",
+  "stand": "2026-10-12"
+ },
+ "nachtrag-kunstraum-kreuzberg-bethanien": {
+  "haus": "Kunstraum Kreuzberg/Bethanien",
+  "oeffnungszeiten": {
+   "mo": "10:00-20:00",
+   "di": "10:00-20:00",
+   "mi": "10:00-20:00",
+   "do": "10:00-20:00",
+   "fr": "10:00-20:00",
+   "sa": "10:00-20:00",
+   "so": "10:00-20:00"
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://kunstraumkreuzberg.de/english-info/",
+  "stand": "2026-10-12"
+ },
+ "nachtrag-humboldt-forum": {
+  "haus": "Humboldt Forum",
+  "oeffnungszeiten": {
+   "mo": "10:30-18:30",
+   "di": "geschlossen",
+   "mi": "10:30-18:30",
+   "do": "10:30-18:30",
+   "fr": "10:30-18:30",
+   "sa": "10:30-18:30",
+   "so": "10:30-18:30"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "9 EUR",
+  "hinweis_oeffnung": "24.12.2026 geschlossen; 27.-30.12.2026 Di 29.12. Schließtag",
+  "bessere_seite": "https://www.humboldtforum.org/de/besuch/preise-und-tickets/",
+  "quelle": "https://www.humboldtforum.org/de/besuch/",
+  "stand": "2026-10-12"
+ },
+ "nachtrag-dom-museum-wien": {
+  "haus": "Dom Museum Wien",
+  "oeffnungszeiten": {
+   "mo": "10:00-18:00",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-20:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "An gesetzlichen Feiertagen geschlossen. Am 24. und 31. Dezember um 14 Uhr schließend.",
+  "bessere_seite": "https://dommuseum.at/tickets",
+  "quelle": "https://dommuseum.at/oeffnungszeiten",
+  "stand": "2026-10-12"
+ },
+ "nachtrag-pinakothek-der-moderne": {
+  "haus": "Pinakothek der Moderne",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-20:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "frei_fuer": "Kinder und Jugendliche bis zum vollendeten 18. Lebensjahr; Schüler:innen über 18 Jahren; Studierende Kunst/Kunstgeschichte/Kunstwissenschaften/Kunstpädagogik/Architektur/Design/Graphik; Lehrkräfte bei Schülergruppen; Hochschullehrkräfte bei Lehrveranstaltungen; Begleitpersonen von Schwerbehinderten; Journalist:innen mit Presseausweis; Reiseleiter:innen/Fremdführer:innen; ICOM-Mitglieder; Inhaber:innen Bayerische Ehrenamtskarte; Mitglieder Freundeskreise; MPZ-Mitarbeiter:innen; Träger:innen Bayerischer Verdienstorden/Rettungsmedaille/Maximiliansordens; Mandatsträger:innen und Diplomat:innen",
+  "bessere_seite": "https://www.pinakothek-der-moderne.de/besuch-planen/",
+  "hinweis_oeffnung": "Geschlossen: 24.12., 25.12., 31.12., 01.05., 09.02.2027, 01.11.2027. Sonderöffnung bis 18:00 an: 26.12., 01.01., 06.01., Ostern, Pfingsten, 06.05.2027, 27.05.2027.",
+  "quelle": "https://www.pinakothek-der-moderne.de/sonderoeffnungszeiten-und-ermaessigungen/",
+  "stand": "2026-10-12"
+ },
+ "nachtrag-kunstverein-m-nchen": {
+  "haus": "Kunstverein München",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-18:00",
+   "so": "12:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.kunstverein-muenchen.de/de/kontakt",
+  "quelle": "https://www.kunstverein-muenchen.de/de/kontakt",
+  "eintritt_regulaer": "5 EUR",
+  "eintritt_ermaessigt": "3 EUR",
+  "frei_fuer": "km Mitglieder, ADKV-Mitglieder, ICOM-Mitglieder, Kinder bis 12 Jahre",
+  "hinweis_oeffnung": "An Feiertagen geschlossen, außer Ostersonntag, Christi Himmelfahrt, Pfingstsonntag, Tag der dt. Einheit",
+  "stand": "2026-10-12"
+ },
+ "nachtrag-museum-f-nf-kontinente": {
+  "haus": "Museum Fünf Kontinente",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "09:30-17:30",
+   "mi": "09:30-17:30",
+   "do": "09:30-17:30",
+   "fr": "09:30-17:30",
+   "sa": "09:30-17:30",
+   "so": "09:30-17:30"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "9 €",
+  "eintritt_ermaessigt": "7 €",
+  "frei_fuer": "Kinder und Jugendliche bis zum vollendeten 18. Lebensjahr",
+  "frei_wann": "jeden Sonntag (1 € regulär)",
+  "hinweis_oeffnung": "Öffnet wieder am Dienstag (aktuell geschlossen)",
+  "quelle": "https://www.museum-fuenf-kontinente.de/besuch/besuch-planen",
+  "stand": "2026-10-12"
+ },
+ "nachtrag-kunstverein-in-hamburg": {
+  "haus": "Kunstverein in Hamburg",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-21:00",
+   "fr": "12:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "5 Euro",
+  "eintritt_ermaessigt": "3 Euro",
+  "frei_fuer": "Kinder und Jugendliche bis 18 Jahre, Mitglieder",
+  "quelle": "https://www.kunstverein.de/institution/visit",
+  "stand": "2026-10-12"
+ },
+ "nachtrag-jenisch-haus": {
+  "haus": "Jenisch Haus",
+  "oeffnungszeiten": {
+   "mo": "11:00-18:00",
+   "di": "geschlossen",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": "11:00-18:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.shmh.de/jenisch-haus/jenisch-haus-besuchen/",
+  "quelle": "https://www.shmh.de/besuchen/",
+  "stand": "2026-10-12"
+ },
+ "nachtrag-markk-museum-am-rothenbaum": {
+  "haus": "MARKK – Museum am Rothenbaum",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-21:00",
+   "fr": "10:00-18:00",
+   "sa": "10:00-18:00",
+   "so": "10:00-18:00"
+  },
+  "eintritt_regulaer": "€ 10,00",
+  "eintritt_ermaessigt": "€ 6,00",
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://markk-hamburg.de/informationen-service/eintrittspreise/",
+  "quelle": "https://markk-hamburg.de/informationen-service/",
+  "stand": "2026-10-12"
+ },
+ "nachtrag-sammlung-falckenberg": {
+  "haus": "Sammlung Falckenberg",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": "12:00-17:00"
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.deichtorhallen.de/de/besuch/besuch-sammlung-falckenberg",
+  "quelle": "https://www.deichtorhallen.de/de/besuch/besuch-sammlung-falckenberg",
+  "hinweis_oeffnung": "Nur jeden Sonntag im Monat geöffnet",
+  "eintritt_regulaer": "11 €",
+  "eintritt_ermaessigt": "7 €",
+  "frei_fuer": "Kinder und Jugendliche unter 18 Jahren sowie Studierende ausgewählter Hochschulen aus Hamburg",
+  "stand": "2026-10-12"
+ },
+ "nachtrag-helmut-newton-stiftung": {
+  "haus": "Helmut Newton Stiftung",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "11:00-19:00",
+   "mi": "11:00-19:00",
+   "do": "11:00-20:00",
+   "fr": "11:00-19:00",
+   "sa": "11:00-19:00",
+   "so": "11:00-19:00"
+  },
+  "eintritt_immer_frei": false,
+  "eintritt_regulaer": "12 €",
+  "eintritt_ermaessigt": "6 €",
+  "quelle": "https://newton-foundation.org/kontakt/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-guido-w-baudach-berlin": {
+  "haus": "Galerie Guido W. Baudach",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.guidowbaudach.com/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-buchholz-berlin": {
+  "haus": "Galerie Buchholz",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.galeriebuchholz.de/",
+  "stand": "2026-10-12"
+ },
+ "galerie-buchmann-galerie-berlin": {
+  "haus": "Buchmann Galerie",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://buchmanngalerie.com/contact",
+  "hinweis_oeffnung": "Öffnungszeiten und Eintritt nicht auf Homepage verfügbar",
+  "quelle": "https://buchmanngalerie.com/contact",
+  "stand": "2026-10-12"
+ },
+ "galerie-contemporary-fine-arts-berlin": {
+  "haus": "Contemporary Fine Arts",
+  "oeffnungszeiten": {
+   "mo": "10:00-18:00",
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "12:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://cfa-gallery.com/locations/",
+  "quelle": "https://cfa-gallery.com/locations/",
+  "stand": "2026-10-12"
+ },
+ "galerie-crone-berlin": {
+  "haus": "Crone",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.galeriecrone.com/berlin",
+  "hinweis_oeffnung": "Öffnungszeiten und Eintrittspreise nicht auf der Startseite angegeben",
+  "quelle": "https://www.galeriecrone.com/berlin",
+  "stand": "2026-10-12"
+ },
+ "galerie-ebensperger-berlin": {
+  "haus": "Ebensperger",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://ebensperger.net/",
+  "hinweis_oeffnung": "Angaben nicht auf der bereitgestellten Seite vorhanden",
+  "quelle": "https://ebensperger.net/contact",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-eigen-art-berlin": {
+  "haus": "Galerie Eigen + Art",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://eigen-art.com/kontakt-anfahrt/",
+  "quelle": "https://eigen-art.com/galerie/team/",
+  "hinweis_oeffnung": "Berlin: Dienstag-Samstag 11:00-18:00; Leipzig: Dienstag-Samstag 11:00-16:00",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-lars-friedrich-berlin": {
+  "haus": "Galerie Lars Friedrich",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-16:00",
+   "do": "13:00-18:00",
+   "fr": "13:00-18:00",
+   "sa": "13:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://larsfriedrich.net/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-friese-berlin": {
+  "haus": "Galerie Friese",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "12:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.galeriefriese.de/galerie/",
+  "quelle": "https://www.galeriefriese.de/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-michael-haas-berlin": {
+  "haus": "Galerie Michael Haas",
+  "oeffnungszeiten": {
+   "mo": "09:00-18:00",
+   "di": "09:00-18:00",
+   "mi": "09:00-18:00",
+   "do": "09:00-18:00",
+   "fr": "09:00-18:00",
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://galeriehaas.com/contact/",
+  "quelle": "https://galeriehaas.com/contact/",
+  "stand": "2026-10-12"
+ },
+ "galerie-klemm-s-berlin": {
+  "haus": "Klemm's",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.klemms-berlin.com/gallery/",
+  "quelle": "https://www.klemms-berlin.com/gallery/",
+  "stand": "2026-10-12"
+ },
+ "galerie-kraupa-tuskany-zeidler-berlin": {
+  "haus": "Kraupa-Tuskany Zeidler",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.k-t-z.com/",
+  "quelle": "https://www.k-t-z.com/contact/",
+  "hinweis_oeffnung": "Berlin-Adresse (Regina-Jonas-Str.)",
+  "stand": "2026-10-12"
+ },
+ "galerie-kow-berlin": {
+  "haus": "KOW",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Nur Donnerstag–Samstag 12–18 Uhr während Ausstellungszeiten",
+  "bessere_seite": "https://www.kow-berlin.com/contact",
+  "quelle": "https://www.kow-berlin.com/contact",
+  "stand": "2026-10-12"
+ },
+ "galerie-tanya-leighton-berlin": {
+  "haus": "Tanya Leighton",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "13:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "and by appointment",
+  "quelle": "https://www.tanyaleighton.com/info",
+  "stand": "2026-10-12"
+ },
+ "galerie-alexander-levy-berlin": {
+  "haus": "Alexander Levy",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://alexanderlevy.de/contact",
+  "quelle": "https://alexanderlevy.de/contact",
+  "stand": "2026-10-12"
+ },
+ "galerie-levy-galerie-berlin": {
+  "haus": "Levy Galerie",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://levy-galerie.de/contact/",
+  "quelle": "https://levy-galerie.de/contact/",
+  "stand": "2026-10-12"
+ },
+ "galerie-meyer-riegger-berlin": {
+  "haus": "Meyer Riegger",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "Öffnungszeiten unterscheiden sich zwischen den Standorten (Berlin: Di-Sa 11-18 Uhr, Karlsruhe: Di-Fr 11-18 Uhr, Sa nach Vereinbarung)",
+  "quelle": "https://meyer-riegger.com/en",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-molitor-berlin": {
+  "haus": "Galerie Molitor",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.galeriemolitor.com/exhibitions/",
+  "hinweis_oeffnung": "Öffnungszeiten und Eintritt nicht auf der Exhibitions-Seite verfügbar",
+  "quelle": "https://www.galeriemolitor.com/exhibitions/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-nordenhake-berlin": {
+  "haus": "Galerie Nordenhake",
+  "oeffnungszeiten": {
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "12:00-18:00",
+   "mo": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://nordenhake.com/contact",
+  "quelle": "https://nordenhake.com/contact",
+  "stand": "2026-10-12"
+ },
+ "galerie-galeria-plan-b-berlin": {
+  "haus": "Galeria Plan B",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "12:00-18:00",
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": "12:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.plan-b.ro/info/",
+  "bessere_seite": "https://www.plan-b.ro/info",
+  "hinweis_oeffnung": "Öffnungszeiten und Eintritt nicht auf Startseite verfügbar",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-thomas-schulte-berlin": {
+  "haus": "Galerie Thomas Schulte",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.galeriethomasschulte.com/",
+  "quelle": "https://www.galeriethomasschulte.com/news/316-katharina-sieverding-museum-schloss-moyland-solo-exhibition/",
+  "stand": "2026-10-12"
+ },
+ "galerie-societe-berlin": {
+  "haus": "Société",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://societeberlin.com/",
+  "stand": "2026-10-12"
+ },
+ "galerie-soy-capitan-berlin": {
+  "haus": "Soy Capitán",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://soycapitan.de/about/",
+  "quelle": "https://soycapitan.de/about/",
+  "hinweis_oeffnung": "Öffnung nach Vereinbarung möglich",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-barbara-thumm-berlin": {
+  "haus": "Galerie Barbara Thumm",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://bthumm.de/",
+  "stand": "2026-10-12"
+ },
+ "galerie-trautwein-herleth-berlin": {
+  "haus": "Trautwein Herleth",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://trautweinherleth.de/about/",
+  "quelle": "https://trautweinherleth.de/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-michael-werner-berlin": {
+  "haus": "Galerie Michael Werner",
+  "oeffnungszeiten": {
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "10:00-16:00",
+   "mo": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.michaelwerner.de/",
+  "stand": "2026-10-12"
+ },
+ "galerie-barbara-wien-berlin": {
+  "haus": "Barbara Wien",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.barbarawien.de/",
+  "stand": "2026-10-12"
+ },
+ "galerie-wentrup-berlin": {
+  "haus": "Wentrup",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://wentrupgallery.com/",
+  "quelle": "https://wentrupgallery.com/contact/",
+  "hinweis_oeffnung": "Öffnungszeiten nicht auf der Kontaktseite angegeben",
+  "stand": "2026-10-12"
+ },
+ "galerie-haverkampf-leistenschneider-berlin": {
+  "haus": "Haverkampf Leistenschneider",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://haverkampfleistenschneider.com/contact/",
+  "quelle": "https://haverkampfleistenschneider.com/contact/",
+  "stand": "2026-10-12"
+ },
+ "galerie-persons-projects-berlin": {
+  "haus": "Persons Projects",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.personsprojects.com/about",
+  "quelle": "https://www.personsprojects.com/",
+  "stand": "2026-10-12"
+ },
+ "galerie-shahin-zarinbal-berlin": {
+  "haus": "Shahin Zarinbal",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": "14:00-18:00",
+   "fr": "14:00-18:00",
+   "sa": "14:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "quelle": "https://shahinzarinbal.com/",
+  "stand": "2026-10-12"
+ },
+ "galerie-drewes-galerie-hamburg": {
+  "haus": "Drewes Galerie",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": "12:00-17:00",
+   "fr": "12:00-17:00",
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.evelyndrewes.de/kontakt/standort",
+  "hinweis_oeffnung": "Weitere Besuchszeiten nach individueller Vereinbarung möglich",
+  "quelle": "https://www.evelyndrewes.de/kontakt/standort",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-karin-guenther-hamburg": {
+  "haus": "Galerie Karin Guenther",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "14:00-18:00",
+   "do": "14:00-18:00",
+   "fr": "14:00-18:00",
+   "sa": "12:00-15:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://galerie-karin-guenther.de/contact.html",
+  "hinweis_oeffnung": "Öffnungszeiten und Eintrittspreise auf der Seite nicht angegeben. Die Kontaktseite kann weitere Informationen enthalten.",
+  "quelle": "https://galerie-karin-guenther.de/contact.html",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-carolyn-heinz-hamburg": {
+  "haus": "Galerie Carolyn Heinz",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://carolynheinz.de/galerie/",
+  "hinweis_oeffnung": "Öffnungszeiten während der Ausstellungen, nach Vereinbarung möglich",
+  "quelle": "https://carolynheinz.de/exhibition/",
+  "stand": "2026-10-12"
+ },
+ "galerie-hengevoss-duerkop-hamburg": {
+  "haus": "Hengevoss-Dürkop",
+  "oeffnungszeiten": {
+   "mi": "14:00-18:00",
+   "do": "14:00-18:00",
+   "fr": "14:00-18:00",
+   "sa": "12:00-15:00",
+   "mo": null,
+   "di": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Sonnabend 12:00-15:00 u.n.V. (nach Vereinbarung)",
+  "bessere_seite": "https://hengevossduerkop.de/galerie/?page_id=10",
+  "quelle": "https://hengevossduerkop.de/galerie/?page_id=10",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-renate-kammer-hamburg": {
+  "haus": "Galerie Renate Kammer",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Ab 23. Juli: Dienstag bis Donnerstag 12-18 Uhr und nach Vereinbarung",
+  "quelle": "https://galerierenatekammer.de/",
+  "bessere_seite": "https://galerierenatekammer.de/contact/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-kaufmann-hamburg": {
+  "haus": "Galerie Kaufmann",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": "12:00-15:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://galeriekaufmann.de/kontakt/",
+  "quelle": "https://galeriekaufmann.de/kontakt/",
+  "hinweis_oeffnung": "Weitere Termine auf Anfrage",
+  "stand": "2026-10-12"
+ },
+ "galerie-kleine-gegenwart-hamburg": {
+  "haus": "Kleine Gegenwart",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": "14:00-19:00",
+   "fr": "14:00-19:00",
+   "sa": "14:00-19:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.kleinegegenwart.de/",
+  "hinweis_oeffnung": "während den Ausstellungen sowie nach Absprache",
+  "quelle": "https://www.kleinegegenwart.de/contact",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-melbye-konan-hamburg": {
+  "haus": "Galerie Melbye-Konan",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.melbye-konan.com/contact/",
+  "hinweis_oeffnung": "Nur nach Vereinbarung zugänglich. Öffentliche Öffnungszeiten nicht vorhanden.",
+  "quelle": "https://www.melbye-konan.com/contact/",
+  "stand": "2026-10-12"
+ },
+ "galerie-multiple-box-hamburg": {
+  "haus": "Multiple Box",
+  "oeffnungszeiten": {
+   "mo": "11:00-19:00",
+   "di": "11:00-19:00",
+   "mi": "11:00-19:00",
+   "do": "11:00-19:00",
+   "fr": "11:00-19:00",
+   "sa": "11:00-17:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "u.n.V. (nach Vereinbarung)",
+  "quelle": "https://www.multiple-box.de/suchservice/",
+  "stand": "2026-10-12"
+ },
+ "galerie-mikiko-sato-gallery-hamburg": {
+  "haus": "Mikiko Sato Gallery",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "13:00-19:00",
+   "mi": "13:00-19:00",
+   "do": "13:00-19:00",
+   "fr": "13:00-19:00",
+   "sa": "13:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.mikikosatogallery.com/de/ueber/",
+  "quelle": "https://www.mikikosatogallery.com/de/ueber/",
+  "hinweis_oeffnung": "u.n.V. (nach Vereinbarung)",
+  "stand": "2026-10-12"
+ },
+ "galerie-hidde-van-seggelen-hamburg": {
+  "haus": "Hidde van Seggelen",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-15:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://hiddevanseggelen.com/contact/",
+  "quelle": "https://hiddevanseggelen.com/contact/",
+  "hinweis_oeffnung": "Besuch auch nach Vereinbarung möglich",
+  "stand": "2026-10-12"
+ },
+ "galerie-sfeir-semler-gallery-hamburg": {
+  "haus": "Sfeir-Semler Gallery",
+  "oeffnungszeiten": {
+   "mo": "11:00-19:00",
+   "di": "11:00-19:00",
+   "mi": "11:00-19:00",
+   "do": "11:00-19:00",
+   "fr": "11:00-19:00",
+   "sa": "11:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://sfeir-semler.com/about",
+  "quelle": "https://sfeir-semler.com/about",
+  "hinweis_oeffnung": "Angaben für Hamburg-Standort",
+  "stand": "2026-10-12"
+ },
+ "galerie-stern-wywiol-galerie-hamburg": {
+  "haus": "Stern-Wywiol Galerie",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "12:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://stern-wywiol-galerie.net/de/gallery/about",
+  "quelle": "https://stern-wywiol-galerie.net/de/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-watson-hamburg": {
+  "haus": "Galerie Watson",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.galeriewatson.de/",
+  "hinweis_oeffnung": "Nur nach Vereinbarung (by appointment only)",
+  "quelle": "https://www.galeriewatson.de/contact/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-an-der-pinakothek-der-moderne-barbara-ruetz-muenchen": {
+  "haus": "Galerie an der Pinakothek der Moderne – Barbara Ruetz",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-18:00",
+   "so": "12:00-18:00"
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Montag nach Vereinbarung; Sonntag nur Besichtigung",
+  "quelle": "https://galerie-ruetz.de/zeitgenoessische-kunst-muenchen/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-andreas-binder-muenchen": {
+  "haus": "Galerie Andreas Binder",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.galerieandreasbinder.de/",
+  "quelle": "https://www.galerieandreasbinder.de/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-filser-graef-muenchen": {
+  "haus": "Galerie Filser & Gräf",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "13:00-18:00",
+   "mi": "13:00-18:00",
+   "do": "13:00-18:00",
+   "fr": "13:00-18:00",
+   "sa": "13:00-17:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://filserundgraef.de/de/kontakt/",
+  "quelle": "https://filserundgraef.de/de/kontakt/",
+  "stand": "2026-10-12"
+ },
+ "galerie-konsum163-contemporary-muenchen": {
+  "haus": "Konsum163 – contemporary",
+  "oeffnungszeiten": {
+   "mi": "14:00-18:00",
+   "do": null,
+   "fr": "14:00-18:00",
+   "sa": "12:00-16:00",
+   "so": "12:00-16:00",
+   "mo": null,
+   "di": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://konsum163.art/",
+  "hinweis_oeffnung": "Ausstellungsbezogene Öffnungszeiten; reguläre Öffnungszeiten nicht auf Website angegeben",
+  "stand": "2026-10-12"
+ },
+ "galerie-ping-rodach-contemporary-muenchen": {
+  "haus": "Ping Rodach Contemporary",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "14:00-19:00",
+   "do": "14:00-19:00",
+   "fr": "14:00-19:00",
+   "sa": "12:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://pingrodach.com/contact/",
+  "quelle": "https://pingrodach.com/contact/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-gudrun-spielvogel-galerie-edition-muenchen": {
+  "haus": "Galerie Gudrun Spielvogel – Galerie & Edition",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "14:00-18:00",
+   "do": "14:00-18:00",
+   "fr": "14:00-18:00",
+   "sa": "11:00-14:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "nach Vereinbarung möglich",
+  "quelle": "https://galerie-spielvogel.com/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-tanit-muenchen": {
+  "haus": "Galerie Tanit",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.galerietanit.com/",
+  "quelle": "https://www.galerietanit.com/contact/",
+  "hinweis_oeffnung": "Öffnungszeiten und Eintritt nicht auf Contact-Seite verfügbar",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-fenna-wehlau-muenchen": {
+  "haus": "Galerie Fenna Wehlau",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "13:00-18:00",
+   "mi": "13:00-18:00",
+   "do": "13:00-18:00",
+   "fr": "13:00-18:00",
+   "sa": "13:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.galerie-wehlau.de/",
+  "stand": "2026-10-12"
+ },
+ "galerie-lohaus-gallery-muenchen": {
+  "haus": "Lohaus Gallery",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "12:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://lohaus.gallery/contact/",
+  "hinweis_oeffnung": "Öffnungszeiten und Eintrittspreise nicht auf der Website verfügbar",
+  "quelle": "https://lohaus.gallery/contact/",
+  "stand": "2026-10-12"
+ },
+ "galerie-paulina-caspari-muenchen": {
+  "haus": "Paulina Caspari",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://paulinacaspari.com/contact/",
+  "quelle": "https://paulinacaspari.com/contact/",
+  "hinweis_oeffnung": "Informationen nicht auf der About-Seite verfügbar",
+  "stand": "2026-10-12"
+ },
+ "galerie-nouveaux-deuxdeux-muenchen": {
+  "haus": "Nouveaux Deuxdeux",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://deuxdeux.de/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-leu-muenchen": {
+  "haus": "Galerie Leu",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Besuchsprogramm nach Vereinbarung",
+  "quelle": "https://www.galerieleu.de/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-maulberger-muenchen": {
+  "haus": "Galerie Maulberger",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "10:00-14:30",
+   "do": null,
+   "fr": "10:00-14:30",
+   "sa": "11:00-14:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "quelle": "https://maulberger.de/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-j-j-heckenhauer-muenchen": {
+  "haus": "Galerie J.J. Heckenhauer",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "14:00-18:00",
+   "do": "14:00-18:00",
+   "fr": "14:00-18:00",
+   "sa": "12:00-15:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://heckenhauer.net/contact/",
+  "quelle": "https://heckenhauer.net/contact/",
+  "hinweis_oeffnung": "Nach Vereinbarung möglich. Geschlossen 2.-6. April 2026 (Ostern).",
+  "stand": "2026-10-12"
+ },
+ "galerie-ag-18-gallery-wien": {
+  "haus": "AG 18 Gallery",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "15:00-19:00",
+   "do": null,
+   "fr": "15:00-19:00",
+   "sa": "11:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "oder nach Vereinbarung",
+  "quelle": "https://ag18gallery.com/de/",
+  "stand": "2026-10-12"
+ },
+ "galerie-barvinskyi-art-gallery-wien": {
+  "haus": "Barvinskyi Art Gallery",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "12:30-18:30",
+   "mi": "12:30-18:30",
+   "do": "12:30-18:30",
+   "fr": "12:30-18:30",
+   "sa": "11:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.barvinskyi.gallery/",
+  "stand": "2026-10-12"
+ },
+ "galerie-c-a-contemporary-fine-arts-gallery-wien": {
+  "haus": "C.A. Contemporary Fine Arts Gallery",
+  "oeffnungszeiten": {
+   "mo": "13:00-18:00",
+   "di": "13:00-18:00",
+   "mi": "13:00-18:00",
+   "do": "13:00-18:00",
+   "fr": "13:00-18:00",
+   "sa": "13:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Öffnung auch nach Vereinbarung möglich",
+  "quelle": "https://cacontemporary.com/",
+  "stand": "2026-10-12"
+ },
+ "galerie-charim-galerie-wien": {
+  "haus": "Charim Galerie",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-14:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.charimgalerie.at/contact",
+  "quelle": "https://www.charimgalerie.at/contact",
+  "stand": "2026-10-12"
+ },
+ "galerie-city-galerie-wien-wien": {
+  "haus": "City Galerie Wien",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": "14:00-18:00",
+   "sa": "12:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://city-galerie-wien.com/Contact",
+  "quelle": "https://city-galerie-wien.com/Contact",
+  "hinweis_oeffnung": "oder nach Vereinbarung",
+  "stand": "2026-10-12"
+ },
+ "galerie-croy-nielsen-wien": {
+  "haus": "Croy Nielsen",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "quelle": "https://croynielsen.com/",
+  "bessere_seite": "https://croynielsen.com/#info",
+  "hinweis_oeffnung": "Informationen nicht auf der Hauptseite verfügbar",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-dantendorfer-wien": {
+  "haus": "Galerie Dantendorfer",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.dantendorfer.art/startseite/kontakt/",
+  "quelle": "https://www.dantendorfer.art/startseite/kontakt/",
+  "hinweis_oeffnung": "Öffnungszeiten auf Anfrage",
+  "stand": "2026-10-12"
+ },
+ "galerie-exile-wien": {
+  "haus": "Exile",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://exilegallery.org/about/",
+  "quelle": "https://exilegallery.org/about/",
+  "hinweis_oeffnung": "Galerie geschlossen seit 17.10.2026",
+  "stand": "2026-10-12"
+ },
+ "galerie-lukas-feichtner-galerie-wien": {
+  "haus": "Lukas Feichtner Galerie",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.feichtnergallery.com/",
+  "quelle": "https://www.feichtnergallery.com/contact",
+  "stand": "2026-10-12"
+ },
+ "galerie-five-plus-art-gallery-wien": {
+  "haus": "Five Plus Art Gallery",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "11:30-18:30",
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "quelle": "https://fiveplusartgallery.eu/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-frey-wien": {
+  "haus": "Galerie Frey",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "10:00-14:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.galerie-frey.com/ausstellungen",
+  "hinweis_oeffnung": "und nach Vereinbarung",
+  "quelle": "https://www.galerie-frey.com/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie3-wien": {
+  "haus": "Galerie3",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "sowie nach Vereinbarung",
+  "quelle": "https://galerie3.com/",
+  "stand": "2026-10-12"
+ },
+ "galerie-gezwanzig-wien": {
+  "haus": "Gezwanzig",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-15:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.gezwanzig.com/locations/",
+  "quelle": "https://www.gezwanzig.com/contact/",
+  "hinweis_oeffnung": "Showcase Gallery in Wien; Tyrol Location nur nach Vereinbarung + Fr 11-18 Uhr",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-martin-janda-wien": {
+  "haus": "Galerie Martin Janda",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.martinjanda.at/contact/",
+  "quelle": "https://www.martinjanda.at/contact/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-juenger-wien": {
+  "haus": "Galerie Jünger",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "14:00-18:00",
+   "mi": "14:00-18:00",
+   "do": "14:00-18:00",
+   "fr": "14:00-18:00",
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.galerie-juenger.at/juenger/galeriejuenger.nsf",
+  "hinweis_oeffnung": "Samstag nach Vereinbarung",
+  "stand": "2026-10-12"
+ },
+ "galerie-krobath-wien-wien": {
+  "haus": "Krobath Wien",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-15:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.galeriekrobath.at/kontakt/",
+  "hinweis_oeffnung": "nach telefonischer Vereinbarung",
+  "quelle": "https://www.galeriekrobath.at/kontakt/",
+  "stand": "2026-10-12"
+ },
+ "galerie-layr-wien": {
+  "haus": "Layr",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://emanuellayr.com/",
+  "stand": "2026-10-12"
+ },
+ "galerie-lombardi-kargl-wien": {
+  "haus": "Lombardi—Kargl",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "13:00-19:00",
+   "do": "13:00-19:00",
+   "fr": "13:00-19:00",
+   "sa": "11:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.lombardi-kargl.com/en/contact",
+  "quelle": "https://www.lombardi-kargl.com/en/contact",
+  "stand": "2026-10-12"
+ },
+ "galerie-meyer-kainer-wien": {
+  "haus": "Meyer Kainer",
+  "oeffnungszeiten": {
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-16:00",
+   "mo": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://meyerkainer.com/contact",
+  "quelle": "https://meyerkainer.com/contact/",
+  "stand": "2026-10-12"
+ },
+ "galerie-gregor-podnar-wien": {
+  "haus": "Gregor Podnar",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.gregorpodnar.com/contact",
+  "hinweis_oeffnung": "und nach Vereinbarung",
+  "quelle": "https://www.gregorpodnar.com/contact",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-eva-presenhuber-wien-wien": {
+  "haus": "Galerie Eva Presenhuber Wien",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "geschlossen",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "quelle": "https://www.presenhuber.com/",
+  "stand": "2026-10-12"
+ },
+ "galerie-rodler-gschwentner-gallery-wien": {
+  "haus": "Rodler Gschwentner Gallery",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "12:00-15:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "quelle": "https://www.rodler-gschwenter.com/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-ruberl-wien": {
+  "haus": "Galerie Ruberl",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "hinweis_oeffnung": "und nach Vereinbarung",
+  "bessere_seite": "https://www.ruberl.at/kontakt",
+  "quelle": "https://www.ruberl.at/kontakt",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-slavik-wien": {
+  "haus": "Galerie Slavik",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "11:00-13:00, 14:00-18:00",
+   "do": "11:00-13:00, 14:00-18:00",
+   "fr": "11:00-13:00, 14:00-18:00",
+   "sa": "11:00-17:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Im Juli Sa 11-14h statt 11-17h",
+  "quelle": "https://www.galerie-slavik.com/",
+  "stand": "2026-10-12"
+ },
+ "galerie-shore-wien": {
+  "haus": "Shore",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "quelle": "https://www.shore-gallery.eu/",
+  "bessere_seite": "https://www.shore-gallery.eu/info.html",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-steinek-wien": {
+  "haus": "Galerie Steinek",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "13:00-18:00",
+   "mi": "13:00-18:00",
+   "do": "13:00-18:00",
+   "fr": "13:00-18:00",
+   "sa": "11:00-15:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://galerie.steinek.at/contact.php",
+  "quelle": "https://galerie.steinek.at/contact.php",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-sturm-schober-wien": {
+  "haus": "Galerie Sturm & Schober",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.sturmschober.com/galerie/",
+  "quelle": "https://www.sturmschober.com/kontakt/",
+  "stand": "2026-10-12"
+ },
+ "galerie-sophie-tappeiner-wien": {
+  "haus": "Sophie Tappeiner",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.sophietappeiner.com/contact/",
+  "hinweis_oeffnung": "Geschlossen an österreichischen Feiertagen. Nach Vereinbarung geöffnet.",
+  "quelle": "https://www.sophietappeiner.com/contact/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-elisabeth-klaus-thoman-wien": {
+  "haus": "Galerie Elisabeth & Klaus Thoman",
+  "oeffnungszeiten": {
+   "mo": "12:00-15:00",
+   "di": "12:00-15:00",
+   "mi": "12:00-15:00",
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.galeriethoman.com/contact/",
+  "hinweis_oeffnung": "and by appointment",
+  "quelle": "https://www.galeriethoman.com/contact/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-v-v-wien": {
+  "haus": "Galerie V&V",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "13:00-19:00",
+   "do": "13:00-19:00",
+   "fr": "13:00-19:00",
+   "sa": "12:00-18:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "http://www.galerievundv.com/",
+  "quelle": "https://www.galerievundv.com/",
+  "stand": "2026-10-12"
+ },
+ "galerie-vin-vin-gallery-wien": {
+  "haus": "VIN VIN Gallery",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://vinvin.eu/#about",
+  "quelle": "https://vinvin.eu/",
+  "stand": "2026-10-12"
+ },
+ "galerie-gianni-manhattan-wien": {
+  "haus": "Gianni Manhattan",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-15:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://giannimanhattan.com/contact/",
+  "hinweis_oeffnung": "Öffnungszeiten und Eintrittspreise nicht auf der Website angegeben",
+  "quelle": "https://giannimanhattan.com/contact/",
+  "stand": "2026-10-12"
+ },
+ "galerie-damien-the-love-guru-zuerich": {
+  "haus": "Damien & The Love Guru",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-17:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.damienandtheloveguru.com/about",
+  "quelle": "https://www.damienandtheloveguru.com/about",
+  "stand": "2026-10-12"
+ },
+ "galerie-fabienne-levy-gallery-zuerich": {
+  "haus": "Fabienne Levy Gallery",
+  "oeffnungszeiten": {
+   "mo": "geschlossen",
+   "di": "10:00-18:30",
+   "mi": "10:00-18:30",
+   "do": "10:00-18:30",
+   "fr": "10:00-18:30",
+   "sa": "11:00-17:30",
+   "so": "geschlossen"
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.fabiennelevy.com/contact/",
+  "hinweis_oeffnung": "Zurich Galerie geschlossen 13.-19. Oktober 2026",
+  "quelle": "https://www.fabiennelevy.com/contact/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-fabian-lang-zuerich": {
+  "haus": "Galerie Fabian Lang",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": null,
+   "fr": null,
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://fabianlang.ch/",
+  "quelle": "https://fabianlang.ch/about",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-gregor-staiger-zuerich": {
+  "haus": "Galerie Gregor Staiger",
+  "oeffnungszeiten": {
+   "di": "12:00-18:00",
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "11:00-17:00",
+   "mo": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://galerie.gregorstaiger.com/CONTACT",
+  "quelle": "https://galerie.gregorstaiger.com/CONTACT",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-haas-zuerich": {
+  "haus": "Galerie Haas",
+  "oeffnungszeiten": {
+   "di": "11:00-18:00",
+   "mi": null,
+   "do": null,
+   "fr": "11:00-18:00",
+   "sa": "11:00-17:00",
+   "so": null,
+   "mo": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://galeriehaas.com/contact/",
+  "quelle": "https://galeriehaas.com/contact/",
+  "hinweis_oeffnung": "Öffnungszeiten und Eintritt nicht auf Startseite angegeben",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-oskar-weiss-zuerich": {
+  "haus": "Galerie Oskar Weiss",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "11:00-17:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://oskarweiss.com/contact",
+  "quelle": "https://oskarweiss.com/contact",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-urs-meile-ankerstrasse-zuerich": {
+  "haus": "Galerie Urs Meile (Ankerstrasse)",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-17:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://www.galerieursmeile.com/about-us/contact",
+  "hinweis_oeffnung": "Öffnungszeiten und Eintritt nicht auf der Startseite verfügbar",
+  "quelle": "https://www.galerieursmeile.com/about-us/contact",
+  "stand": "2026-10-12"
+ },
+ "galerie-karma-international-weststrasse-70-zuerich": {
+  "haus": "Karma International (Weststrasse 70)",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "12:00-18:00",
+   "do": "12:00-18:00",
+   "fr": "12:00-18:00",
+   "sa": "12:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "quelle": "https://karmainternational.ch/",
+  "stand": "2026-10-12"
+ },
+ "galerie-lea-bischofberger-gallery-zuerich": {
+  "haus": "Lea Bischofberger Gallery",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:00",
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-18:00",
+   "sa": "11:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.leabischofberger.com/exhibitions-1",
+  "quelle": "https://www.leabischofberger.com/exhibitions-1",
+  "hinweis_oeffnung": "Eintritt frei; auch jederzeit nach Vereinbarung",
+  "stand": "2026-10-12"
+ },
+ "galerie-mai-36-galerie-zuerich": {
+  "haus": "Mai 36 Galerie",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:30",
+   "mi": "11:00-18:30",
+   "do": "11:00-18:30",
+   "fr": "11:00-18:30",
+   "sa": "11:00-17:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://mai36.com/contact",
+  "quelle": "https://mai36.com/contact",
+  "hinweis_oeffnung": "Informationen nicht auf dieser Seite verfügbar",
+  "stand": "2026-10-12"
+ },
+ "galerie-sommer-salon-zuerich": {
+  "haus": "Sommer Salon",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "11:00-18:00",
+   "do": "11:00-18:00",
+   "fr": "11:00-14:00",
+   "sa": "11:00-14:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://sommergallery.com/sommer-salon-zurich/",
+  "hinweis_oeffnung": "By appointment",
+  "quelle": "https://sommergallery.com/about/",
+  "stand": "2026-10-12"
+ },
+ "galerie-tobias-mueller-modern-art-zuerich": {
+  "haus": "Tobias Mueller Modern Art",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": "11:00-17:00",
+   "so": null
+  },
+  "eintritt_immer_frei": false,
+  "bessere_seite": "https://muellermodern.com/contact/",
+  "quelle": "https://muellermodern.com/contact/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-andres-thalmann-zuerich": {
+  "haus": "Galerie Andres Thalmann",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "11:00-18:30",
+   "mi": "11:00-18:30",
+   "do": "11:00-18:30",
+   "fr": "11:00-18:30",
+   "sa": "11:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://andresthalmann.com/contact/",
+  "hinweis_oeffnung": "oder nach Vereinbarung",
+  "quelle": "https://andresthalmann.com/contact/",
+  "stand": "2026-10-12"
+ },
+ "galerie-sam-scherrer-contemporary-zuerich": {
+  "haus": "Sam Scherrer Contemporary",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": null,
+   "do": "14:00-18:00",
+   "fr": "14:00-18:00",
+   "sa": "14:00-16:00",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "Öffnungszeiten während Ausstellungen; Mo-Mi nach Vereinbarung",
+  "quelle": "https://www.samscherrer.ch/",
+  "stand": "2026-10-12"
+ },
+ "galerie-galerie-wos-zuerich": {
+  "haus": "Galerie WOS",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": null,
+   "mi": "10:00-18:30",
+   "do": "10:00-18:30",
+   "fr": "10:00-18:30",
+   "sa": "10:00-16:30",
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "hinweis_oeffnung": "und nach Vereinbarung",
+  "quelle": "https://galerie-wos.com/de/about/",
+  "bessere_seite": "https://galerie-wos.com/de/about/",
+  "stand": "2026-10-12"
+ },
+ "galerie-larkin-erdmann-gallery-zuerich": {
+  "haus": "Larkin Erdmann Gallery",
+  "oeffnungszeiten": {
+   "mo": null,
+   "di": "10:00-18:00",
+   "mi": "10:00-18:00",
+   "do": "10:00-18:00",
+   "fr": "10:00-18:00",
+   "sa": null,
+   "so": null
+  },
+  "eintritt_immer_frei": true,
+  "bessere_seite": "https://www.larkinerdmann.com/contact",
+  "quelle": "https://www.larkinerdmann.com/contact",
+  "stand": "2026-10-12"
+ }
+}

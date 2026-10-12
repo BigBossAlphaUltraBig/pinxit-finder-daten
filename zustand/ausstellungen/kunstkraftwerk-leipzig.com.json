@@ -1,0 +1,59 @@
+{
+ "domain": "kunstkraftwerk-leipzig.com",
+ "website": "http://www.kunstkraftwerk-leipzig.com/",
+ "haeuser": "Kunstkraftwerk",
+ "land": "DE",
+ "ids": "Q24808815",
+ "status": "ok",
+ "seiten": [
+  "https://www.kunstkraftwerk-leipzig.com/exhibitions/der-kleine-prinz-auf-reisen/",
+  "https://www.kunstkraftwerk-leipzig.com/exhibitions/art-move-activate/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "DER KLEINE PRINZ AUF REISEN",
+   "untertitel": "EINE HOMMAGE AN ANTOINE DE SAINT-EXUPÉRY",
+   "beginn": "2026-10-01",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Kunstkraftwerk",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Antoine de Saint-Exupéry"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.kunstkraftwerk-leipzig.com/exhibitions/der-kleine-prinz-auf-reisen/",
+   "quelle": "https://www.kunstkraftwerk-leipzig.com/exhibitions/der-kleine-prinz-auf-reisen/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Art. Move. Activate.",
+   "untertitel": "Wo Wohlbefinden auf digitale Kunst trifft",
+   "beginn": null,
+   "ende": null,
+   "art": "veranstaltung",
+   "fachgebiet": "sonstiges",
+   "haus": "Kunstkraftwerk",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://www.kunstkraftwerk-leipzig.com/exhibitions/art-move-activate/",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "kuenstler": [],
+   "einzelausstellung_von": null,
+   "quelle": "https://www.kunstkraftwerk-leipzig.com/exhibitions/art-move-activate/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

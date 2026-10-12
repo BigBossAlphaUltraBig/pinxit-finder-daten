@@ -1,0 +1,27 @@
+{
+ "domain": "damienandtheloveguru.com",
+ "website": "https://www.damienandtheloveguru.com",
+ "haeuser": {
+  "Damien & The Love Guru": {
+   "haus": "Damien & The Love Guru",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-17:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.damienandtheloveguru.com/about",
+   "quelle": "https://www.damienandtheloveguru.com/about"
+  }
+ },
+ "seiten": [
+  "https://www.damienandtheloveguru.com/exhibitions",
+  "https://www.damienandtheloveguru.com/about"
+ ],
+ "abgerufen": "2026-10-12T08:04:05",
+ "status": "unvollständig"
+}

@@ -1,0 +1,29 @@
+{
+ "domain": "gezwanzig.com",
+ "website": "https://www.gezwanzig.com",
+ "haeuser": {
+  "Gezwanzig": {
+   "haus": "Gezwanzig",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-15:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.gezwanzig.com/locations/",
+   "quelle": "https://www.gezwanzig.com/contact/",
+   "hinweis_oeffnung": "Showcase Gallery in Wien; Tyrol Location nur nach Vereinbarung + Fr 11-18 Uhr"
+  }
+ },
+ "seiten": [
+  "https://www.gezwanzig.com/",
+  "https://www.gezwanzig.com/locations/",
+  "https://www.gezwanzig.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:36:08",
+ "status": "unvollständig"
+}

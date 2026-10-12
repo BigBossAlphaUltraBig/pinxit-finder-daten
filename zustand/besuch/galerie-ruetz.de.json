@@ -1,0 +1,26 @@
+{
+ "domain": "galerie-ruetz.de",
+ "website": "https://galerie-ruetz.de",
+ "haeuser": {
+  "Galerie an der Pinakothek der Moderne – Barbara Ruetz": {
+   "haus": "Galerie an der Pinakothek der Moderne – Barbara Ruetz",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "12:00-18:00",
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-18:00",
+    "so": "12:00-18:00"
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "Montag nach Vereinbarung; Sonntag nur Besichtigung",
+   "quelle": "https://galerie-ruetz.de/zeitgenoessische-kunst-muenchen/"
+  }
+ },
+ "seiten": [
+  "https://galerie-ruetz.de/zeitgenoessische-kunst-muenchen/"
+ ],
+ "abgerufen": "2026-10-12T07:34:45",
+ "status": "ok"
+}

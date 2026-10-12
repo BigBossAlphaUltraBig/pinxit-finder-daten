@@ -1,0 +1,29 @@
+{
+ "domain": "pinakothek.de",
+ "website": "https://www.pinakothek.de/en/visit/alte-pinakothek",
+ "haeuser": {
+  "Alte Pinakothek": {
+   "haus": "Alte Pinakothek",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-20:00",
+    "mi": "10:00-20:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "9 Euro",
+   "eintritt_ermaessigt": "6 Euro",
+   "frei_fuer": "unter 18 Jahren",
+   "frei_wann": "jeden Sonntag (1 Euro)",
+   "quelle": "https://www.pinakothek.de/en/visit"
+  }
+ },
+ "seiten": [
+  "https://www.pinakothek.de/en/visit"
+ ],
+ "abgerufen": "2026-10-12T08:09:52",
+ "status": "ok"
+}

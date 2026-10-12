@@ -1,0 +1,44 @@
+{
+ "domain": "galerierenatekammer.de",
+ "website": "https://galerierenatekammer.de",
+ "haeuser": "Galerie Renate Kammer",
+ "land": "DE",
+ "ids": "galerie-galerie-renate-kammer-hamburg",
+ "status": "ok",
+ "seiten": [
+  "https://galerierenatekammer.de/past-exhibitions/",
+  "https://galerierenatekammer.de/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Steinschlag, Hartgräser, Zeit",
+   "untertitel": null,
+   "beginn": "2026-10-11",
+   "ende": "2026-11-13",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Renate Kammer",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Peter Boué",
+    "Marianne Greve",
+    "Florian Huber",
+    "Llaura Sünner",
+    "Alexander Rischer"
+   ],
+   "eroeffnung": "2026-10-11",
+   "anderer_ort": null,
+   "url": null,
+   "quelle": "https://galerierenatekammer.de/",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

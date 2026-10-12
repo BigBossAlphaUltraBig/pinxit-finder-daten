@@ -1,0 +1,27 @@
+{
+ "domain": "galerie.steinek.at",
+ "website": "https://galerie.steinek.at",
+ "haeuser": {
+  "Galerie Steinek": {
+   "haus": "Galerie Steinek",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "13:00-18:00",
+    "mi": "13:00-18:00",
+    "do": "13:00-18:00",
+    "fr": "13:00-18:00",
+    "sa": "11:00-15:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://galerie.steinek.at/contact.php",
+   "quelle": "https://galerie.steinek.at/contact.php"
+  }
+ },
+ "seiten": [
+  "https://galerie.steinek.at/",
+  "https://galerie.steinek.at/contact.php"
+ ],
+ "abgerufen": "2026-10-12T07:34:56",
+ "status": "ok"
+}

@@ -1,0 +1,29 @@
+{
+ "domain": "weltmuseumwien.at",
+ "website": "https://www.weltmuseumwien.at/",
+ "haeuser": {
+  "Weltmuseum Wien": {
+   "haus": "Weltmuseum Wien",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-21:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "€ 16",
+   "eintritt_ermaessigt": "€ 12",
+   "frei_fuer": "unter 19 Jahren",
+   "hinweis_oeffnung": "Aufgrund von Fassadensanierungsarbeiten der Neuen Hofburg können kurzfristige Raumschließungen vorkommen",
+   "quelle": "https://www.weltmuseumwien.at/besuch"
+  }
+ },
+ "seiten": [
+  "https://www.weltmuseumwien.at/besuch"
+ ],
+ "abgerufen": "2026-10-08T18:07:25",
+ "status": "ok"
+}

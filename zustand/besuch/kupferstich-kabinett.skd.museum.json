@@ -1,0 +1,30 @@
+{
+ "domain": "kupferstich-kabinett.skd.museum",
+ "website": "https://kupferstich-kabinett.skd.museum/",
+ "haeuser": {
+  "Kupferstichkabinett Dresden": {
+   "haus": "Kupferstichkabinett Dresden",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "geschlossen",
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "18 €",
+   "eintritt_ermaessigt": "13,50 €",
+   "frei_fuer": "unter 20 Jahren (Schüler): 2 €; bis Schuleintritt: frei",
+   "hinweis_oeffnung": "Dienstag geschlossen",
+   "quelle": "https://kupferstich-kabinett.skd.museum/besuch/"
+  }
+ },
+ "seiten": [
+  "https://kupferstich-kabinett.skd.museum/besuch/",
+  "https://kupferstich-kabinett.skd.museum/"
+ ],
+ "abgerufen": "2026-10-12T08:07:45",
+ "status": "unvollständig"
+}

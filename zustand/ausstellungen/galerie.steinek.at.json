@@ -1,0 +1,48 @@
+{
+ "domain": "galerie.steinek.at",
+ "website": "https://galerie.steinek.at",
+ "haeuser": "Galerie Steinek",
+ "land": "AT",
+ "ids": "galerie-galerie-steinek-wien",
+ "status": "ok",
+ "seiten": [
+  "https://galerie.steinek.at/current.php"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Love’s Practitioner",
+   "untertitel": "",
+   "beginn": "2026-09-11",
+   "ende": "2026-10-28",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Steinek",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Renate Bertlmann",
+    "Alice Channer",
+    "Talia Chetrit",
+    "Ja Jess",
+    "Iosif Király",
+    "Aurora Király",
+    "Meret Oppenheim",
+    "Sarah Pucci",
+    "Haiqing Wang"
+   ],
+   "kuratiert_von": "Julika Bosch",
+   "eroeffnung": "2026-09-11T20:00",
+   "anderer_ort": null,
+   "url": "https://galerie.steinek.at/current.php",
+   "quelle": "https://galerie.steinek.at/current.php",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

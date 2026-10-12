@@ -1,0 +1,65 @@
+{
+ "domain": "muellermodern.com",
+ "website": "https://www.muellermodern.com",
+ "haeuser": "Tobias Mueller Modern Art",
+ "land": "CH",
+ "ids": "galerie-tobias-mueller-modern-art-zuerich",
+ "status": "ok",
+ "seiten": [
+  "https://muellermodern.com/exhibitions/",
+  "https://muellermodern.com/exhibitions/39/overview/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "DRIVE THROUGH",
+   "untertitel": "Drive Through",
+   "beginn": "2026-09-05",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Tobias Mueller Modern Art",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Olivier Mosset"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://muellermodern.com/exhibitions/39/overview/",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://muellermodern.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "OLIVIER MOSSET - DRIVE THROUGH",
+   "untertitel": null,
+   "beginn": "2026-09-05",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Tobias Mueller Modern Art",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Olivier Mosset"
+   ],
+   "einzelausstellung_von": "Olivier Mosset",
+   "gemeinfrei": false,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://muellermodern.com/exhibitions/39/overview/",
+   "schwerpunkt": "Abstrakte Malerei, Monochromie, geometrische Arbeiten",
+   "quelle": "https://muellermodern.com/exhibitions/39/overview/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "rueckfall": "claude-haiku-4-5-20251001",
+ "vom_vorlauf_behalten": 0
+}

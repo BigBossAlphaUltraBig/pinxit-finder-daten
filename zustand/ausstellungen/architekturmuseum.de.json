@@ -1,0 +1,35 @@
+{
+ "domain": "architekturmuseum.de",
+ "website": "https://www.architekturmuseum.de/",
+ "haeuser": "Architekturmuseum der TU München",
+ "land": "DE",
+ "ids": "nachtrag-architekturmuseum-der-tu-m-nchen",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://www.architekturmuseum.de/ausstellungen/convivium/"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "Convivium",
+   "untertitel": "Nahrungssysteme am Limit",
+   "beginn": "2026-04-23",
+   "ende": "2026-10-18",
+   "art": "wechselausstellung",
+   "fachgebiet": "architektur",
+   "haus": "Architekturmuseum der TU München",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "eroeffnung": "2026-04-22T19:00",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": "Pinakothek der Moderne",
+   "kuenstler": [],
+   "einzelausstellung_von": null,
+   "url": "https://www.architekturmuseum.de/ausstellungen/convivium/",
+   "quelle": "https://www.architekturmuseum.de/ausstellungen/convivium/",
+   "grund": "anderer Ort: Pinakothek der Moderne"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

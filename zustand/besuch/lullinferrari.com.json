@@ -1,0 +1,26 @@
+{
+ "domain": "lullinferrari.com",
+ "website": "https://www.lullinferrari.com",
+ "haeuser": {
+  "Lullin + Ferrari": {
+   "haus": "Lullin + Ferrari",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "12:00-18:00",
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "11:00-17:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://www.lullinferrari.com/"
+  }
+ },
+ "seiten": [
+  "https://www.lullinferrari.com/en/lullin-ferrari-art-services",
+  "https://www.lullinferrari.com/"
+ ],
+ "abgerufen": "2026-10-12T07:37:03",
+ "status": "ok"
+}

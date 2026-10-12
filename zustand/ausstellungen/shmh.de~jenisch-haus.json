@@ -1,0 +1,59 @@
+{
+ "domain": "shmh.de~jenisch-haus",
+ "website": "https://www.shmh.de/jenisch-haus/",
+ "haeuser": "Jenisch Haus",
+ "land": "DE",
+ "ids": "nachtrag-jenisch-haus",
+ "status": "ok",
+ "seiten": [
+  "https://www.shmh.de/ausstellungen/",
+  "https://www.shmh.de/ausstellungen/standort/alle/aktuelle/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Das Jenisch Haus",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "architektur",
+   "haus": "Jenisch Haus",
+   "rang": 2,
+   "epoche": "19_jahrhundert",
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "gemeinfrei": true,
+   "schwerpunkt": "Klassizistische Villenarchitektur, Landsitz des Hamburger Senators Jenisch",
+   "anderer_ort": null,
+   "url": "https://www.shmh.de/jenisch-haus/staendige-ausstellung/",
+   "kuenstler": [],
+   "quelle": "https://www.shmh.de/ausstellungen/",
+   "standort": "JENISCH HAUS"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Parkomania",
+   "untertitel": "Unerzählte Geschichten aus dem Jenischpark",
+   "beginn": "2025-05-19",
+   "ende": "2026-12-28",
+   "art": "wechselausstellung",
+   "fachgebiet": "geschichte",
+   "haus": "Jenisch Haus",
+   "rang": 1,
+   "epoche": "19_jahrhundert",
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "url": "https://www.shmh.de/ausstellungen/parkomania/",
+   "kuenstler": [],
+   "quelle": "https://www.shmh.de/ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "keine Kunst (geschichte)",
+   "standort": "JENISCH HAUS"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

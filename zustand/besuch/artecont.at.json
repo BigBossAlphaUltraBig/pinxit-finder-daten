@@ -1,0 +1,26 @@
+{
+ "domain": "artecont.at",
+ "website": "https://www.artecont.at",
+ "haeuser": {
+  "Galerie Artecont": {
+   "haus": "Galerie Artecont",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-16:00",
+    "so": "geschlossen"
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "An Sonn- und Feiertagen geschlossen",
+   "quelle": "https://www.artecont.at/"
+  }
+ },
+ "seiten": [
+  "https://www.artecont.at/"
+ ],
+ "abgerufen": "2026-10-12T07:32:49",
+ "status": "ok"
+}

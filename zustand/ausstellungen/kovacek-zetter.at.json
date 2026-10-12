@@ -1,0 +1,82 @@
+{
+ "domain": "kovacek-zetter.at",
+ "website": "https://www.kovacek-zetter.at",
+ "haeuser": "Galerie Kovacek & Zetter",
+ "land": "AT",
+ "ids": "Q18624392",
+ "status": "ok",
+ "seiten": [
+  "https://www.kovacek-zetter.at/ausstellungen",
+  "https://www.kovacek-zetter.at/ausstellungen?category=stallburggasse"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "MODERN & CONTEMPORARY Herbst 2026",
+   "untertitel": null,
+   "beginn": "2026-09-14",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Kovacek & Zetter",
+   "rang": 1,
+   "epoche": "gemischt",
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "url": "https://www.kovacek-zetter.at/ausstellungen/776-modern-contemporary-herbst-2026",
+   "quelle": "https://www.kovacek-zetter.at/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "FINE ART Herbst 2026",
+   "untertitel": null,
+   "beginn": "2026-10-17",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Kovacek & Zetter",
+   "rang": 2,
+   "epoche": "gemischt",
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "url": "https://www.kovacek-zetter.at/ausstellungen/752-fine-art-herbst-2026",
+   "quelle": "https://www.kovacek-zetter.at/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "MERCEDES HELNWEIN - GROUND ZERO",
+   "untertitel": null,
+   "beginn": "2026-10-23",
+   "ende": "2026-11-21",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Kovacek & Zetter",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Mercedes Helnwein"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "url": "https://www.kovacek-zetter.at/ausstellungen/vorschauen/mercedes-helnwein-ground-zero",
+   "quelle": "https://www.kovacek-zetter.at/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

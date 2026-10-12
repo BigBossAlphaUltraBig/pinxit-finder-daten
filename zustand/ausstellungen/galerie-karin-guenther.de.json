@@ -1,0 +1,65 @@
+{
+ "domain": "galerie-karin-guenther.de",
+ "website": "https://galerie-karin-guenther.de",
+ "haeuser": "Galerie Karin Guenther",
+ "land": "DE",
+ "ids": "galerie-galerie-karin-guenther-hamburg",
+ "status": "ok",
+ "seiten": [
+  "https://galerie-karin-guenther.de/exhibitions/current.html",
+  "https://galerie-karin-guenther.de/exhibitions/upcoming.html"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Janice Kerbel",
+   "untertitel": null,
+   "beginn": "2026-09-04",
+   "ende": "2026-11-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Karin Guenther",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Janice Kerbel"
+   ],
+   "einzelausstellung_von": "Janice Kerbel",
+   "eroeffnung": "2026-09-03",
+   "anderer_ort": null,
+   "url": "https://galerie-karin-guenther.de/artists/janice-kerbel/images.html",
+   "quelle": "https://galerie-karin-guenther.de/exhibitions/current.html",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Alexander Heim",
+   "untertitel": null,
+   "beginn": "2026-11-13",
+   "ende": "2027-01-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Karin Guenther",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Alexander Heim"
+   ],
+   "eroeffnung": "2026-11-12",
+   "url": "https://galerie-karin-guenther.de/artists/alexander-heim/images.html",
+   "anderer_ort": null,
+   "einzelausstellung_von": "Alexander Heim",
+   "schwerpunkt": null,
+   "quelle": "https://galerie-karin-guenther.de/exhibitions/upcoming.html",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

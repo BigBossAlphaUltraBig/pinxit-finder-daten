@@ -1,0 +1,29 @@
+{
+ "domain": "chertluedde.com",
+ "website": "http://chertluedde.com",
+ "haeuser": {
+  "ChertLüdde": {
+   "haus": "ChertLüdde",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "12:00-18:00",
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://chertluedde.com/about/",
+   "quelle": "https://chertluedde.com/about/"
+  }
+ },
+ "seiten": [
+  "https://chertluedde.com/exhibition/stephanie-comilangsearch-for-life/",
+  "https://chertluedde.com/exhibition/clemen-parrocchettiun-orlo-a-giorno-per-il-mio-diario/",
+  "https://chertluedde.com/",
+  "https://chertluedde.com/about/"
+ ],
+ "abgerufen": "2026-10-12T07:33:28",
+ "status": "ok"
+}

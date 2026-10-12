@@ -1,0 +1,25 @@
+{
+ "domain": "portikus.de",
+ "website": "https://www.portikus.de/",
+ "haeuser": {
+  "Portikus": {
+   "haus": "Portikus",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "12:00-19:00",
+    "mi": "12:00-19:00",
+    "do": "12:00-19:00",
+    "fr": "12:00-19:00",
+    "sa": "11:00-19:00",
+    "so": "11:00-19:00"
+   },
+   "eintritt_immer_frei": false,
+   "quelle": "https://www.portikus.de/de/"
+  }
+ },
+ "seiten": [
+  "https://www.portikus.de/de/"
+ ],
+ "abgerufen": "2026-10-12T08:09:58",
+ "status": "ok"
+}

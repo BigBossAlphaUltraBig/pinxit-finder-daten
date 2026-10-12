@@ -1,0 +1,38 @@
+{
+ "domain": "villa-zanders.de",
+ "website": "https://www.villa-zanders.de/",
+ "haeuser": "Villa Zanders",
+ "land": "DE",
+ "ids": "Q1617748",
+ "status": "ok",
+ "seiten": [
+  "https://villa-zanders.de/ausstellungen/",
+  "https://villa-zanders.de/ausstellungen/vorschau/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "FOR M",
+   "untertitel": "Lichtgestalten – FOR M",
+   "beginn": "2026-11-29",
+   "ende": "2027-03-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Villa Zanders",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Heide Prange"
+   ],
+   "einzelausstellung_von": null,
+   "eroeffnung": "2026-11-29T11:30",
+   "anderer_ort": null,
+   "url": "https://villa-zanders.de/ausstellungen/vorschau/",
+   "quelle": "https://villa-zanders.de/ausstellungen/vorschau/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

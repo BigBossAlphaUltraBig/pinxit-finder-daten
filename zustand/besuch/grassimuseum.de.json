@@ -1,0 +1,31 @@
+{
+ "domain": "grassimuseum.de",
+ "website": "http://www.grassimuseum.de/",
+ "haeuser": {
+  "GRASSI Museum für Angewandte Kunst Leipzig": {
+   "haus": "GRASSI Museum für Angewandte Kunst Leipzig",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-18:00",
+    "mi": "10:00-20:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "frei_fuer": "unter 17 Jahren (Ausstellungen); alle (Ständige Ausstellungen)",
+   "frei_wann": "1. Mittwoch im Monat (Sonderausstellung: 3 €)",
+   "bessere_seite": "https://www.grassimak.de/besuch/preise/",
+   "quelle": "https://www.grassimak.de/besuch/service/",
+   "hinweis_oeffnung": "Geschlossen am 24.12. und 31.12."
+  }
+ },
+ "seiten": [
+  "https://grassi-leipzig.de/besuch",
+  "https://grassi-leipzig.de/",
+  "https://www.grassimak.de/besuch/service/"
+ ],
+ "abgerufen": "2026-10-12T08:05:21",
+ "status": "ok"
+}

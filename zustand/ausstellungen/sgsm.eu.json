@@ -1,0 +1,40 @@
+{
+ "domain": "sgsm.eu",
+ "website": "http://www.sgsm.eu",
+ "haeuser": "Staatliche Graphische Sammlung München",
+ "land": "DE",
+ "ids": "Q464404",
+ "status": "nur aussortierte",
+ "seiten": [
+  "http://www.sgsm.eu/ausstellungen-exhibition/aktuelle-ausstellung-current-exhibition/",
+  "http://www.sgsm.eu/aktuell-latest/fuehrungen-durch-die-ausstellung-guided-tours/",
+  "http://www.sgsm.eu/"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "Trouble and Appearance",
+   "untertitel": "null",
+   "beginn": "2026-07-07",
+   "ende": "2026-10-04",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Staatliche Graphische Sammlung München",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Dana Schutz"
+   ],
+   "einzelausstellung_von": "Dana Schutz",
+   "eroeffnung": null,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "url": "http://www.sgsm.eu/ausstellungen-exhibition/aktuelle-ausstellung-current-exhibition/",
+   "quelle": "http://www.sgsm.eu/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

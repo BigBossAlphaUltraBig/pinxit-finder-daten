@@ -1,0 +1,29 @@
+{
+ "domain": "museumangewandtekunst.de",
+ "website": "https://www.museumangewandtekunst.de/",
+ "haeuser": {
+  "Museum Angewandte Kunst": {
+   "haus": "Museum Angewandte Kunst",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-18:00",
+    "mi": "10:00-20:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_regulaer": "14 €",
+   "eintritt_ermaessigt": "7 €",
+   "eintritt_immer_frei": false,
+   "frei_fuer": "Kinder und Jugendliche unter 18 Jahren",
+   "frei_wann": "jeden letzten Samstag im Monat",
+   "quelle": "https://www.museumangewandtekunst.de/de/besuch/informationen/"
+  }
+ },
+ "seiten": [
+  "https://www.museumangewandtekunst.de/de/besuch/informationen/"
+ ],
+ "abgerufen": "2026-10-12T08:09:31",
+ "status": "ok"
+}

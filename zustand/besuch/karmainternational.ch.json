@@ -1,0 +1,25 @@
+{
+ "domain": "karmainternational.ch",
+ "website": "https://www.karmainternational.ch",
+ "haeuser": {
+  "Karma International (Weststrasse 70)": {
+   "haus": "Karma International (Weststrasse 70)",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "quelle": "https://karmainternational.ch/"
+  }
+ },
+ "seiten": [
+  "https://karmainternational.ch/"
+ ],
+ "abgerufen": "2026-10-12T07:36:37",
+ "status": "unvollständig"
+}

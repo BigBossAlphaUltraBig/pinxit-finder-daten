@@ -1,0 +1,37 @@
+{
+ "domain": "stephanwitschi.ch",
+ "website": "http://www.stephanwitschi.ch",
+ "haeuser": "Andrea Robbi Museum",
+ "land": "CH",
+ "ids": "Q27488845",
+ "status": "ok",
+ "seiten": [
+  "https://www.stephanwitschi.ch/galerie-ausstellungsstuecke",
+  "https://www.stephanwitschi.ch/ausstellungen/jungjin-lee-%E2%80%93-unseen--",
+  "https://www.stephanwitschi.ch/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Beton und Nagellack",
+   "untertitel": null,
+   "beginn": "2026-09-10",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Andrea Robbi Museum",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Christoph Haerle"
+   ],
+   "eroeffnung": "2026-09-10T17:00",
+   "anderer_ort": null,
+   "url": null,
+   "quelle": "https://www.stephanwitschi.ch/"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

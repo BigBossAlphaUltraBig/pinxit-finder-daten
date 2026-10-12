@@ -1,0 +1,28 @@
+{
+ "domain": "fabiennelevy.com",
+ "website": "https://www.fabiennelevy.com",
+ "haeuser": {
+  "Fabienne Levy Gallery": {
+   "haus": "Fabienne Levy Gallery",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-18:30",
+    "mi": "10:00-18:30",
+    "do": "10:00-18:30",
+    "fr": "10:00-18:30",
+    "sa": "11:00-17:30",
+    "so": "geschlossen"
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.fabiennelevy.com/contact/",
+   "hinweis_oeffnung": "Zurich Galerie geschlossen 13.-19. Oktober 2026",
+   "quelle": "https://www.fabiennelevy.com/contact/"
+  }
+ },
+ "seiten": [
+  "https://www.fabiennelevy.com/",
+  "https://www.fabiennelevy.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:34:20",
+ "status": "ok"
+}

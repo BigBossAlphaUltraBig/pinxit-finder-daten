@@ -1,0 +1,29 @@
+{
+ "domain": "sfeir-semler.com",
+ "website": "https://sfeir-semler.com",
+ "haeuser": {
+  "Sfeir-Semler Gallery": {
+   "haus": "Sfeir-Semler Gallery",
+   "oeffnungszeiten": {
+    "mo": "11:00-19:00",
+    "di": "11:00-19:00",
+    "mi": "11:00-19:00",
+    "do": "11:00-19:00",
+    "fr": "11:00-19:00",
+    "sa": "11:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://sfeir-semler.com/about",
+   "quelle": "https://sfeir-semler.com/about",
+   "hinweis_oeffnung": "Angaben für Hamburg-Standort"
+  }
+ },
+ "seiten": [
+  "https://sfeir-semler.com/exhibitions/khalil-rabah-9102",
+  "https://sfeir-semler.com/",
+  "https://sfeir-semler.com/about"
+ ],
+ "abgerufen": "2026-10-12T07:38:20",
+ "status": "ok"
+}

@@ -1,0 +1,37 @@
+{
+ "domain": "tchoban-foundation.de",
+ "website": "http://www.tchoban-foundation.de/",
+ "haeuser": "Museum für Architekturzeichnung",
+ "land": "DE",
+ "ids": "way/184592746",
+ "status": "ok",
+ "seiten": [
+  "http://www.tchoban-foundation.de/10-0-Ausstellungen.html"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Nizo Yamamoto – Meister der Anime-Szenografie",
+   "untertitel": "Meister der Anime-Szenografie",
+   "beginn": "2026-10-03",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum für Architekturzeichnung",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Nizo Yamamoto"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Nizo Yamamoto",
+   "url": "http://www.tchoban-foundation.de/10-0-Ausstellungen.html",
+   "quelle": "http://www.tchoban-foundation.de/10-0-Ausstellungen.html",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

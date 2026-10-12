@@ -1,0 +1,132 @@
+{
+ "domain": "galerie-spielvogel.com",
+ "website": "https://galerie-spielvogel.com",
+ "haeuser": "Galerie Gudrun Spielvogel – Galerie & Edition",
+ "land": "DE",
+ "ids": "galerie-galerie-gudrun-spielvogel-galerie-edition-muenchen",
+ "status": "ok",
+ "seiten": [
+  "https://galerie-spielvogel.com/",
+  "https://galerie-spielvogel.com/in-der-galerie/ausstellungen"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Tracing Light",
+   "untertitel": "Malerei",
+   "beginn": "2026-09-19",
+   "ende": "2026-11-28",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Gudrun Spielvogel – Galerie & Edition",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "kuenstler": [
+    "YeunHi Kim"
+   ],
+   "eroeffnung": null,
+   "einzelausstellung_von": "YeunHi Kim",
+   "anderer_ort": null,
+   "url": "https://galerie-spielvogel.com/tracing-light-yeunhi-kim",
+   "quelle": "https://galerie-spielvogel.com/",
+   "detail_geprueft": "2026-10-12",
+   "standort": "Gudrun Spielvogel – Galerie & Edition",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "David Dandl",
+   "untertitel": "Fotografie",
+   "kuenstler": [
+    "David Dandl"
+   ],
+   "beginn": "2026-10-09",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Galerie Gudrun Spielvogel – Galerie & Edition",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "url": null,
+   "quelle": "https://galerie-spielvogel.com/",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Pionier der Papierkunst",
+   "untertitel": "Relief- u. Tuschearbeiten",
+   "beginn": "2026-09-26",
+   "ende": "2026-12-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Gudrun Spielvogel – Galerie & Edition",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Oskar Holweck"
+   ],
+   "eroeffnung": null,
+   "einzelausstellung_von": "Oskar Holweck",
+   "anderer_ort": "Kunst-Kabinett, Alramstr. 19, München",
+   "url": "https://galerie-spielvogel.com/kuenstler/oholweck",
+   "quelle": "https://galerie-spielvogel.com/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Kunst-Kabinett, Alramstr. 19, München",
+   "standort": "Gudrun Spielvogel – Galerie & Edition"
+  },
+  {
+   "titel": "Zum 85. Geburtstag",
+   "untertitel": "Malerei und Bildobjekte",
+   "beginn": "2026-07-01",
+   "ende": "2026-09-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Gudrun Spielvogel – Galerie & Edition",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Lienhard von Monkiewitsch"
+   ],
+   "eroeffnung": null,
+   "einzelausstellung_von": "Lienhard von Monkiewitsch",
+   "anderer_ort": "Showroom, Alramstr. 25, München",
+   "url": "https://galerie-spielvogel.com/kabinett",
+   "quelle": "https://galerie-spielvogel.com/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet",
+   "standort": "Gudrun Spielvogel – Galerie & Edition"
+  },
+  {
+   "titel": "Around a Square",
+   "untertitel": "Wandobjekte und Zeichnungen",
+   "beginn": "2026-04-18",
+   "ende": "2026-06-27",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Gudrun Spielvogel – Galerie & Edition",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "John Carter",
+   "kuenstler": [
+    "John Carter"
+   ],
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "url": "https://galerie-spielvogel.com/around-a-square-john-carter",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://galerie-spielvogel.com/in-der-galerie/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

@@ -1,0 +1,101 @@
+{
+ "domain": "art-und-weise.org",
+ "website": "http://www.art-und-weise.org",
+ "haeuser": "_artundweise kunst- und denkraum",
+ "land": "CH",
+ "ids": "Q130247332",
+ "status": "ok",
+ "seiten": [
+  "https://www.art-und-weise.org/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "hoferundhofer",
+   "untertitel": "dreidimensionale Arbeiten aus Ton",
+   "beginn": "2026-11-21",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "_artundweise kunst- und denkraum",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "hoferundhofer"
+   ],
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "eroeffnung": "2026-11-21",
+   "anderer_ort": null,
+   "url": "https://www.art-und-weise.org/#next",
+   "quelle": "https://www.art-und-weise.org/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "HEINZEN – Das grosse Lauschen I",
+   "untertitel": "HEINZEN – Das grosse Lauschen I",
+   "beginn": "2027-01-14",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "_artundweise kunst- und denkraum",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Inga Häusermann",
+   "kuenstler": [
+    "Inga Häusermann"
+   ],
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "eroeffnung": "2027-01-14",
+   "anderer_ort": null,
+   "url": "https://www.art-und-weise.org/#next",
+   "quelle": "https://www.art-und-weise.org/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "MINDMAP – Wir sind selbst Andere",
+   "untertitel": "Ein Projekt von Gerhard Johann Lischka",
+   "beginn": "2026-09-10",
+   "ende": "2026-10-09",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "_artundweise kunst- und denkraum",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Gerhard Johann Lischka",
+   "kuenstler": [
+    "Gerhard Johann Lischka",
+    "Boa Baumann",
+    "Oskar Bätschmann",
+    "Paolo Bianchi",
+    "Florian Dombois",
+    "Christoph Doswald",
+    "Loys Egg",
+    "Thomas Feuerstein",
+    "Uwe Göbel",
+    "Christiaan L. Hart Nibbrig",
+    "Heinz Häsler",
+    "Marcel Hollenstein",
+    "Herwig Kempinger",
+    "Vollrad Kutscher",
+    "Andreas Langenbacher",
+    "Thomas Pfister",
+    "Thomas Sterna",
+    "Konrad Tobler",
+    "Heinz Tschan"
+   ],
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.art-und-weise.org/#aktuelles",
+   "quelle": "https://www.art-und-weise.org/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

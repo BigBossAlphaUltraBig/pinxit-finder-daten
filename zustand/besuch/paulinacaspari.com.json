@@ -1,0 +1,29 @@
+{
+ "domain": "paulinacaspari.com",
+ "website": "https://paulinacaspari.com",
+ "haeuser": {
+  "Paulina Caspari": {
+   "haus": "Paulina Caspari",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://paulinacaspari.com/contact/",
+   "quelle": "https://paulinacaspari.com/contact/",
+   "hinweis_oeffnung": "Informationen nicht auf der About-Seite verfügbar"
+  }
+ },
+ "seiten": [
+  "https://paulinacaspari.com/",
+  "https://paulinacaspari.com/about/",
+  "https://paulinacaspari.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:37:42",
+ "status": "unvollständig"
+}

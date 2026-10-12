@@ -1,0 +1,30 @@
+{
+ "domain": "mikikosatogallery.com",
+ "website": "https://mikikosatogallery.com",
+ "haeuser": {
+  "Mikiko Sato Gallery": {
+   "haus": "Mikiko Sato Gallery",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "13:00-19:00",
+    "mi": "13:00-19:00",
+    "do": "13:00-19:00",
+    "fr": "13:00-19:00",
+    "sa": "13:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.mikikosatogallery.com/de/ueber/",
+   "quelle": "https://www.mikikosatogallery.com/de/ueber/",
+   "hinweis_oeffnung": "u.n.V. (nach Vereinbarung)"
+  }
+ },
+ "seiten": [
+  "https://www.mikikosatogallery.com/de/kalender/nobuyuki-osaki-grand-reopening-exhibition-aichi-art-chronicle-1919-2019-aichi-prefectural-museum-of-art/2019-04-02/162/",
+  "https://www.mikikosatogallery.com/de/kalender/sonderprogramm-abstecher-eroeffnung-freitag-30-juli-2021-14-21-uhr-31-07-15-08-2021-ausstellung-in-der-danzigerstr-22-st-georg-20095-hamburg-oeffnungszeiten-di-fr-13-19-uhr-sa-so-13-18-uhr-montags-geschlossen-finissage-sonntag-15-08-2021-13-20-uhr-junya-f/2021-07-30/256/",
+  "https://www.mikikosatogallery.com/",
+  "https://www.mikikosatogallery.com/de/ueber/"
+ ],
+ "abgerufen": "2026-10-12T07:37:26",
+ "status": "ok"
+}

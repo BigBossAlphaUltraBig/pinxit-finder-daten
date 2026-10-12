@@ -1,0 +1,77 @@
+{
+ "domain": "maedlerartforum.com",
+ "website": "https://maedlerartforum.com/",
+ "haeuser": "MÄDLER ART FORUM",
+ "land": "DE",
+ "ids": "node/12849182465",
+ "status": "ok",
+ "seiten": [
+  "https://maedlerartforum.com/ausstellungen/",
+  "https://maedlerartforum.com/2026/06/30/south-africa-und-leipzig/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "SOUTH AFRICA UND LEIPZIG",
+   "untertitel": "Begegnungen im Experimentierfeld",
+   "beginn": "2026-09-03",
+   "ende": "2027-01-16",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "MÄDLER ART FORUM",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "url": "https://maedlerartforum.com/2026/06/30/south-africa-und-leipzig/",
+   "kuenstler": [
+    "Katherine Bull",
+    "Sebastian Burger",
+    "Bongile Gorata Lecoge-Zulu",
+    "Roxy Kaczmarek",
+    "Thalente Khomo",
+    "Hemali Khoosal",
+    "Nolwazi Mbali Mahlangu",
+    "Bjørn Mehlhus",
+    "Nono Motlhoki",
+    "Maria Ondrej",
+    "Vlado Ondrej",
+    "Natalie Paneng",
+    "Ramona Schacht",
+    "Maria Schumacher",
+    "Jana Schulz",
+    "Oupa Sibeko",
+    "Tzung-Hui Lauren Lee",
+    "Raul Walch",
+    "Angelika Waniek",
+    "Xhanti Zwelendaba"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "schwerpunkt": null,
+   "quelle": "https://maedlerartforum.com/ausstellungen/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Führung mit der Kuratorin Frau Rolland",
+   "beginn": "2026-09-05",
+   "ende": "2026-09-05",
+   "art": "veranstaltung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "MÄDLER ART FORUM",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "einzelausstellung_von": null,
+   "kuenstler": [],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": null,
+   "schwerpunkt": null,
+   "quelle": "https://maedlerartforum.com/2026/06/30/south-africa-und-leipzig/",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

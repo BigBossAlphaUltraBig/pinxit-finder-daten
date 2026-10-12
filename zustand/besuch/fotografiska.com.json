@@ -1,0 +1,28 @@
+{
+ "domain": "fotografiska.com",
+ "website": "https://www.fotografiska.com/berlin",
+ "haeuser": {
+  "Fotografiska Berlin": {
+   "haus": "Fotografiska Berlin",
+   "oeffnungszeiten": {
+    "mo": "10:00-23:00",
+    "di": "10:00-23:00",
+    "mi": "10:00-23:00",
+    "do": "10:00-23:00",
+    "fr": "10:00-23:00",
+    "sa": "10:00-23:00",
+    "so": "10:00-23:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "15 €",
+   "eintritt_ermaessigt": "10 €",
+   "frei_fuer": "Kinder bis 12 Jahre (mit erwachsener Begleitung)",
+   "quelle": "https://berlin.fotografiska.com/en/visit"
+  }
+ },
+ "seiten": [
+  "https://berlin.fotografiska.com/en/visit"
+ ],
+ "abgerufen": "2026-10-12T08:04:49",
+ "status": "ok"
+}

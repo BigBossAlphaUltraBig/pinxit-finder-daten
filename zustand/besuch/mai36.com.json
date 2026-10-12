@@ -1,0 +1,29 @@
+{
+ "domain": "mai36.com",
+ "website": "https://www.mai36.com",
+ "haeuser": {
+  "Mai 36 Galerie": {
+   "haus": "Mai 36 Galerie",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:30",
+    "mi": "11:00-18:30",
+    "do": "11:00-18:30",
+    "fr": "11:00-18:30",
+    "sa": "11:00-17:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://mai36.com/contact",
+   "quelle": "https://mai36.com/contact",
+   "hinweis_oeffnung": "Informationen nicht auf dieser Seite verfügbar"
+  }
+ },
+ "seiten": [
+  "https://mai36.com/",
+  "https://mai36.com/about",
+  "https://mai36.com/contact"
+ ],
+ "abgerufen": "2026-10-12T07:37:06",
+ "status": "ok"
+}

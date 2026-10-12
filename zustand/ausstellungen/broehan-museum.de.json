@@ -1,0 +1,59 @@
+{
+ "domain": "broehan-museum.de",
+ "website": "https://www.broehan-museum.de",
+ "haeuser": "Bröhan-Museum",
+ "land": "DE",
+ "ids": "Q568767",
+ "status": "ok",
+ "seiten": [
+  "https://www.broehan-museum.de/ausstellung/cesar-klein-bild-raum-buehne/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "CESAR KLEIN. BILD RAUM BÜHNE",
+   "untertitel": null,
+   "beginn": "2026-10-15",
+   "ende": "2027-03-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Bröhan-Museum",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": true,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Cesar Klein",
+   "kuenstler": [
+    "Cesar Klein"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.broehan-museum.de/ausstellung/cesar-klein-bild-raum-buehne/",
+   "quelle": "https://www.broehan-museum.de/ausstellung/cesar-klein-bild-raum-buehne/",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "PAPERWORK – JUMPING HE. BLACKBOX #18",
+   "untertitel": "",
+   "beginn": "2026-06-13",
+   "ende": "2027-02-21",
+   "art": "wechselausstellung",
+   "fachgebiet": "design",
+   "haus": "Bröhan-Museum",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Jumping He"
+   ],
+   "einzelausstellung_von": "Jumping He",
+   "schwerpunkt": "Grafikdesign und experimentelle Paperwork-Projekte",
+   "url": "https://www.broehan-museum.de/ausstellung/paperwork-jumping-he-blackbox-18/",
+   "quelle": "https://www.broehan-museum.de/ausstellung/paperwork-jumping-he-blackbox-18/",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

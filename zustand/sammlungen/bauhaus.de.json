@@ -1,0 +1,29 @@
+{
+ "domain": "bauhaus.de",
+ "website": "https://www.bauhaus.de/",
+ "haeuser": [
+  {
+   "id": "Q811389",
+   "name": "Bauhaus-Archiv"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Bauhaus-Archiv",
+   "titel": "Die Sammlung",
+   "untertitel": "Weltweit größte Sammlung zum Bauhaus",
+   "art": "sammlungspraesentation",
+   "epoche": "moderne",
+   "fachgebiet": "bildende_kunst",
+   "url": "https://www.bauhaus.de/forschen/sammlung/",
+   "bessere_seite": "https://www.bauhaus.de/forschen/sammlung/",
+   "quelle": "https://www.bauhaus.de/forschen/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.bauhaus.de/forschen/"
+ ],
+ "abgerufen": "2026-10-08T22:19:01",
+ "status": "ok"
+}

@@ -1,0 +1,59 @@
+{
+ "domain": "museum-frieder-burda.de",
+ "website": "https://www.museum-frieder-burda.de/",
+ "haeuser": "Museum Frieder Burda",
+ "land": "DE",
+ "ids": "Q1479961",
+ "status": "ok",
+ "seiten": [
+  "https://www.museum-frieder-burda.de/ausstellung",
+  "https://www.museum-frieder-burda.de/dauerausstellung"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Entfaltung der Farbe",
+   "untertitel": "Simon Hantaï",
+   "beginn": "2026-08-15",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Frieder Burda",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Simon Hantaï"
+   ],
+   "einzelausstellung_von": "Simon Hantaï",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.museum-frieder-burda.de/ausstellung",
+   "quelle": "https://www.museum-frieder-burda.de/ausstellung",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "James Turrell: Accretion Disc",
+   "untertitel": "",
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Museum Frieder Burda",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Raum-Licht-Installation mit computergesteuertem LED-Lichtfeld im Untergeschoss",
+   "einzelausstellung_von": "James Turrell",
+   "kuenstler": [
+    "James Turrell"
+   ],
+   "url": "https://www.museum-frieder-burda.de/dauerausstellung",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://www.museum-frieder-burda.de/dauerausstellung"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

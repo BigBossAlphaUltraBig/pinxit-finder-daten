@@ -1,0 +1,27 @@
+{
+ "domain": "allerheiligen.ch",
+ "website": "https://www.allerheiligen.ch",
+ "haeuser": {
+  "Museum zu Allerheiligen": {
+   "haus": "Museum zu Allerheiligen",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "11:00-17:00",
+    "mi": "11:00-17:00",
+    "do": "11:00-17:00",
+    "fr": "11:00-17:00",
+    "sa": "11:00-17:00",
+    "so": "11:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "Letzter Do im Monat 11:00-20:00",
+   "bessere_seite": "https://allerheiligen.ch/besuchen/besuch-planen/#accordion1583375995",
+   "quelle": "https://allerheiligen.ch/besuchen/besuch-planen/"
+  }
+ },
+ "seiten": [
+  "https://allerheiligen.ch/besuchen/besuch-planen/"
+ ],
+ "abgerufen": "2026-10-08T18:05:14",
+ "status": "ok"
+}

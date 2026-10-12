@@ -1,0 +1,26 @@
+{
+ "domain": "stephanwitschi.ch",
+ "website": "http://www.stephanwitschi.ch",
+ "haeuser": {
+  "Andrea Robbi Museum": {
+   "haus": "Andrea Robbi Museum",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "11:00-17:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "oder nach Vereinbarung",
+   "quelle": "https://www.stephanwitschi.ch/"
+  }
+ },
+ "seiten": [
+  "https://www.stephanwitschi.ch/"
+ ],
+ "abgerufen": "2026-10-12T08:10:57",
+ "status": "unvollständig"
+}

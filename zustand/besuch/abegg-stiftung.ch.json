@@ -1,0 +1,29 @@
+{
+ "domain": "abegg-stiftung.ch",
+ "website": "https://www.abegg-stiftung.ch",
+ "haeuser": {
+  "Abegg-Stiftung": {
+   "haus": "Abegg-Stiftung",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "14:00-17:30",
+    "mi": "14:00-17:30",
+    "do": "14:00-17:30",
+    "fr": "14:00-17:30",
+    "sa": "14:00-17:30",
+    "so": "14:00-17:30"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "CHF 10.–",
+   "eintritt_ermaessigt": "CHF 5.–",
+   "frei_fuer": "Kinder, Schulpflichtige, Lehrlinge und Studierende; Schweizer Museumspass, Museums-PASS-Musées; Raiffeisen-Karte mit MemberPlus-Mitgliedschaft; ICOM-, ICOMOS und VMS-Mitglieder",
+   "hinweis_oeffnung": "26. April – 8. November 2026",
+   "quelle": "https://www.abegg-stiftung.ch/ihr-besuch"
+  }
+ },
+ "seiten": [
+  "https://www.abegg-stiftung.ch/ihr-besuch"
+ ],
+ "abgerufen": "2026-10-08T18:04:59",
+ "status": "ok"
+}

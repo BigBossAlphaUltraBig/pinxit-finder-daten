@@ -1,0 +1,42 @@
+{
+ "domain": "galerieklueser.com",
+ "website": "https://galerieklueser.com",
+ "haeuser": "Galerie Klüser",
+ "land": "DE",
+ "ids": "node/3739778204",
+ "status": "ok",
+ "seiten": [
+  "https://www.galerieklueser.com/programm/",
+  "https://www.galerieklueser.com/programm/constructed-realities-nix-gerber-isca-greenfield-sanders/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Constructed Realities",
+   "untertitel": "Nix/Gerber & Isca Greenfield-Sanders",
+   "beginn": "2026-10-08",
+   "ende": "2026-12-12",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Galerie Klüser",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Nix/Gerber",
+    "Isca Greenfield-Sanders"
+   ],
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "url": "https://www.galerieklueser.com/programm/constructed-realities-nix-gerber-isca-greenfield-sanders/",
+   "quelle": "https://www.galerieklueser.com/programm/constructed-realities-nix-gerber-isca-greenfield-sanders/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

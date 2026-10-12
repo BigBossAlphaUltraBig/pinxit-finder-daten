@@ -1,0 +1,30 @@
+{
+ "domain": "carolynheinz.de",
+ "website": "https://carolynheinz.de",
+ "haeuser": {
+  "Galerie Carolyn Heinz": {
+   "haus": "Galerie Carolyn Heinz",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://carolynheinz.de/galerie/",
+   "hinweis_oeffnung": "Öffnungszeiten während der Ausstellungen, nach Vereinbarung möglich",
+   "quelle": "https://carolynheinz.de/exhibition/"
+  }
+ },
+ "seiten": [
+  "https://carolynheinz.de/",
+  "https://carolynheinz.de/galerie/",
+  "https://carolynheinz.de/contact/",
+  "https://carolynheinz.de/exhibition/"
+ ],
+ "abgerufen": "2026-10-12T07:33:21",
+ "status": "unvollständig"
+}

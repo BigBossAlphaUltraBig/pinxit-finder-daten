@@ -1,0 +1,33 @@
+{
+ "domain": "mumok.at",
+ "website": "https://www.mumok.at/en",
+ "haeuser": [
+  {
+   "id": "Q689951",
+   "name": "Museum Moderner Kunst Stiftung Ludwig Wien"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Museum Moderner Kunst Stiftung Ludwig Wien",
+   "titel": "Die Sammlung",
+   "art": "sammlungspraesentation",
+   "epoche": "moderne",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Moderne Kunst vom 20. Jahrhundert bis heute",
+   "url": "https://www.mumok.at/en/collections/mumok-collection",
+   "kuenstler": [
+    "Raoul Hausmann",
+    "Oskar Schlemmer",
+    "Karl Blossfeldt"
+   ],
+   "quelle": "https://www.mumok.at/en/online-collection"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.mumok.at/en/online-collection"
+ ],
+ "abgerufen": "2026-10-08T22:19:23",
+ "status": "ok"
+}

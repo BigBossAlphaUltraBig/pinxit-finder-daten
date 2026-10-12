@@ -1,0 +1,27 @@
+{
+ "domain": "helmhaus.org",
+ "website": "http://www.helmhaus.org",
+ "haeuser": {
+  "Helmhaus Zürich": {
+   "haus": "Helmhaus Zürich",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://helmhaus.org/de/home",
+   "quelle": "https://helmhaus.org/de/home"
+  }
+ },
+ "seiten": [
+  "https://helmhaus.org/de/",
+  "https://helmhaus.org/de/home"
+ ],
+ "abgerufen": "2026-10-12T08:06:00",
+ "status": "unvollständig"
+}

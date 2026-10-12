@@ -1,0 +1,38 @@
+{
+ "domain": "kunstraum34.de",
+ "website": "http://www.kunstraum34.de/",
+ "haeuser": "Kunstraum34",
+ "land": "DE",
+ "ids": "node/4498605891",
+ "status": "ok",
+ "seiten": [
+  "https://kunstraum34.de/veranstaltung/syzygy/",
+  "https://kunstraum34.de/veranstaltung/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "SYZYGY",
+   "untertitel": "Vor der Uhr war der Schatten.",
+   "beginn": "2026-10-16",
+   "ende": "2026-11-08",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunstraum34",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Caroline Anderson"
+   ],
+   "einzelausstellung_von": "Caroline Anderson",
+   "eroeffnung": "2026-10-16T19:00",
+   "anderer_ort": null,
+   "url": "https://kunstraum34.de/veranstaltung/syzygy/",
+   "quelle": "https://kunstraum34.de/veranstaltung/syzygy/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

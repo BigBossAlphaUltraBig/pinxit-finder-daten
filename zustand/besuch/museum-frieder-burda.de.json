@@ -1,0 +1,27 @@
+{
+ "domain": "museum-frieder-burda.de",
+ "website": "https://www.museum-frieder-burda.de/",
+ "haeuser": {
+  "Museum Frieder Burda": {
+   "haus": "Museum Frieder Burda",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "An allen Feiertagen geöffnet (24. und 31. Dezember geschlossen)",
+   "bessere_seite": "https://www.museum-frieder-burda.de/besuch#collapsePrei01",
+   "quelle": "https://www.museum-frieder-burda.de/besuch"
+  }
+ },
+ "seiten": [
+  "https://www.museum-frieder-burda.de/besuch"
+ ],
+ "abgerufen": "2026-10-12T08:08:59",
+ "status": "ok"
+}

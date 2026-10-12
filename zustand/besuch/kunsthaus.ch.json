@@ -1,0 +1,29 @@
+{
+ "domain": "kunsthaus.ch",
+ "website": "http://www.kunsthaus.ch/",
+ "haeuser": {
+  "Kunsthaus Zürich": {
+   "haus": "Kunsthaus Zürich",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-20:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "36 CHF",
+   "eintritt_ermaessigt": "25 CHF",
+   "frei_fuer": "Kinder und Jugendliche unter 14 Jahren, Schulklassen Schweiz (bis 20 Jahre), Kunststudierende Schweiz, Vollzeitstudierende ZHDK, Gruppen von Studierenden Schweizer Universitäten/ETH/EPFL/Fachhochschulen, Gruppen Lernender von Berufs- und Fachschulen Schweiz, Rollstuhlfahrer:innen incl. Begleitperson, KulturLegi-Inhaber:innen Kanton Zürich, ICOM/VMS/CIMAM-Karteninhaber:innen, Mitglieder",
+   "frei_wann": "Mittwochs für alle (Sammlung)",
+   "quelle": "https://www.kunsthaus.ch/besuch-planen/besucherinfos/"
+  }
+ },
+ "seiten": [
+  "https://www.kunsthaus.ch/besuch-planen/besucherinfos/"
+ ],
+ "abgerufen": "2026-10-12T08:07:04",
+ "status": "ok"
+}

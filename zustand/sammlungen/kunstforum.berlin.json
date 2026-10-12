@@ -1,0 +1,35 @@
+{
+ "domain": "kunstforum.berlin",
+ "website": "https://kunstforum.berlin/",
+ "haeuser": [
+  {
+   "id": "node-372353895",
+   "name": "Kunstforum Berliner Volksbank"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Kunstforum Berliner Volksbank",
+   "titel": "Kunstsammlung der Berliner Volksbank",
+   "art": "sammlungspraesentation",
+   "epoche": "moderne",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Kunst von Nachkriegszeit bis heute, Schwerpunkt Berlin und Brandenburg",
+   "kuenstler": [
+    "Gerhard Altenbourg",
+    "Harald Metzkes",
+    "Ludwig Gabriel Schrieber",
+    "Elvira Bach",
+    "Angela Hampel"
+   ],
+   "url": "https://kunstforum.berlin/kunstsammlung-der-berliner-volksbank/",
+   "quelle": "https://kunstforum.berlin/kunstsammlung-der-berliner-volksbank/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://kunstforum.berlin/kunstsammlung-der-berliner-volksbank/"
+ ],
+ "abgerufen": "2026-10-12T08:12:52",
+ "status": "ok"
+}

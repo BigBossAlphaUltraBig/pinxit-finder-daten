@@ -1,0 +1,62 @@
+{
+ "domain": "fkv.de",
+ "website": "https://www.fkv.de/",
+ "haeuser": "Frankfurter Kunstverein",
+ "land": "DE",
+ "ids": "Q1444994",
+ "status": "ok",
+ "seiten": [
+  "https://www.fkv.de/exhibitions-current-preview/",
+  "https://www.fkv.de/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Propaganda",
+   "untertitel": "Flooding the Zone with Shit – It's About Money, Stupid!",
+   "beginn": "2026-11-14",
+   "ende": "2027-03-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Frankfurter Kunstverein",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Joshua Citarella",
+    "Ganslmeier&Zibelnik",
+    "Ben Grosser",
+    "Playfool",
+    "Oguz Sen"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": "2026-11-13T18:00",
+   "einzelausstellung_von": null,
+   "url": "https://www.fkv.de/ausstellung/propaganda-flood-the-zone-with-shit-its-about-money-stupid/",
+   "quelle": "https://www.fkv.de/exhibitions-current-preview/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "And This Is Us 2027",
+   "untertitel": "Junge Kunst aus Frankfurt",
+   "beginn": "2027-04-23",
+   "ende": "2027-07-25",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Frankfurter Kunstverein",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "url": "https://www.fkv.de/ausstellung/and-this-is-us-2027-junge-kunst-aus-frankfurt/",
+   "quelle": "https://www.fkv.de/exhibitions-current-preview/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

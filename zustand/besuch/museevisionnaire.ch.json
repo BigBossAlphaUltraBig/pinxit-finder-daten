@@ -1,0 +1,32 @@
+{
+ "domain": "museevisionnaire.ch",
+ "website": "http://museevisionnaire.ch",
+ "haeuser": {
+  "Musée Visionnaire Zürich": {
+   "haus": "Musée Visionnaire Zürich",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "13:00-17:00",
+    "do": "13:00-20:00",
+    "fr": "13:00-17:00",
+    "sa": "11:00-17:00",
+    "so": "11:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.museevisionnaire.ch/",
+   "hinweis_oeffnung": "Öffnungszeiten nicht auf der Führungsseite angegeben",
+   "quelle": "https://www.museevisionnaire.ch/",
+   "eintritt_regulaer": "CHF 10",
+   "eintritt_ermaessigt": "CHF 8",
+   "frei_fuer": "Kinder bis 16 Jahre, Mitglieder, Gönner*innen, Zürich Card, Vitamin K Pass, VKKS-Mitglieder",
+   "frei_wann": "Donnerstag 17:00-20:00 Uhr"
+  }
+ },
+ "seiten": [
+  "https://www.museevisionnaire.ch/fuehrungen/",
+  "https://www.museevisionnaire.ch/"
+ ],
+ "abgerufen": "2026-10-12T08:08:53",
+ "status": "ok"
+}

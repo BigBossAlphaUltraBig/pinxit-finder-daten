@@ -1,0 +1,60 @@
+{
+ "domain": "albertina.at",
+ "website": "https://www.albertina.at/home",
+ "haeuser": [
+  {
+   "id": "Q371908",
+   "name": "Albertina"
+  },
+  {
+   "id": "node-9983513676",
+   "name": "Albertina modern"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Albertina",
+   "titel": "Gemälde & Skulptur",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Kunstgeschichte vom 15. bis 21. Jahrhundert",
+   "url": "https://www.albertina.at/sammlungen/malerei-skulptur/",
+   "quelle": "https://sammlungenonline.albertina.at/"
+  },
+  {
+   "haus": "Albertina",
+   "titel": "Zeichnung & Druckgrafik",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Kunstgeschichte vom 15. bis 21. Jahrhundert",
+   "url": "https://www.albertina.at/sammlungen/zeichnung-druckgrafik/",
+   "quelle": "https://sammlungenonline.albertina.at/"
+  },
+  {
+   "haus": "Albertina",
+   "titel": "Fotografie",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "fotografie",
+   "url": "https://www.albertina.at/sammlungen/fotografie/",
+   "quelle": "https://sammlungenonline.albertina.at/"
+  },
+  {
+   "haus": "Albertina modern",
+   "titel": "Die Sammlung",
+   "art": "dauerausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Moderne und zeitgenössische Kunst",
+   "quelle": "https://sammlungenonline.albertina.at/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://sammlungenonline.albertina.at/"
+ ],
+ "abgerufen": "2026-10-08T22:18:48",
+ "status": "ok"
+}

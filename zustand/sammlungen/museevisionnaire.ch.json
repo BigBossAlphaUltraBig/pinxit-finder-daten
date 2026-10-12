@@ -1,0 +1,32 @@
+{
+ "domain": "museevisionnaire.ch",
+ "website": "http://museevisionnaire.ch",
+ "haeuser": [
+  {
+   "id": "Q27490260",
+   "name": "Musée Visionnaire Zürich"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Musée Visionnaire Zürich",
+   "titel": "Die Sammlung",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Visionäre Kunst seit 2018, 374 Werke und wachsend",
+   "url": "https://www.museevisionnaire.ch/sammlung/",
+   "kuenstler": [
+    "Ben Wilson",
+    "Harald Naegeli"
+   ],
+   "quelle": "https://www.museevisionnaire.ch/sammlung/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.museevisionnaire.ch/sammlung/"
+ ],
+ "abgerufen": "2026-10-12T08:13:47",
+ "status": "ok"
+}

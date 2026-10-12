@@ -1,0 +1,28 @@
+{
+ "domain": "galeriejahn.com",
+ "website": "https://galeriejahn.com",
+ "haeuser": {
+  "Galerie Wolfgang Jahn": {
+   "haus": "Galerie Wolfgang Jahn",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "13:00-18:00",
+    "do": "13:00-18:00",
+    "fr": "13:00-18:00",
+    "sa": "12:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://galeriejahn.com/de/kontakt",
+   "quelle": "https://galeriejahn.com/de/kontakt",
+   "hinweis_oeffnung": "nach Vereinbarung möglich"
+  }
+ },
+ "seiten": [
+  "https://galeriejahn.com/de",
+  "https://galeriejahn.com/de/kontakt"
+ ],
+ "abgerufen": "2026-10-12T07:35:14",
+ "status": "unvollständig"
+}

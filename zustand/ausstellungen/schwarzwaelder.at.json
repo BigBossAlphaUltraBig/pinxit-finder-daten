@@ -1,0 +1,195 @@
+{
+ "domain": "schwarzwaelder.at",
+ "website": "https://www.schwarzwaelder.at",
+ "haeuser": "Galerie nächst St. Stephan Rosemarie Schwarzwälder",
+ "land": "AT",
+ "ids": "Q19823294",
+ "status": "ok",
+ "seiten": [
+  "https://www.schwarzwaelder.at/exhibitions",
+  "https://www.schwarzwaelder.at/exhibitions/michal-budny-2026"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Requiem",
+   "untertitel": "Curated by Anya Harrison",
+   "beginn": "2026-09-11",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie nächst St. Stephan",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Adam Christensen",
+    "Barbara Hammer",
+    "Mel Odom",
+    "Penny Goring"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-11T18:00",
+   "url": "https://www.schwarzwaelder.at/exhibitions/curatedby-2026",
+   "quelle": "https://www.schwarzwaelder.at/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Night",
+   "untertitel": "Night",
+   "beginn": "2026-09-04",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie nächst St. Stephan Rosemarie Schwarzwälder",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Michał Budny"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.schwarzwaelder.at/exhibitions/michal-budny-2026",
+   "quelle": "https://www.schwarzwaelder.at/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "MICHAŁ BUDNY",
+   "untertitel": "Night",
+   "beginn": "2026-10-08",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie nächst St. Stephan",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "MICHAŁ BUDNY"
+   ],
+   "einzelausstellung_von": "MICHAŁ BUDNY",
+   "url": "https://www.schwarzwaelder.at/exhibitions/michal-budny-2026",
+   "quelle": "https://www.schwarzwaelder.at/exhibitions",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Drawings for Stain-Rainbow",
+   "untertitel": "Drawings for Stain-Rainbow",
+   "beginn": "2026-09-22",
+   "ende": "2026-11-20",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie nächst St. Stephan Rosemarie Schwarzwälder",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Lee Jiyen"
+   ],
+   "anderer_ort": "Showroom Zürich",
+   "eroeffnung": "2026-09-17T12:00",
+   "url": "https://www.schwarzwaelder.at/exhibitions/drawings-for-stain-rainbow-zurich-2026",
+   "quelle": "https://www.schwarzwaelder.at/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Showroom Zürich"
+  },
+  {
+   "titel": "Red Doors",
+   "untertitel": "Red Doors",
+   "beginn": "2026-06-02",
+   "ende": "2026-08-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie nächst St. Stephan Rosemarie Schwarzwälder",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Jörg Sasse"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.schwarzwaelder.at/exhibitions/joerg-sasse-2026",
+   "quelle": "https://www.schwarzwaelder.at/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  },
+  {
+   "titel": "das gleiche, aber anders",
+   "untertitel": "das gleiche, aber anders",
+   "beginn": "2026-05-21",
+   "ende": "2026-08-22",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie nächst St. Stephan Rosemarie Schwarzwälder",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Ernst Caramelle"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": "2026-05-21T19:30",
+   "url": "https://www.schwarzwaelder.at/exhibitions/ernst-caramelle-2026",
+   "quelle": "https://www.schwarzwaelder.at/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  },
+  {
+   "titel": "Saint Stephen (with a rose)",
+   "untertitel": "Saint Stephen (with a rose)",
+   "beginn": "2026-03-19",
+   "ende": "2026-05-23",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie nächst St. Stephan Rosemarie Schwarzwälder",
+   "rang": 6,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Polly Apfelbaum"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.schwarzwaelder.at/exhibitions/polly-apfelbaum-2026",
+   "quelle": "https://www.schwarzwaelder.at/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  },
+  {
+   "titel": "Dust Buddies",
+   "untertitel": "Christoph Doswald, curator",
+   "beginn": "2026-02-26",
+   "ende": "2026-05-09",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie nächst St. Stephan Rosemarie Schwarzwälder",
+   "rang": 7,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Sonia Leimer"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.schwarzwaelder.at/exhibitions/sonia-leimer-2026",
+   "quelle": "https://www.schwarzwaelder.at/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

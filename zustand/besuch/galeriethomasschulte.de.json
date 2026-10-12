@@ -1,0 +1,26 @@
+{
+ "domain": "galeriethomasschulte.de",
+ "website": "https://www.galeriethomasschulte.de",
+ "haeuser": {
+  "Galerie Thomas Schulte": {
+   "haus": "Galerie Thomas Schulte",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "12:00-18:00",
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.galeriethomasschulte.com/",
+   "quelle": "https://www.galeriethomasschulte.com/news/316-katharina-sieverding-museum-schloss-moyland-solo-exhibition/"
+  }
+ },
+ "seiten": [
+  "https://www.galeriethomasschulte.com/news/316-katharina-sieverding-museum-schloss-moyland-solo-exhibition/"
+ ],
+ "abgerufen": "2026-10-12T07:35:50",
+ "status": "ok"
+}

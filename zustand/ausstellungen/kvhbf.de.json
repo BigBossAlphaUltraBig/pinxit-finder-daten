@@ -1,0 +1,70 @@
+{
+ "domain": "kvhbf.de",
+ "website": "http://kvhbf.de/",
+ "haeuser": "Kunstverein Harburger Bahnhof",
+ "land": "DE",
+ "ids": "Q1792670",
+ "status": "ok",
+ "seiten": [
+  "https://kvhbf.de/#/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "thinking through your cracks and veins",
+   "untertitel": "Gruppenausstellung",
+   "beginn": "2026-10-03",
+   "ende": "2027-01-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunstverein Harburger Bahnhof",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Bariteo Collective",
+    "Paula Hummer",
+    "Xheneta Imeri",
+    "Swan Lee",
+    "Gordon Matta-Clark",
+    "Ruoru Mou"
+   ],
+   "einzelausstellung_von": null,
+   "eroeffnung": "2026-10-02T19:00",
+   "anderer_ort": null,
+   "url": "https://kvhbf.de/#/programm/thinking-through-your-cracks-and-veins",
+   "quelle": "https://kvhbf.de/#/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "exhibtion",
+   "untertitel": "Vitrinen Gleis 3/4",
+   "beginn": "2026-10-03",
+   "ende": "2026-11-15",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunstverein Harburger Bahnhof",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Yufan Chen",
+    "Chantal Kaufmann",
+    "Sunkyu Lee",
+    "Genevieve Lotus",
+    "Luka Naujoks",
+    "Maren Stocklöw",
+    "Anna Stüdeli"
+   ],
+   "einzelausstellung_von": null,
+   "eroeffnung": "2026-10-02T19:00",
+   "anderer_ort": null,
+   "url": "https://kvhbf.de/#/programm/exhibtion",
+   "quelle": "https://kvhbf.de/#/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

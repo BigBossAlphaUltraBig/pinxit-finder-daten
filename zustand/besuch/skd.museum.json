@@ -1,0 +1,28 @@
+{
+ "domain": "skd.museum",
+ "website": "http://www.skd.museum/",
+ "haeuser": {
+  "Staatliche Kunstsammlungen Dresden": {
+   "haus": "Staatliche Kunstsammlungen Dresden",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.skd.museum/besuch/",
+   "hinweis_oeffnung": "Verbund aus 15 Museen an verschiedenen Standorten",
+   "quelle": "https://www.skd.museum/"
+  }
+ },
+ "seiten": [
+  "https://www.skd.museum/besuch/",
+  "https://www.skd.museum/"
+ ],
+ "abgerufen": "2026-10-12T08:10:39",
+ "status": "unvollständig"
+}

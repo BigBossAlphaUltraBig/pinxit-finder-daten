@@ -1,0 +1,96 @@
+{
+ "domain": "d21-leipzig.de",
+ "website": "http://www.d21-leipzig.de/",
+ "haeuser": "D21 Kunstraum Leipzig",
+ "land": "DE",
+ "ids": "Q23786353",
+ "status": "ok",
+ "seiten": [
+  "https://www.d21-leipzig.de/de/ausstellung/",
+  "https://www.d21-leipzig.de/de/ausstellung/d21-solo-carolina-perez-palllares-die-flut-aus-meiner-hand/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Die Flut aus meiner Hand",
+   "untertitel": "Carolina Pérez Pallares: Die Flut aus meiner Hand",
+   "beginn": "2026-09-18",
+   "ende": "2026-11-22",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "D21 Kunstraum Leipzig",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Carolina Pérez Pallares"
+   ],
+   "eroeffnung": "2026-09-18T19:00",
+   "anderer_ort": null,
+   "url": "https://www.d21-leipzig.de/de/ausstellung/d21-solo-carolina-perez-palllares-die-flut-aus-meiner-hand/",
+   "einzelausstellung_von": "Carolina Pérez Pallares",
+   "quelle": "https://www.d21-leipzig.de/de/ausstellung/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Carolina Pérez Pallares: Die Flut aus meiner Hand",
+   "untertitel": "Die Flut aus meiner Hand",
+   "beginn": "2026-09-18",
+   "ende": "2026-11-22",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "D21 Kunstraum Leipzig",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Carolina Pérez Pallares"
+   ],
+   "eroeffnung": "2026-09-18T19:00",
+   "einzelausstellung_von": "Carolina Pérez Pallares",
+   "anderer_ort": null,
+   "url": "https://www.d21-leipzig.de/de/ausstellung/d21-solo-carolina-perez-palllares-die-flut-aus-meiner-hand/",
+   "quelle": "https://www.d21-leipzig.de/de/ausstellung/d21-solo-carolina-perez-palllares-die-flut-aus-meiner-hand/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Dissident Bodies",
+   "untertitel": "Ausstellung",
+   "beginn": "2026-04-22",
+   "ende": "2026-07-19",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "D21 Kunstraum Leipzig",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Alice dos Reis",
+    "André Romão",
+    "Eliška Konečná",
+    "Esse McChesney",
+    "Hugo Canoilas",
+    "Hugo de Almeida Pinho",
+    "Kiluanji Kia Henda",
+    "Laila Majid",
+    "Louis Blue Newby",
+    "Lito Katou",
+    "Manuel Sékou",
+    "Odete Policarpo",
+    "Diana Policarpo"
+   ],
+   "eroeffnung": "2026-04-22",
+   "anderer_ort": null,
+   "url": "https://www.d21-leipzig.de/de/ausstellung/dissident-bodies/",
+   "einzelausstellung_von": null,
+   "quelle": "https://www.d21-leipzig.de/de/ausstellung/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

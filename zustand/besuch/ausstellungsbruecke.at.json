@@ -1,0 +1,26 @@
+{
+ "domain": "ausstellungsbruecke.at",
+ "website": "http://www.ausstellungsbruecke.at",
+ "haeuser": {
+  "Ausstellungsbrücke": {
+   "haus": "Ausstellungsbrücke",
+   "oeffnungszeiten": {
+    "mo": "08:00-18:00",
+    "di": "08:00-18:00",
+    "mi": "08:00-18:00",
+    "do": "08:00-18:00",
+    "fr": "08:00-18:00",
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "Sa., So. u. Feiertag beim Portier läuten",
+   "quelle": "https://www.noe.gv.at/noe/Kunst-Kultur/Besucherinfos_Ausstellungsbruecke.html"
+  }
+ },
+ "seiten": [
+  "https://www.noe.gv.at/noe/Kunst-Kultur/Besucherinfos_Ausstellungsbruecke.html"
+ ],
+ "abgerufen": "2026-10-08T18:05:42",
+ "status": "ok"
+}

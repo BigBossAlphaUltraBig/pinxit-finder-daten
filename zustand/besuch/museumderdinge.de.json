@@ -1,0 +1,28 @@
+{
+ "domain": "museumderdinge.de",
+ "website": "http://www.museumderdinge.de/",
+ "haeuser": {
+  "Werkbundarchiv – Museum der Dinge": {
+   "haus": "Werkbundarchiv – Museum der Dinge",
+   "oeffnungszeiten": {
+    "mo": "12:00-19:00",
+    "di": "geschlossen",
+    "mi": "geschlossen",
+    "do": "12:00-19:00",
+    "fr": "12:00-19:00",
+    "sa": "12:00-19:00",
+    "so": "12:00-19:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "6 €",
+   "eintritt_ermaessigt": "4 €",
+   "frei_fuer": "Kinder und Jugendliche bis 18 Jahre, Schüler*innen im Rahmen des betreuten Schulunterrichts, ALG II-Empfänger*innen, Werkbundarchiv e.V. Mitglieder, Inhaber*innen eines Berechtigungsnachweises (Berlinpass)",
+   "quelle": "https://museumderdinge.de/besuch/oeffnungszeiten-tickets/#/"
+  }
+ },
+ "seiten": [
+  "https://museumderdinge.de/besuch/oeffnungszeiten-tickets/#/"
+ ],
+ "abgerufen": "2026-10-12T08:09:36",
+ "status": "ok"
+}

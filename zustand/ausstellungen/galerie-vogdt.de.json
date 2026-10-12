@@ -1,0 +1,37 @@
+{
+ "domain": "galerie-vogdt.de",
+ "website": "https://www.galerie-vogdt.de/exhibitions",
+ "haeuser": "Galerie Stefan Vogdt",
+ "land": "DE",
+ "ids": "galerie-galerie-stefan-vogdt-muenchen",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://www.galerie-vogdt.de/exhibitions"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "Christina Bock",
+   "untertitel": null,
+   "beginn": "2025-10-09",
+   "ende": "2025-11-13",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Stefan Vogdt",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Christina Bock",
+   "kuenstler": [
+    "Christina Bock"
+   ],
+   "eroeffnung": null,
+   "url": null,
+   "quelle": "https://www.galerie-vogdt.de/exhibitions",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

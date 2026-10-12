@@ -1,0 +1,57 @@
+{
+ "domain": "adk.de",
+ "website": "https://www.adk.de/",
+ "haeuser": [
+  {
+   "id": "nachtrag-akademie-der-k-nste",
+   "name": "Akademie der Künste"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Akademie der Künste",
+   "titel": "Ellen Auerbach. Fotografisches Werk",
+   "art": "sammlungspraesentation",
+   "epoche": "moderne",
+   "fachgebiet": "fotografie",
+   "untertitel": "Fotografischer Nachlass von Ellen Auerbach",
+   "kuenstler": [
+    "Ellen Auerbach"
+   ],
+   "url": "https://digital.adk.de/ellen-auerbach-fotografisches-werk",
+   "quelle": "https://digital.adk.de/"
+  },
+  {
+   "haus": "Akademie der Künste",
+   "titel": "Carl Blechen. Das Amalfi-Skizzenbuch",
+   "art": "sammlungspraesentation",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Skizzenbuch und Nachlass des Malers Carl Blechen",
+   "kuenstler": [
+    "Carl Blechen"
+   ],
+   "url": "https://digital.adk.de/?tx_dlf_collection%5Baction%5D=show&tx_dlf_collection%5Bcollection%5D=37&tx_dlf_collection%5Bcontroller%5D=Collection&cHash=e3b03a00d63010a09048e3e9886dc383",
+   "quelle": "https://digital.adk.de/"
+  },
+  {
+   "haus": "Akademie der Künste",
+   "titel": "Achim Freyer. Bildkünstlerische Werke für die Bühne",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "sonstiges",
+   "untertitel": "Bühnen- und Kostümentwürfe eines Malers und Regisseurs",
+   "kuenstler": [
+    "Achim Freyer"
+   ],
+   "url": "https://digital.adk.de/achim-freyer-bildkuenstlerische-werke-fuer-die-buehne",
+   "quelle": "https://digital.adk.de/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://digital.adk.de/"
+ ],
+ "abgerufen": "2026-10-12T08:11:23",
+ "status": "ok"
+}

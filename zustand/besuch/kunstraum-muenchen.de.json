@@ -1,0 +1,26 @@
+{
+ "domain": "kunstraum-muenchen.de",
+ "website": "https://www.kunstraum-muenchen.de/",
+ "haeuser": {
+  "Kunstraum": {
+   "haus": "Kunstraum",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "14:00-19:00",
+    "do": null,
+    "fr": null,
+    "sa": "14:00-19:00",
+    "so": "14:00-19:00"
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "nur während Ausstellungen",
+   "quelle": "https://www.kunstraum-muenchen.de/"
+  }
+ },
+ "seiten": [
+  "https://www.kunstraum-muenchen.de/"
+ ],
+ "abgerufen": "2026-10-12T08:07:32",
+ "status": "unvollständig"
+}

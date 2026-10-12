@@ -1,0 +1,37 @@
+{
+ "domain": "pavillon-le-corbusier.ch",
+ "website": "https://www.pavillon-le-corbusier.ch/",
+ "haeuser": "Centre Le Corbusier",
+ "land": "CH",
+ "ids": "Q638236",
+ "status": "ok",
+ "seiten": [
+  "https://pavillon-le-corbusier.ch/de"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Bauen für die Macht",
+   "untertitel": "Pavillon Le Corbusier",
+   "beginn": "2026-04-17",
+   "ende": "2026-11-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "architektur",
+   "haus": "Centre Le Corbusier",
+   "rang": 1,
+   "epoche": "moderne",
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Le Corbusier"
+   ],
+   "schwerpunkt": null,
+   "url": "https://museum-gestaltung.ch/de/ausstellung/bauen-fuer-die-macht",
+   "quelle": "https://pavillon-le-corbusier.ch/de",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

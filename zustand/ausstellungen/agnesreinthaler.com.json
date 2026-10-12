@@ -1,0 +1,65 @@
+{
+ "domain": "agnesreinthaler.com",
+ "website": "https://www.agnesreinthaler.com",
+ "haeuser": "Galerie Reinthaler",
+ "land": "AT",
+ "ids": "node/2522324106",
+ "status": "ok",
+ "seiten": [
+  "https://www.agnesreinthaler.com/",
+  "https://www.agnesreinthaler.com/upcoming-past/lukas-marxt-current-control/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "WIDE EYED HALF LIGHT",
+   "untertitel": null,
+   "beginn": "2026-09-12",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Reinthaler",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Kenji Lim"
+   ],
+   "eroeffnung": "2026-09-11T16:00",
+   "einzelausstellung_von": "Kenji Lim",
+   "anderer_ort": null,
+   "url": "https://www.agnesreinthaler.com/upcoming-past/kenji-lim-wide-eyed-half-light/",
+   "quelle": "https://www.agnesreinthaler.com/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Lukas Marxt. Current Control",
+   "untertitel": "Current Control",
+   "beginn": "2015-03-11",
+   "ende": "2015-05-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Galerie Reinthaler",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Lukas Marxt"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Lukas Marxt",
+   "url": "https://www.agnesreinthaler.com/upcoming-past/lukas-marxt-current-control/",
+   "quelle": "https://www.agnesreinthaler.com/upcoming-past/lukas-marxt-current-control/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

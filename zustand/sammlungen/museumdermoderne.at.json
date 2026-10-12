@@ -1,0 +1,55 @@
+{
+ "domain": "museumdermoderne.at",
+ "website": "http://www.museumdermoderne.at/",
+ "haeuser": [
+  {
+   "id": "Q1775271",
+   "name": "Museum der Moderne Salzburg"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Museum der Moderne Salzburg",
+   "titel": "Grafische Sammlung, Gemälde & Skulpturen",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Moderne Druckgrafik, Gemälde, Skulpturen vom 19. Jh. bis Gegenwart",
+   "url": "https://www.museumdermoderne.at/sammlungen/grafische-sammlung-gemaelde-skulpturen/",
+   "quelle": "https://www.museumdermoderne.at/sammlungen/ueberblick/"
+  },
+  {
+   "haus": "Museum der Moderne Salzburg",
+   "titel": "Fotografie & Medienkunst",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "fotografie",
+   "untertitel": "Österreichische Fotografie nach 1945, japanische Fotografie, Medienkunst",
+   "url": "https://www.museumdermoderne.at/sammlungen/fotografie-medienkunst/",
+   "quelle": "https://www.museumdermoderne.at/sammlungen/ueberblick/"
+  },
+  {
+   "haus": "Museum der Moderne Salzburg",
+   "titel": "Sammlung Generali Foundation",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Konzeptuelle, feministische, performative Kunst seit den 1970er-Jahren",
+   "url": "https://www.museumdermoderne.at/sammlungen/sammlung-generali-foundation/",
+   "kuenstler": [
+    "Georg Baselitz",
+    "Anselm Kiefer",
+    "Sylvie Fleury",
+    "Erwin Wurm",
+    "Sigalit Landau"
+   ],
+   "quelle": "https://www.museumdermoderne.at/sammlungen/ueberblick/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.museumdermoderne.at/sammlungen/ueberblick/"
+ ],
+ "abgerufen": "2026-10-12T08:14:09",
+ "status": "ok"
+}

@@ -1,0 +1,25 @@
+{
+ "domain": "sl-galerie.at",
+ "website": "https://www.sl-galerie.at",
+ "haeuser": {
+  "Galerie Schnitzler und Lindenberger": {
+   "haus": "Galerie Schnitzler und Lindenberger",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "15:00-18:00",
+    "do": "15:00-18:00",
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://www.sl-galerie.at/"
+  }
+ },
+ "seiten": [
+  "https://www.sl-galerie.at/"
+ ],
+ "abgerufen": "2026-10-12T08:10:43",
+ "status": "unvollständig"
+}

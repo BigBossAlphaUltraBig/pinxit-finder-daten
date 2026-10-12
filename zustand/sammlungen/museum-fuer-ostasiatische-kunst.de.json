@@ -1,0 +1,48 @@
+{
+ "domain": "museum-fuer-ostasiatische-kunst.de",
+ "website": "http://www.museum-fuer-ostasiatische-kunst.de/",
+ "haeuser": [
+  {
+   "id": "Q884204",
+   "name": "Museum für Ostasiatische Kunst"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Museum für Ostasiatische Kunst",
+   "titel": "China",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Kunst aus China vom Altertum bis zur Neuzeit",
+   "url": "https://museum-fuer-ostasiatische-kunst.de/default.aspx?s=9",
+   "quelle": "https://museum-fuer-ostasiatische-kunst.de/Sammlung"
+  },
+  {
+   "haus": "Museum für Ostasiatische Kunst",
+   "titel": "Japan",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Japanische Kunst: Malerei, Holzschnitte, Skulptur",
+   "url": "https://museum-fuer-ostasiatische-kunst.de/default.aspx?s=10",
+   "quelle": "https://museum-fuer-ostasiatische-kunst.de/Sammlung"
+  },
+  {
+   "haus": "Museum für Ostasiatische Kunst",
+   "titel": "Korea",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Koreanische Kunst: Keramik, Skulptur, Kunsthandwerk",
+   "url": "https://museum-fuer-ostasiatische-kunst.de/default.aspx?s=11",
+   "quelle": "https://museum-fuer-ostasiatische-kunst.de/Sammlung"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://museum-fuer-ostasiatische-kunst.de/Sammlung"
+ ],
+ "abgerufen": "2026-10-12T08:13:48",
+ "status": "ok"
+}

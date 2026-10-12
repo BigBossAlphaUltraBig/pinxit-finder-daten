@@ -1,0 +1,17 @@
+{
+ "domain": "schirn.de",
+ "website": "https://www.schirn.de/",
+ "haeuser": [
+  {
+   "id": "Q176293",
+   "name": "Schirn Kunsthalle Frankfurt"
+  }
+ ],
+ "sammlungen": [],
+ "keine_sammlung": true,
+ "seiten": [
+  "https://www.schirn.de/"
+ ],
+ "abgerufen": "2026-10-12T08:14:32",
+ "status": "keine Sammlung"
+}

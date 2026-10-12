@@ -1,0 +1,149 @@
+{
+ "domain": "kunstpalast.de",
+ "website": "https://www.kunstpalast.de/",
+ "haeuser": "Museum Kunstpalast",
+ "land": "DE",
+ "ids": "Q461277",
+ "status": "ok",
+ "seiten": [
+  "https://www.kunstpalast.de/de/programm/ausstellungen/",
+  "https://www.kunstpalast.de/de/event/talk-wilhelm-kreis-architekt-und-ausstellungsmacher-der-gesolei/?date=13.10.2026&time=18:30"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Immendorff",
+   "beginn": "2026-09-25",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Kunstpalast",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Jörg Immendorff",
+   "kuenstler": [
+    "Jörg Immendorff"
+   ],
+   "url": "https://www.kunstpalast.de/de/event/immendorff/",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "untertitel": "Die erste umfassende Retrospektive in Düsseldorf",
+   "quelle": "https://www.kunstpalast.de/de/programm/ausstellungen/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Niki de Saint Phalle",
+   "untertitel": "Dream Machine",
+   "beginn": "2026-09-10",
+   "ende": "2027-02-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Kunstpalast",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Niki de Saint Phalle",
+   "kuenstler": [
+    "Niki de Saint Phalle"
+   ],
+   "url": "https://www.kunstpalast.de/de/event/nikidesaintphalle/",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://www.kunstpalast.de/de/programm/ausstellungen/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Alles Kunst?!",
+   "untertitel": "Von Aldi bis Rubens",
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Kunstpalast",
+   "rang": 4,
+   "epoche": "gemischt",
+   "gemeinfrei": true,
+   "schwerpunkt": "Sammlung vom Barock bis zur Gegenwart",
+   "einzelausstellung_von": null,
+   "kuenstler": [],
+   "url": "https://www.kunstpalast.de/de/event/alles-kunst/",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://www.kunstpalast.de/de/programm/ausstellungen/"
+  },
+  {
+   "titel": "Winfred Gaul",
+   "beginn": "2026-10-15",
+   "ende": "2027-02-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Kunstpalast",
+   "rang": 6,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Winfred Gaul",
+   "kuenstler": [
+    "Winfred Gaul"
+   ],
+   "url": "https://www.kunstpalast.de/de/event/winfred-gaul/",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://www.kunstpalast.de/de/programm/ausstellungen/",
+   "untertitel": "Werke aus der Sammlung Kemp",
+   "eintritt": "17 € / ermäßigt 13 €",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "SPOT ON",
+   "untertitel": "100 Jahre GeSoLei",
+   "beginn": "2026-05-08",
+   "ende": "2027-02-21",
+   "art": "wechselausstellung",
+   "fachgebiet": "geschichte",
+   "haus": "Museum Kunstpalast",
+   "rang": 3,
+   "epoche": "gemischt",
+   "gemeinfrei": true,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Johan Thorn Prikker",
+    "Ludwig ten Hompel",
+    "Richard Gessner"
+   ],
+   "url": "https://www.kunstpalast.de/de/event/spot-on-gesolei/",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://www.kunstpalast.de/de/programm/ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "keine Kunst (geschichte)"
+  },
+  {
+   "titel": "GYM. Fit mit Kunst",
+   "beginn": "2026-11-05",
+   "ende": "2027-02-21",
+   "art": "wechselausstellung",
+   "fachgebiet": "sonstiges",
+   "haus": "Museum Kunstpalast",
+   "rang": 5,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [],
+   "url": "https://www.kunstpalast.de/de/event/gym/",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://www.kunstpalast.de/de/programm/ausstellungen/",
+   "untertitel": "Fit mit Kunst",
+   "detail_geprueft": "2026-10-12",
+   "grund": "keine Kunst (sonstiges)"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

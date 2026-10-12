@@ -1,0 +1,41 @@
+{
+ "domain": "smolkacontemporary.at",
+ "website": "https://smolkacontemporary.at",
+ "haeuser": "Smolka Contemporary",
+ "land": "AT",
+ "ids": "node/6294281849",
+ "status": "ok",
+ "seiten": [
+  "https://smolkacontemporary.at/de/ausstellungen",
+  "https://smolkacontemporary.at/de/kuenstler/rita-nowak"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "should seen have we coming it",
+   "untertitel": null,
+   "beginn": "2026-09-18",
+   "ende": "2026-10-22",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Smolka Contemporary",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Gilbert Bretterbauer"
+   ],
+   "einzelausstellung_von": "Gilbert Bretterbauer",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://smolkacontemporary.at/de/galerie/2026/09/11740",
+   "quelle": "https://smolkacontemporary.at/de/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

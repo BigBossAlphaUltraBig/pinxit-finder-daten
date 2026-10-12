@@ -1,0 +1,33 @@
+{
+ "domain": "boros-collection.com",
+ "website": "https://boros-collection.com/en/",
+ "haeuser": {
+  "Sammlung Boros": {
+   "haus": "Sammlung Boros",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "20 €",
+   "eintritt_ermaessigt": "12 €",
+   "frei_fuer": "Begleitperson von Besucher*innen mit Schwerbehindertenausweis",
+   "bessere_seite": "https://boros-collection.com/ticket-buchen",
+   "quelle": "https://boros-collection.com/besuch-planen"
+  }
+ },
+ "seiten": [
+  "https://boros-collection.com/en/plan-a-visit",
+  "https://boros-collection.com/ticket-buchen",
+  "https://boros-collection.com/en/",
+  "https://boros-collection.com/en/book-ticket",
+  "https://boros-collection.com/besuch-planen"
+ ],
+ "abgerufen": "2026-10-08T18:05:47",
+ "status": "unvollständig"
+}

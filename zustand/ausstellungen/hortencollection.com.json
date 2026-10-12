@@ -1,0 +1,88 @@
+{
+ "domain": "hortencollection.com",
+ "website": "https://hortencollection.com/",
+ "haeuser": "Heidi Horten Collection",
+ "land": "AT",
+ "ids": "Q136771971",
+ "status": "ok",
+ "seiten": [
+  "https://hortencollection.com/ausstellungen/aktuell"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Elisabeth von Samsonow",
+   "untertitel": "Retrospektive",
+   "beginn": "2026-09-19",
+   "ende": "2027-02-28",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Heidi Horten Collection",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Elisabeth von Samsonow",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "kuenstler": [
+    "Elisabeth von Samsonow"
+   ],
+   "url": "https://hortencollection.com/ausstellungen/aktuell",
+   "quelle": "https://hortencollection.com/ausstellungen/aktuell",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Gottfried Bechtold",
+   "untertitel": "Betonporsche",
+   "beginn": "2026-04-29",
+   "ende": "2026-10-12",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Heidi Horten Collection",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Gottfried Bechtold",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "kuenstler": [
+    "Gottfried Bechtold"
+   ],
+   "url": "https://hortencollection.com/ausstellungen/aktuell",
+   "quelle": "https://hortencollection.com/ausstellungen/aktuell",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Klimt-Warhol mit Meisterwerken der Moderne",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Heidi Horten Collection",
+   "rang": 3,
+   "epoche": "moderne",
+   "gemeinfrei": true,
+   "schwerpunkt": "Meisterwerke der Moderne mit Klimt und Warhol",
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "kuenstler": [
+    "Gustav Klimt",
+    "Andy Warhol"
+   ],
+   "url": "https://hortencollection.com/ausstellungen/dauerausstellung-kuenstlerische-interventionen",
+   "quelle": "https://hortencollection.com/ausstellungen/aktuell",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

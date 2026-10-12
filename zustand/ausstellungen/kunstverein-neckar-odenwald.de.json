@@ -1,0 +1,88 @@
+{
+ "domain": "kunstverein-neckar-odenwald.de",
+ "website": "https://www.kunstverein-neckar-odenwald.de/",
+ "haeuser": "Kunstverein Neckar-Odenwald",
+ "land": "DE",
+ "ids": "Q1792677",
+ "status": "ok",
+ "seiten": [
+  "https://kunstverein-neckar-odenwald.de/programm-2026/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Mein Körper ist ein Hinterland",
+   "untertitel": "null",
+   "beginn": "2026-09-20",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunstverein Neckar-Odenwald",
+   "rang": 6,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Emmanuel Henninger",
+   "kuenstler": [
+    "Emmanuel Henninger"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://emmanuelhenninger.art/de/kuenstlerischer-ansatz/",
+   "quelle": "https://kunstverein-neckar-odenwald.de/programm-2026/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Emmanuel Henninger: Mein Körper ist ein Hinterland",
+   "untertitel": null,
+   "beginn": "2026-09-20",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "einzelausstellung_von": "Emmanuel Henninger",
+   "kuenstler": [
+    "Emmanuel Henninger"
+   ],
+   "haus": "Kunstverein Neckar-Odenwald",
+   "rang": 1,
+   "kunst": true,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Beziehung zwischen Körper, Territorium und Protest",
+   "anderer_ort": null,
+   "url": null,
+   "quelle": "https://kunstverein-neckar-odenwald.de/programm-2026/",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Fluchtpunkt Hanoi",
+   "untertitel": "Ein Projekt von Marina Ludemann, Nina DeLudemann, Ottjörg A.C. und Thomas Gaschler",
+   "beginn": "2026-05-31",
+   "ende": "2026-07-05",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunstverein Neckar-Odenwald",
+   "rang": 99,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Marina Ludemann",
+    "Ottjörg A.C.",
+    "Thomas Gaschler",
+    "Nina DeLudemann"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://fluchtpunkt-hanoi.onepage.me",
+   "quelle": "https://kunstverein-neckar-odenwald.de/programm-2026/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

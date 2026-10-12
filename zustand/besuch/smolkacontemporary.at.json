@@ -1,0 +1,26 @@
+{
+ "domain": "smolkacontemporary.at",
+ "website": "https://smolkacontemporary.at",
+ "haeuser": {
+  "Smolka Contemporary": {
+   "haus": "Smolka Contemporary",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "13:00-18:00",
+    "mi": "13:00-18:00",
+    "do": "13:00-18:00",
+    "fr": "13:00-18:00",
+    "sa": "11:00-14:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "nach Vereinbarung möglich",
+   "quelle": "https://smolkacontemporary.at/de/"
+  }
+ },
+ "seiten": [
+  "https://smolkacontemporary.at/de/"
+ ],
+ "abgerufen": "2026-10-12T07:38:25",
+ "status": "ok"
+}

@@ -1,0 +1,38 @@
+{
+ "domain": "db-palaispopulaire.de",
+ "website": "https://db-palaispopulaire.de/",
+ "haeuser": "PalaisPopulaire",
+ "land": "DE",
+ "ids": "nachtrag-palaispopulaire",
+ "status": "ok",
+ "seiten": [
+  "https://palaispopulaire.db.com/exhibitions/",
+  "https://palaispopulaire.db.com/exhibitions/index?language_id=1"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Moving Clouds",
+   "untertitel": "Deutsche Bank \"Artist of the Year\" 2026",
+   "beginn": "2026-09-10",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "PalaisPopulaire",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Lucia Tallová"
+   ],
+   "einzelausstellung_von": "Lucia Tallová",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "schwerpunkt": null,
+   "url": "https://palaispopulaire.db.com/exhibitions/current-exhibition/lucia-tallov-moving-clouds",
+   "quelle": "https://palaispopulaire.db.com/exhibitions/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

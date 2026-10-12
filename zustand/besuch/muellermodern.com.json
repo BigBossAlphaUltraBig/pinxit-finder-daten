@@ -1,0 +1,27 @@
+{
+ "domain": "muellermodern.com",
+ "website": "https://www.muellermodern.com",
+ "haeuser": {
+  "Tobias Mueller Modern Art": {
+   "haus": "Tobias Mueller Modern Art",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "11:00-17:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://muellermodern.com/contact/",
+   "quelle": "https://muellermodern.com/contact/"
+  }
+ },
+ "seiten": [
+  "https://muellermodern.com/",
+  "https://muellermodern.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:37:34",
+ "status": "ok"
+}

@@ -1,0 +1,28 @@
+{
+ "domain": "danielunddiekunst.com",
+ "website": "https://danielunddiekunst.com",
+ "haeuser": {
+  "Daniel und die Kunst": {
+   "haus": "Daniel und die Kunst",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.danielunddiekunst.com/kontakt",
+   "quelle": "https://www.danielunddiekunst.com/kontakt",
+   "hinweis_oeffnung": "Termine nach Vereinbarung möglich"
+  }
+ },
+ "seiten": [
+  "https://www.danielunddiekunst.com/",
+  "https://www.danielunddiekunst.com/kontakt"
+ ],
+ "abgerufen": "2026-10-12T07:33:44",
+ "status": "unvollständig"
+}

@@ -1,0 +1,54 @@
+{
+ "domain": "hauskunstmitte.de",
+ "website": "https://www.hauskunstmitte.de/",
+ "haeuser": "Haus Kunst Mitte",
+ "land": "DE",
+ "ids": "node/10041423479",
+ "status": "ok",
+ "seiten": [
+  "https://www.hauskunstmitte.de/ausstellungen-1",
+  "https://www.hauskunstmitte.de/ausstellungen-1"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "BODIES THAT SPEAK",
+   "untertitel": "Künstlerinnen in Berlin",
+   "beginn": "2026-09-18",
+   "ende": "2026-12-12",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Haus Kunst Mitte",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "url": "https://www.hauskunstmitte.de/bodies-that-speak",
+   "eroeffnung": "2026-09-17",
+   "kuenstler": [
+    "Nevin Aladağ",
+    "Laura Bruce",
+    "Carina Chang",
+    "Lunita Juli Dorn",
+    "Carola Ernst",
+    "Leiko Ikemura",
+    "Aneta Kajzer",
+    "Franziska Klotz",
+    "Sarah Loibl",
+    "Nanne Meyer",
+    "Jana Sophia Nolle",
+    "May Parlar",
+    "Bettina Pousttchi",
+    "Barbara Quandt",
+    "Jenny Rempel",
+    "Alma Sinai",
+    "Andrea Zaumseil"
+   ],
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "schwerpunkt": null,
+   "quelle": "https://www.hauskunstmitte.de/ausstellungen-1",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

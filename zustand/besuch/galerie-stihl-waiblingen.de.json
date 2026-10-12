@@ -1,0 +1,28 @@
+{
+ "domain": "galerie-stihl-waiblingen.de",
+ "website": "https://www.galerie-stihl-waiblingen.de/",
+ "haeuser": {
+  "Galerie Stihl Waiblingen": {
+   "haus": "Galerie Stihl Waiblingen",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.galerie-stihl-waiblingen.de/besuchen",
+   "quelle": "https://www.galerie-stihl-waiblingen.de/besuchen"
+  }
+ },
+ "seiten": [
+  "https://www.galerie-stihl-waiblingen.de/besuchen",
+  "https://www.galerie-stihl-waiblingen.de/",
+  "https://www.galerie-stihl-waiblingen.de/besuchen"
+ ],
+ "abgerufen": "2026-10-12T08:05:00",
+ "status": "unvollständig"
+}

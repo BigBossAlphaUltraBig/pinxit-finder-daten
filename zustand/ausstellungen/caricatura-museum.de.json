@@ -1,0 +1,87 @@
+{
+ "domain": "caricatura-museum.de",
+ "website": "https://caricatura-museum.de/",
+ "haeuser": "Caricatura Museum für Komische Kunst",
+ "land": "DE",
+ "ids": "Q1525564",
+ "status": "ok",
+ "seiten": [
+  "https://caricatura-museum.de/ausstellungen/sonderausstellung/",
+  "https://caricatura-museum.de/ausstellungen/sammlungsausstellung/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Katharina Greve",
+   "untertitel": "Qualitätsideen seit 1972",
+   "beginn": "2026-06-27",
+   "ende": "2027-01-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Caricatura Museum für Komische Kunst",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Katharina Greve",
+   "eroeffnung": null,
+   "kuenstler": [
+    "Katharina Greve"
+   ],
+   "url": "https://caricatura-museum.de/ausstellungen/sonderausstellung/",
+   "quelle": "https://caricatura-museum.de/ausstellungen/sonderausstellung/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Sammlungsausstellung",
+   "untertitel": "Originale aus Loriots Besitz",
+   "beginn": "2026-07-17",
+   "ende": "2027-03-29",
+   "art": "sammlungspraesentation",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Caricatura Museum für Komische Kunst",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": "Komische Kunst der Neuen Frankfurter Schule und Loriot-Originale aus eigenem Bestand",
+   "kuenstler": [
+    "F. K. Waechter",
+    "Hans Traxler",
+    "Robert Gernhardt",
+    "F. W. Bernstein",
+    "Loriot"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "url": "https://caricatura-museum.de/ausstellungen/sammlungsausstellung/",
+   "quelle": "https://caricatura-museum.de/ausstellungen/sammlungsausstellung/",
+   "standort": "Caricatura Museum Frankfurt"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Öffentliche Führungen",
+   "beginn": "2026-07-19",
+   "ende": "2026-09-20",
+   "art": "veranstaltung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Caricatura Museum für Komische Kunst",
+   "rang": 2,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": "Führungen durch die Sammlungsausstellung",
+   "kuenstler": [],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "url": "https://caricatura-museum.de/besuch/f%C3%BChrungen/",
+   "quelle": "https://caricatura-museum.de/ausstellungen/sammlungsausstellung/",
+   "untertitel": "Führungen",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet",
+   "standort": "Caricatura Museum Frankfurt"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

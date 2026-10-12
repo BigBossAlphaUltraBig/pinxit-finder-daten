@@ -1,0 +1,28 @@
+{
+ "domain": "americancontemporaryartgallery.com",
+ "website": "https://americancontemporaryartgallery.com",
+ "haeuser": {
+  "American Contemporary Art Gallery": {
+   "haus": "American Contemporary Art Gallery",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "Nur nach Vereinbarung (By appointment)",
+   "bessere_seite": "https://americancontemporaryartgallery.com/",
+   "quelle": "https://americancontemporaryartgallery.com/locations/horn/"
+  }
+ },
+ "seiten": [
+  "https://americancontemporaryartgallery.com/",
+  "https://americancontemporaryartgallery.com/locations/horn/"
+ ],
+ "abgerufen": "2026-10-12T08:03:18",
+ "status": "unvollständig"
+}

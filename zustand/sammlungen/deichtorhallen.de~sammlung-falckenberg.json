@@ -1,0 +1,34 @@
+{
+ "domain": "deichtorhallen.de~sammlung-falckenberg",
+ "website": "https://www.deichtorhallen.de/sammlung-falckenberg",
+ "haeuser": [
+  {
+   "id": "nachtrag-sammlung-falckenberg",
+   "name": "Sammlung Falckenberg"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Sammlung Falckenberg",
+   "titel": "Die Sammlung",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Privatsammlung mit dauerhaft installierten Werken",
+   "kuenstler": [
+    "Jonathan Meese",
+    "Sarah Lucas",
+    "John Bock",
+    "Jon Kessler"
+   ],
+   "url": "https://www.deichtorhallen.de/de/besuch/besuch-sammlung-falckenberg",
+   "quelle": "https://www.deichtorhallen.de/de/besuch/besuch-sammlung-falckenberg"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.deichtorhallen.de/de/besuch/besuch-sammlung-falckenberg"
+ ],
+ "abgerufen": "2026-10-12T08:11:40",
+ "status": "ok"
+}

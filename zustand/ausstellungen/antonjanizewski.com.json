@@ -1,0 +1,41 @@
+{
+ "domain": "antonjanizewski.com",
+ "website": "https://antonjanizewski.com",
+ "haeuser": "Galerie Anton Janizewski",
+ "land": "DE",
+ "ids": "node/12256366641",
+ "status": "ok",
+ "seiten": [
+  "https://antonjanizewski.com/exhibitions/",
+  "https://antonjanizewski.com/exhibitions/fairs/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Exuvie",
+   "untertitel": null,
+   "beginn": "2026-09-11",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Anton Janizewski",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Marie Schubert"
+   ],
+   "anderer_ort": null,
+   "einzelausstellung_von": "Marie Schubert",
+   "eroeffnung": null,
+   "url": "https://antonjanizewski.com/marie-schubert-exuvie/",
+   "quelle": "https://antonjanizewski.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

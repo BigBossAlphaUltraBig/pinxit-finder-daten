@@ -1,0 +1,101 @@
+{
+ "domain": "9a-stauffacherplatz.ch",
+ "website": "http://www.9a-stauffacherplatz.ch",
+ "haeuser": "9a am Stauffacherplatz – das kleine Kunsthaus",
+ "land": "CH",
+ "ids": "Q130247070",
+ "status": "ok",
+ "seiten": [
+  "https://www.9a-stauffacherplatz.ch/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Dorla",
+   "untertitel": "das magisches puppenorakel",
+   "beginn": "2026-10-08",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "9a am Stauffacherplatz – das kleine Kunsthaus",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "",
+   "kuenstler": [
+    "Dorla"
+   ],
+   "eroeffnung": "2026-10-08T18:00",
+   "anderer_ort": null,
+   "einzelausstellung_von": "Dorla",
+   "url": "https://www.9a-stauffacherplatz.ch/jpg-dorla",
+   "quelle": "https://www.9a-stauffacherplatz.ch/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Einfach - vielfach",
+   "untertitel": "die künstlerinnengruppe im kleinen kunsthaus",
+   "beginn": "2026-11-05",
+   "ende": "2026-11-21",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "9a am Stauffacherplatz – das kleine Kunsthaus",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "",
+   "kuenstler": [
+    "Gruppe Druckstock"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "url": "https://www.9a-stauffacherplatz.ch/jpg-druckstock",
+   "quelle": "https://www.9a-stauffacherplatz.ch/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Installation im Wald",
+   "untertitel": "",
+   "beginn": null,
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "9a am Stauffacherplatz – das kleine Kunsthaus",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "",
+   "kuenstler": [
+    "Nicolas Bernière"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Nicolas Bernière",
+   "url": null,
+   "quelle": "https://www.9a-stauffacherplatz.ch/"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Videokunst Openair",
+   "untertitel": "vierte ausgabe",
+   "beginn": null,
+   "ende": null,
+   "art": "veranstaltung",
+   "fachgebiet": "medienkunst",
+   "haus": "9a am Stauffacherplatz – das kleine Kunsthaus",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "",
+   "kuenstler": [],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "url": null,
+   "quelle": "https://www.9a-stauffacherplatz.ch/",
+   "grund": "Veranstaltung, keine Ausstellung"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

@@ -1,0 +1,139 @@
+{
+ "domain": "walcheturm.ch",
+ "website": "http://www.walcheturm.ch",
+ "haeuser": "Kunstraum Walcheturm",
+ "land": "CH",
+ "ids": "Q130247302",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://www.walcheturm.ch/"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "the law is a calculated and relentless pleasure, delight in the promised blood",
+   "untertitel": "ZHAO ZIYI & MANFRED WERDER",
+   "beginn": "2026-10-19",
+   "ende": "2026-10-19",
+   "art": "veranstaltung",
+   "fachgebiet": "sonstiges",
+   "haus": "Kunstraum Walcheturm",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Zhao Ziyi",
+    "Manfred Werder"
+   ],
+   "url": "https://walcheturm.ch/agenda/the-law-is-a-calculated-and-relentless-pleasure-delight-in-the-promised-blood-zhao-ziyi-and-manfred-werder",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://www.walcheturm.ch/",
+   "eintritt": "20 CHF / 15 CHF",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  },
+  {
+   "titel": "Bring me Flowers And Tell Me You Love Me",
+   "untertitel": "Stepmother: Album Präsentation",
+   "beginn": "2026-10-20",
+   "ende": "2026-10-20",
+   "art": "veranstaltung",
+   "fachgebiet": "sonstiges",
+   "haus": "Kunstraum Walcheturm",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Stepmother"
+   ],
+   "url": "https://walcheturm.ch/agenda/stepmother-album-praesentation-bring-me-flowers-and-tell-me-you-love-me",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://www.walcheturm.ch/",
+   "eintritt": "CHF 25.- / 15.-",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  },
+  {
+   "titel": "Glenn Jones - Liam Grant - Son of Buzzi",
+   "untertitel": "Drei Perspektiven der zeitgenössischen American Primitive Guitar",
+   "beginn": "2026-10-21",
+   "ende": "2026-10-21",
+   "art": "veranstaltung",
+   "fachgebiet": "sonstiges",
+   "haus": "Kunstraum Walcheturm",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Glenn Jones",
+    "Liam Grant",
+    "Son of Buzzi"
+   ],
+   "url": "https://walcheturm.ch/agenda/glenn-jones-liam-grant-son-of-buzzi",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://www.walcheturm.ch/",
+   "eintritt": "CHF 25.- / 15.-",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  },
+  {
+   "titel": "FRANCE",
+   "untertitel": "Electric Freak Fusion",
+   "beginn": "2026-10-22",
+   "ende": "2026-10-22",
+   "art": "veranstaltung",
+   "fachgebiet": "sonstiges",
+   "haus": "Kunstraum Walcheturm",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "France"
+   ],
+   "url": "https://walcheturm.ch/agenda/france",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://www.walcheturm.ch/",
+   "eintritt": "CHF 25.- / 15.-",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  },
+  {
+   "titel": "Jannik Giger - Endless Love",
+   "untertitel": "Ensemble Tzara #1",
+   "beginn": "2026-10-24",
+   "ende": "2026-10-24",
+   "art": "veranstaltung",
+   "fachgebiet": "sonstiges",
+   "haus": "Kunstraum Walcheturm",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Jannik Giger",
+    "Ensemble Tzara"
+   ],
+   "url": "https://walcheturm.ch/agenda/ensemble-tzara-1-jannik-giger-endless-love",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://www.walcheturm.ch/",
+   "eintritt": "CHF 25.- / 15.-",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

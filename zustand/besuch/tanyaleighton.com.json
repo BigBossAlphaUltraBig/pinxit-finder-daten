@@ -1,0 +1,26 @@
+{
+ "domain": "tanyaleighton.com",
+ "website": "http://www.tanyaleighton.com",
+ "haeuser": {
+  "Tanya Leighton": {
+   "haus": "Tanya Leighton",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "13:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "and by appointment",
+   "quelle": "https://www.tanyaleighton.com/info"
+  }
+ },
+ "seiten": [
+  "https://www.tanyaleighton.com/info"
+ ],
+ "abgerufen": "2026-10-12T07:38:46",
+ "status": "ok"
+}

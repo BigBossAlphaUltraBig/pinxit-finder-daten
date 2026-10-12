@@ -1,0 +1,70 @@
+{
+ "domain": "evelyndrewes.de",
+ "website": "https://evelyndrewes.de",
+ "haeuser": "Drewes Galerie",
+ "land": "DE",
+ "ids": "galerie-drewes-galerie-hamburg",
+ "status": "ok",
+ "seiten": [
+  "https://www.evelyndrewes.de/ausstellungen/aktuell",
+  "https://www.evelyndrewes.de/en/exhibitions/current"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Meisterschüler:innen Klasse Kneffel",
+   "untertitel": "Hamburg",
+   "beginn": "2026-10-10",
+   "ende": "2026-11-11",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Drewes Galerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Andrej Auch",
+    "Julia Burek",
+    "Jonah Gebka",
+    "Christian Probst",
+    "Felix Rehfeld",
+    "Martin Spengler"
+   ],
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": "2026-10-07T18:00",
+   "url": "https://www.evelyndrewes.de/hamburg-absolventinnen-klasse-kneffel",
+   "quelle": "https://www.evelyndrewes.de/ausstellungen/aktuell",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "HAMBURG: MEISTERSCHÜLER:INNEN KLASSE KNEFFEL",
+   "beginn": "2026-10-10",
+   "ende": "2026-11-11",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Drewes Galerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "url": "https://www.evelyndrewes.de/hamburg-absolventinnen-klasse-kneffel",
+   "quelle": "https://www.evelyndrewes.de/ausstellungen/aktuell",
+   "eroeffnung": "2026-10-07T18:00",
+   "kuenstler": [
+    "Andrej Auch",
+    "Julia Burek",
+    "Jonah Gebka",
+    "Christian Probst",
+    "Felix Rehfeld",
+    "Martin Spengler"
+   ],
+   "untertitel": "Meisterschüler:innen von Karin Kneffel",
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

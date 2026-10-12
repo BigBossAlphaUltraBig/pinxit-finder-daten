@@ -1,0 +1,28 @@
+{
+ "domain": "galerierenatekammer.de",
+ "website": "https://galerierenatekammer.de",
+ "haeuser": {
+  "Galerie Renate Kammer": {
+   "haus": "Galerie Renate Kammer",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "12:00-18:00",
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "Ab 23. Juli: Dienstag bis Donnerstag 12-18 Uhr und nach Vereinbarung",
+   "quelle": "https://galerierenatekammer.de/",
+   "bessere_seite": "https://galerierenatekammer.de/contact/"
+  }
+ },
+ "seiten": [
+  "https://galerierenatekammer.de/contact/",
+  "https://galerierenatekammer.de/"
+ ],
+ "abgerufen": "2026-10-12T07:35:35",
+ "status": "unvollständig"
+}

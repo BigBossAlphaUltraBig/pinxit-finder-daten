@@ -1,0 +1,40 @@
+{
+ "domain": "viercke.de",
+ "website": "https://viercke.de",
+ "haeuser": "Galerie Viercke",
+ "land": "DE",
+ "ids": "galerie-galerie-viercke-hamburg",
+ "status": "ok",
+ "seiten": [
+  "https://viercke.de/programm/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Century XX",
+   "untertitel": "",
+   "beginn": null,
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Viercke",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Evgenij Kozlov"
+   ],
+   "einzelausstellung_von": "Evgenij Kozlov",
+   "eroeffnung": "2026-11-05T18:00",
+   "anderer_ort": null,
+   "url": null,
+   "quelle": "https://viercke.de/programm/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

@@ -1,0 +1,199 @@
+{
+ "domain": "schirn.de",
+ "website": "https://www.schirn.de/",
+ "haeuser": "Schirn Kunsthalle (temporärer Standort) | Schirn Kunsthalle Frankfurt",
+ "land": "DE",
+ "ids": "node/13891998724 Q176293",
+ "status": "ok",
+ "seiten": [
+  "https://www.schirn.de/ausstellung/anna-hulacova/",
+  "https://www.schirn.de/ausstellung/leonor-fini/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Anna Hulačová",
+   "untertitel": "Abundantia",
+   "beginn": null,
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Schirn Kunsthalle Frankfurt",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Anna Hulačová"
+   ],
+   "einzelausstellung_von": "Anna Hulačová",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.schirn.de/ausstellung/anna-hulacova/",
+   "quelle": "https://www.schirn.de/ausstellung/anna-hulacova/",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Leonor Fini",
+   "untertitel": "Magisch Surreal",
+   "beginn": "2026-10-23",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Schirn Kunsthalle Frankfurt",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Leonor Fini",
+   "kuenstler": [
+    "Leonor Fini"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.schirn.de/ausstellung/leonor-fini/",
+   "quelle": "https://www.schirn.de/ausstellung/leonor-fini/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Öffentliche Führungen",
+   "untertitel": "Leonor Fini",
+   "beginn": "2026-10-23",
+   "ende": null,
+   "art": "veranstaltung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Schirn Kunsthalle Frankfurt",
+   "rang": 2,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Leonor Fini"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.schirn.de/angebot/offentliche-fuhrungen-lf/",
+   "quelle": "https://www.schirn.de/ausstellung/leonor-fini/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  },
+  {
+   "titel": "Kinderstunde 4-6 Jahre",
+   "untertitel": "Leonor Fini",
+   "beginn": "2026-10-25",
+   "ende": null,
+   "art": "veranstaltung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Schirn Kunsthalle Frankfurt",
+   "rang": 3,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Leonor Fini"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.schirn.de/angebot/kinderstunde-4-6-lf/",
+   "quelle": "https://www.schirn.de/ausstellung/leonor-fini/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  },
+  {
+   "titel": "Kinderstunde ab 6 Jahren",
+   "untertitel": "Leonor Fini",
+   "beginn": "2026-10-25",
+   "ende": null,
+   "art": "veranstaltung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Schirn Kunsthalle Frankfurt",
+   "rang": 4,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Leonor Fini"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.schirn.de/angebot/kinderstunde-ab-6-lf/",
+   "quelle": "https://www.schirn.de/ausstellung/leonor-fini/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  },
+  {
+   "titel": "Guided Tours in English",
+   "untertitel": "Leonor Fini",
+   "beginn": "2026-11-05",
+   "ende": "2027-02-11",
+   "art": "veranstaltung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Schirn Kunsthalle Frankfurt",
+   "rang": 5,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Leonor Fini"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.schirn.de/angebot/guided-tours-in-english-lf/",
+   "quelle": "https://www.schirn.de/ausstellung/leonor-fini/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  },
+  {
+   "titel": "Familienführung",
+   "untertitel": "Leonor Fini",
+   "beginn": "2026-11-08",
+   "ende": null,
+   "art": "veranstaltung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Schirn Kunsthalle Frankfurt",
+   "rang": 6,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Leonor Fini"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.schirn.de/angebot/familienfuhrung-lf/",
+   "quelle": "https://www.schirn.de/ausstellung/leonor-fini/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  },
+  {
+   "titel": "Führung mit der Kuratorin",
+   "untertitel": "Leonor Fini",
+   "beginn": "2026-12-08",
+   "ende": "2027-01-26",
+   "art": "veranstaltung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Schirn Kunsthalle Frankfurt",
+   "rang": 7,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Leonor Fini"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.schirn.de/angebot/fuhrung-mit-der-kuratorin-lf/",
+   "quelle": "https://www.schirn.de/ausstellung/leonor-fini/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

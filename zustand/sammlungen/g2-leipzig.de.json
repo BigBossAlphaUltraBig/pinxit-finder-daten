@@ -1,0 +1,35 @@
+{
+ "domain": "g2-leipzig.de",
+ "website": "http://g2-leipzig.de/",
+ "haeuser": [
+  {
+   "id": "Q23787561",
+   "name": "G2 Kunsthalle"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "G2 Kunsthalle",
+   "titel": "Sammlung Hildebrand",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Gegenwartsmalerei des 21. Jahrhunderts, Plastik, Zeichnung, Grafik",
+   "kuenstler": [
+    "Dana Schutz",
+    "Neo Rauch",
+    "Daniel Richter",
+    "Wolfgang Tillmans",
+    "Sebastian Hosu"
+   ],
+   "url": "http://g2-leipzig.de/sammlung",
+   "quelle": "http://g2-leipzig.de/sammlung"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "http://g2-leipzig.de/sammlung"
+ ],
+ "abgerufen": "2026-10-12T08:12:00",
+ "status": "ok"
+}

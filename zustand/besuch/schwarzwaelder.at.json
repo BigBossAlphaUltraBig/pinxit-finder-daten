@@ -1,0 +1,29 @@
+{
+ "domain": "schwarzwaelder.at",
+ "website": "https://www.schwarzwaelder.at/galerie",
+ "haeuser": {
+  "Galerie nächst St. Stephan": {
+   "haus": "Galerie nächst St. Stephan",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.schwarzwaelder.at/",
+   "quelle": "https://www.schwarzwaelder.at/contact",
+   "hinweis_oeffnung": "Öffnungszeiten auf der About-Seite nicht angegeben"
+  }
+ },
+ "seiten": [
+  "https://www.schwarzwaelder.at/galerie",
+  "https://www.schwarzwaelder.at/about",
+  "https://www.schwarzwaelder.at/contact"
+ ],
+ "abgerufen": "2026-10-08T18:06:55",
+ "status": "ok"
+}

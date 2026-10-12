@@ -1,0 +1,35 @@
+{
+ "domain": "hauskunstmitte.de",
+ "website": "https://www.hauskunstmitte.de/",
+ "haeuser": [
+  {
+   "id": "node-10041423479",
+   "name": "Haus Kunst Mitte"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Haus Kunst Mitte",
+   "titel": "Kunstsammlung der Asyl der Kunst Stiftung",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Wechselnde Präsentation der Stiftungssammlung",
+   "url": "https://www.hauskunstmitte.de/kunstsammlung",
+   "kuenstler": [
+    "Manfred Bartling",
+    "Werner Rogalewski",
+    "Peter Hahn",
+    "Wolfgang Petrick",
+    "Hans Baluschek"
+   ],
+   "quelle": "https://www.hauskunstmitte.de/kunstsammlung"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.hauskunstmitte.de/kunstsammlung"
+ ],
+ "abgerufen": "2026-10-12T08:12:29",
+ "status": "ok"
+}

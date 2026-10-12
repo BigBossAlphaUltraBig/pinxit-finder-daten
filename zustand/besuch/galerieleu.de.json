@@ -1,0 +1,26 @@
+{
+ "domain": "galerieleu.de",
+ "website": "https://galerieleu.de",
+ "haeuser": {
+  "Galerie Leu": {
+   "haus": "Galerie Leu",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "Besuchsprogramm nach Vereinbarung",
+   "quelle": "https://www.galerieleu.de/"
+  }
+ },
+ "seiten": [
+  "https://www.galerieleu.de/"
+ ],
+ "abgerufen": "2026-10-12T07:35:24",
+ "status": "ok"
+}

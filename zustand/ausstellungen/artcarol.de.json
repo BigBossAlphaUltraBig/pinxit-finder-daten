@@ -1,0 +1,67 @@
+{
+ "domain": "artcarol.de",
+ "website": "https://artcarol.de",
+ "haeuser": "Galerie Carol Johnssen",
+ "land": "DE",
+ "ids": "node/3739778199",
+ "status": "ok",
+ "seiten": [
+  "https://www.artcarol.de/exhibitions",
+  "https://www.artcarol.de/exhibition/ding-yi"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Exstitut",
+   "untertitel": null,
+   "beginn": "2026-10-16",
+   "ende": "2026-12-18",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Carol Johnssen",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Philipp Goldbach"
+   ],
+   "einzelausstellung_von": "Philipp Goldbach",
+   "eroeffnung": "2026-10-16T18:00",
+   "anderer_ort": null,
+   "url": "https://www.artcarol.de/exhibition/exstitut",
+   "quelle": "https://www.artcarol.de/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Ding Yi",
+   "untertitel": "Shen Fan, Ding Yi, Qin Yifeng",
+   "beginn": "2026-09-15",
+   "ende": "2026-10-09",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Carol Johnssen",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Ding Yi",
+    "Shen Fan",
+    "Qin Yifeng"
+   ],
+   "eroeffnung": "2026-09-15T18:00",
+   "einzelausstellung_von": "Ding Yi",
+   "anderer_ort": null,
+   "url": "https://www.artcarol.de/exhibition/ding-yi",
+   "quelle": "https://www.artcarol.de/exhibition/ding-yi",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

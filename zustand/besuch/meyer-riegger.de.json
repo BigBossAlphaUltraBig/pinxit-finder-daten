@@ -1,0 +1,26 @@
+{
+ "domain": "meyer-riegger.de",
+ "website": "http://www.meyer-riegger.de",
+ "haeuser": {
+  "Meyer Riegger": {
+   "haus": "Meyer Riegger",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "Öffnungszeiten unterscheiden sich zwischen den Standorten (Berlin: Di-Sa 11-18 Uhr, Karlsruhe: Di-Fr 11-18 Uhr, Sa nach Vereinbarung)",
+   "quelle": "https://meyer-riegger.com/en"
+  }
+ },
+ "seiten": [
+  "https://meyer-riegger.com/en"
+ ],
+ "abgerufen": "2026-10-12T07:37:20",
+ "status": "ok"
+}

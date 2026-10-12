@@ -1,0 +1,17 @@
+{
+ "domain": "db-palaispopulaire.de",
+ "website": "https://db-palaispopulaire.de/",
+ "haeuser": [
+  {
+   "id": "nachtrag-palaispopulaire",
+   "name": "PalaisPopulaire"
+  }
+ ],
+ "sammlungen": [],
+ "keine_sammlung": true,
+ "seiten": [
+  "https://palaispopulaire.db.com/index?language_id=1"
+ ],
+ "abgerufen": "2026-10-12T08:11:38",
+ "status": "keine Sammlung"
+}

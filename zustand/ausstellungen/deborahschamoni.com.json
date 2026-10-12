@@ -1,0 +1,68 @@
+{
+ "domain": "deborahschamoni.com",
+ "website": "https://deborahschamoni.com/exhibitions",
+ "haeuser": "Deborah Schamoni",
+ "land": "DE",
+ "ids": "node/3752303900",
+ "status": "ok",
+ "seiten": [
+  "https://deborahschamoni.com/exhibitions",
+  "https://deborahschamoni.com/exhibitions/why-do-i-know-you-so-well"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Floaters",
+   "untertitel": null,
+   "beginn": "2026-09-19",
+   "ende": "2026-11-28",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Deborah Schamoni",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Rebecca Ackroyd"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Rebecca Ackroyd",
+   "url": "https://deborahschamoni.com/exhibitions/rebecca-ackroyd",
+   "quelle": "https://deborahschamoni.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "À l’heure dorée",
+   "untertitel": "The golden hour is momentary. In this exhibition, that succinctness becomes the central condition.",
+   "beginn": "2026-07-18",
+   "ende": "2026-09-12",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Deborah Schamoni",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Hilda Kortei",
+    "Kateryna Lysovenko",
+    "Ad Minoliti",
+    "Francis Offman"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "url": "https://deborahschamoni.com/exhibitions/a-l-heure-doree",
+   "quelle": "https://deborahschamoni.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

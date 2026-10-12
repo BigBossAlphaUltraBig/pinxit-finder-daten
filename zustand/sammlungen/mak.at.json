@@ -1,0 +1,45 @@
+{
+ "domain": "mak.at",
+ "website": "https://www.mak.at",
+ "haeuser": [
+  {
+   "id": "Q478455",
+   "name": "MAK - Museum für angewandte Kunst"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "MAK - Museum für angewandte Kunst",
+   "titel": "Wien 1900 – Alltag. Gesamtkunstwerk",
+   "art": "sammlungspraesentation",
+   "epoche": "19_jahrhundert",
+   "fachgebiet": "kunsthandwerk",
+   "untertitel": "Neuaufstellung der MAK Schausammlung",
+   "url": "https://www.mak.at/ausstellung/wien1900",
+   "kuenstler": [
+    "Gustav Klimt",
+    "Josef Hoffmann",
+    "Koloman Moser",
+    "Dagobert Peche",
+    "Margaret MacDonald Mackintosh"
+   ],
+   "quelle": "https://www.mak.at/ausstellung/wien1900"
+  },
+  {
+   "haus": "MAK - Museum für angewandte Kunst",
+   "titel": "MAK Schausammlung Textilien und Teppiche",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "kunsthandwerk",
+   "untertitel": "Neupräsentation der Textil- und Teppichsammlung",
+   "url": "https://www.mak.at/ausstellung/textilienundteppiche",
+   "quelle": "https://www.mak.at/ausstellung/wien1900"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.mak.at/ausstellung/wien1900"
+ ],
+ "abgerufen": "2026-10-08T22:19:21",
+ "status": "ok"
+}

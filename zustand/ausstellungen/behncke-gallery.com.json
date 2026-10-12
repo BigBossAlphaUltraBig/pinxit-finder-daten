@@ -1,0 +1,117 @@
+{
+ "domain": "behncke-gallery.com",
+ "website": "https://behncke-gallery.com/en/exhibitions",
+ "haeuser": "Behncke Gallery",
+ "land": "DE",
+ "ids": "node/3752304094",
+ "status": "ok",
+ "seiten": [
+  "https://behncke-gallery.com/en/exhibitions",
+  "https://behncke-gallery.com/de/exhibitions"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Amélie Esterházy \"in uno omnia\"",
+   "untertitel": null,
+   "beginn": "2026-09-17",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Behncke Gallery",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Amélie Esterházy"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://behncke-gallery.com/en/exhibitions/in-uno-omnia",
+   "quelle": "https://behncke-gallery.com/en/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "in uno omnia",
+   "untertitel": "in uno omnia",
+   "beginn": "2026-09-17",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Behncke Gallery",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Amélie Esterházy"
+   ],
+   "einzelausstellung_von": "Amélie Esterházy",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "schwerpunkt": null,
+   "url": "https://behncke-gallery.com/de/exhibitions/in-uno-omnia",
+   "quelle": "https://behncke-gallery.com/de/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Metamorphoses – Young Brazilian Art",
+   "untertitel": null,
+   "beginn": "2026-11-13",
+   "ende": "2027-02-20",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Behncke Gallery",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Beatrice Arraes",
+    "Arrudas",
+    "Gustavo Diógenes",
+    "Caio Marcolini"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://behncke-gallery.com/en/exhibitions/metamorphoses-young-brazilian-art",
+   "quelle": "https://behncke-gallery.com/en/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Metamorphosen",
+   "untertitel": "Junge brasilianische Kunst",
+   "beginn": "2026-11-13",
+   "ende": "2027-02-20",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Behncke Gallery",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Beatrice Arraes",
+    "Arrudas",
+    "Gustavo Diógenes",
+    "Caio Marcolini"
+   ],
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "schwerpunkt": null,
+   "url": "https://behncke-gallery.com/de/exhibitions/metamorphoses-young-brazilian-art",
+   "quelle": "https://behncke-gallery.com/de/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

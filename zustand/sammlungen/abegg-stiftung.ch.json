@@ -1,0 +1,48 @@
+{
+ "domain": "abegg-stiftung.ch",
+ "website": "https://www.abegg-stiftung.ch",
+ "haeuser": [
+  {
+   "id": "Q318289",
+   "name": "Abegg-Stiftung"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Abegg-Stiftung",
+   "titel": "Alter Orient",
+   "art": "sammlungspraesentation",
+   "epoche": "alte_meister",
+   "fachgebiet": "kunsthandwerk",
+   "untertitel": "Ägypten und der Alte Orient, 6. Jt.–3. Jh. v. Chr.",
+   "url": "https://www.abegg-stiftung.ch/ausstellung/sammlung",
+   "quelle": "https://www.abegg-stiftung.ch/ausstellung/sammlung"
+  },
+  {
+   "haus": "Abegg-Stiftung",
+   "titel": "Seidenstrasse",
+   "art": "sammlungspraesentation",
+   "epoche": "alte_meister",
+   "fachgebiet": "kunsthandwerk",
+   "untertitel": "Textilien aus Zentralasien und China, 4. Jh. v.–3. Jh. n. Chr.",
+   "url": "https://www.abegg-stiftung.ch/ausstellung/sammlung",
+   "quelle": "https://www.abegg-stiftung.ch/ausstellung/sammlung"
+  },
+  {
+   "haus": "Abegg-Stiftung",
+   "titel": "Hochmittelalter",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "kunsthandwerk",
+   "untertitel": "Textilien und Objekte des Hochmittelalters",
+   "url": "https://www.abegg-stiftung.ch/ausstellung/sammlung",
+   "quelle": "https://www.abegg-stiftung.ch/ausstellung/sammlung"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.abegg-stiftung.ch/ausstellung/sammlung"
+ ],
+ "abgerufen": "2026-10-08T22:18:45",
+ "status": "ok"
+}

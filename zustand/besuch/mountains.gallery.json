@@ -1,0 +1,28 @@
+{
+ "domain": "mountains.gallery",
+ "website": "https://mountains.gallery",
+ "haeuser": {
+  "Mountains": {
+   "haus": "Mountains",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://mountains.gallery/gallery/",
+   "hinweis_oeffnung": "Montag und Dienstag nur nach Vereinbarung, nur während Ausstellungen geöffnet",
+   "quelle": "https://mountains.gallery/gallery/"
+  }
+ },
+ "seiten": [
+  "https://mountains.gallery/",
+  "https://mountains.gallery/gallery/"
+ ],
+ "abgerufen": "2026-10-12T07:37:30",
+ "status": "unvollständig"
+}

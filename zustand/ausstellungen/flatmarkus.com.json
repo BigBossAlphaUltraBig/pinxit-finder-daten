@@ -1,0 +1,39 @@
+{
+ "domain": "flatmarkus.com",
+ "website": "https://www.flatmarkus.com",
+ "haeuser": "flatmarkus",
+ "land": "CH",
+ "ids": "galerie-flatmarkus-zuerich",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://www.flatmarkus.com/",
+  "https://www.flatmarkus.com/kopie-von-current"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "Eyelids, towards Night",
+   "untertitel": "null",
+   "beginn": "2026-06-12",
+   "ende": "2026-08-15",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "flatmarkus",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-06-11",
+   "einzelausstellung_von": "David Weishaar",
+   "kuenstler": [
+    "David Weishaar"
+   ],
+   "anderer_ort": null,
+   "url": "https://www.flatmarkus.com/david-weishaar-eyelids-towards-night",
+   "quelle": "https://www.flatmarkus.com/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

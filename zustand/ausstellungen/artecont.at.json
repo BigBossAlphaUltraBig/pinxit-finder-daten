@@ -1,0 +1,41 @@
+{
+ "domain": "artecont.at",
+ "website": "https://www.artecont.at",
+ "haeuser": "Galerie Artecont",
+ "land": "AT",
+ "ids": "Q107719070",
+ "status": "ok",
+ "seiten": [
+  "https://www.artecont.at/ausstellungen"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Drago J. Prelog - Umlaufend",
+   "untertitel": "Umlaufend",
+   "beginn": "2026-09-03",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Artecont",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Drago J. Prelog",
+   "kuenstler": [
+    "Drago J. Prelog"
+   ],
+   "anderer_ort": null,
+   "url": "https://www.artecont.at/ausstellungen",
+   "quelle": "https://www.artecont.at/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "standort": "ARTECONT Wien",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

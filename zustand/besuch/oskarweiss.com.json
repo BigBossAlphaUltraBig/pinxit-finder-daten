@@ -1,0 +1,27 @@
+{
+ "domain": "oskarweiss.com",
+ "website": "https://oskarweiss.com",
+ "haeuser": {
+  "Galerie Oskar Weiss": {
+   "haus": "Galerie Oskar Weiss",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "11:00-17:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://oskarweiss.com/contact",
+   "quelle": "https://oskarweiss.com/contact"
+  }
+ },
+ "seiten": [
+  "https://oskarweiss.com/",
+  "https://oskarweiss.com/contact"
+ ],
+ "abgerufen": "2026-10-12T08:09:42",
+ "status": "ok"
+}

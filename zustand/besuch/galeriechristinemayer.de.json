@@ -1,0 +1,27 @@
+{
+ "domain": "galeriechristinemayer.de",
+ "website": "https://galeriechristinemayer.de",
+ "haeuser": {
+  "Galerie Christine Mayer": {
+   "haus": "Galerie Christine Mayer",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "14:00-18:00",
+    "mi": "14:00-18:00",
+    "do": "14:00-18:00",
+    "fr": "14:00-18:00",
+    "sa": "11:00-15:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.galeriechristinemayer.de/contact/",
+   "quelle": "https://www.galeriechristinemayer.de/contact/"
+  }
+ },
+ "seiten": [
+  "https://www.galeriechristinemayer.de/",
+  "https://www.galeriechristinemayer.de/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:35:02",
+ "status": "ok"
+}

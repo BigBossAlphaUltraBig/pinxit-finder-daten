@@ -1,0 +1,41 @@
+{
+ "domain": "capitainpetzel.de",
+ "website": "http://www.capitainpetzel.de",
+ "haeuser": "Capitain Petzel",
+ "land": "DE",
+ "ids": "way/29053886",
+ "status": "ok",
+ "seiten": [
+  "https://www.capitainpetzel.de/exhibitions/current/",
+  "https://www.capitainpetzel.de/exhibitions/152-austin-martin-white-the-lie-the-larp-and-the-lusophile/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "The lie, the larp and the lusophile",
+   "untertitel": "",
+   "beginn": "2026-09-10",
+   "ende": "2026-10-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Capitain Petzel",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Austin Martin White"
+   ],
+   "einzelausstellung_von": "Austin Martin White",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.capitainpetzel.de/exhibitions/152-austin-martin-white-the-lie-the-larp-and-the-lusophile/",
+   "quelle": "https://www.capitainpetzel.de/exhibitions/current/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

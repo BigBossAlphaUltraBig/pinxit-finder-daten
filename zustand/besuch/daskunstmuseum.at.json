@@ -1,0 +1,29 @@
+{
+ "domain": "daskunstmuseum.at",
+ "website": "http://daskunstmuseum.at",
+ "haeuser": {
+  "Kunstmuseum Waldviertel": {
+   "haus": "Kunstmuseum Waldviertel",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "10:00-17:00",
+    "mi": "10:00-17:00",
+    "do": "10:00-17:00",
+    "fr": "10:00-17:00",
+    "sa": "10:00-17:00",
+    "so": "10:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "€ 10,90",
+   "eintritt_ermaessigt": "€ 8,90",
+   "frei_fuer": "NÖ Card, Förderer des Museums, Jahreskartenbesitzer",
+   "hinweis_oeffnung": "Oktober bis Jänner (aktuell); Juli-September täglich 10-18 Uhr; geschlossen 24.12., 25.12., 26.12., 31.12., 01.01.",
+   "quelle": "https://daskunstmuseum.at/oeffnungszeiten-eintrittspreise/"
+  }
+ },
+ "seiten": [
+  "https://daskunstmuseum.at/oeffnungszeiten-eintrittspreise/"
+ ],
+ "abgerufen": "2026-10-08T18:05:55",
+ "status": "ok"
+}

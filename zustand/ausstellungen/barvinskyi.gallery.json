@@ -1,0 +1,64 @@
+{
+ "domain": "barvinskyi.gallery",
+ "website": "https://www.barvinskyi.gallery",
+ "haeuser": "Barvinskyi Art Gallery",
+ "land": "AT",
+ "ids": "galerie-barvinskyi-art-gallery-wien",
+ "status": "ok",
+ "seiten": [
+  "https://www.barvinskyi.gallery/exhibitions",
+  "https://www.barvinskyi.gallery/exhibitions/8"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Andrea Luzi",
+   "untertitel": "",
+   "beginn": "2026-09-10",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Barvinskyi Art Gallery",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Andrea Luzi"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.barvinskyi.gallery/exhibitions/8",
+   "quelle": "https://www.barvinskyi.gallery/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "8",
+   "untertitel": "",
+   "beginn": "2026-09-10",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Barvinskyi Art Gallery",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Andrea Luzi",
+   "kuenstler": [
+    "Andrea Luzi"
+   ],
+   "anderer_ort": null,
+   "url": "https://www.barvinskyi.gallery/exhibitions/8",
+   "quelle": "https://www.barvinskyi.gallery/exhibitions/8",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

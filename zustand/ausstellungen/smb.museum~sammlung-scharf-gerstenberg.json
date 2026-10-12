@@ -1,0 +1,33 @@
+{
+ "domain": "smb.museum~sammlung-scharf-gerstenberg",
+ "website": "https://www.smb.museum/museen-einrichtungen/sammlung-scharf-gerstenberg/home/",
+ "haeuser": "Sammlung Scharf-Gerstenberg",
+ "land": "DE",
+ "ids": "nachtrag-sammlung-scharf-gerstenberg",
+ "status": "ok",
+ "seiten": [
+  "https://www.smb.museum/ausstellungen/aktuell/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Wechselwirkung",
+   "untertitel": "",
+   "beginn": "2026-07-17",
+   "ende": "2026-11-15",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Sammlung Scharf-Gerstenberg",
+   "rang": 1,
+   "epoche": "moderne",
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "anderer_ort": null,
+   "url": "https://www.smb.museum/ausstellungen/detail/wechselwirkung/",
+   "quelle": "https://www.smb.museum/ausstellungen/aktuell/"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

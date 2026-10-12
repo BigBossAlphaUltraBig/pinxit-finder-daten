@@ -1,0 +1,51 @@
+{
+ "domain": "bauhaus.de",
+ "website": "https://www.bauhaus.de/",
+ "haeuser": "Bauhaus-Archiv",
+ "land": "DE",
+ "ids": "Q811389",
+ "status": "ok",
+ "seiten": [
+  "https://www.bauhaus.de/besuchen/ausstellungen/eine-million-objekte/",
+  "https://www.bauhaus.de/besuchen/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Eine Million Objekte",
+   "untertitel": "Florian de Brün fotografiert die Sammlung",
+   "beginn": "2026-10-14",
+   "ende": "2027-04-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Bauhaus-Archiv",
+   "rang": 1,
+   "epoche": "moderne",
+   "kuenstler": [
+    "Florian de Brün"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": "Fotografische Dokumentation der Bauhaus-Sammlung",
+   "url": "https://www.bauhaus.de/besuchen/ausstellungen/eine-million-objekte/",
+   "quelle": "https://www.bauhaus.de/besuchen/ausstellungen/eine-million-objekte/"
+  },
+  {
+   "titel": "Eine Million Objekte. Florian de Brün fotografiert die Sammlung",
+   "beginn": "2026-10-14",
+   "ende": "2027-04-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Bauhaus-Archiv",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Florian de Brün"
+   ],
+   "schwerpunkt": "Fotografische Dokumentation der Bauhaus-Sammlung",
+   "url": "https://www.bauhaus.de/besuchen/ausstellungen/eine-million-objekte/",
+   "quelle": "https://www.bauhaus.de/besuchen/"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-08T13:54:37"
+}

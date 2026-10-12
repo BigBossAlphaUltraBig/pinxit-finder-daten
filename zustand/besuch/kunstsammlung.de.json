@@ -1,0 +1,49 @@
+{
+ "domain": "kunstsammlung.de",
+ "website": "https://www.kunstsammlung.de/de/exhibitions#k20",
+ "haeuser": {
+  "K20": {
+   "haus": "K20",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": "11:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "10 €",
+   "eintritt_ermaessigt": "8 €",
+   "frei_fuer": "Kinder/Jugendliche bis einschließlich 17 Jahre",
+   "frei_wann": "jeden 1. Mittwoch im Monat ab 18:00 Uhr",
+   "hinweis_oeffnung": "jeden 1. Mittwoch bis 22:00 Uhr; 24., 25., 31.12. und Rosenmontag geschlossen",
+   "quelle": "https://www.kunstsammlung.de/de/visit/"
+  },
+  "K21": {
+   "haus": "K21",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": "11:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "15 €",
+   "eintritt_ermaessigt": "13 €",
+   "frei_fuer": "Kinder/Jugendliche bis einschließlich 17 Jahre",
+   "frei_wann": "jeden 1. Mittwoch im Monat ab 18:00 Uhr",
+   "hinweis_oeffnung": "jeden 1. Mittwoch bis 22:00 Uhr; 4.11.2026 nur 18:00-22:00 Uhr; 24., 25., 31.12. und Rosenmontag geschlossen",
+   "quelle": "https://www.kunstsammlung.de/de/visit/"
+  }
+ },
+ "seiten": [
+  "https://www.kunstsammlung.de/de/visit/"
+ ],
+ "abgerufen": "2026-10-12T08:07:39",
+ "status": "ok"
+}

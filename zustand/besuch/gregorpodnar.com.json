@@ -1,0 +1,28 @@
+{
+ "domain": "gregorpodnar.com",
+ "website": "https://www.gregorpodnar.com",
+ "haeuser": {
+  "Gregor Podnar": {
+   "haus": "Gregor Podnar",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.gregorpodnar.com/contact",
+   "hinweis_oeffnung": "und nach Vereinbarung",
+   "quelle": "https://www.gregorpodnar.com/contact"
+  }
+ },
+ "seiten": [
+  "https://www.gregorpodnar.com/",
+  "https://www.gregorpodnar.com/contact"
+ ],
+ "abgerufen": "2026-10-12T07:36:10",
+ "status": "ok"
+}

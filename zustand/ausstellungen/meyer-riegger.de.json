@@ -1,0 +1,86 @@
+{
+ "domain": "meyer-riegger.de",
+ "website": "http://www.meyer-riegger.de",
+ "haeuser": "Meyer Riegger",
+ "land": "DE",
+ "ids": "galerie-meyer-riegger-berlin",
+ "status": "ok",
+ "seiten": [
+  "https://meyer-riegger.com/en/exhibitions",
+  "https://meyer-riegger.com/en/exhibitions/seance"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Séance",
+   "untertitel": null,
+   "beginn": "2026-09-11",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Meyer Riegger",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Lin May Saeed"
+   ],
+   "gemeinfrei": false,
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-11T18:00",
+   "url": "https://meyer-riegger.com/en/exhibitions/seance",
+   "quelle": "https://meyer-riegger.com/en/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Keine Paare, keine Gruppen",
+   "untertitel": null,
+   "beginn": "2026-09-19",
+   "ende": "2026-11-13",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Meyer Riegger",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Horst Antes"
+   ],
+   "gemeinfrei": false,
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-19T14:00",
+   "url": "https://meyer-riegger.com/en/exhibitions/keine-paare-keine-gruppen",
+   "quelle": "https://meyer-riegger.com/en/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Marcel Duchamp: A Parisian Collection",
+   "untertitel": "A Parisian Collection",
+   "beginn": "2026-08-27",
+   "ende": "2026-11-05",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Meyer Riegger",
+   "rang": 1,
+   "epoche": "moderne",
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Marcel Duchamp"
+   ],
+   "gemeinfrei": false,
+   "anderer_ort": "Meyer Riegger Wolff, Seoul, South Korea",
+   "eroeffnung": null,
+   "url": "https://meyer-riegger.com/en/exhibitions/marcel-duchamp-a-parisian-collection",
+   "quelle": "https://meyer-riegger.com/en/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Meyer Riegger Wolff, Seoul, South Korea"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

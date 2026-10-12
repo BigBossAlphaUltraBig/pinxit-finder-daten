@@ -1,0 +1,27 @@
+{
+ "domain": "micheko.com",
+ "website": "https://micheko.com",
+ "haeuser": {
+  "Micheko Galerie": {
+   "haus": "Micheko Galerie",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "14:00-18:00",
+    "do": "14:00-18:00",
+    "fr": "14:00-18:00",
+    "sa": "12:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "Gerne nach Termin auch an Sonn- und Feiertagen",
+   "quelle": "https://www.micheko.com/"
+  }
+ },
+ "seiten": [
+  "https://www.micheko.com/kontakt/",
+  "https://www.micheko.com/"
+ ],
+ "abgerufen": "2026-10-12T07:37:25",
+ "status": "unvollständig"
+}

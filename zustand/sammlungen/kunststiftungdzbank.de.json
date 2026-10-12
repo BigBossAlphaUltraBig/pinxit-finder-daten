@@ -1,0 +1,35 @@
+{
+ "domain": "kunststiftungdzbank.de",
+ "website": "https://kunststiftungdzbank.de",
+ "haeuser": [
+  {
+   "id": "node-843464889",
+   "name": "Art Foyer, DZ BANK [Kunstsammlung]"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Art Foyer, DZ BANK [Kunstsammlung]",
+   "titel": "Die Sammlung",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "fotografie",
+   "untertitel": "6.219 Exponate zeitgenössischer Fotografie",
+   "kuenstler": [
+    "Miriam Böhm",
+    "Andreas Mühe",
+    "Jan Groover",
+    "Arnold Odermatt",
+    "Heba Y. Amin"
+   ],
+   "url": "https://sammlung.kunststiftungdzbank.de/",
+   "quelle": "https://sammlung.kunststiftungdzbank.de/"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://sammlung.kunststiftungdzbank.de/"
+ ],
+ "abgerufen": "2026-10-12T08:13:12",
+ "status": "ok"
+}

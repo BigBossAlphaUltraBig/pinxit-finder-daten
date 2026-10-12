@@ -1,0 +1,26 @@
+{
+ "domain": "georg-kolbe-museum.de",
+ "website": "http://www.georg-kolbe-museum.de",
+ "haeuser": {
+  "Georg-Kolbe-Museum": {
+   "haus": "Georg-Kolbe-Museum",
+   "oeffnungszeiten": {
+    "mo": "11:00-18:00",
+    "di": "geschlossen",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": "11:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://georg-kolbe-museum.de/besuch/tickets/",
+   "quelle": "https://georg-kolbe-museum.de/besuch/tickets/#/"
+  }
+ },
+ "seiten": [
+  "https://georg-kolbe-museum.de/besuch/tickets/#/"
+ ],
+ "abgerufen": "2026-10-12T08:05:13",
+ "status": "ok"
+}

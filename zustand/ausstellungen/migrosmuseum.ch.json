@@ -1,0 +1,61 @@
+{
+ "domain": "migrosmuseum.ch",
+ "website": "http://www.migrosmuseum.ch/",
+ "haeuser": "Migros Museum für Gegenwartskunst",
+ "land": "CH",
+ "ids": "Q1380528",
+ "status": "ok",
+ "seiten": [
+  "https://migrosmuseum.ch/ausstellungen",
+  "https://migrosmuseum.ch/ausstellungen/nicole-lhuillier-2"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "She-Devils on Wheels Angels on Heels",
+   "untertitel": "Sammlung &: Sylvie Fleury Shamiran Istifan",
+   "beginn": "2026-09-26",
+   "ende": "2027-01-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Migros Museum für Gegenwartskunst",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "kuenstler": [
+    "Sylvie Fleury",
+    "Shamiran Istifan"
+   ],
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "url": "https://migrosmuseum.ch/ausstellungen/she-devils-on-wheels-angels-on-heels",
+   "quelle": "https://migrosmuseum.ch/ausstellungen",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Canción de Amor",
+   "untertitel": "Canción de Amor",
+   "beginn": "2026-09-26",
+   "ende": "2027-01-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Migros Museum für Gegenwartskunst",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "kuenstler": [
+    "Nicole L'Huillier"
+   ],
+   "eroeffnung": null,
+   "einzelausstellung_von": "Nicole L'Huillier",
+   "url": "https://migrosmuseum.ch/ausstellungen/nicole-lhuillier-2",
+   "quelle": "https://migrosmuseum.ch/ausstellungen",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

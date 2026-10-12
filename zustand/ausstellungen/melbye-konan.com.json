@@ -1,0 +1,39 @@
+{
+ "domain": "melbye-konan.com",
+ "website": "https://melbye-konan.com",
+ "haeuser": "Galerie Melbye-Konan",
+ "land": "DE",
+ "ids": "galerie-galerie-melbye-konan-hamburg",
+ "status": "ok",
+ "seiten": [
+  "https://www.melbye-konan.com/exhibitions/",
+  "https://www.melbye-konan.com/exhibitions/45-a-la-rencontre-des-images-solo-exhibition/overview/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "À LA RENCONTRE DES IMAGES",
+   "untertitel": null,
+   "beginn": "2026-10-05",
+   "ende": "2026-11-12",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Melbye-Konan",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.melbye-konan.com/exhibitions/45-a-la-rencontre-des-images-solo-exhibition/overview/",
+   "quelle": "https://www.melbye-konan.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

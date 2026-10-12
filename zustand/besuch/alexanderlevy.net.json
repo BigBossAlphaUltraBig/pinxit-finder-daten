@@ -1,0 +1,29 @@
+{
+ "domain": "alexanderlevy.net",
+ "website": "http://www.alexanderlevy.net",
+ "haeuser": {
+  "Alexander Levy": {
+   "haus": "Alexander Levy",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://alexanderlevy.de/contact",
+   "quelle": "https://alexanderlevy.de/contact"
+  }
+ },
+ "seiten": [
+  "https://alexanderlevy.de/exhibitions/current",
+  "https://alexanderlevy.de/news/ascension-holiday-weekend-opening-hours",
+  "https://alexanderlevy.de/",
+  "https://alexanderlevy.de/contact"
+ ],
+ "abgerufen": "2026-10-12T07:32:33",
+ "status": "unvollständig"
+}

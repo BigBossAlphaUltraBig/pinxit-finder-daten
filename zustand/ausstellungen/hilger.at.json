@@ -1,0 +1,38 @@
+{
+ "domain": "hilger.at",
+ "website": "https://www.hilger.at",
+ "haeuser": "Galerie Ernst Hilger",
+ "land": "AT",
+ "ids": "node/3906053348",
+ "status": "ok",
+ "seiten": [
+  "https://www.hilger.at/exhibitions/?tab=e-n-tab-title-202192451",
+  "https://www.hilger.at/exhibitions/a-letter-to-my-friend-curated-by-alenka-gregoric-fef9afc5-2/?tab=e-n-tab-title-825325321"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "A Letter to My Friend",
+   "untertitel": "curated by Alenka Gregorič",
+   "beginn": "2026-09-07",
+   "ende": "2026-10-23",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Ernst Hilger",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [],
+   "eroeffnung": "2026-09-07T19:00",
+   "url": "https://www.hilger.at/exhibitions/a-letter-to-my-friend-curated-by-alenka-gregoric-fef9afc5-2/",
+   "anderer_ort": null,
+   "schwerpunkt": null,
+   "quelle": "https://www.hilger.at/exhibitions/?tab=e-n-tab-title-202192451",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

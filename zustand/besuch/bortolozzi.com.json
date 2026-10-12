@@ -1,0 +1,28 @@
+{
+ "domain": "bortolozzi.com",
+ "website": "http://bortolozzi.com",
+ "haeuser": {
+  "Galerie Isabella Bortolozzi": {
+   "haus": "Galerie Isabella Bortolozzi",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "12:00-18:00",
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://bortolozzi.com/",
+   "quelle": "https://bortolozzi.com/"
+  }
+ },
+ "seiten": [
+  "https://bortolozzi.com/exhibitions/stephen-g-rhodes-hinge-23-hours-ajar/",
+  "https://bortolozzi.com/exhibitions/juliette-blightman-i-hope-one-day-soon-you-will-come-visit-me-here-isabella-bortolozzi-galerie-berlin/",
+  "https://bortolozzi.com/"
+ ],
+ "abgerufen": "2026-10-12T07:33:07",
+ "status": "ok"
+}

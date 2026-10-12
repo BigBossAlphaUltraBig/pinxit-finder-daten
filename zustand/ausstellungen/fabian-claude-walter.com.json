@@ -1,0 +1,39 @@
+{
+ "domain": "fabian-claude-walter.com",
+ "website": "https://fabian-claude-walter.com",
+ "haeuser": "Fabian & Claude Walter Galerie",
+ "land": "CH",
+ "ids": "node/11633736757",
+ "status": "nur aussortierte",
+ "seiten": [
+  "https://fabian-claude-walter.com/exhibitions/?when=previous",
+  "https://fabian-claude-walter.com/news/beds/"
+ ],
+ "ausstellungen": [],
+ "aussortiert": [
+  {
+   "titel": "The Language of Light",
+   "untertitel": "The Language of Light",
+   "beginn": "2025-11-13",
+   "ende": "2025-12-22",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Fabian & Claude Walter Galerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://fabian-claude-walter.com/exhibition/roger-humbert-4/",
+   "kuenstler": [
+    "Roger Humbert"
+   ],
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://fabian-claude-walter.com/exhibitions/?when=previous",
+   "detail_geprueft": "2026-10-12",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

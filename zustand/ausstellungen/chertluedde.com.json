@@ -1,0 +1,41 @@
+{
+ "domain": "chertluedde.com",
+ "website": "http://chertluedde.com",
+ "haeuser": "ChertLüdde",
+ "land": "DE",
+ "ids": "node/5408778943",
+ "status": "ok",
+ "seiten": [
+  "https://chertluedde.com/exhibitions/",
+  "https://chertluedde.com/exhibition/stephanie-comilangsearch-for-life/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Search for Life",
+   "untertitel": "",
+   "kuenstler": [
+    "Stephanie Comilang"
+   ],
+   "beginn": "2026-09-11",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "ChertLüdde",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-09-11",
+   "anderer_ort": null,
+   "einzelausstellung_von": "Stephanie Comilang",
+   "url": "https://chertluedde.com/exhibition/stephanie-comilangsearch-for-life/",
+   "quelle": "https://chertluedde.com/exhibition/stephanie-comilangsearch-for-life/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

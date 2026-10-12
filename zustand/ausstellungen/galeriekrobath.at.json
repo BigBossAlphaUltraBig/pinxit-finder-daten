@@ -1,0 +1,53 @@
+{
+ "domain": "galeriekrobath.at",
+ "website": "https://www.galeriekrobath.at",
+ "haeuser": "Krobath Wien",
+ "land": "AT",
+ "ids": "galerie-krobath-wien-wien",
+ "status": "ok",
+ "seiten": [
+  "https://www.galeriekrobath.at/ausstellungen/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "our love (illusio) is everything that the waterfall is (doxa)",
+   "untertitel": "curated by Christian Egger",
+   "beginn": "2026-09-11",
+   "ende": "2026-10-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Krobath Wien",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Bruce LaBruce",
+    "Herbert De Colle",
+    "Crisfor",
+    "Carola Dertnig",
+    "Michaela Eichwald",
+    "Labrilena Konstantelou",
+    "Georgie Nettell",
+    "Rade Petrasevic",
+    "Amol K Patil",
+    "Gerwald Rockenschaub",
+    "Giorgos Tigkas",
+    "Jenni Tischer",
+    "Sue Tompkins",
+    "B. Wurtz"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.galeriekrobath.at/archiv/our-love-illusio-is-everything-that-the-waterfall-is-doxa-curated-by-christian-egger/",
+   "quelle": "https://www.galeriekrobath.at/ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

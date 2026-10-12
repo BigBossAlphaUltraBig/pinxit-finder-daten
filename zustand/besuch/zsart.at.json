@@ -1,0 +1,28 @@
+{
+ "domain": "zsart.at",
+ "website": "https://www.zsart.at",
+ "haeuser": {
+  "zs art galerie": {
+   "haus": "zs art galerie",
+   "oeffnungszeiten": {
+    "mo": "12:00-18:00",
+    "di": "12:00-18:00",
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "geschlossen",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.zsart.at/de/exhibitions/2026/charaktere/",
+   "quelle": "https://www.zsart.at/de/",
+   "hinweis_oeffnung": "Sa nach Vereinbarung"
+  }
+ },
+ "seiten": [
+  "https://www.zsart.at/de/exhibitions/2020/kleinformat/",
+  "https://www.zsart.at/de/"
+ ],
+ "abgerufen": "2026-10-12T07:39:06",
+ "status": "ok"
+}

@@ -1,0 +1,89 @@
+{
+ "domain": "konradfischergalerie.de",
+ "website": "http://konradfischergalerie.de",
+ "haeuser": "Konrad Fischer Galerie",
+ "land": "DE",
+ "ids": "Q55421334",
+ "status": "ok",
+ "seiten": [
+  "https://konradfischergalerie.de/exhibitions/current/",
+  "https://konradfischergalerie.de/exhibitions/723-martin-margiela-martin-margiela-in-berlin/overview/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "WAK'E S’",
+   "untertitel": "WAK'E S’",
+   "beginn": "2026-09-04",
+   "ende": "2027-01-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Konrad Fischer Galerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "David Douard"
+   ],
+   "einzelausstellung_von": "David Douard",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://konradfischergalerie.de/exhibitions/441-david-douard-wak-e-s/overview/",
+   "quelle": "https://konradfischergalerie.de/exhibitions/current/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Circle Paintings",
+   "untertitel": "Circle Paintings",
+   "beginn": "2026-09-10",
+   "ende": "2026-12-19",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Konrad Fischer Galerie",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Alan Charlton"
+   ],
+   "einzelausstellung_von": "Alan Charlton",
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-10T18:00",
+   "url": "https://konradfischergalerie.de/exhibitions/722-alan-charlton-circle-paintings/overview/",
+   "quelle": "https://konradfischergalerie.de/exhibitions/current/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Martin Margiela in Berlin",
+   "untertitel": "Martin Margiela in Berlin",
+   "beginn": "2026-09-10",
+   "ende": "2026-12-19",
+   "art": "wechselausstellung",
+   "fachgebiet": "design",
+   "haus": "Konrad Fischer Galerie",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Martin Margiela"
+   ],
+   "einzelausstellung_von": "Martin Margiela",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://konradfischergalerie.de/exhibitions/723-martin-margiela-martin-margiela-in-berlin/overview/",
+   "quelle": "https://konradfischergalerie.de/exhibitions/current/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

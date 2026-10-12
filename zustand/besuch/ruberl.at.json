@@ -1,0 +1,28 @@
+{
+ "domain": "ruberl.at",
+ "website": "https://www.ruberl.at",
+ "haeuser": {
+  "Galerie Ruberl": {
+   "haus": "Galerie Ruberl",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "und nach Vereinbarung",
+   "bessere_seite": "https://www.ruberl.at/kontakt",
+   "quelle": "https://www.ruberl.at/kontakt"
+  }
+ },
+ "seiten": [
+  "https://www.ruberl.at/",
+  "https://www.ruberl.at/kontakt"
+ ],
+ "abgerufen": "2026-10-12T07:38:12",
+ "status": "unvollständig"
+}

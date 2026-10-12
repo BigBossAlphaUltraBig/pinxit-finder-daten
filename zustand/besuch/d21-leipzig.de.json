@@ -1,0 +1,25 @@
+{
+ "domain": "d21-leipzig.de",
+ "website": "http://www.d21-leipzig.de/",
+ "haeuser": {
+  "D21 Kunstraum Leipzig": {
+   "haus": "D21 Kunstraum Leipzig",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": "15:00-19:00",
+    "so": "15:00-19:00"
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://www.d21-leipzig.de/de/homepage/"
+  }
+ },
+ "seiten": [
+  "https://www.d21-leipzig.de/de/homepage/"
+ ],
+ "abgerufen": "2026-10-12T08:04:04",
+ "status": "unvollständig"
+}

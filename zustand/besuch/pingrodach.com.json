@@ -1,0 +1,27 @@
+{
+ "domain": "pingrodach.com",
+ "website": "https://pingrodach.com",
+ "haeuser": {
+  "Ping Rodach Contemporary": {
+   "haus": "Ping Rodach Contemporary",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "14:00-19:00",
+    "do": "14:00-19:00",
+    "fr": "14:00-19:00",
+    "sa": "12:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://pingrodach.com/contact/",
+   "quelle": "https://pingrodach.com/contact/"
+  }
+ },
+ "seiten": [
+  "https://pingrodach.com/",
+  "https://pingrodach.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:37:57",
+ "status": "unvollständig"
+}

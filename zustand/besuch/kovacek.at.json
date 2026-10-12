@@ -1,0 +1,25 @@
+{
+ "domain": "kovacek.at",
+ "website": "https://www.kovacek.at",
+ "haeuser": {
+  "Sylvia Kovacek": {
+   "haus": "Sylvia Kovacek",
+   "oeffnungszeiten": {
+    "mo": "10:00-18:00",
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-14:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "quelle": "https://www.kovacek.at/de"
+  }
+ },
+ "seiten": [
+  "https://www.kovacek.at/de"
+ ],
+ "abgerufen": "2026-10-12T07:36:44",
+ "status": "ok"
+}

@@ -1,0 +1,26 @@
+{
+ "domain": "artkonzett.com",
+ "website": "https://www.artkonzett.com",
+ "haeuser": {
+  "Galerie Konzett": {
+   "haus": "Galerie Konzett",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-14:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.artkonzett.com/en/konzett-gallery-en/",
+   "quelle": "https://www.artkonzett.com/en/exhibitions/current/"
+  }
+ },
+ "seiten": [
+  "https://www.artkonzett.com/en/exhibitions/current/"
+ ],
+ "abgerufen": "2026-10-12T07:32:51",
+ "status": "ok"
+}

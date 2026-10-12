@@ -1,0 +1,64 @@
+{
+ "domain": "stern-wywiol-galerie.net",
+ "website": "https://stern-wywiol-galerie.net",
+ "haeuser": "Stern-Wywiol Galerie",
+ "land": "DE",
+ "ids": "galerie-stern-wywiol-galerie-hamburg",
+ "status": "ok",
+ "seiten": [
+  "https://stern-wywiol-galerie.net/de/exhibitions/current",
+  "https://stern-wywiol-galerie.net/de/exhibition/im-blickwinkel-2026/works"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Auf Kante",
+   "untertitel": null,
+   "beginn": "2026-09-18",
+   "ende": "2027-01-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Stern-Wywiol Galerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Robert Steng",
+    "Tobias Stutz",
+    "René Tromborg"
+   ],
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "url": "https://stern-wywiol-galerie.net/de/exhibition/im-blickwinkel-2026/works",
+   "quelle": "https://stern-wywiol-galerie.net/de/exhibitions/current",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Robert Steng, Tobias Stutz, René Tromborg – Auf Kante",
+   "beginn": "2026-09-18",
+   "ende": "2027-01-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Stern-Wywiol Galerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Robert Steng",
+    "Tobias Stutz",
+    "René Tromborg"
+   ],
+   "url": "https://stern-wywiol-galerie.net/de/exhibition/im-blickwinkel-2026/works",
+   "quelle": "https://stern-wywiol-galerie.net/de/exhibition/im-blickwinkel-2026/works",
+   "eroeffnung": null,
+   "untertitel": "Auf Kante",
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

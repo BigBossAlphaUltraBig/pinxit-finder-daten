@@ -1,0 +1,28 @@
+{
+ "domain": "kunsthandel-werner.de",
+ "website": "http://www.kunsthandel-werner.de",
+ "haeuser": {
+  "Kunsthandel Wolfgang Werner": {
+   "haus": "Kunsthandel Wolfgang Werner",
+   "oeffnungszeiten": {
+    "mo": "10:00-13:00, 15:00-18:00",
+    "di": "10:00-18:00",
+    "mi": null,
+    "do": null,
+    "fr": "10:00-18:00",
+    "sa": "11:00-15:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "http://www.kunsthandel-werner.de/data/Kontakt.html",
+   "hinweis_oeffnung": "Angaben auf der übergebenen Seite nicht vorhanden",
+   "quelle": "http://www.kunsthandel-werner.de/data/Kontakt.html"
+  }
+ },
+ "seiten": [
+  "http://www.kunsthandel-werner.de/",
+  "http://www.kunsthandel-werner.de/data/Kontakt.html"
+ ],
+ "abgerufen": "2026-10-12T07:36:48",
+ "status": "unvollständig"
+}

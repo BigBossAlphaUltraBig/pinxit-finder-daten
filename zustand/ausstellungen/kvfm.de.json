@@ -1,0 +1,38 @@
+{
+ "domain": "kvfm.de",
+ "website": "https://kvfm.de",
+ "haeuser": "Kunstverein Familie Montez",
+ "land": "DE",
+ "ids": "node/3556668243",
+ "status": "ok",
+ "seiten": [
+  "https://kvfm.de/zweite-gemeinschaftsausstellung-der-malgruppe-montez/",
+  "https://kvfm.de/ausstellung-by-delaram-homayoun/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Colour vs Light – Surface vs Space",
+   "untertitel": "by Delaram Homayouni",
+   "kuenstler": [
+    "Delaram Homayouni"
+   ],
+   "beginn": "2026-10-22",
+   "ende": "2026-11-22",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunstverein Familie Montez",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://kvfm.de/ausstellung-by-delaram-homayoun/",
+   "eroeffnung": "2026-10-22T18:00",
+   "anderer_ort": null,
+   "einzelausstellung_von": "Delaram Homayouni",
+   "quelle": "https://kvfm.de/ausstellung-by-delaram-homayoun/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

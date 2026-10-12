@@ -1,0 +1,41 @@
+{
+ "domain": "galerieleu.de",
+ "website": "https://www.galerieleu.de/exhibitions/",
+ "haeuser": "Galerie Leu",
+ "land": "DE",
+ "ids": "galerie-galerie-leu-muenchen",
+ "status": "ok",
+ "seiten": [
+  "https://www.galerieleu.de/exhibitions/",
+  "https://www.galerieleu.de/de/exhibitions/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "ANGLE OF INCIDENCE",
+   "untertitel": null,
+   "beginn": "2026-10-15",
+   "ende": "2026-11-21",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Leu",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Ylva Carlgren"
+   ],
+   "einzelausstellung_von": "Ylva Carlgren",
+   "eroeffnung": "2026-10-15",
+   "anderer_ort": null,
+   "url": "https://www.galerieleu.de/exhibitions/62-ylva-carlgren-angle-of-incidence/",
+   "quelle": "https://www.galerieleu.de/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

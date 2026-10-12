@@ -1,0 +1,28 @@
+{
+ "domain": "skulpturensammlung.skd.museum",
+ "website": "https://skulpturensammlung.skd.museum/",
+ "haeuser": {
+  "Skulpturensammlung Dresden": {
+   "haus": "Skulpturensammlung Dresden",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "Im Albertinum und im Zwinger derzeit geschlossen",
+   "bessere_seite": "https://skulpturensammlung.skd.museum/besuch/",
+   "quelle": "https://skulpturensammlung.skd.museum/"
+  }
+ },
+ "seiten": [
+  "https://skulpturensammlung.skd.museum/besuch/",
+  "https://skulpturensammlung.skd.museum/"
+ ],
+ "abgerufen": "2026-10-12T08:10:40",
+ "status": "unvollständig"
+}

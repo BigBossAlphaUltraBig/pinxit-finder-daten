@@ -1,0 +1,36 @@
+{
+ "domain": "kunstmuseumbern.ch",
+ "website": "https://www.kunstmuseumbern.ch",
+ "haeuser": [
+  {
+   "id": "Q194622",
+   "name": "Kunstmuseum Bern"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Kunstmuseum Bern",
+   "titel": "Die Sammlung",
+   "untertitel": "Von Arnold Böcklin bis Pablo Picasso",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "ende": "2026-12-31",
+   "kuenstler": [
+    "Arnold Böcklin",
+    "Pablo Picasso",
+    "Ferdinand Hodler",
+    "Meret Oppenheim",
+    "Paul Klee"
+   ],
+   "url": "https://www.kunstmuseumbern.ch/de/ausstellung/die-sammlung",
+   "quelle": "https://www.kunstmuseumbern.ch/de/sammlung-forschung"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.kunstmuseumbern.ch/de/sammlung-forschung"
+ ],
+ "abgerufen": "2026-10-12T08:13:05",
+ "status": "ok"
+}

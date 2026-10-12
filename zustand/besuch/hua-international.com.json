@@ -1,0 +1,27 @@
+{
+ "domain": "hua-international.com",
+ "website": "https://hua-international.com",
+ "haeuser": {
+  "Hua International": {
+   "haus": "Hua International",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "12:00-18:00",
+    "do": "12:00-18:00",
+    "fr": "12:00-18:00",
+    "sa": "12:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://hua-international.com/contact/",
+   "quelle": "https://hua-international.com/contact/"
+  }
+ },
+ "seiten": [
+  "https://hua-international.com/",
+  "https://hua-international.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:36:29",
+ "status": "unvollständig"
+}

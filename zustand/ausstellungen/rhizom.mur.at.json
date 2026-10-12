@@ -1,0 +1,37 @@
+{
+ "domain": "rhizom.mur.at",
+ "website": "https://rhizom.mur.at/",
+ "haeuser": "Rhizom",
+ "land": "AT",
+ "ids": "Q140218216",
+ "status": "ok",
+ "seiten": [
+  "https://rhizom.mur.at/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Everything Is Everythang",
+   "untertitel": "On Our Time",
+   "beginn": "2026-10-08",
+   "ende": "2026-10-18",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Rhizom",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Marc Bertel"
+   ],
+   "eroeffnung": "2026-10-08T18:00",
+   "einzelausstellung_von": "Marc Bertel",
+   "anderer_ort": null,
+   "url": "https://rhizom.mur.at/2026-everything-is-everythang/",
+   "quelle": "https://rhizom.mur.at/",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

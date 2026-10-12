@@ -1,0 +1,29 @@
+{
+ "domain": "7hours.com",
+ "website": "http://www.7hours.com/",
+ "haeuser": {
+  "7hours": {
+   "haus": "7hours",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": null,
+    "fr": null,
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://7hours.com/_Actual_Page/html/info_BISKUP_GEITEL_09.htm",
+   "hinweis_oeffnung": "Keine Angaben auf dieser Website",
+   "quelle": "https://7hours.com/"
+  }
+ },
+ "seiten": [
+  "https://7hours.com/_Actual_Page/html/info_BISKUP_GEITEL_09.htm",
+  "https://7hours.com/_Actual_Page/html/info_O.NEWMAN.A.WIGAND_09.htm",
+  "https://7hours.com/"
+ ],
+ "abgerufen": "2026-10-08T18:04:59",
+ "status": "unvollständig"
+}

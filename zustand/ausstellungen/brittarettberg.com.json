@@ -1,0 +1,65 @@
+{
+ "domain": "brittarettberg.com",
+ "website": "https://brittarettberg.com",
+ "haeuser": "Britta Rettberg",
+ "land": "DE",
+ "ids": "node/5898819726",
+ "status": "ok",
+ "seiten": [
+  "https://brittarettberg.com/exhibition/un-hold/",
+  "https://brittarettberg.com/exhibition/dagmar-rhodius-park/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "un-hold",
+   "untertitel": "",
+   "beginn": "2026-09-18",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Britta Rettberg",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Patrick Ostrowsky"
+   ],
+   "einzelausstellung_von": "Patrick Ostrowsky",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://brittarettberg.com/exhibition/un-hold/",
+   "quelle": "https://brittarettberg.com/exhibition/un-hold/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Dagmar Rhodius @park",
+   "untertitel": null,
+   "beginn": "2026-09-18",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Britta Rettberg",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Dagmar Rhodius"
+   ],
+   "einzelausstellung_von": "Dagmar Rhodius",
+   "eroeffnung": null,
+   "anderer_ort": "Park",
+   "url": "https://brittarettberg.com/exhibition/dagmar-rhodius-park/",
+   "quelle": "https://brittarettberg.com/exhibition/dagmar-rhodius-park/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Park"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

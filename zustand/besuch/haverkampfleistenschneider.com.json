@@ -1,0 +1,27 @@
+{
+ "domain": "haverkampfleistenschneider.com",
+ "website": "https://haverkampfleistenschneider.com",
+ "haeuser": {
+  "Haverkampf Leistenschneider": {
+   "haus": "Haverkampf Leistenschneider",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://haverkampfleistenschneider.com/contact/",
+   "quelle": "https://haverkampfleistenschneider.com/contact/"
+  }
+ },
+ "seiten": [
+  "https://haverkampfleistenschneider.com/",
+  "https://haverkampfleistenschneider.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:36:19",
+ "status": "unvollständig"
+}

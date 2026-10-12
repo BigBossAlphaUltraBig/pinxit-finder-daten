@@ -1,0 +1,50 @@
+{
+ "domain": "museum-joanneum.at",
+ "website": "https://www.museum-joanneum.at/en/kunsthaus-graz",
+ "haeuser": {
+  "Kunsthaus Graz": {
+   "haus": "Kunsthaus Graz",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "13 €",
+   "eintritt_ermaessigt": "6,50 €",
+   "frei_fuer": "unter 19 Jahren",
+   "bessere_seite": "https://www.museum-joanneum.at/en/neue-galerie-graz",
+   "quelle": "https://www.museum-joanneum.at/en/kunsthaus-graz/your-visit/admission"
+  },
+  "Neue Galerie Graz": {
+   "haus": "Neue Galerie Graz",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-18:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.museum-joanneum.at/en/neue-galerie-graz/your-visit/admission",
+   "quelle": "https://www.museum-joanneum.at/en/neue-galerie-graz/your-visit/admission",
+   "eintritt_regulaer": "13 €",
+   "eintritt_ermaessigt": "11 €",
+   "frei_fuer": "Kinder unter 6 Jahren"
+  }
+ },
+ "seiten": [
+  "https://www.museum-joanneum.at/en/kunsthaus-graz/your-visit/admission",
+  "https://www.museum-joanneum.at/en/kunsthaus-graz",
+  "https://www.museum-joanneum.at/en/neue-galerie-graz",
+  "https://www.museum-joanneum.at/en/neue-galerie-graz/your-visit/admission"
+ ],
+ "abgerufen": "2026-10-12T08:09:15",
+ "status": "ok"
+}

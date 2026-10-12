@@ -1,0 +1,28 @@
+{
+ "domain": "kunstmuseumbern.ch",
+ "website": "https://www.kunstmuseumbern.ch",
+ "haeuser": {
+  "Kunstmuseum Bern": {
+   "haus": "Kunstmuseum Bern",
+   "oeffnungszeiten": {
+    "mo": "geschlossen",
+    "di": "10:00-20:00",
+    "mi": "10:00-17:00",
+    "do": "10:00-17:00",
+    "fr": "10:00-17:00",
+    "sa": "10:00-17:00",
+    "so": "10:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "Heute (2026-10-12, Montag) geschlossen",
+   "bessere_seite": "https://www.kunstmuseumbern.ch/de/tickets",
+   "quelle": "https://www.kunstmuseumbern.ch/de"
+  }
+ },
+ "seiten": [
+  "https://www.kunstmuseumbern.ch/de/tickets",
+  "https://www.kunstmuseumbern.ch/de"
+ ],
+ "abgerufen": "2026-10-12T08:07:24",
+ "status": "ok"
+}

@@ -1,0 +1,32 @@
+{
+ "domain": "shedhalle.ch",
+ "website": "https://shedhalle.ch",
+ "haeuser": {
+  "Shedhalle": {
+   "haus": "Shedhalle",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": "12:00-19:00",
+    "fr": "12:00-19:00",
+    "sa": "12:00-17:00",
+    "so": "12:00-17:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "25 CHF",
+   "eintritt_ermaessigt": "5 CHF, 15 CHF",
+   "frei_fuer": "Personen mit Aufenthaltsausweis N, F, S",
+   "hinweis_oeffnung": "Öffnungszeiten der aktuellen Ausstellung \"Chorós: Alle zugleich\"",
+   "quelle": "https://shedhalle.ch/",
+   "bessere_seite": "https://shedhalle.ch/besuch/besuchsinfos/"
+  }
+ },
+ "seiten": [
+  "https://shedhalle.ch/besuch/besuchsinfos/",
+  "https://shedhalle.ch/about/info/",
+  "https://shedhalle.ch/"
+ ],
+ "abgerufen": "2026-10-12T08:10:29",
+ "status": "unvollständig"
+}

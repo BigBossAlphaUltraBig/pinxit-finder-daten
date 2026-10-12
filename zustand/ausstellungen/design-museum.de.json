@@ -1,0 +1,79 @@
+{
+ "domain": "design-museum.de",
+ "website": "http://www.design-museum.de/",
+ "haeuser": "Vitra Design Museum",
+ "land": "DE",
+ "ids": "Q700747",
+ "status": "ok",
+ "seiten": [
+  "https://www.design-museum.de/de/ausstellungen/aktuelle-ausstellungen.html",
+  "https://www.design-museum.de/de/ausstellungen/kommende-ausstellungen.html"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Geoffrey Bawa. Architektur für die Sinne",
+   "untertitel": "Architektur für die Sinne",
+   "beginn": "2026-09-26",
+   "ende": "2027-02-28",
+   "art": "wechselausstellung",
+   "fachgebiet": "architektur",
+   "haus": "Vitra Design Museum",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Geoffrey Bawa"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Geoffrey Bawa",
+   "url": "https://www.design-museum.de/de/ausstellungen/detailseiten/geoffrey-bawa.html",
+   "quelle": "https://www.design-museum.de/de/ausstellungen/aktuelle-ausstellungen.html",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Schlaf. Ein paralleles Universum",
+   "untertitel": "Ein paralleles Universum",
+   "beginn": "2027-03-20",
+   "ende": "2027-09-05",
+   "art": "wechselausstellung",
+   "fachgebiet": "design",
+   "haus": "Vitra Design Museum",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.design-museum.de/de/ausstellungen/kommende-ausstellungen.html",
+   "quelle": "https://www.design-museum.de/de/ausstellungen/kommende-ausstellungen.html",
+   "detail_geprueft": "2026-10-12"
+  },
+  {
+   "titel": "Verner Panton. Form, Farbe, Raum",
+   "untertitel": "Form, Farbe, Raum",
+   "beginn": "2026-05-23",
+   "ende": "2027-05-09",
+   "art": "unklar",
+   "fachgebiet": "design",
+   "haus": "Vitra Design Museum",
+   "rang": 2,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Verner Panton"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Verner Panton",
+   "url": "https://www.design-museum.de/de/ausstellungen/detailseiten/verner-panton-form-colour-space.html",
+   "quelle": "https://www.design-museum.de/de/ausstellungen/aktuelle-ausstellungen.html",
+   "detail_geprueft": "2026-10-12"
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52"
+}

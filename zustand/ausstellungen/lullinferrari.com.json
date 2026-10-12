@@ -1,0 +1,41 @@
+{
+ "domain": "lullinferrari.com",
+ "website": "https://www.lullinferrari.com",
+ "haeuser": "Lullin + Ferrari",
+ "land": "CH",
+ "ids": "node/11608415098",
+ "status": "ok",
+ "seiten": [
+  "https://www.lullinferrari.com/de/aktuell/",
+  "https://www.lullinferrari.com/en/home/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Sunset Sour",
+   "untertitel": "null",
+   "kuenstler": [
+    "Anne Morgenstern"
+   ],
+   "beginn": null,
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Lullin + Ferrari",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Anne Morgenstern",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.lullinferrari.com/de/aktuell",
+   "quelle": "https://www.lullinferrari.com/de/aktuell/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

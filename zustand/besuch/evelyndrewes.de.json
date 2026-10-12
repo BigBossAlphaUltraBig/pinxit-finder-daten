@@ -1,0 +1,29 @@
+{
+ "domain": "evelyndrewes.de",
+ "website": "https://evelyndrewes.de",
+ "haeuser": {
+  "Drewes Galerie": {
+   "haus": "Drewes Galerie",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": "12:00-17:00",
+    "fr": "12:00-17:00",
+    "sa": null,
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.evelyndrewes.de/kontakt/standort",
+   "hinweis_oeffnung": "Weitere Besuchszeiten nach individueller Vereinbarung möglich",
+   "quelle": "https://www.evelyndrewes.de/kontakt/standort"
+  }
+ },
+ "seiten": [
+  "https://www.evelyndrewes.de/ausstellungen/aktuell",
+  "https://www.evelyndrewes.de/galerie",
+  "https://www.evelyndrewes.de/kontakt/standort"
+ ],
+ "abgerufen": "2026-10-12T07:34:09",
+ "status": "unvollständig"
+}

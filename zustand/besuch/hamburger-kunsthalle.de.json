@@ -1,0 +1,26 @@
+{
+ "domain": "hamburger-kunsthalle.de",
+ "website": "https://www.hamburger-kunsthalle.de/",
+ "haeuser": {
+  "Hamburger Kunsthalle": {
+   "haus": "Hamburger Kunsthalle",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "10:00-18:00",
+    "mi": "10:00-18:00",
+    "do": "10:00-21:00",
+    "fr": "10:00-18:00",
+    "sa": "10:00-18:00",
+    "so": "10:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.hamburger-kunsthalle.de/de/preise-tickets-gutscheine",
+   "quelle": "https://www.hamburger-kunsthalle.de/de/oeffnungszeiten"
+  }
+ },
+ "seiten": [
+  "https://www.hamburger-kunsthalle.de/de/oeffnungszeiten"
+ ],
+ "abgerufen": "2026-10-12T08:05:32",
+ "status": "ok"
+}

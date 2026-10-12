@@ -1,0 +1,28 @@
+{
+ "domain": "galerie-schoettle.de",
+ "website": "https://galerie-schoettle.de",
+ "haeuser": {
+  "Galerie Rüdiger Schöttle": {
+   "haus": "Galerie Rüdiger Schöttle",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "12:00-16:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://galerie-schoettle.de/contact/",
+   "hinweis_oeffnung": "Öffnungszeiten und Eintrittsinformationen auf der Website nicht verfügbar",
+   "quelle": "https://galerie-schoettle.de/contact/"
+  }
+ },
+ "seiten": [
+  "https://galerie-schoettle.de/",
+  "https://galerie-schoettle.de/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:34:46",
+ "status": "ok"
+}

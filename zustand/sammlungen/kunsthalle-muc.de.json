@@ -1,0 +1,17 @@
+{
+ "domain": "kunsthalle-muc.de",
+ "website": "http://www.kunsthalle-muc.de/",
+ "haeuser": [
+  {
+   "id": "Q1367890",
+   "name": "Kunsthalle der Hypo-Kulturstiftung"
+  }
+ ],
+ "sammlungen": [],
+ "keine_sammlung": true,
+ "seiten": [
+  "https://www.kunsthalle-muc.de/"
+ ],
+ "abgerufen": "2026-10-12T08:12:53",
+ "status": "keine Sammlung"
+}

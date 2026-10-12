@@ -1,0 +1,27 @@
+{
+ "domain": "adk.de",
+ "website": "https://www.adk.de/",
+ "haeuser": {
+  "Akademie der Künste": {
+   "haus": "Akademie der Künste",
+   "oeffnungszeiten": {
+    "mo": "10:00-20:00",
+    "di": "10:00-20:00",
+    "mi": "10:00-20:00",
+    "do": "10:00-20:00",
+    "fr": "10:00-20:00",
+    "sa": "10:00-20:00",
+    "so": "10:00-20:00"
+   },
+   "eintritt_immer_frei": false,
+   "hinweis_oeffnung": "Am 24. und 31.12. geschlossen",
+   "bessere_seite": "https://adk.de/besuch/tickets-preise",
+   "quelle": "https://adk.de/besuch/oeffnungszeiten"
+  }
+ },
+ "seiten": [
+  "https://adk.de/besuch/oeffnungszeiten"
+ ],
+ "abgerufen": "2026-10-12T08:03:18",
+ "status": "ok"
+}

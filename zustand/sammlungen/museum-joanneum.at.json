@@ -1,0 +1,57 @@
+{
+ "domain": "museum-joanneum.at",
+ "website": "https://www.museum-joanneum.at/en/kunsthaus-graz",
+ "haeuser": [
+  {
+   "id": "Q597137",
+   "name": "Kunsthaus Graz"
+  },
+  {
+   "id": "Q1979511",
+   "name": "Neue Galerie Graz"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Neue Galerie Graz",
+   "titel": "Die Sammlung",
+   "art": "sammlungspraesentation",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Österreichische und internationale Kunst vom 19. Jahrhundert bis zur Gegenwart",
+   "url": "https://www.museum-joanneum.at/en/neue-galerie-graz/discover/collection",
+   "quelle": "https://www.museum-joanneum.at/en/neue-galerie-graz"
+  },
+  {
+   "haus": "Neue Galerie Graz",
+   "titel": "Highlights from the Collection",
+   "art": "dauerausstellung",
+   "epoche": "gemischt",
+   "fachgebiet": "bildende_kunst",
+   "kuenstler": [
+    "Günter Brus"
+   ],
+   "url": "https://www.museum-joanneum.at/en/neue-galerie-graz/our-programme/exhibitions/event/selection-1",
+   "quelle": "https://www.museum-joanneum.at/en/neue-galerie-graz"
+  },
+  {
+   "haus": "Neue Galerie Graz",
+   "titel": "BRUSEUM",
+   "art": "sammlungspraesentation",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Werke von Günter Brus, Dauerausstellungsbereich",
+   "kuenstler": [
+    "Günter Brus"
+   ],
+   "url": "https://www.museum-joanneum.at/en/neue-galerie-graz/discover/collection/bruseum",
+   "quelle": "https://www.museum-joanneum.at/en/neue-galerie-graz"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.museum-joanneum.at/en/neue-galerie-graz"
+ ],
+ "abgerufen": "2026-10-12T08:13:57",
+ "status": "ok"
+}

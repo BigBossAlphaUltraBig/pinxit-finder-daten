@@ -1,0 +1,110 @@
+{
+ "domain": "koelnischerkunstverein.de",
+ "website": "https://www.koelnischerkunstverein.de/",
+ "haeuser": "Kölnischer Kunstverein",
+ "land": "DE",
+ "ids": "Q1559479",
+ "status": "ok",
+ "seiten": [
+  "https://koelnischerkunstverein.de/aktuell/",
+  "https://koelnischerkunstverein.de/kalender/fuehrung-durch-die-ausstellungen-ser-serpas-sonderbare-tage-anatomical-theatre-und-the-leatherman-3/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Ser Serpas",
+   "untertitel": "sonderbare Tage",
+   "beginn": "2026-09-04",
+   "ende": "2026-12-13",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kölnischer Kunstverein",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Ser Serpas",
+   "kuenstler": [
+    "Ser Serpas"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://koelnischerkunstverein.de/wp-content/uploads/2026/08/sonderbare-Tage-ser-serpas-DE.pdf",
+   "quelle": "https://koelnischerkunstverein.de/aktuell/"
+  },
+  {
+   "titel": "Anatomical Theatre",
+   "untertitel": "Riphahnsaal",
+   "beginn": "2026-09-04",
+   "ende": "2026-12-13",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kölnischer Kunstverein",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Andreas Selg",
+    "Fabienne Boldt",
+    "Emanuel Rossetti"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://koelnischerkunstverein.de/wp-content/uploads/2026/08/Anatomical-Theatre-DE.pdf",
+   "quelle": "https://koelnischerkunstverein.de/aktuell/"
+  },
+  {
+   "titel": "The Leatherman",
+   "untertitel": null,
+   "beginn": "2026-09-04",
+   "ende": "2026-11-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kölnischer Kunstverein",
+   "rang": 3,
+   "epoche": "gemischt",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Leonore Mau",
+    "Reba Maybury",
+    "Herbert Tobias",
+    "Dean Sameshima",
+    "Wolfgang Tillmans"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://koelnischerkunstverein.de/wp-content/uploads/2026/08/The-Leatherman-DE-1.pdf",
+   "quelle": "https://koelnischerkunstverein.de/aktuell/"
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Führung durch die Ausstellungen Ser Serpas – sonderbare Tage, Anatomical Theatre und The Leatherman",
+   "untertitel": "Führung durch die Ausstellungen Ser Serpas – sonderbare Tage, Anatomical Theatre und The Leatherman",
+   "beginn": "2026-10-14",
+   "ende": "2026-10-14",
+   "art": "veranstaltung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kölnischer Kunstverein",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Ser Serpas"
+   ],
+   "url": "https://koelnischerkunstverein.de/kalender/fuehrung-durch-die-ausstellungen-ser-serpas-sonderbare-tage-anatomical-theatre-und-the-leatherman-3/",
+   "quelle": "https://koelnischerkunstverein.de/kalender/fuehrung-durch-die-ausstellungen-ser-serpas-sonderbare-tage-anatomical-theatre-und-the-leatherman-3/",
+   "eintritt": "frei",
+   "detail_geprueft": "2026-10-12",
+   "grund": "Veranstaltung, keine Ausstellung"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52"
+}

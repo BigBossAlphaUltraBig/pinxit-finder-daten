@@ -1,0 +1,29 @@
+{
+ "domain": "db-palaispopulaire.de",
+ "website": "https://db-palaispopulaire.de/",
+ "haeuser": {
+  "PalaisPopulaire": {
+   "haus": "PalaisPopulaire",
+   "oeffnungszeiten": {
+    "mo": "11:00-18:00",
+    "di": "geschlossen",
+    "mi": "11:00-18:00",
+    "do": "11:00-19:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": "11:00-18:00"
+   },
+   "eintritt_immer_frei": false,
+   "eintritt_regulaer": "5 €",
+   "eintritt_ermaessigt": "3 €",
+   "frei_fuer": "unter 18 Jahren",
+   "frei_wann": "Montags",
+   "quelle": "https://palaispopulaire.db.com/Visit/"
+  }
+ },
+ "seiten": [
+  "https://palaispopulaire.db.com/Visit/"
+ ],
+ "abgerufen": "2026-10-12T08:04:06",
+ "status": "ok"
+}

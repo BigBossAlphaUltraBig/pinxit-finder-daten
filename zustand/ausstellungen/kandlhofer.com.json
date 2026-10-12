@@ -1,0 +1,85 @@
+{
+ "domain": "kandlhofer.com",
+ "website": "https://www.kandlhofer.com",
+ "haeuser": "Galerie Kandlhofer",
+ "land": "AT",
+ "ids": "node/12285168501",
+ "status": "ok",
+ "seiten": [
+  "https://www.kandlhofer.com/exhibitions/current/",
+  "https://www.kandlhofer.com/de/exhibitions/183-curated-by-2026-clothes-kleidung/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Clothes (Kleidung)",
+   "untertitel": "Curated by 2026",
+   "beginn": "2026-09-15",
+   "ende": "2026-10-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Kandlhofer",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-09-11",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Puppies Puppies"
+   ],
+   "url": "https://www.kandlhofer.com/exhibitions/183-curated-by-2026-clothes-kleidung/",
+   "anderer_ort": null,
+   "quelle": "https://www.kandlhofer.com/exhibitions/current/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Madly meeting logically in this hour.",
+   "untertitel": null,
+   "beginn": "2026-09-15",
+   "ende": "2026-10-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Kandlhofer",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-09-11",
+   "einzelausstellung_von": "Franco Andrés",
+   "kuenstler": [
+    "Franco Andrés"
+   ],
+   "url": "https://www.kandlhofer.com/exhibitions/184-franco-andres-madly-meeting-logically-in-this-hour./",
+   "anderer_ort": null,
+   "quelle": "https://www.kandlhofer.com/exhibitions/current/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "CURATED BY 2026 CLOTHES (KLEIDUNG)",
+   "untertitel": "A solo exhibition by Puppies Puppies (Jade Guanaro Kuriki-Olivo), curated by Anna Roberta Goetz and Jade Guanaro Kuriki-Olivo",
+   "beginn": "2026-09-15",
+   "ende": "2026-10-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Kandlhofer",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Puppies Puppies (Jade Guanaro Kuriki-Olivo)"
+   ],
+   "eroeffnung": "2026-09-11",
+   "url": "https://www.kandlhofer.com/exhibitions/183-curated-by-2026-clothes-kleidung/",
+   "gemeinfrei": false,
+   "quelle": "https://www.kandlhofer.com/exhibitions/current/",
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 1
+}

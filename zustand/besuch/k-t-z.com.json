@@ -1,0 +1,29 @@
+{
+ "domain": "k-t-z.com",
+ "website": "https://k-t-z.com",
+ "haeuser": {
+  "Kraupa-Tuskany Zeidler": {
+   "haus": "Kraupa-Tuskany Zeidler",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": "11:00-18:00",
+    "mi": "11:00-18:00",
+    "do": "11:00-18:00",
+    "fr": "11:00-18:00",
+    "sa": "11:00-18:00",
+    "so": null
+   },
+   "eintritt_immer_frei": false,
+   "bessere_seite": "https://www.k-t-z.com/",
+   "quelle": "https://www.k-t-z.com/contact/",
+   "hinweis_oeffnung": "Berlin-Adresse (Regina-Jonas-Str.)"
+  }
+ },
+ "seiten": [
+  "https://www.k-t-z.com/exhibitions/87-branching-alex-carver-simon-denny-brook-hsu-rim-park/",
+  "https://www.k-t-z.com/",
+  "https://www.k-t-z.com/contact/"
+ ],
+ "abgerufen": "2026-10-12T07:36:30",
+ "status": "ok"
+}

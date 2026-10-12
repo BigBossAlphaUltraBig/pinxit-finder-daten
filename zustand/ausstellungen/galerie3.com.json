@@ -1,0 +1,89 @@
+{
+ "domain": "galerie3.com",
+ "website": "https://galerie3.com",
+ "haeuser": "Galerie3",
+ "land": "AT",
+ "ids": "galerie-galerie3-wien",
+ "status": "ok",
+ "seiten": [
+  "https://galerie3.com/exhibitions/",
+  "https://galerie3.com/exhibitions/get-intimate-a0d66582/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Get Intimate",
+   "untertitel": "",
+   "beginn": "2026-09-11",
+   "ende": "2026-10-23",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie3",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Margot Pilz",
+    "Janne Schipper"
+   ],
+   "eroeffnung": null,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "url": "https://galerie3.com/exhibitions/get-intimate-a0d66582/",
+   "quelle": "https://galerie3.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Mann beißt Hund",
+   "untertitel": "",
+   "beginn": "2026-09-26",
+   "ende": "2026-11-14",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie3",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Leo Mayr"
+   ],
+   "eroeffnung": null,
+   "schwerpunkt": null,
+   "anderer_ort": "Klagenfurt",
+   "einzelausstellung_von": "Leo Mayr",
+   "url": "https://galerie3.com/exhibitions/mann-beist-hund-b67ad094/",
+   "quelle": "https://galerie3.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Klagenfurt"
+  },
+  {
+   "titel": "Gunter Damisch",
+   "untertitel": "",
+   "beginn": "2026-09-26",
+   "ende": "2026-11-14",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie3",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Gunter Damisch"
+   ],
+   "eroeffnung": null,
+   "schwerpunkt": null,
+   "anderer_ort": "Klagenfurt | PLUS",
+   "einzelausstellung_von": "Gunter Damisch",
+   "url": "https://galerie3.com/exhibitions/62547faf/",
+   "quelle": "https://galerie3.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Klagenfurt | PLUS"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "vom_vorlauf_behalten": 0
+}

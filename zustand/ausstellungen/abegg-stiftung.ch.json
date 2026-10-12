@@ -1,0 +1,59 @@
+{
+ "domain": "abegg-stiftung.ch",
+ "website": "https://www.abegg-stiftung.ch",
+ "haeuser": "Abegg-Stiftung",
+ "land": "CH",
+ "ids": "Q318289",
+ "status": "ok",
+ "seiten": [
+  "https://www.abegg-stiftung.ch/ausstellung/sonderausstellung",
+  "https://www.abegg-stiftung.ch/ausstellung/sonderprasentation"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Zuhause in der Spätantike – Textile Innenausstattung des 4.–7. Jahrhunderts",
+   "untertitel": "Textile Innenausstattung des 4.–7. Jahrhunderts",
+   "beginn": "2026-04-26",
+   "ende": "2026-11-08",
+   "art": "wechselausstellung",
+   "fachgebiet": "kunsthandwerk",
+   "haus": "Abegg-Stiftung",
+   "rang": 1,
+   "epoche": "alte_meister",
+   "gemeinfrei": true,
+   "schwerpunkt": "Spätantike textile Innenausstattung und Wohnkultur",
+   "kuenstler": [],
+   "url": "https://www.abegg-stiftung.ch/ausstellung/sonderausstellung",
+   "quelle": "https://www.abegg-stiftung.ch/ausstellung/sonderausstellung",
+   "eroeffnung": null,
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Herbstpräsentation – Der Reliquienfund aus Inwil – Textile Schätze aus Mittelalter und Barock",
+   "untertitel": "Der Reliquienfund aus Inwil – Textile Schätze aus Mittelalter und Barock",
+   "beginn": "2026-09-16",
+   "ende": "2026-11-08",
+   "art": "wechselausstellung",
+   "fachgebiet": "kunsthandwerk",
+   "haus": "Abegg-Stiftung",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": true,
+   "schwerpunkt": "Mittelalterliche und barocke Textilien aus Reliquienschrein",
+   "kuenstler": [],
+   "anderer_ort": "Pfarrkirche St. Peter und Paul, Inwil",
+   "eroeffnung": null,
+   "url": "https://www.abegg-stiftung.ch/ausstellung/sonderprasentation",
+   "quelle": "https://www.abegg-stiftung.ch/ausstellung/sonderprasentation",
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: Pfarrkirche St. Peter und Paul, Inwil"
+  }
+ ],
+ "abgerufen": "2026-10-12T06:55:52",
+ "rueckfall": "claude-haiku-4-5-20251001",
+ "vom_vorlauf_behalten": 0
+}

@@ -1,0 +1,31 @@
+{
+ "domain": "kunstverein-wiesbaden.de",
+ "website": "http://www.kunstverein-wiesbaden.de/",
+ "haeuser": [
+  {
+   "id": "Q1774413",
+   "name": "Nassauischer Kunstverein"
+  }
+ ],
+ "sammlungen": [
+  {
+   "haus": "Nassauischer Kunstverein",
+   "titel": "Annea Lockwood / Piano Garden",
+   "art": "dauerausstellung",
+   "epoche": "zeitgenoessisch",
+   "fachgebiet": "bildende_kunst",
+   "untertitel": "Permanente Klanginstallation seit 2022",
+   "kuenstler": [
+    "Annea Lockwood"
+   ],
+   "url": "https://www.kunstverein-wiesbaden.de/permanent/annea-lockwood-piano-garden-2022",
+   "quelle": "https://www.kunstverein-wiesbaden.de/permanent/annea-lockwood-piano-garden-2022"
+  }
+ ],
+ "keine_sammlung": false,
+ "seiten": [
+  "https://www.kunstverein-wiesbaden.de/permanent/annea-lockwood-piano-garden-2022"
+ ],
+ "abgerufen": "2026-10-08T22:19:19",
+ "status": "ok"
+}

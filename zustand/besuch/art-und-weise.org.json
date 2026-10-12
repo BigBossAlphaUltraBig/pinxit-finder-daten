@@ -1,0 +1,26 @@
+{
+ "domain": "art-und-weise.org",
+ "website": "http://www.art-und-weise.org",
+ "haeuser": {
+  "_artundweise kunst- und denkraum": {
+   "haus": "_artundweise kunst- und denkraum",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": "16:00-19:00",
+    "fr": "14:00-19:00",
+    "sa": "14:00-17:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "hinweis_oeffnung": "Ausstellungsspezifische Zeiten, gerne nach Vereinbarung",
+   "quelle": "https://www.art-und-weise.org/"
+  }
+ },
+ "seiten": [
+  "https://www.art-und-weise.org/"
+ ],
+ "abgerufen": "2026-10-12T08:03:41",
+ "status": "unvollständig"
+}

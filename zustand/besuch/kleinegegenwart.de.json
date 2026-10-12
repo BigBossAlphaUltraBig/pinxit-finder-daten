@@ -1,0 +1,28 @@
+{
+ "domain": "kleinegegenwart.de",
+ "website": "https://kleinegegenwart.de",
+ "haeuser": {
+  "Kleine Gegenwart": {
+   "haus": "Kleine Gegenwart",
+   "oeffnungszeiten": {
+    "mo": null,
+    "di": null,
+    "mi": null,
+    "do": "14:00-19:00",
+    "fr": "14:00-19:00",
+    "sa": "14:00-19:00",
+    "so": null
+   },
+   "eintritt_immer_frei": true,
+   "bessere_seite": "https://www.kleinegegenwart.de/",
+   "hinweis_oeffnung": "während den Ausstellungen sowie nach Absprache",
+   "quelle": "https://www.kleinegegenwart.de/contact"
+  }
+ },
+ "seiten": [
+  "https://www.kleinegegenwart.de/",
+  "https://www.kleinegegenwart.de/contact"
+ ],
+ "abgerufen": "2026-10-12T07:36:38",
+ "status": "unvollständig"
+}
