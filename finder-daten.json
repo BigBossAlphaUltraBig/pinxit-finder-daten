@@ -1,6 +1,6 @@
 {
  "stand": "2026-10-15",
- "version": "2026-10-15T08:32:24Z",
+ "version": "2026-10-15T08:33:30Z",
  "haeuser": [
   {
    "id": "node-3445660920",
@@ -20662,7 +20662,7 @@
    "id": "2eb1690f4bf5",
    "hausId": "nachtrag-akademie-der-k-nste",
    "titel": "Metaxy : Zwischen Zerstörung und Wiederaufbau",
-   "untertitel": "Zwischen Zerstörung und Wiederaufbau",
+   "untertitel": "",
    "kuenstler": [
     "Hala Alnaji",
     "Archigrest",
@@ -22041,27 +22041,10 @@
    "eroeffnung": "2026-09-10T18:00"
   },
   {
-   "id": "0fba35403bab",
-   "hausId": "way-871078344",
-   "titel": "Robert Rauschenberg – Crosstown",
-   "untertitel": "",
-   "kuenstler": [
-    "Robert Rauschenberg"
-   ],
-   "beginn": "2026-09-11",
-   "ende": "2026-11-21",
-   "art": "wechselausstellung",
-   "epoche": "moderne",
-   "fachgebiet": "bildende_kunst",
-   "rang": 1,
-   "url": "https://www.bastian-gallery.com/ausstellungen/robert-rauschenberg-crosstown/",
-   "eroeffnung": "2026-09-10"
-  },
-  {
    "id": "1b87f5c46c59",
    "hausId": "Q811389",
    "titel": "Eine Million Objekte. Florian de Brün fotografiert die Sammlung",
-   "untertitel": "Florian de Brün fotografiert die Sammlung",
+   "untertitel": "",
    "kuenstler": [
     "Florian de Brün"
    ],
@@ -22193,22 +22176,6 @@
    "fachgebiet": "bildende_kunst",
    "rang": 2,
    "url": "https://behncke-gallery.com/de/exhibitions/metamorphoses-young-brazilian-art"
-  },
-  {
-   "id": "c0454216444d",
-   "hausId": "node-3752304094",
-   "titel": "Amélie Esterházy \"in uno omnia\"",
-   "untertitel": "",
-   "kuenstler": [
-    "Amélie Esterházy"
-   ],
-   "beginn": "2026-09-17",
-   "ende": "2026-10-31",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 1,
-   "url": "https://behncke-gallery.com/en/exhibitions/in-uno-omnia"
   },
   {
    "id": "72c06e59e1be",
@@ -22880,24 +22847,6 @@
    "eroeffnung": "2026-09-10T12:00"
   },
   {
-   "id": "26a6c375cb8a",
-   "hausId": "galerie-charim-galerie-wien",
-   "titel": "Manuals for Getting By",
-   "untertitel": "curated by Tamar Margalit",
-   "kuenstler": [
-    "Chen Cohen",
-    "Melanie Ender"
-   ],
-   "beginn": "2026-09-11",
-   "ende": "2026-11-03",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 1,
-   "url": "https://www.charimgalerie.at/exhibition/curatedby26",
-   "eroeffnung": "2026-09-10T12:00"
-  },
-  {
    "id": "6070bc5ccfb9",
    "hausId": "node-5408778943",
    "titel": "Search for Life",
@@ -23204,23 +23153,6 @@
    "eroeffnung": "2026-09-12T16:00"
   },
   {
-   "id": "b3bf504a4b2d",
-   "hausId": "Q23786353",
-   "titel": "Carolina Pérez Pallares: Die Flut aus meiner Hand",
-   "untertitel": "",
-   "kuenstler": [
-    "Carolina Pérez Pallares"
-   ],
-   "beginn": "2026-09-18",
-   "ende": "2026-11-22",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 1,
-   "url": "https://www.d21-leipzig.de/de/ausstellung/d21-solo-carolina-perez-palllares-die-flut-aus-meiner-hand/",
-   "eroeffnung": "2026-09-18T19:00"
-  },
-  {
    "id": "921d6013dd60",
    "hausId": "Q23786353",
    "titel": "Die Flut aus meiner Hand",
@@ -23420,23 +23352,6 @@
    }
   },
   {
-   "id": "950c2f44792b",
-   "hausId": "Q1183156",
-   "titel": "Hito Steyerl – Deine Mudda macht Show",
-   "untertitel": "",
-   "kuenstler": [
-    "Hito Steyerl"
-   ],
-   "beginn": "2026-10-30",
-   "ende": "2027-03-29",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "medienkunst",
-   "rang": 4,
-   "url": "https://www.deichtorhallen.de/de/ausstellungen/hito-steyerl/",
-   "eroeffnung": "2026-10-29T19:00"
-  },
-  {
    "id": "87f76578ed31",
    "hausId": "Q1183156",
    "titel": "Deine Mudda macht Show",
@@ -23457,20 +23372,6 @@
    "id": "2473f1eda8e7",
    "hausId": "Q1183156",
    "titel": "Tomorrow’s Ghosts – (Zeit-)Geister des Fotografischen",
-   "untertitel": "Expanded Horizons – Neue fotografische Perspektiven",
-   "kuenstler": [],
-   "beginn": "2026-11-20",
-   "ende": "2027-04-04",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "fotografie",
-   "rang": 5,
-   "url": "https://www.deichtorhallen.de/de/ausstellungen/expanded-horizons/"
-  },
-  {
-   "id": "5d5ad4c9f940",
-   "hausId": "Q1183156",
-   "titel": "(Zeit-)Geister des Fotografischen",
    "untertitel": "Expanded Horizons – Neue fotografische Perspektiven",
    "kuenstler": [
     "Teresa Fischer",
@@ -23915,22 +23816,6 @@
    "url": "https://fabianlang.ch/artworks-v/xiao-guo-hui"
   },
   {
-   "id": "944264f47d85",
-   "hausId": "galerie-fabienne-levy-gallery-zuerich",
-   "titel": "Unfamiliar, Luminous, Remote",
-   "untertitel": "Lausanne & Geneva",
-   "kuenstler": [
-    "Amit Berman"
-   ],
-   "beginn": "2026-09-10",
-   "ende": "2026-11-07",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 1,
-   "url": "https://www.fabiennelevy.com/exhibitions/63-lausanne-geneva-unfamiliar-luminous-remote-amit-berman/"
-  },
-  {
    "id": "39d48e49b36c",
    "hausId": "galerie-fabienne-levy-gallery-zuerich",
    "titel": "Lausanne & Geneva – Unfamiliar, Luminous, Remote",
@@ -24034,7 +23919,7 @@
    "id": "a1c2e918071e",
    "hausId": "Q1444994",
    "titel": "Propaganda – Flooding the Zone with Shit – It’s About Money, Stupid!",
-   "untertitel": "Flooding the Zone with Shit – It's About Money, Stupid!",
+   "untertitel": "",
    "kuenstler": [
     "Joshua Citarella",
     "Ganslmeier&Zibelnik",
@@ -24752,23 +24637,6 @@
    "url": "https://galerie-spielvogel.com/"
   },
   {
-   "id": "cfbf9c430ec8",
-   "hausId": "Q1491884",
-   "titel": "Angela Glajcar. Not a cruise, a crossing",
-   "untertitel": "Not a cruise, a crossing",
-   "kuenstler": [
-    "Angela Glajcar"
-   ],
-   "beginn": "2026-07-25",
-   "ende": "2026-10-18",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 1,
-   "url": "https://www.galerie-stihl-waiblingen.de/ausstellung/Aktuelle-Ausstellungen",
-   "eroeffnung": "2026-07-24"
-  },
-  {
    "id": "4f6e48022c3e",
    "hausId": "Q1491884",
    "titel": "Welcome to Springfield!",
@@ -24788,7 +24656,7 @@
    "id": "53d1cf786da2",
    "hausId": "Q1491884",
    "titel": "Not a cruise, a crossing",
-   "untertitel": "Not a cruise, a crossing",
+   "untertitel": "",
    "kuenstler": [
     "Angela Glajcar"
    ],
@@ -25797,22 +25665,6 @@
    "fachgebiet": "bildende_kunst",
    "rang": 5,
    "url": "https://www.gezwanzig.com/a-variationen/"
-  },
-  {
-   "id": "3ac9fb2ae152",
-   "hausId": "Q1491911",
-   "titel": "Heidi Specker: DamenzimmerHerrenschnitt. Eine Hommage an Aenne Biermann",
-   "untertitel": "",
-   "kuenstler": [
-    "Heidi Specker"
-   ],
-   "beginn": "2026-09-05",
-   "ende": "2027-01-10",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "fotografie",
-   "rang": 3,
-   "url": "https://gfzk.de/aktivitaeten/ausstellungen/vorschau/"
   },
   {
    "id": "e94e0220fed5",
@@ -26934,7 +26786,7 @@
    "id": "72ce331474c9",
    "hausId": "galerie-hidde-van-seggelen-hamburg",
    "titel": "Lecture on Birdsong",
-   "untertitel": "Andy Holden – Lecture on Birdsong",
+   "untertitel": "",
    "kuenstler": [
     "Andy Holden"
    ],
@@ -26959,22 +26811,6 @@
    "fachgebiet": "bildende_kunst",
    "rang": 2,
    "url": "https://hiddevanseggelen.com/exhibitions/suchan-kinoshita-f9564b53/"
-  },
-  {
-   "id": "4c5211a035e6",
-   "hausId": "galerie-hidde-van-seggelen-hamburg",
-   "titel": "Andy Holden – Lecture on Birdsong",
-   "untertitel": "",
-   "kuenstler": [
-    "Andy Holden"
-   ],
-   "beginn": "2026-09-03",
-   "ende": "2026-10-24",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 1,
-   "url": "https://hiddevanseggelen.com/exhibitions/andy-holden-lecture-on-birdsong-80ef5341/"
   },
   {
    "id": "f06a644eaeb6",
@@ -28072,23 +27908,6 @@
    "eroeffnung": "2026-09-03"
   },
   {
-   "id": "6d9e72a6bbc4",
-   "hausId": "Q27479797",
-   "titel": "Beat Jost – Schöne neue Welt",
-   "untertitel": "Schöne neue Welt",
-   "kuenstler": [
-    "Beat Jost"
-   ],
-   "beginn": "2026-09-04",
-   "ende": "2027-02-07",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 2,
-   "url": "https://kornhausforum.ch/de/ausstellung/beat-jost-schoene-neue-welt/",
-   "eroeffnung": "2026-09-03"
-  },
-  {
    "id": "4a0b58daade8",
    "hausId": "Q27479797",
    "titel": "Schöne neue Welt",
@@ -28233,37 +28052,6 @@
    "eroeffnung": "2026-10-09T19:00"
   },
   {
-   "id": "ba33f001d739",
-   "hausId": "way-28098273",
-   "titel": "Grizedale Arts & Adam Sutherland: ()Print()",
-   "untertitel": "()Print()",
-   "kuenstler": [
-    "Grizedale Arts",
-    "Adam Sutherland"
-   ],
-   "beginn": "2026-05-22",
-   "ende": "2026-11-29",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 1,
-   "url": "https://kuenstlerhaus.de/#deep::print-2"
-  },
-  {
-   "id": "2bc6ed16af55",
-   "hausId": "way-28098273",
-   "titel": "Laughing While the House Is Burning",
-   "untertitel": "",
-   "kuenstler": [],
-   "beginn": "2026-10-10",
-   "ende": "2027-01-31",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 2,
-   "url": "https://kuenstlerhaus.de/#deep::laughing-while-the-house-is-burning-2"
-  },
-  {
    "id": "58935e3ab31a",
    "hausId": "way-28098273",
    "titel": "()Print()",
@@ -28284,7 +28072,7 @@
    "id": "6e68563ae81b",
    "hausId": "way-28098273",
    "titel": "-ATI: Laughing While the House Is Burning",
-   "untertitel": "-ATI",
+   "untertitel": "",
    "kuenstler": [],
    "beginn": "2026-10-10",
    "ende": "2027-01-31",
@@ -28357,24 +28145,6 @@
    "url": "https://kunstgewerbemuseum.skd.museum/ausstellungen/dauerausstellung/"
   },
   {
-   "id": "31ba95b6ad23",
-   "hausId": "Q612774",
-   "titel": "As We Sleep",
-   "untertitel": "Amanat – As We Sleep",
-   "kuenstler": [
-    "Saodat Ismailova",
-    "Amanat"
-   ],
-   "beginn": "2026-09-11",
-   "ende": "2026-11-22",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 1,
-   "url": "https://kunsthallebern.ch/en/exhibitions/2026-saodat-ismailova-amanat-as-we-sleep",
-   "eroeffnung": "2026-09-10T18:00"
-  },
-  {
    "id": "b2594b28f33a",
    "hausId": "Q612774",
    "titel": "Cantonale Berne Jura 2026/2027",
@@ -28424,7 +28194,7 @@
    "id": "662897ffb251",
    "hausId": "Q612774",
    "titel": "Amanat – As We Sleep",
-   "untertitel": "Amanat – As We Sleep",
+   "untertitel": "",
    "kuenstler": [
     "Saodat Ismailova"
    ],
@@ -29495,7 +29265,7 @@
    "id": "43f6f54b642c",
    "hausId": "Q461277",
    "titel": "Niki de Saint Phalle. Dream Machine",
-   "untertitel": "Niki de Saint Phalle. Dream Machine",
+   "untertitel": "",
    "kuenstler": [
     "Niki de Saint Phalle"
    ],
@@ -29511,7 +29281,7 @@
    "id": "7a14d9c2e661",
    "hausId": "Q461277",
    "titel": "Immendorff",
-   "untertitel": "",
+   "untertitel": "Die Retrospektive",
    "kuenstler": [
     "Jörg Immendorff"
    ],
@@ -29519,20 +29289,6 @@
    "ende": "2027-01-10",
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 2,
-   "url": "https://www.kunstpalast.de/de/event/immendorff/"
-  },
-  {
-   "id": "c09155983a70",
-   "hausId": "Q461277",
-   "titel": "Jörg Immendorff",
-   "untertitel": "Die Retrospektive",
-   "kuenstler": [],
-   "beginn": "2026-09-25",
-   "ende": "2027-01-10",
-   "art": "wechselausstellung",
-   "epoche": "moderne",
    "fachgebiet": "bildende_kunst",
    "rang": 2,
    "url": "https://www.kunstpalast.de/de/event/immendorff/"
@@ -30297,29 +30053,6 @@
    "eroeffnung": "2026-10-02T19:00"
   },
   {
-   "id": "f2f5c022b5ff",
-   "hausId": "Q1792296",
-   "titel": "Susan Hiller Bad Dreams",
-   "untertitel": "",
-   "kuenstler": [
-    "Susan Hiller"
-   ],
-   "beginn": "2026-10-17",
-   "ende": "2027-01-10",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 1,
-   "url": "https://www.kw-berlin.de/de/ausstellungen/susan-hiller-bad-dreams",
-   "kuenstlerInfo": {
-    "name": "Susan Hiller",
-    "lebensdaten": "1940–2019 (Tallahassee – London)",
-    "fakten": "Künstlerin, Fotografin, Multimedia-Künstlerin · Vereinigte Staaten",
-    "kurztext": "Die britisch-amerikanische Künstlerin Susan Hiller arbeitete mit Multimedia und beschäftigte sich mit Phänomenen, die sich wissenschaftlich nicht einfach erklären lassen: Träume, Spiritualität, mystische Erfahrungen. Sie nutzte das Internet früh als künstlerisches Medium und untersuchte, wie alltägliche Dinge durch Kontext und Erzählungen Bedeutung erhalten.",
-    "kurztext_en": "The British-American artist Susan Hiller worked with multimedia and engaged with phenomena that cannot be easily explained scientifically: dreams, spirituality, mystical experiences. She adopted the Internet early as an artistic medium and investigated how everyday things acquire meaning through context and narratives."
-   }
-  },
-  {
    "id": "0cd0e8ac5019",
    "hausId": "Q1792296",
    "titel": "Ousssean",
@@ -30382,7 +30115,7 @@
    "id": "734367f39422",
    "hausId": "Q1792296",
    "titel": "Bad Dreams",
-   "untertitel": "Bad Dreams",
+   "untertitel": "",
    "kuenstler": [
     "Susan Hiller"
    ],
@@ -30483,7 +30216,7 @@
    "id": "160f952ac51e",
    "hausId": "Q262234",
    "titel": "Über die Welt hinaus. Der Blaue Reiter",
-   "untertitel": "Der Blaue Reiter",
+   "untertitel": "",
    "kuenstler": [
     "Albert Bloch",
     "Erma Bossi",
@@ -32047,24 +31780,6 @@
    "eroeffnung": "2026-10-22T18:00"
   },
   {
-   "id": "40b7fd2de1ff",
-   "hausId": "galerie-galerie-martin-janda-wien",
-   "titel": "Manon de Boer, Chantal Akerman. Her Voice",
-   "untertitel": "",
-   "kuenstler": [
-    "Manon de Boer",
-    "Chantal Akerman"
-   ],
-   "beginn": "2026-09-11",
-   "ende": "2026-10-17",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "medienkunst",
-   "rang": 2,
-   "url": "https://www.martinjanda.at/exhibitions/her-voice/",
-   "eroeffnung": "2026-09-11T12:00"
-  },
-  {
    "id": "1c911a6bac3a",
    "hausId": "galerie-galerie-martin-janda-wien",
    "titel": "Ian Wilson. There is a discussion.",
@@ -32085,7 +31800,7 @@
    "id": "304397da6de1",
    "hausId": "galerie-galerie-martin-janda-wien",
    "titel": "Her Voice",
-   "untertitel": "Manon de Boer, Chantal Akerman",
+   "untertitel": "",
    "kuenstler": [
     "Manon de Boer",
     "Chantal Akerman"
@@ -32095,7 +31810,7 @@
    "art": "wechselausstellung",
    "epoche": "zeitgenoessisch",
    "fachgebiet": "medienkunst",
-   "rang": 3,
+   "rang": 2,
    "url": "https://www.martinjanda.at/exhibitions/her-voice/",
    "eroeffnung": "2026-09-11T12:00"
   },
@@ -32725,22 +32440,6 @@
    "url": "https://www.mkg-hamburg.de/ausstellungen/sara-sallam-fuersorge"
   },
   {
-   "id": "b97703c84b7a",
-   "hausId": "Q896052",
-   "titel": "Sara Sallam – Fürsorge",
-   "untertitel": "",
-   "kuenstler": [
-    "Sara Sallam"
-   ],
-   "beginn": "2026-06-05",
-   "ende": "2027-01-10",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 3,
-   "url": "https://www.mkg-hamburg.de/ausstellungen/sara-sallam-fuersorge"
-  },
-  {
    "id": "2e3ae43c508e",
    "hausId": "Q896052",
    "titel": "Foto: Hans Hansen",
@@ -33164,22 +32863,6 @@
    "url": "https://muellermodern.com/exhibitions/39/overview/"
   },
   {
-   "id": "1ad1bf3060c0",
-   "hausId": "galerie-tobias-mueller-modern-art-zuerich",
-   "titel": "Olivier Mosset – Drive Through",
-   "untertitel": "",
-   "kuenstler": [
-    "Olivier Mosset"
-   ],
-   "beginn": "2026-09-05",
-   "ende": "2026-10-31",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 1,
-   "url": "https://muellermodern.com/exhibitions/39/overview/"
-  },
-  {
    "id": "fa9f8da09580",
    "hausId": "galerie-multiple-box-hamburg",
    "titel": "Paul Wunderlich",
@@ -33305,29 +32988,6 @@
    "id": "1ad4012330f7",
    "hausId": "Q258597",
    "titel": "anything, anything",
-   "untertitel": "",
-   "kuenstler": [
-    "Kate Newby"
-   ],
-   "beginn": "2026-05-14",
-   "ende": "2027-05-30",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 3,
-   "url": "https://www.museum-brandhorst.de/ausstellungen/kate-newby-anything-anything/",
-   "kuenstlerInfo": {
-    "name": "Kate Newby",
-    "lebensdaten": "geb. 1979 in Region Auckland",
-    "fakten": "Konzeptkünstlerin, bildende Künstlerin, Fotografin · Neuseeland",
-    "kurztext": "Kate Newby aus Auckland arbeitet mit ortsspezifischen Interventionen, häufig in Form von Skulptur und Zeichnung im öffentlichen Raum. Sie nutzt Materialien wie Ziegel, auf denen sie beobachtete Spuren durch Zeichnungen und Muster umsetzt. Ihre Werke erforschen Vergänglichkeit, die soziale Textur von Orten und deren historische Schichten.",
-    "kurztext_en": "Kate Newby from Auckland works with site-specific interventions, often in the form of sculpture and drawing in public space. She uses materials such as bricks, on which she translates observed traces into drawings and patterns. Her works explore ephemerality, the social texture of places and their historical layers."
-   }
-  },
-  {
-   "id": "a7908c861199",
-   "hausId": "Q258597",
-   "titel": "Kate Newby: anything, anything",
    "untertitel": "",
    "kuenstler": [
     "Kate Newby"
@@ -34100,7 +33760,7 @@
    "id": "0949fe16be42",
    "hausId": "Q2719577",
    "titel": "like a warrior",
-   "untertitel": "like a warrior",
+   "untertitel": "",
    "kuenstler": [
     "Cihan Çakmak"
    ],
@@ -34149,7 +33809,7 @@
    "id": "64cf455f887a",
    "hausId": "Q2719577",
    "titel": "Endless Canvas",
-   "untertitel": "Endless Canvas",
+   "untertitel": "",
    "kuenstler": [
     "Tilo Schulz"
    ],
@@ -34197,57 +33857,6 @@
    "url": "https://www.museum-morsbroich.de/ausstellungen/ausstellungen/anja-utler-fuer-ein-zartes-daheim/",
    "eintritt": "11 €",
    "eroeffnung": "2025-11-23T12:00"
-  },
-  {
-   "id": "f97058558ef4",
-   "hausId": "Q2719577",
-   "titel": "Cihan Çakmak. like a warrior",
-   "untertitel": "like a warrior",
-   "kuenstler": [
-    "Cihan Çakmak"
-   ],
-   "beginn": "2026-07-12",
-   "ende": "2026-11-08",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 1,
-   "url": "https://www.museum-morsbroich.de/ausstellungen/ausstellungen/cihan-cakmak-like-a-warrior/",
-   "eroeffnung": "2026-07-12T12:00"
-  },
-  {
-   "id": "c805bfdfca0e",
-   "hausId": "Q2719577",
-   "titel": "Renate Behla. Die Ergänzerin.",
-   "untertitel": "Zeichnungen und Objekte",
-   "kuenstler": [
-    "Renate Behla"
-   ],
-   "beginn": "2026-09-20",
-   "ende": "2027-02-07",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 2,
-   "url": "https://www.museum-morsbroich.de/ausstellungen/ausstellungen/renate-behla-die-ergaenzerin-zeichnungen-und-objekte/",
-   "eroeffnung": "2026-09-20T15:00"
-  },
-  {
-   "id": "fb86df6a2b4a",
-   "hausId": "Q2719577",
-   "titel": "Tilo Schulz. ENDLESS CANVAS",
-   "untertitel": "Endless Canvas",
-   "kuenstler": [
-    "Tilo Schulz"
-   ],
-   "beginn": "2026-10-02",
-   "ende": "2027-01-24",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 3,
-   "url": "https://www.museum-morsbroich.de/ausstellungen/ausstellungen/tilo-schulz-endless-canvas/",
-   "eroeffnung": "2026-10-02T18:00"
   },
   {
    "id": "62957a074e2d",
@@ -35115,7 +34724,7 @@
    "id": "a733966531f2",
    "hausId": "galerie-paulina-caspari-muenchen",
    "titel": "Transit. After the Journey",
-   "untertitel": "After the Journey",
+   "untertitel": "",
    "kuenstler": [
     "Thomas Rentmeister"
    ],
@@ -37799,7 +37408,7 @@
    "id": "dad3eef823f7",
    "hausId": "nachtrag-kunstgewerbemuseum",
    "titel": "Sofie Dawo. Textile Experimente",
-   "untertitel": "Textile Experimente",
+   "untertitel": "",
    "kuenstler": [
     "Sofie Dawo"
    ],
@@ -37944,7 +37553,7 @@
    "id": "3b1a2ba9fdfe",
    "hausId": "nachtrag-museum-f-r-fotografie",
    "titel": "Intermezzo. Revisiting Helmut Newton",
-   "untertitel": "Revisiting Helmut Newton",
+   "untertitel": "",
    "kuenstler": [
     "Helmut Newton"
    ],
@@ -38730,28 +38339,7 @@
    "id": "35b6019b3344",
    "hausId": "way-184592746",
    "titel": "Meister der Anime-Szenografie",
-   "untertitel": "Meister der Anime-Szenografie",
-   "kuenstler": [
-    "Nizo Yamamoto"
-   ],
-   "beginn": "2026-10-03",
-   "ende": "2027-01-10",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 1,
-   "url": "http://www.tchoban-foundation.de/10-0-Ausstellungen.html",
-   "kuenstlerInfo": {
-    "name": "Nizo Yamamoto",
-    "kurztext": "Nizo Yamamoto war ein japanischer Art Director des Animationsfilms, der über vier Jahrzehnte an bekannten Produktionen wie Das Schloss im Himmel, Die letzten Glühwürmchen und Prinzessin Mononoke mitarbeitete. Seine Arbeiten als Szenograf und Hintergrundkünstler fanden weltweite Verbreitung durch diese Filme.",
-    "kurztext_en": "Nizo Yamamoto was a Japanese art director of animated film who worked on renowned productions such as Castle in the Sky, Grave of the Fireflies, and Princess Mononoke over four decades. His work as a scenographer and background artist achieved worldwide distribution through these films."
-   }
-  },
-  {
-   "id": "16c9520504c6",
-   "hausId": "way-184592746",
-   "titel": "Nizo Yamamoto – Meister der Anime-Szenografie",
-   "untertitel": "Meister der Anime-Szenografie",
+   "untertitel": "",
    "kuenstler": [
     "Nizo Yamamoto"
    ],
@@ -38788,7 +38376,7 @@
    "id": "0f1f4e0c96b5",
    "hausId": "Q180904",
    "titel": "Fuzzy Logic",
-   "untertitel": "Nicolas Darrot. Fuzzy Logic",
+   "untertitel": "",
    "kuenstler": [
     "Nicolas Darrot"
    ],
@@ -38835,7 +38423,7 @@
    "id": "e83edffc15d9",
    "hausId": "Q180904",
    "titel": "Les témoins oculistes. Der Sehsinn in der Kunst",
-   "untertitel": "Der Sehsinn in der Kunst",
+   "untertitel": "",
    "kuenstler": [
     "Barbara Bloom",
     "Sophie Calle",
@@ -38872,23 +38460,6 @@
    "fachgebiet": "bildende_kunst",
    "rang": 5,
    "url": "https://www.tinguely.ch/de/ausstellungen/ausstellungen/2026/les-temoins-oculistes.html"
-  },
-  {
-   "id": "6362d7804544",
-   "hausId": "Q180904",
-   "titel": "Nicolas Darrot. Fuzzy Logic",
-   "untertitel": "Fuzzy Logic",
-   "kuenstler": [
-    "Nicolas Darrot"
-   ],
-   "beginn": "2026-03-05",
-   "ende": "2027-03-07",
-   "art": "wechselausstellung",
-   "epoche": "zeitgenoessisch",
-   "fachgebiet": "bildende_kunst",
-   "rang": 3,
-   "url": "https://www.tinguely.ch/de/ausstellungen/ausstellungen/2026/nicolas-darrot.html",
-   "eroeffnung": "2026-03-05T18:30"
   },
   {
    "id": "a3110f06adb8",
