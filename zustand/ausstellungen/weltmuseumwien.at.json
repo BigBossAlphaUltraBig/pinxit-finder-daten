@@ -40,24 +40,9 @@
     "Abdullah M.I. Syed"
    ],
    "quelle": "https://www.weltmuseumwien.at/ausstellungen",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "erstmals": "2026-10-12",
    "verpasst": 0
-  },
-  {
-   "titel": "OPEN SPACE",
-   "untertitel": "Ein Raum für viele Stimmen",
-   "beginn": "2026-10-08",
-   "ende": "2027-04-18",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Weltmuseum Wien",
-   "rang": 4,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "url": "https://www.weltmuseumwien.at/ausstellungen/open-space",
-   "quelle": "https://www.weltmuseumwien.at/ausstellungen",
-   "verpasst": 1
   }
  ],
  "aussortiert": [
@@ -67,10 +52,10 @@
    "beginn": null,
    "ende": "2027-01-24",
    "art": "wechselausstellung",
-   "fachgebiet": "geschichte",
+   "fachgebiet": "sonstiges",
    "haus": "Weltmuseum Wien",
    "rang": 2,
-   "epoche": "gemischt",
+   "epoche": "andere",
    "einzelausstellung_von": null,
    "url": "https://www.weltmuseumwien.at/ausstellungen/ishir-lebendige-erinnerung-aus-paraguay",
    "gemeinfrei": false,
@@ -81,8 +66,8 @@
     "Salmi Lopez Balbuena"
    ],
    "quelle": "https://www.weltmuseumwien.at/ausstellungen",
-   "detail_geprueft": "2026-10-12",
-   "grund": "keine Kunst (geschichte)"
+   "detail_geprueft": "2026-10-15",
+   "grund": "keine Kunst (sonstiges)"
   },
   {
    "titel": "Verborgene Geschichten",
@@ -101,12 +86,34 @@
    "anderer_ort": null,
    "eroeffnung": null,
    "kuenstler": [
-    "Henrie Dennis",
-    "Bettina Zorn",
-    "Tobias Mörike"
+    "Anwar Saeed",
+    "Rashid Rana",
+    "Salima Hashmi",
+    "Quddus Mirza",
+    "Laila Rahman"
    ],
    "quelle": "https://www.weltmuseumwien.at/ausstellungen",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
+   "grund": "keine Kunst (sonstiges)"
+  },
+  {
+   "titel": "Eine Perlenkette von Geschichten",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "sonstiges",
+   "haus": "Weltmuseum Wien",
+   "rang": 4,
+   "epoche": "gemischt",
+   "einzelausstellung_von": null,
+   "url": "https://www.weltmuseumwien.at/ausstellungen/schausammlung",
+   "gemeinfrei": false,
+   "schwerpunkt": "Vielfältige Objekte aus aller Welt in einer Schausammlung",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "kuenstler": [],
+   "quelle": "https://www.weltmuseumwien.at/ausstellungen",
    "grund": "keine Kunst (sonstiges)"
   },
   {
@@ -117,8 +124,8 @@
    "art": "wechselausstellung",
    "fachgebiet": "sonstiges",
    "haus": "Weltmuseum Wien",
-   "rang": 4,
-   "epoche": "zeitgenoessisch",
+   "rang": 5,
+   "epoche": "gemischt",
    "einzelausstellung_von": null,
    "url": "https://www.weltmuseumwien.at/ausstellungen/open-space",
    "gemeinfrei": false,
@@ -132,30 +139,10 @@
    ],
    "quelle": "https://www.weltmuseumwien.at/ausstellungen",
    "eintritt": "Freier Eintritt",
-   "detail_geprueft": "2026-10-12",
-   "grund": "keine Kunst (sonstiges)"
-  },
-  {
-   "titel": "Schausammlung",
-   "untertitel": "Eine Perlenkette von Geschichten",
-   "beginn": null,
-   "ende": null,
-   "art": "sammlungspraesentation",
-   "fachgebiet": "sonstiges",
-   "haus": "Weltmuseum Wien",
-   "rang": 5,
-   "epoche": "gemischt",
-   "einzelausstellung_von": null,
-   "url": "https://www.weltmuseumwien.at/ausstellungen/schausammlung",
-   "gemeinfrei": false,
-   "schwerpunkt": "Außereuropäische Kulturen und Objekte aus aller Welt",
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "kuenstler": [],
-   "quelle": "https://www.weltmuseumwien.at/ausstellungen",
+   "detail_geprueft": "2026-10-15",
    "grund": "keine Kunst (sonstiges)"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 1
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

@@ -11,7 +11,7 @@
  "ausstellungen": [
   {
    "titel": "Ein Haus aus Glas",
-   "untertitel": "null",
+   "untertitel": null,
    "beginn": "2026-10-03",
    "ende": "2026-11-08",
    "art": "wechselausstellung",
@@ -21,9 +21,7 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "kuenstler": [
-    "Davina Andrea Deplazes"
-   ],
+   "kuenstler": [],
    "eroeffnung": "2026-10-02",
    "anderer_ort": null,
    "einzelausstellung_von": null,
@@ -34,8 +32,8 @@
    "verpasst": 0
   },
   {
-   "titel": "Der Stand der Dinge",
-   "untertitel": "null",
+   "titel": "Der Stand der Dinge: We*",
+   "untertitel": "Der Stand der Dinge: We*",
    "beginn": "2026-10-03",
    "ende": "2026-11-01",
    "art": "wechselausstellung",
@@ -50,16 +48,16 @@
    ],
    "eroeffnung": "2026-10-02",
    "anderer_ort": null,
-   "einzelausstellung_von": "we*",
+   "einzelausstellung_von": null,
    "url": "https://www.akku-emmen.ch/programm",
    "quelle": "https://www.akku-emmen.ch/programm",
-   "detail_geprueft": "2026-10-12",
-   "erstmals": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
    "verpasst": 0
   },
   {
    "titel": "Nina Plaskova — Der Stand der Dinge",
-   "untertitel": "Der Stand der Dinge",
+   "untertitel": null,
    "beginn": "2026-12-05",
    "ende": "2027-01-17",
    "art": "wechselausstellung",
@@ -105,6 +103,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

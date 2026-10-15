@@ -6,10 +6,34 @@
  "ids": "Q697782",
  "status": "ok",
  "seiten": [
-  "https://www.hausderkunst.de/en/events/ausstellungsf%C3%BChrung-zu-steina-playback-325253",
-  "https://www.hausderkunst.de/en/eintauchen/ausstellung-der-ausstellungen"
+  "https://www.hausderkunst.de/en/events/ausstellungsf%C3%BChrung-f%C3%BCr-blinde-und-sehbehinderte-menschen-zu-tom%C3%A1s-saraceno-in-collaboration-verwobene-welten-327833",
+  "https://www.hausderkunst.de/en/events/ausstellungsf%C3%BChrung-f%C3%BCr-blinde-und-sehbehinderte-menschen-zu-tom%C3%A1s-saraceno-in-collaboration-verwobene-welten-327831"
  ],
  "ausstellungen": [
+  {
+   "titel": "Tomás Saraceno in collaboration. Ancestral Futures",
+   "untertitel": "Ancestral Futures",
+   "beginn": "2026-07-17",
+   "ende": "2027-02-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Haus der Kunst",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Tomás Saraceno",
+   "kuenstler": [
+    "Tomás Saraceno"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.hausderkunst.de/en/eintauchen/tomas-saraceno",
+   "quelle": "https://www.hausderkunst.de/en/events/ausstellungsf%C3%BChrung-f%C3%BCr-blinde-und-sehbehinderte-menschen-zu-tom%C3%A1s-saraceno-in-collaboration-verwobene-welten-327833",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
   {
    "titel": "Steina: Playback",
    "untertitel": "Playback",
@@ -30,7 +54,8 @@
    "anderer_ort": null,
    "url": "https://www.hausderkunst.de/en/eintauchen/steina-playback",
    "quelle": "https://www.hausderkunst.de/en/events/ausstellungsf%C3%BChrung-zu-steina-playback-325253",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
   },
   {
    "titel": "Exhibition of Exhibitions",
@@ -48,34 +73,11 @@
    "kuenstler": [],
    "eroeffnung": null,
    "anderer_ort": null,
-   "quelle": "https://www.hausderkunst.de/en/eintauchen/ausstellung-der-ausstellungen"
+   "quelle": "https://www.hausderkunst.de/en/eintauchen/ausstellung-der-ausstellungen",
+   "verpasst": 1
   }
  ],
- "aussortiert": [
-  {
-   "titel": "Guided tour on \"Steina: Playback\" (19.11.26)",
-   "untertitel": "Steina: Playback",
-   "beginn": "2026-11-19",
-   "ende": "2026-11-19",
-   "art": "veranstaltung",
-   "fachgebiet": "medienkunst",
-   "haus": "Haus der Kunst",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "kuenstler": [
-    "Steina"
-   ],
-   "einzelausstellung_von": null,
-   "schwerpunkt": null,
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "url": "https://www.hausderkunst.de/en/events/ausstellungsf%C3%BChrung-zu-steina-playback-325253",
-   "quelle": "https://www.hausderkunst.de/en/events/ausstellungsf%C3%BChrung-zu-steina-playback-325253",
-   "eintritt": "5 € plus admission",
-   "detail_geprueft": "2026-10-12",
-   "grund": "Veranstaltung, keine Ausstellung"
-  }
- ],
- "abgerufen": "2026-10-12T06:55:52"
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 2
 }

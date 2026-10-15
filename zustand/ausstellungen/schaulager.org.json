@@ -12,26 +12,30 @@
  "ausstellungen": [
   {
    "titel": "Anri Sala",
-   "untertitel": "Manifestations of motion and affect",
+   "untertitel": "",
    "beginn": "2027-01-01",
    "ende": "2027-12-31",
    "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
+   "fachgebiet": "medienkunst",
    "haus": "Schaulager",
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "url": "https://schaulager.org/de/ausstellungen/vorschau",
-   "eroeffnung": null,
    "kuenstler": [
     "Anri Sala"
    ],
+   "url": "https://schaulager.org/de/ausstellungen/vorschau",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Anri Sala",
    "quelle": "https://schaulager.org/de/ausstellungen",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Fliessen und Spriessen. Das druckgrafische Schaffen",
-   "untertitel": "Das druckgrafische Schaffen",
+   "untertitel": "",
    "beginn": "2026-08-19",
    "ende": "2026-11-08",
    "art": "wechselausstellung",
@@ -25,14 +25,17 @@
    "kuenstler": [
     "Hugo Suter"
    ],
-   "eroeffnung": "2026-08-18",
    "einzelausstellung_von": "Hugo Suter",
+   "eroeffnung": "2026-08-18",
    "anderer_ort": null,
    "url": "https://gs.ethz.ch/aktuell/",
    "quelle": "https://gs.ethz.ch/aktuell/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

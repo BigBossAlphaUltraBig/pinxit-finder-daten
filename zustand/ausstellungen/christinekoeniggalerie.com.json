@@ -12,21 +12,21 @@
  "ausstellungen": [
   {
    "titel": "Presence of an Absence",
-   "untertitel": "curated by Max DAX",
+   "untertitel": "curated_by Max DAX",
    "beginn": "2026-09-11",
    "ende": "2026-11-14",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Christine König Galerie",
    "rang": 1,
-   "epoche": "gemischt",
+   "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [],
    "url": "https://christinekoeniggalerie.com/exhibitions/presence-of-an-absence-curated_by-max-dax-92085fdc/",
    "eroeffnung": "2026-09-11T12:00",
    "anderer_ort": null,
    "einzelausstellung_von": null,
+   "schwerpunkt": null,
    "quelle": "https://christinekoeniggalerie.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -34,6 +34,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

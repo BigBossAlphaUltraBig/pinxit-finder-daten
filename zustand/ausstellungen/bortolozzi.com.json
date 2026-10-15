@@ -12,121 +12,65 @@
  "ausstellungen": [
   {
    "titel": "Μέτοικε",
-   "untertitel": null,
    "beginn": "2026-09-10",
    "ende": "2026-10-31",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Galerie Isabella Bortolozzi",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
    "kuenstler": [
     "Wu Tsang"
    ],
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "eroeffnung": null,
    "url": "https://bortolozzi.com/exhibitions/wu-tsang-%ce%bc%ce%ad%cf%84%ce%bf%ce%b9%ce%ba%ce%b5-galerie-isabella-bortolozzi/",
    "quelle": "https://bortolozzi.com/exhibitions/marc-kokopeli-now-we-are-on-easy-street-galerie-isabella-bortolozzi/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
    "verpasst": 0
-  },
-  {
-   "titel": "Wu Tsang Μέτοικε",
-   "untertitel": "null",
-   "beginn": "2026-09-10",
-   "ende": "2026-10-31",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Galerie Isabella Bortolozzi",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Wu Tsang"
-   ],
-   "einzelausstellung_von": "Wu Tsang",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "url": "https://bortolozzi.com/exhibitions/wu-tsang-%ce%bc%ce%ad%cf%84%ce%bf%ce%b9%ce%ba%ce%b5-galerie-isabella-bortolozzi/",
-   "quelle": "https://bortolozzi.com/exhibitions/s-g-rhodes-the-law-of-the-unknown-neighbor/",
-   "detail_geprueft": "2026-10-12",
-   "verpasst": 1
   }
  ],
  "aussortiert": [
   {
    "titel": "Months Turn to Years",
-   "untertitel": "Galerie Isabella Bortolozzi, Berlin",
    "beginn": "2026-05-01",
    "ende": "2026-07-04",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Galerie Isabella Bortolozzi",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
    "kuenstler": [
     "Adam Gordon"
    ],
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "eroeffnung": "2026-05-01",
    "url": "https://bortolozzi.com/exhibitions/adam-gordon-months-turn-to-years-galerie-isabella-bortolozzi/",
    "quelle": "https://bortolozzi.com/exhibitions/marc-kokopeli-now-we-are-on-easy-street-galerie-isabella-bortolozzi/",
-   "detail_geprueft": "2026-10-12",
+   "eroeffnung": "2026-05-01",
+   "untertitel": "Galerie Isabella Bortolozzi, Berlin",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
-   "titel": "The End of THE…",
-   "untertitel": "The End of THEATER",
+   "titel": "The End of Theater",
    "beginn": "2026-02-07",
    "ende": "2026-03-21",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Galerie Isabella Bortolozzi",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
    "kuenstler": [
     "Calla Henkel",
     "Max Pitegoff"
    ],
-   "rang": 3,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "eroeffnung": null,
    "url": "https://bortolozzi.com/exhibitions/calla-henkel-max-pitegoff-the-end-of-theater-galerie-isabella-bortolozzi/",
    "quelle": "https://bortolozzi.com/exhibitions/marc-kokopeli-now-we-are-on-easy-street-galerie-isabella-bortolozzi/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet"
-  },
-  {
-   "titel": "The Law of The Unknown Neighbor",
-   "untertitel": "null",
-   "kuenstler": [
-    "Stephen G. Rhodes"
-   ],
-   "haus": "Galerie Isabella Bortolozzi",
-   "beginn": "2012-11-24",
-   "ende": "2013-01-26",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "rang": 99,
-   "url": "https://bortolozzi.com/exhibitions/s-g-rhodes-the-law-of-the-unknown-neighbor/",
    "eroeffnung": null,
-   "anderer_ort": null,
-   "schwerpunkt": null,
-   "quelle": "https://bortolozzi.com/exhibitions/s-g-rhodes-the-law-of-the-unknown-neighbor/",
-   "detail_geprueft": "2026-10-12",
+   "untertitel": "Galerie Isabella Bortolozzi, Berlin",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "rueckfall": "claude-haiku-4-5-20251001",
- "vom_vorlauf_behalten": 1
+ "vom_vorlauf_behalten": 0
 }

@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "chess club im Kunstverein in Hamburg",
-   "untertitel": "Project Space-in-Residence",
+   "untertitel": "",
    "beginn": "2026-11-07",
    "ende": "2027-02-28",
    "art": "wechselausstellung",
@@ -20,22 +20,21 @@
    "haus": "Kunstverein in Hamburg",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Angelika Oehms",
-    "Rafael Moreno"
-   ],
-   "eroeffnung": "2026-11-06",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": null,
    "einzelausstellung_von": null,
+   "eroeffnung": "2026-11-06",
+   "kuenstler": [],
+   "anderer_ort": null,
    "url": "https://www.kunstverein.de/residencies/project-space-in-residence/chess-club-im-kunstverein-in-hamburg",
    "quelle": "https://www.kunstverein.de/exhibitions",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Karen Kilimnik in the Kunstverein",
-   "untertitel": "null",
+   "untertitel": "",
    "beginn": "2026-11-07",
    "ende": "2027-02-28",
    "art": "wechselausstellung",
@@ -43,19 +42,22 @@
    "haus": "Kunstverein in Hamburg",
    "rang": 2,
    "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Karen Kilimnik",
+   "eroeffnung": "2026-11-06",
    "kuenstler": [
     "Karen Kilimnik"
    ],
-   "eroeffnung": "2026-11-06T19:00",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
    "anderer_ort": null,
-   "einzelausstellung_von": "Karen Kilimnik",
    "url": "https://www.kunstverein.de/exhibitions/karen-kilimnik-in-the-kunstverein",
    "quelle": "https://www.kunstverein.de/exhibitions",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

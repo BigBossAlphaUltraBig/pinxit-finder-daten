@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "FOR M",
-   "untertitel": "Lichtgestalten – FOR M",
+   "untertitel": "Ein Projekt der Lichtgestalten",
    "beginn": "2026-11-29",
    "ende": "2027-03-07",
    "art": "wechselausstellung",
@@ -21,18 +21,21 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "schwerpunkt": "Schattenporträts, Tanzfotografien und Collagen zu Individualität und Gemeinschaft",
    "kuenstler": [
     "Heide Prange"
    ],
+   "anderer_ort": null,
    "einzelausstellung_von": null,
    "eroeffnung": "2026-11-29T11:30",
-   "anderer_ort": null,
    "url": "https://villa-zanders.de/ausstellungen/vorschau/",
    "quelle": "https://villa-zanders.de/ausstellungen/vorschau/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

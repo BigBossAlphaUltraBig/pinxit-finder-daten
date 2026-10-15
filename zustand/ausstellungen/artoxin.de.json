@@ -19,22 +19,46 @@
    "haus": "Galerie Artoxin",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "url": "https://artoxin.de/exhibitions/liquid-memories-8875779e/",
+   "einzelausstellung_von": "Christian Leitna",
    "kuenstler": [
     "Christian Leitna"
    ],
-   "einzelausstellung_von": "Christian Leitna",
+   "gemeinfrei": false,
+   "url": "https://artoxin.de/exhibitions/liquid-memories-8875779e/",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "schwerpunkt": null,
    "quelle": "https://artoxin.de/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
    "verpasst": 0
+  },
+  {
+   "titel": "ELEMENTS",
+   "untertitel": "Carmen Kordas",
+   "beginn": "2026-11-27",
+   "ende": "2027-01-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Artoxin",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Carmen Kordas",
+   "kuenstler": [
+    "Carmen Kordas"
+   ],
+   "gemeinfrei": false,
+   "url": "https://artoxin.de/exhibitions/elements-3ec72c59/",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "schwerpunkt": null,
+   "quelle": "https://artoxin.de/exhibitions/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

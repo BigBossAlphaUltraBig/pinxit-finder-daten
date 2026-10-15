@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "roger ballen.! drawing meets photography",
-   "untertitel": "drawing meets photography",
+   "untertitel": null,
    "beginn": "2026-11-06",
    "ende": "2027-03-14",
    "art": "wechselausstellung",
@@ -21,23 +21,22 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "einzelausstellung_von": "Roger Ballen",
    "kuenstler": [
     "Roger Ballen"
    ],
-   "eroeffnung": null,
+   "einzelausstellung_von": "Roger Ballen",
+   "schwerpunkt": null,
    "anderer_ort": null,
+   "eroeffnung": null,
    "url": "https://berlin.fotografiska.com/en/exhibitions/roger-ballen",
    "quelle": "https://berlin.fotografiska.com/en/exhibitions/roger-ballen",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Social Studies",
-   "untertitel": "The new exhibition opens at Fotografiska Berlin",
-   "kuenstler": [
-    "Lauren Greenfield"
-   ],
+   "untertitel": "Social Studies",
    "beginn": "2026-09-26",
    "ende": "2027-01-12",
    "art": "wechselausstellung",
@@ -47,43 +46,47 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "url": "https://berlin.fotografiska.com/en/exhibitions/lauren-greenfield",
+   "kuenstler": [
+    "Lauren Greenfield"
+   ],
+   "einzelausstellung_von": "Lauren Greenfield",
    "eroeffnung": "2026-09-25",
    "anderer_ort": null,
-   "einzelausstellung_von": "Lauren Greenfield",
+   "url": "https://berlin.fotografiska.com/en/exhibitions/lauren-greenfield",
    "quelle": "https://berlin.fotografiska.com/en/exhibition",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Die Augen weit offen",
    "untertitel": "Eyes Wide Open",
-   "kuenstler": [
-    "Thomas Billhardt"
-   ],
    "beginn": "2026-08-28",
    "ende": "2027-02-07",
    "art": "wechselausstellung",
    "fachgebiet": "fotografie",
    "haus": "Fotografiska Berlin",
    "rang": 2,
-   "epoche": "gemischt",
+   "epoche": "19_jahrhundert",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "url": "https://berlin.fotografiska.com/en/exhibitions/thomas-billhardt",
+   "kuenstler": [
+    "Thomas Billhardt"
+   ],
+   "einzelausstellung_von": "Thomas Billhardt",
    "eroeffnung": null,
    "anderer_ort": null,
-   "einzelausstellung_von": "Thomas Billhardt",
+   "url": "https://berlin.fotografiska.com/en/exhibitions/thomas-billhardt",
    "quelle": "https://berlin.fotografiska.com/en/exhibition",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
-   "titel": "COMPOSITIONS / DRIFT",
-   "untertitel": "COMPOSITIONS / DRIFT",
-   "kuenstler": [
-    "Banz & Bowinkel"
-   ],
-   "beginn": "2026-08-13",
-   "ende": "2027-02-15",
+   "titel": "Tell Me What To See",
+   "untertitel": "Tell Me What To See",
+   "beginn": "2026-08-14",
+   "ende": "2026-10-31",
    "art": "wechselausstellung",
    "fachgebiet": "fotografie",
    "haus": "Fotografiska Berlin",
@@ -91,21 +94,23 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "url": "https://berlin.fotografiska.com/en/exhibitions/banz-und-bowinkel",
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "einzelausstellung_von": "Banz & Bowinkel",
-   "quelle": "https://berlin.fotografiska.com/en/exhibition",
-   "detail_geprueft": "2026-10-12"
-  },
-  {
-   "titel": "Tell Me What To See",
-   "untertitel": "Tell Me What To See",
    "kuenstler": [
     "Carola Lampe"
    ],
-   "beginn": "2026-08-14",
-   "ende": "2026-10-31",
+   "einzelausstellung_von": "Carola Lampe",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://berlin.fotografiska.com/en/exhibitions/carola-lampe",
+   "quelle": "https://berlin.fotografiska.com/en/exhibition",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "COMPOSITIONS / DRIFT",
+   "untertitel": "Banz & Bowinkel",
+   "beginn": "2026-08-13",
+   "ende": "2027-02-15",
    "art": "wechselausstellung",
    "fachgebiet": "fotografie",
    "haus": "Fotografiska Berlin",
@@ -113,19 +118,21 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "url": "https://berlin.fotografiska.com/en/exhibitions/carola-lampe",
+   "kuenstler": [
+    "Banz & Bowinkel"
+   ],
+   "einzelausstellung_von": "Banz & Bowinkel",
    "eroeffnung": null,
    "anderer_ort": null,
-   "einzelausstellung_von": "Carola Lampe",
+   "url": "https://berlin.fotografiska.com/en/exhibitions/banz-und-bowinkel",
    "quelle": "https://berlin.fotografiska.com/en/exhibition",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "No Place Like Home",
    "untertitel": "The Anonymous Project by Lee Shulman",
-   "kuenstler": [
-    "Lee Shulman"
-   ],
    "beginn": "2026-06-20",
    "ende": "2026-11-01",
    "art": "wechselausstellung",
@@ -135,14 +142,20 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "url": "https://berlin.fotografiska.com/en/exhibitions/the-anonymous-project-by-lee-shulman",
+   "kuenstler": [
+    "Lee Shulman"
+   ],
+   "einzelausstellung_von": "Lee Shulman",
    "eroeffnung": null,
    "anderer_ort": null,
-   "einzelausstellung_von": "Lee Shulman",
+   "url": "https://berlin.fotografiska.com/en/exhibitions/the-anonymous-project-by-lee-shulman",
    "quelle": "https://berlin.fotografiska.com/en/exhibition",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

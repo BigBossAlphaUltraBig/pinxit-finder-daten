@@ -21,11 +21,12 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
+   "schwerpunkt": null,
    "kuenstler": [
     "Dimitra Charamandas"
    ],
-   "einzelausstellung_von": "Dimitra Charamandas",
    "eroeffnung": "2026-10-08",
+   "einzelausstellung_von": "Dimitra Charamandas",
    "anderer_ort": null,
    "url": "https://liviegallery.com/exhibition/dimitra-charamandas-solo-show/",
    "quelle": "https://liviegallery.com/exhibitions/",
@@ -37,7 +38,7 @@
  "aussortiert": [
   {
    "titel": "AS HOPE IS LAST TO DIE",
-   "untertitel": "Stefan Knauf | As Hope Is Last to Die",
+   "untertitel": "Hope is less a feeling than a particular way of orienting oneself toward the future.",
    "beginn": "2026-06-11",
    "ende": "2026-09-23",
    "art": "wechselausstellung",
@@ -46,18 +47,19 @@
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
+   "schwerpunkt": null,
    "kuenstler": [
     "Stefan Knauf"
    ],
-   "einzelausstellung_von": "Stefan Knauf",
    "eroeffnung": "2026-06-11",
+   "einzelausstellung_von": "Stefan Knauf",
    "anderer_ort": null,
    "url": "https://liviegallery.com/exhibition/stefan-knauf-as-hope-is-last-to-die/",
    "quelle": "https://liviegallery.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

@@ -11,8 +11,8 @@
  ],
  "ausstellungen": [
   {
-   "titel": "RÄUME ZWISCHEN DEN SCHICHTEN",
-   "untertitel": "Räume zwischen den Schichten",
+   "titel": "Räume zwischen den Schichten",
+   "untertitel": "",
    "beginn": "2026-10-17",
    "ende": "2026-11-07",
    "art": "wechselausstellung",
@@ -22,158 +22,20 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "einzelausstellung_von": "Carlo Domeniconi",
    "kuenstler": [
     "Carlo Domeniconi"
    ],
    "eroeffnung": "2026-10-17",
    "anderer_ort": null,
+   "einzelausstellung_von": "Carlo Domeniconi",
    "url": "https://www.samscherrer.ch/exhibition/raeume-zwischen-den-schichten/",
    "quelle": "https://www.samscherrer.ch/exhibition/raeume-zwischen-den-schichten/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
    "verpasst": 0
-  },
-  {
-   "titel": "CARLO DOMENICONI: RÄUME ZWISCHEN DEN SCHICHTEN",
-   "untertitel": "RÄUME ZWISCHEN DEN SCHICHTEN",
-   "beginn": "2026-10-17",
-   "ende": "2026-11-07",
-   "eroeffnung": "2026-10-17T15:00",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "epoche": "zeitgenoessisch",
-   "haus": "Sam Scherrer Contemporary",
-   "kuenstler": [
-    "Carlo Domeniconi"
-   ],
-   "einzelausstellung_von": "Carlo Domeniconi",
-   "rang": 1,
-   "gemeinfrei": false,
-   "schwerpunkt": "Schichtenmalerei, Abstraktionen mit gesellschaftlichem Bezug",
-   "url": "https://www.samscherrer.ch/exhibition/raeume-zwischen-den-schichten/",
-   "quelle": "https://www.samscherrer.ch/exhibition/raeume-zwischen-den-schichten/",
-   "detail_geprueft": "2026-10-12",
-   "verpasst": 1
   }
  ],
- "aussortiert": [
-  {
-   "titel": "GESPIEGELTER HORIZONT",
-   "untertitel": "null",
-   "beginn": "2026-08-21",
-   "ende": "2026-09-26",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Sam Scherrer Contemporary",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "eroeffnung": null,
-   "einzelausstellung_von": "CORINNE GÜDEMANN",
-   "kuenstler": [
-    "CORINNE GÜDEMANN"
-   ],
-   "url": "https://www.samscherrer.ch/exhibition/gespiegelter-horizont/",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "quelle": "https://www.samscherrer.ch/exhibition/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet"
-  },
-  {
-   "titel": "WILDWUCHS",
-   "untertitel": "Wildwuchs",
-   "beginn": "2026-06-26",
-   "ende": "2026-07-11",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Sam Scherrer Contemporary",
-   "rang": 3,
-   "epoche": "zeitgenoessisch",
-   "eroeffnung": null,
-   "einzelausstellung_von": "RUTH HANDSCHIN",
-   "kuenstler": [
-    "RUTH HANDSCHIN"
-   ],
-   "url": "https://www.samscherrer.ch/exhibition/wildwuchs/",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "quelle": "https://www.samscherrer.ch/exhibition/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet"
-  },
-  {
-   "titel": "Neue Werke von Germann Lorenzi",
-   "untertitel": "Kunstreicher Balanceakt",
-   "beginn": "2026-05-29",
-   "ende": "2026-06-13",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Sam Scherrer Contemporary",
-   "rang": 4,
-   "epoche": "zeitgenoessisch",
-   "eroeffnung": null,
-   "einzelausstellung_von": "GERMANN LORENZI",
-   "kuenstler": [
-    "GERMANN LORENZI"
-   ],
-   "url": "https://www.samscherrer.ch/exhibition/neue-werke-von-germann-lorenzi/",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "quelle": "https://www.samscherrer.ch/exhibition/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet"
-  },
-  {
-   "titel": "UNTER WEITEN HIMMELN",
-   "untertitel": "Unter weiten Himmeln",
-   "beginn": "2026-02-13",
-   "ende": "2026-02-28",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Sam Scherrer Contemporary",
-   "rang": 5,
-   "epoche": "zeitgenoessisch",
-   "eroeffnung": null,
-   "einzelausstellung_von": "JAN CZERWINSKI",
-   "kuenstler": [
-    "JAN CZERWINSKI"
-   ],
-   "url": "https://www.samscherrer.ch/exhibition/unter-weiten-himmeln/",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "quelle": "https://www.samscherrer.ch/exhibition/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet"
-  },
-  {
-   "titel": "BORDURIEN",
-   "untertitel": "Bordurien",
-   "beginn": "2026-01-10",
-   "ende": "2026-01-24",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Sam Scherrer Contemporary",
-   "rang": 6,
-   "epoche": "zeitgenoessisch",
-   "eroeffnung": null,
-   "einzelausstellung_von": "ANDRE WILLIMANN",
-   "kuenstler": [
-    "ANDRE WILLIMANN"
-   ],
-   "url": "https://www.samscherrer.ch/exhibition/bordurien/",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "quelle": "https://www.samscherrer.ch/exhibition/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet"
-  }
- ],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 1
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

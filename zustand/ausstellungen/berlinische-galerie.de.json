@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Dann kam Berlin!",
-   "untertitel": "Lovis Corinth",
+   "untertitel": "Dann kam Berlin!",
    "beginn": "2026-10-09",
    "ende": "2027-01-25",
    "art": "wechselausstellung",
@@ -30,7 +30,7 @@
    "anderer_ort": null,
    "url": "https://berlinischegalerie.de/ausstellungen/vorschau/lovis-corinth-dann-kam-berlin/",
    "quelle": "https://berlinischegalerie.de/ausstellungen/aktuell/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "erstmals": "2026-10-12",
    "verpasst": 0
   },
@@ -54,7 +54,7 @@
    "anderer_ort": null,
    "url": "https://berlinischegalerie.de/ausstellungen/aktuell/jeewi-lee/",
    "quelle": "https://berlinischegalerie.de/ausstellungen/aktuell/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "erstmals": "2026-10-12",
    "verpasst": 0
   },
@@ -78,7 +78,7 @@
    "anderer_ort": null,
    "url": "https://berlinischegalerie.de/ausstellungen/aktuell/su-yu-hsin/",
    "quelle": "https://berlinischegalerie.de/ausstellungen/aktuell/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "erstmals": "2026-10-12",
    "verpasst": 0
   },
@@ -102,7 +102,7 @@
    "anderer_ort": null,
    "url": "https://berlinischegalerie.de/ausstellungen/aktuell/josef-kaiser/",
    "quelle": "https://berlinischegalerie.de/ausstellungen/aktuell/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "erstmals": "2026-10-12",
    "verpasst": 0
   },
@@ -116,7 +116,7 @@
    "haus": "Berlinische Galerie",
    "rang": 5,
    "epoche": "gemischt",
-   "gemeinfrei": false,
+   "gemeinfrei": true,
    "schwerpunkt": "Kunst aus Berlin von 1880 bis 1980",
    "kuenstler": [],
    "einzelausstellung_von": null,
@@ -132,7 +132,7 @@
    "untertitel": "Raum für Aktion und Kooperation",
    "beginn": null,
    "ende": null,
-   "art": "unklar",
+   "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Berlinische Galerie",
    "rang": 6,
@@ -145,16 +145,16 @@
    "anderer_ort": null,
    "url": "https://berlinischegalerie.de/ausstellung/207-m2/",
    "quelle": "https://berlinischegalerie.de/ausstellungen/aktuell/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "erstmals": "2026-10-12",
    "verpasst": 0
   },
   {
    "titel": "Licht und Schatten",
-   "untertitel": "Künstlerische Garteninstallation zum 50-jährigen Jubiläum der Berlinischen Galerie",
+   "untertitel": "Künstlerische Garteninstallation",
    "beginn": null,
    "ende": null,
-   "art": "unklar",
+   "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Berlinische Galerie",
    "rang": 7,
@@ -169,80 +169,12 @@
    "anderer_ort": null,
    "url": "https://berlinischegalerie.de/ausstellungen/aktuell/atelier-le-balto/",
    "quelle": "https://berlinischegalerie.de/ausstellungen/aktuell/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "erstmals": "2026-10-12",
    "verpasst": 0
-  },
-  {
-   "titel": "Jeewi Lee",
-   "untertitel": "Residual Memories",
-   "beginn": "2026-10-08",
-   "ende": "2027-04-05",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Berlinische Galerie",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Jeewi Lee"
-   ],
-   "url": "https://berlinischegalerie.de/ausstellungen/aktuell/jeewi-lee/",
-   "quelle": "https://berlinischegalerie.de/ausstellungen/aktuell/",
-   "verpasst": 1
-  },
-  {
-   "titel": "Su Yu Hsin",
-   "untertitel": "Im IBB-Videoraum",
-   "beginn": "2026-10-08",
-   "ende": "2026-10-26",
-   "art": "wechselausstellung",
-   "fachgebiet": "medienkunst",
-   "haus": "Berlinische Galerie",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Su Yu Hsin"
-   ],
-   "url": "https://berlinischegalerie.de/ausstellungen/aktuell/su-yu-hsin/",
-   "quelle": "https://berlinischegalerie.de/ausstellungen/aktuell/",
-   "verpasst": 1
-  },
-  {
-   "titel": "Josef Kaiser",
-   "untertitel": "Bauen für die DDR",
-   "beginn": "2026-10-08",
-   "ende": "2027-02-01",
-   "art": "wechselausstellung",
-   "fachgebiet": "architektur",
-   "haus": "Berlinische Galerie",
-   "rang": 3,
-   "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Josef Kaiser"
-   ],
-   "url": "https://berlinischegalerie.de/ausstellungen/aktuell/josef-kaiser/",
-   "quelle": "https://berlinischegalerie.de/ausstellungen/aktuell/",
-   "verpasst": 1
-  },
-  {
-   "titel": "atelier le balto",
-   "untertitel": "Licht und Schatten",
-   "beginn": "2026-10-08",
-   "ende": null,
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Berlinische Galerie",
-   "rang": 5,
-   "epoche": "zeitgenoessisch",
-   "url": "https://berlinischegalerie.de/ausstellungen/aktuell/atelier-le-balto/",
-   "quelle": "https://berlinischegalerie.de/ausstellungen/aktuell/",
-   "kuenstler": [
-    "atelier le balto"
-   ],
-   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 4
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

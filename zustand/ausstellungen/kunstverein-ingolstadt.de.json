@@ -12,56 +12,54 @@
  "ausstellungen": [],
  "aussortiert": [
   {
-   "titel": "Listening Across Time",
-   "untertitel": "Camilla Metelka",
-   "beginn": "2026-07-17",
-   "ende": "2026-08-23",
+   "titel": "Extrem unterwegs",
+   "untertitel": "Cyrill Lachauer",
+   "beginn": null,
+   "ende": null,
    "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
+   "fachgebiet": "fotografie",
    "haus": "Kunstverein Ingolstadt",
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": "Cyrill Lachauer",
+   "anderer_ort": "Altes Messpegelhaus",
+   "kuenstler": [
+    "Cyrill Lachauer"
+   ],
+   "url": "https://www.kunstverein-ingolstadt.de/ausstellungen/",
+   "quelle": "https://www.kunstverein-ingolstadt.de/ausstellungen/",
+   "eroeffnung": null,
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Altes Messpegelhaus"
+  },
+  {
+   "titel": "Listening Across Time",
+   "untertitel": "Camilla Metelka",
+   "beginn": "2026-07-17",
+   "ende": "2026-08-23",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Kunstverein Ingolstadt",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "eroeffnung": null,
+   "anderer_ort": null,
    "einzelausstellung_von": "Camilla Metelka",
    "kuenstler": [
     "Camilla Metelka"
    ],
-   "anderer_ort": "Galerie des Theaters",
-   "eroeffnung": "2026-07-17",
-   "url": "https://www.kunstverein-ingolstadt.de/ausstellungen/",
-   "quelle": "https://www.kunstverein-ingolstadt.de/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet"
-  },
-  {
-   "titel": "Extrem unterwegs",
-   "untertitel": "Matthias Geitel",
-   "beginn": "2026-07-23",
-   "ende": "2026-09-03",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Kunstverein Ingolstadt",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
    "schwerpunkt": null,
-   "einzelausstellung_von": null,
-   "kuenstler": [
-    "Matthias Geitel",
-    "Uwe Arauner",
-    "Cyrill Lachauer"
-   ],
-   "anderer_ort": "Altes Messpegelhaus",
-   "eroeffnung": "2026-07-23",
    "url": "https://www.kunstverein-ingolstadt.de/ausstellungen/",
    "quelle": "https://www.kunstverein-ingolstadt.de/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
    "titel": "Shelter",
-   "untertitel": "Extrem unterwegs _3",
+   "untertitel": "Marcel Breitenhuber, Lea Frensch, Emma Hauser, Ludwig Hauser",
    "beginn": "2026-07-26",
    "ende": "2026-08-23",
    "art": "wechselausstellung",
@@ -70,7 +68,8 @@
    "rang": 3,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "eroeffnung": "2026-07-26T11:00",
+   "anderer_ort": "Kulturhalle P3, Ingolstadt",
    "einzelausstellung_von": null,
    "kuenstler": [
     "Marcel Breitenhuber",
@@ -78,16 +77,15 @@
     "Emma Hauser",
     "Ludwig Hauser"
    ],
-   "anderer_ort": "Kulturhalle P3",
-   "eroeffnung": "2026-07-26",
+   "schwerpunkt": null,
    "url": "https://www.kunstverein-ingolstadt.de/ausstellungen/",
    "quelle": "https://www.kunstverein-ingolstadt.de/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
-   "titel": "Ellen BANKS: PANNONICA",
-   "untertitel": "Extrem unterwegs _3",
+   "titel": "PANNONICA",
+   "untertitel": "Ellen BANKS",
    "beginn": null,
    "ende": null,
    "art": "wechselausstellung",
@@ -96,17 +94,17 @@
    "rang": 4,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": "Tongewölbe T25, Ingolstadt",
    "einzelausstellung_von": "Ellen Banks",
    "kuenstler": [
     "Ellen Banks"
    ],
-   "anderer_ort": "Tongewölbe T25",
-   "eroeffnung": null,
+   "schwerpunkt": null,
    "url": "https://www.kunstverein-ingolstadt.de/ausstellungen/",
    "quelle": "https://www.kunstverein-ingolstadt.de/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Tongewölbe T25"
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Tongewölbe T25, Ingolstadt"
   },
   {
    "titel": "FÜNFVORZWÖLF",
@@ -119,18 +117,18 @@
    "rang": 5,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": "Blauer Salon im Backstage, Ingolstadt",
    "einzelausstellung_von": null,
    "kuenstler": [
     "Cyrill Lachauer"
    ],
-   "anderer_ort": "Blauer Salon im Backstage",
-   "eroeffnung": null,
+   "schwerpunkt": null,
    "url": "https://www.kunstverein-ingolstadt.de/ausstellungen/",
    "quelle": "https://www.kunstverein-ingolstadt.de/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

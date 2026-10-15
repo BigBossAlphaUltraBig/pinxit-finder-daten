@@ -11,6 +11,54 @@
  ],
  "ausstellungen": [
   {
+   "titel": "Angela Glajcar. Not a cruise, a crossing",
+   "untertitel": "Not a cruise, a crossing",
+   "beginn": "2026-07-25",
+   "ende": "2026-10-18",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Stihl Waiblingen",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Angela Glajcar"
+   ],
+   "einzelausstellung_von": "Angela Glajcar",
+   "eroeffnung": "2026-07-24",
+   "anderer_ort": null,
+   "url": "https://www.galerie-stihl-waiblingen.de/ausstellung/Aktuelle-Ausstellungen",
+   "quelle": "https://www.galerie-stihl-waiblingen.de/ausstellung/Aktuelle-Ausstellungen",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Welcome to Springfield!",
+   "untertitel": "Die Kunst der Simpsons",
+   "beginn": "2026-11-28",
+   "ende": "2027-05-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Stihl Waiblingen",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Matt Groening"
+   ],
+   "eroeffnung": null,
+   "url": "https://www.galerie-stihl-waiblingen.de/ausstellung/Vorschau",
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://www.galerie-stihl-waiblingen.de/ausstellung/Vorschau",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
    "titel": "Not a cruise, a crossing",
    "untertitel": "Not a cruise, a crossing",
    "beginn": "2026-07-25",
@@ -30,31 +78,8 @@
    "anderer_ort": null,
    "url": "https://www.galerie-stihl-waiblingen.de/ausstellung/Aktuelle-Ausstellungen",
    "quelle": "https://www.galerie-stihl-waiblingen.de/ausstellung/Aktuelle-Ausstellungen",
-   "detail_geprueft": "2026-10-12"
-  },
-  {
-   "titel": "Welcome to Springfield!",
-   "untertitel": "Die Kunst der Simpsons",
-   "beginn": "2026-11-28",
-   "ende": "2027-05-30",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Galerie Stihl Waiblingen",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "einzelausstellung_von": null,
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "url": "https://www.galerie-stihl-waiblingen.de/ausstellung/Vorschau",
-   "kuenstler": [
-    "Matt Groening",
-    "William Heeter",
-    "Kristi Correa"
-   ],
-   "quelle": "https://www.galerie-stihl-waiblingen.de/ausstellung/Vorschau",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
   }
  ],
  "aussortiert": [
@@ -72,17 +97,18 @@
    "schwerpunkt": null,
    "kuenstler": [
     "Aleida van Dijk",
-    "Rodrigo Arteaga",
-    "Kuan Lin Chen"
+    "Kuan Lin Chen",
+    "Rodrigo Arteaga"
    ],
-   "eroeffnung": "2026-07-24",
    "einzelausstellung_von": null,
+   "eroeffnung": "2026-07-24",
    "anderer_ort": "Galerie im Kameralamt",
    "url": "https://www.galerie-stihl-waiblingen.de/ausstellung/Aktuelle-Ausstellungen",
    "quelle": "https://www.galerie-stihl-waiblingen.de/ausstellung/Aktuelle-Ausstellungen",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Galerie im Kameralamt"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 1
 }

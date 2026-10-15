@@ -21,41 +21,42 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": "Zeitgenössische Kunst aus der Sammlung Lothar Schirmer, Teil II",
+   "schwerpunkt": "Zeitgenössische Kunst aus der Sammlung Lothar Schirmer",
    "kuenstler": [
     "Walter De Maria",
     "Isabella Rossellini"
    ],
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "einzelausstellung_von": null,
    "url": "https://kallmann-museum.de/2026-schirmer/",
-   "quelle": "https://kallmann-museum.de/ausstellungen-vorschau/"
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://kallmann-museum.de/ausstellungen-vorschau/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Sammlung Lothar Schirmer",
+   "untertitel": null,
    "beginn": "2026-10-25",
-   "ende": "2027-02-21",
-   "art": "wechselausstellung",
+   "ende": null,
+   "art": "sammlungspraesentation",
    "fachgebiet": "bildende_kunst",
    "haus": "Kallmann-Museum",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
+   "rang": 1,
+   "epoche": "gemischt",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "schwerpunkt": "Sammlung Lothar Schirmer, Fotografie und Grafik",
    "anderer_ort": null,
-   "kuenstler": [
-    "Lothar Schirmer"
-   ],
+   "einzelausstellung_von": null,
    "eroeffnung": "2026-10-25T15:00",
+   "kuenstler": [],
    "url": "https://kallmann-museum.de/2026-schirmer/",
    "quelle": "https://kallmann-museum.de/",
-   "untertitel": "Zeitgenössische Kunst II von Walter De Maria bis Isabella Rossellini",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Kallmann-Preis der Kreissparkasse 2026",
-   "untertitel": "Vier Künstler*innen erhalten den Kallmann-Preis der Kreissparkasse 2026",
    "beginn": "2027-03-07",
    "ende": "2027-06-06",
    "art": "wechselausstellung",
@@ -64,44 +65,39 @@
    "rang": 3,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": "Preisausstellung für zeitgenössische Kunst",
-   "kuenstler": [
-    "Soojin Kang",
-    "Yuhao Chen",
-    "Solweig de Barry",
-    "Emmélie Lempert"
-   ],
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "einzelausstellung_von": null,
+   "schwerpunkt": "Preisträgerausstellung Kallmann-Preis",
+   "kuenstler": [],
    "url": "https://kallmann-museum.de/2027-kallmann-preis/",
+   "eroeffnung": null,
+   "anderer_ort": null,
    "quelle": "https://kallmann-museum.de/ausstellungen-vorschau/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Sammlung Helmut Klewan",
-   "untertitel": "",
    "beginn": "2027-06-27",
    "ende": "2027-10-17",
    "art": "sammlungspraesentation",
    "fachgebiet": "bildende_kunst",
    "haus": "Kallmann-Museum",
    "rang": 4,
-   "epoche": "gemischt",
+   "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": "Sammlung Helmut Klewan",
    "kuenstler": [],
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "einzelausstellung_von": null,
    "url": null,
-   "quelle": "https://kallmann-museum.de/ausstellungen-vorschau/"
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://kallmann-museum.de/ausstellungen-vorschau/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
   {
    "titel": "Verein für Original-Radierung München im Schlosspavillon",
-   "untertitel": "Verein für Original-Radierung München im Schlosspavillon",
    "beginn": "2026-10-11",
    "ende": "2027-01-17",
    "art": "wechselausstellung",
@@ -122,12 +118,12 @@
     "Johannes Steubl",
     "Bernd Zimmer"
    ],
-   "anderer_ort": "Galerie im Schlosspavillon",
-   "eroeffnung": "2026-10-11T15:00",
-   "einzelausstellung_von": null,
    "url": "https://kallmann-museum.de/2026-radierverein/",
+   "eroeffnung": "2026-10-11T15:00",
+   "anderer_ort": "Galerie im Schlosspavillon",
    "quelle": "https://kallmann-museum.de/ausstellungen-vorschau/",
-   "detail_geprueft": "2026-10-12",
+   "untertitel": "Verein für Original-Radierung München im Schlosspavillon",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Galerie im Schlosspavillon"
   },
   {
@@ -138,20 +134,22 @@
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Kallmann-Museum",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
+   "rang": 2,
+   "epoche": "moderne",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "schwerpunkt": "Original-Radierungen und Kupferstiche zeitgenössischer Künstler",
    "anderer_ort": "Galerie im Schlosspavillon",
-   "kuenstler": [
-    "Verein für Original-Radierung München"
-   ],
+   "einzelausstellung_von": null,
    "eroeffnung": "2026-10-11T15:00",
+   "kuenstler": [
+    "Thomas Sebening"
+   ],
    "url": "https://kallmann-museum.de/2026-radierverein/",
    "quelle": "https://kallmann-museum.de/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Galerie im Schlosspavillon"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

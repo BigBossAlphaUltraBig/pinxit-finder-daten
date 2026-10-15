@@ -13,8 +13,8 @@
  "ausstellungen": [],
  "aussortiert": [
   {
-   "titel": "Trouble and Appearance",
-   "untertitel": "null",
+   "titel": "Dana Schutz | Trouble and Appearance",
+   "untertitel": "Trouble and Appearance",
    "beginn": "2026-07-07",
    "ende": "2026-10-04",
    "art": "wechselausstellung",
@@ -23,18 +23,18 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
+   "einzelausstellung_von": "Dana Schutz",
    "kuenstler": [
     "Dana Schutz"
    ],
-   "einzelausstellung_von": "Dana Schutz",
    "eroeffnung": null,
-   "schwerpunkt": null,
    "anderer_ort": null,
    "url": "http://www.sgsm.eu/ausstellungen-exhibition/aktuelle-ausstellung-current-exhibition/",
+   "schwerpunkt": null,
    "quelle": "http://www.sgsm.eu/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

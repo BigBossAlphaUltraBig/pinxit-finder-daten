@@ -4,11 +4,220 @@
  "haeuser": "Mindways 3D Trickart",
  "land": "DE",
  "ids": "node/3445660920",
- "status": "keine Ausstellungen gefunden",
+ "status": "ok",
  "seiten": [
   "https://3dtrickart.de/"
  ],
- "ausstellungen": [],
+ "ausstellungen": [
+  {
+   "titel": "3D TrickArt Museum Hamburg",
+   "untertitel": "Werde Teil der Illusion!",
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Mindways 3D Trickart",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Interaktive 3D-TrickArt-Gemälde zum Mitmachen und Fotografieren",
+   "anderer_ort": null,
+   "url": "https://3dtrickart.de/",
+   "eroeffnung": null,
+   "kuenstler": [
+    "Masashi Hattori"
+   ],
+   "einzelausstellung_von": "Masashi Hattori",
+   "quelle": "https://3dtrickart.de/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Die magische Glaskugel",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Mindways 3D Trickart",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Interaktives 3D-TrickArt-Motiv zum Hineinstellen",
+   "anderer_ort": null,
+   "url": "https://3dtrickart.de/schulen/",
+   "eroeffnung": null,
+   "kuenstler": [
+    "Masashi Hattori"
+   ],
+   "einzelausstellung_von": null,
+   "quelle": "https://3dtrickart.de/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Mini-Maschine",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Mindways 3D Trickart",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Interaktives 3D-TrickArt-Motiv zum Mitmachen",
+   "anderer_ort": null,
+   "url": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Masashi Hattori"
+   ],
+   "einzelausstellung_von": null,
+   "quelle": "https://3dtrickart.de/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Kamelreiten",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Mindways 3D Trickart",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Interaktives 3D-TrickArt-Motiv zum Draufsetzen",
+   "anderer_ort": null,
+   "url": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Masashi Hattori"
+   ],
+   "einzelausstellung_von": null,
+   "quelle": "https://3dtrickart.de/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Ninja-Kampf",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Mindways 3D Trickart",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Interaktives 3D-TrickArt-Motiv zum Mitmachen",
+   "anderer_ort": null,
+   "url": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Masashi Hattori"
+   ],
+   "einzelausstellung_von": null,
+   "quelle": "https://3dtrickart.de/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Rodeo",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Mindways 3D Trickart",
+   "rang": 6,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Interaktives 3D-TrickArt-Motiv zum Draufsetzen",
+   "anderer_ort": null,
+   "url": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Masashi Hattori"
+   ],
+   "einzelausstellung_von": null,
+   "quelle": "https://3dtrickart.de/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Klettern über Hamburg",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Mindways 3D Trickart",
+   "rang": 7,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Interaktives 3D-TrickArt-Motiv zum Klettern",
+   "anderer_ort": null,
+   "url": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Masashi Hattori"
+   ],
+   "einzelausstellung_von": null,
+   "quelle": "https://3dtrickart.de/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Buddelschiff",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Mindways 3D Trickart",
+   "rang": 8,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Interaktives 3D-TrickArt-Motiv zum Hineinsetzen",
+   "anderer_ort": null,
+   "url": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Masashi Hattori"
+   ],
+   "einzelausstellung_von": null,
+   "quelle": "https://3dtrickart.de/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Dino-Alarm",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Mindways 3D Trickart",
+   "rang": 9,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Interaktives 3D-TrickArt-Motiv mit Dinosaurier",
+   "anderer_ort": null,
+   "url": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "Masashi Hattori"
+   ],
+   "einzelausstellung_von": null,
+   "quelle": "https://3dtrickart.de/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  }
+ ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

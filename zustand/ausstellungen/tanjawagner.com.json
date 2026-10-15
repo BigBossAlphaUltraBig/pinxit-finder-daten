@@ -4,11 +4,128 @@
  "haeuser": "Galerie Tanja Wagner",
  "land": "DE",
  "ids": "galerie-galerie-tanja-wagner-berlin",
- "status": "keine Ausstellungen gefunden",
+ "status": "nur aussortierte",
  "seiten": [
-  "https://tanjawagner.com/"
+  "https://tanjawagner.com/news/2023-exberliner-berlin-art-what-exhibitions-are-on-now/",
+  "https://tanjawagner.com/exhibitions-overview/"
  ],
  "ausstellungen": [],
- "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "aussortiert": [
+  {
+   "titel": "The New Vision: Monet and the Contemporary Gaze",
+   "untertitel": "Group exhibition curated by Yoko Iwasaki, Kota Suzuki, Katsura Kunieda, Takuto Izawa",
+   "beginn": "2026-06-17",
+   "ende": "2027-04-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Tanja Wagner",
+   "rang": 1,
+   "epoche": "gemischt",
+   "kuenstler": [
+    "Kapwani Kiwanga"
+   ],
+   "einzelausstellung_von": null,
+   "anderer_ort": "Pola Art Museum, Hakone",
+   "url": "https://tanjawagner.com/news/2026-kapwani-kiwanga-the-new-vision-monet-and-the-contemporary-gaze/",
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "quelle": "https://tanjawagner.com/news/2023-exberliner-berlin-art-what-exhibitions-are-on-now/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Pola Art Museum, Hakone"
+  },
+  {
+   "titel": "10th Biennial of Painting",
+   "untertitel": "Group exhibition curated by Anne Pontegenie",
+   "beginn": "2026-06-28",
+   "ende": "2026-10-18",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Tanja Wagner",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Kapwani Kiwanga"
+   ],
+   "einzelausstellung_von": null,
+   "anderer_ort": "Mudel and Roger Raveel Museum, 9831 Sint-Martens Latem",
+   "url": "https://tanjawagner.com/news/2026-kapwani-kiwanga-10th-biennial-of-painting/",
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "quelle": "https://tanjawagner.com/news/2023-exberliner-berlin-art-what-exhibitions-are-on-now/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Mudel and Roger Raveel Museum, 9831 Sint-Martens Latem"
+  },
+  {
+   "titel": "1,2,3: Me, We",
+   "untertitel": "Group exhibition curated by Daniel Malan & Dada Khanyisa",
+   "beginn": "2026-05-30",
+   "ende": "2026-08-15",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Tanja Wagner",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Kapwani Kiwanga"
+   ],
+   "einzelausstellung_von": null,
+   "anderer_ort": "A4 Arts Foundation, Cape Town",
+   "url": "https://tanjawagner.com/news/2026-kapwani-kiwanga-123-me-we/",
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "quelle": "https://tanjawagner.com/news/2023-exberliner-berlin-art-what-exhibitions-are-on-now/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
+  },
+  {
+   "titel": "The First Two Letters of the Alphabet Are Unconditional Love for the World",
+   "untertitel": "The First Two Letters of the Alphabet Are Unconditional Love for the World",
+   "beginn": "2026-06-12",
+   "ende": "2026-08-01",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Tanja Wagner",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://tanjawagner.com/exhibitions/2026-ayumi-paul-the-first-two-letters-of-the-alphabet-are-unconditional-love-for-the-world/",
+   "eroeffnung": null,
+   "einzelausstellung_von": "Ayumi Paul",
+   "kuenstler": [
+    "Ayumi Paul"
+   ],
+   "anderer_ort": null,
+   "quelle": "https://tanjawagner.com/exhibitions-overview/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
+  },
+  {
+   "titel": "A Naked-Eye Blue",
+   "untertitel": "A Spiral, a Mouth, a Horn and a Halo",
+   "beginn": "2026-04-21",
+   "ende": "2026-05-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Tanja Wagner",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://tanjawagner.com/exhibitions/2026-elisa-giardina-papa-a-naked-eye-blue/",
+   "eroeffnung": "2026-05-01T18:00",
+   "einzelausstellung_von": "Elisa Giardina Papa",
+   "kuenstler": [
+    "Elisa Giardina Papa"
+   ],
+   "anderer_ort": null,
+   "quelle": "https://tanjawagner.com/exhibitions-overview/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-15T07:25:20"
 }

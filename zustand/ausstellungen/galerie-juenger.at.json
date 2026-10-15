@@ -10,7 +10,7 @@
  ],
  "ausstellungen": [
   {
-   "titel": "EGO IST NEVIDAL",
+   "titel": "Ego ist Nevidal",
    "untertitel": "Eine Retrospektive des 2026 verstorbenen Experimentaldruckgrafikers, Konzeptkünstlers und Architekten Hans Nevidal",
    "beginn": "2026-09-30",
    "ende": "2026-10-31",
@@ -20,13 +20,13 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": "Retrospektive zu Experimentaldruckgrafik, Konzeptkunst und Architektur",
-   "anderer_ort": null,
-   "eroeffnung": "<null>",
+   "schwerpunkt": null,
    "einzelausstellung_von": "Hans Nevidal",
    "kuenstler": [
     "Hans Nevidal"
    ],
+   "eroeffnung": "<null>",
+   "anderer_ort": null,
    "url": "https://www.galerie-juenger.at/juenger/galeriejuenger.nsf/sysPages/programm.html",
    "quelle": "https://www.galerie-juenger.at/juenger/galeriejuenger.nsf/sysPages/programm.html",
    "eintritt": "<null>",
@@ -36,6 +36,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

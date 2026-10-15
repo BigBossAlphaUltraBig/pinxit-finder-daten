@@ -22,20 +22,20 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
+   "anderer_ort": "Galeria Arsenal, Białystok",
    "kuenstler": [
     "Pakui Hardware"
    ],
-   "anderer_ort": "Galeria Arsenal, Białystok",
    "eroeffnung": null,
    "schwerpunkt": null,
    "url": "https://www.carliergebauer.com/external-exhibition/clearview-galeria-arsenal-bialystok/",
    "quelle": "https://www.carliergebauer.com/external-exhibition/clearview-galeria-arsenal-bialystok/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Galeria Arsenal, Białystok"
   },
   {
-   "titel": "Anatomy Of Presence",
-   "untertitel": "Lúcia Koch",
+   "titel": "Anatomy of Presence",
+   "untertitel": "Lúcia Koch | Anatomy Of Presence",
    "beginn": "2026-09-27",
    "ende": "2027-07-18",
    "art": "wechselausstellung",
@@ -44,20 +44,20 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "Lúcia Koch",
     "Vivian Caccuri",
     "Henrique Oliveira"
    ],
-   "anderer_ort": "SCHAUWERK Sindelfingen",
-   "url": "https://www.carliergebauer.com/external-exhibition/lucia-koch-anatomy-of-presence-schauwerk-sindelfingen/",
-   "eroeffnung": null,
    "einzelausstellung_von": null,
+   "anderer_ort": "SCHAUWERK Sindelfingen",
+   "eroeffnung": null,
+   "schwerpunkt": null,
+   "url": "https://www.carliergebauer.com/external-exhibition/lucia-koch-anatomy-of-presence-schauwerk-sindelfingen/",
    "quelle": "https://www.carliergebauer.com/external-exhibition/lucia-koch-anatomy-of-presence-schauwerk-sindelfingen/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: SCHAUWERK Sindelfingen"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

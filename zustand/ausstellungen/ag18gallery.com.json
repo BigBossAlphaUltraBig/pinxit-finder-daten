@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "HEAVY DANCER",
-   "untertitel": "",
+   "untertitel": "AG18 Spotlight",
    "beginn": "2026-10-06",
    "ende": "2026-10-24",
    "art": "wechselausstellung",
@@ -21,14 +21,13 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "Nina Gospodin"
    ],
-   "anderer_ort": null,
-   "einzelausstellung_von": "Nina Gospodin",
-   "eroeffnung": null,
    "url": "https://ag18gallery.com/de/archiv/exhibition/heavy-dancer",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "schwerpunkt": null,
    "quelle": "https://ag18gallery.com/de/exhibitions",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -36,7 +35,7 @@
   },
   {
    "titel": "SELF-ASSERTIVENESS",
-   "untertitel": "",
+   "untertitel": "AG18 Gallery",
    "beginn": "2026-09-11",
    "ende": "2026-10-17",
    "art": "wechselausstellung",
@@ -45,7 +44,6 @@
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "Boris Anje Anjel",
     "Gerald Cukwuma",
@@ -59,10 +57,10 @@
     "Famakan Magassa",
     "Thomas Vava"
    ],
-   "anderer_ort": null,
-   "einzelausstellung_von": null,
-   "eroeffnung": null,
    "url": "https://ag18gallery.com/de/archiv/exhibition/self-assertiveness",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "schwerpunkt": null,
    "quelle": "https://ag18gallery.com/de/exhibitions",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -70,6 +68,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

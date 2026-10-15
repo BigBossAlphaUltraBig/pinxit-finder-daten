@@ -25,8 +25,8 @@
    "kuenstler": [
     "Abie Franklin"
    ],
-   "einzelausstellung_von": "Abie Franklin",
    "eroeffnung": null,
+   "einzelausstellung_von": "Abie Franklin",
    "anderer_ort": null,
    "url": "https://galeriekaufmann.de/ausstellungen/",
    "quelle": "https://galeriekaufmann.de/ausstellungen/",
@@ -35,7 +35,31 @@
    "verpasst": 0
   }
  ],
- "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "aussortiert": [
+  {
+   "titel": "Wild Mind - Kind Matter",
+   "untertitel": "Kind Matter",
+   "beginn": "2025-07-24",
+   "ende": "2025-09-06",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Kaufmann",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Katherina Heil"
+   ],
+   "einzelausstellung_von": "Katherina Heil",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://galeriekaufmann.de/exhibition/wild-mind-kind-matter/",
+   "quelle": "https://galeriekaufmann.de/exhibition/wild-mind-kind-matter/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

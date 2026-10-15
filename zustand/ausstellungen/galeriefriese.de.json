@@ -35,7 +35,6 @@
   {
    "titel": "O.T. (1-60/ 90_2026)",
    "untertitel": null,
-   "einzelausstellung_von": "Franziska Holstein",
    "kuenstler": [
     "Franziska Holstein"
    ],
@@ -60,7 +59,7 @@
  "aussortiert": [
   {
    "titel": "SELF STUDIES",
-   "untertitel": "Die Ausstellung Self Studies zeigt zehn Künstlerinnen verschiedener Generationen, in deren Arbeit die Erforschung des Selbst zum Gegenstand wird – in Malerei, Zeichnung, Keramik und Textil.",
+   "untertitel": "Self Studies",
    "kuenstler": [
     "Jessica Jane Charleston",
     "Madeline Donahue",
@@ -86,10 +85,10 @@
    "anderer_ort": null,
    "url": "https://www.galeriefriese.de/self_studies/",
    "quelle": "https://www.galeriefriese.de/category/ausstellung/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

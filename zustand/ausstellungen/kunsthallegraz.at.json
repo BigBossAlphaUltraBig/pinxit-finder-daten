@@ -23,6 +23,8 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": "2025-06-17T18:00",
+   "einzelausstellung_von": null,
    "kuenstler": [
     "Tabea Falschlunger",
     "Mariam Gosibat",
@@ -36,14 +38,12 @@
     "Suna Strondl",
     "Judith Weiß"
    ],
-   "einzelausstellung_von": null,
-   "eroeffnung": "2025-06-17T18:00",
-   "anderer_ort": null,
    "url": "https://kunsthallegraz.at/exhibition/and-now/",
+   "anderer_ort": null,
    "quelle": "https://kunsthallegraz.at/exhibition/and-now/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

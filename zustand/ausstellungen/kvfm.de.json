@@ -13,9 +13,6 @@
   {
    "titel": "Colour vs Light – Surface vs Space",
    "untertitel": "by Delaram Homayouni",
-   "kuenstler": [
-    "Delaram Homayouni"
-   ],
    "beginn": "2026-10-22",
    "ende": "2026-11-22",
    "art": "wechselausstellung",
@@ -25,14 +22,20 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "url": "https://kvfm.de/ausstellung-by-delaram-homayoun/",
-   "eroeffnung": "2026-10-22T18:00",
-   "anderer_ort": null,
+   "kuenstler": [
+    "Delaram Homayouni"
+   ],
    "einzelausstellung_von": "Delaram Homayouni",
+   "eroeffnung": "2026-10-22",
+   "anderer_ort": null,
+   "url": "https://kvfm.de/ausstellung-by-delaram-homayoun/",
    "quelle": "https://kvfm.de/ausstellung-by-delaram-homayoun/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

@@ -19,19 +19,18 @@
    "haus": "Sfeir-Semler Gallery",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "eroeffnung": null,
+   "einzelausstellung_von": "Mounira Al Solh",
    "kuenstler": [
     "Mounira Al Solh"
    ],
-   "einzelausstellung_von": "Mounira Al Solh",
+   "url": "https://sfeir-semler.com/exhibitions/mounira-al-solh-elyssa-ela-hela-elyssa-i-myth-you-more",
+   "eroeffnung": null,
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "untertitel": null,
    "anderer_ort": null,
-   "url": "https://sfeir-semler.com/exhibitions/mounira-al-solh-elyssa-ela-hela-elyssa-i-myth-you-more",
+   "untertitel": null,
    "quelle": "https://sfeir-semler.com/",
    "detail_geprueft": "2026-10-12",
-   "standort": "SFEIR-SEMLER GALLERY",
    "erstmals": "2026-10-12",
    "verpasst": 0
   }
@@ -46,31 +45,30 @@
    "haus": "Sfeir-Semler Gallery",
    "rang": 2,
    "epoche": "zeitgenoessisch",
-   "eroeffnung": null,
+   "einzelausstellung_von": "Khalil Rabah",
    "kuenstler": [
     "Khalil Rabah"
    ],
-   "einzelausstellung_von": "Khalil Rabah",
+   "url": "https://sfeir-semler.com/exhibitions/some-other-things-ruled-it",
+   "eroeffnung": null,
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "anderer_ort": "SFEIR-SEMLER GALLERY Karantina, Beirut",
    "untertitel": "Some other things ruled it",
-   "anderer_ort": "Karantina, Beirut",
-   "url": "https://sfeir-semler.com/exhibitions/some-other-things-ruled-it",
    "quelle": "https://sfeir-semler.com/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Karantina, Beirut",
-   "standort": "SFEIR-SEMLER GALLERY"
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: SFEIR-SEMLER GALLERY Karantina, Beirut"
   },
   {
    "titel": "61st Biennale Di Venezia",
    "beginn": "2026-05-06",
    "ende": "2026-11-22",
-   "art": "wechselausstellung",
+   "art": "messe_markt",
    "fachgebiet": "bildende_kunst",
    "haus": "Sfeir-Semler Gallery",
    "rang": 4,
    "epoche": "zeitgenoessisch",
-   "eroeffnung": null,
+   "einzelausstellung_von": null,
    "kuenstler": [
     "Walid Raad",
     "Yto Barrada",
@@ -78,18 +76,39 @@
     "Dana Awartani",
     "Alia Farid"
    ],
-   "einzelausstellung_von": null,
+   "url": "https://sfeir-semler.com/exhibitions/61st-biennale-di-venezia",
+   "eroeffnung": null,
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "untertitel": "Walid Raad, Yto Barrada, Sung Tieu, Dana Awartani, Alia Farid",
    "anderer_ort": "Venedig, Italien",
-   "url": "https://sfeir-semler.com/exhibitions/61st-biennale-di-venezia",
+   "untertitel": "In Minor Keys",
    "quelle": "https://sfeir-semler.com/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Venedig, Italien",
-   "standort": "SFEIR-SEMLER GALLERY"
+   "detail_geprueft": "2026-10-15",
+   "grund": "Messe/Markt, keine Ausstellung"
+  },
+  {
+   "titel": "J'aime les fleurs comme les étoiles",
+   "beginn": "2026-05-29",
+   "ende": "2026-08-14",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Sfeir-Semler Gallery",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Aref El Rayess",
+   "kuenstler": [
+    "Aref El Rayess"
+   ],
+   "url": "https://sfeir-semler.com/exhibitions/j-aime-les-fleurs-comme-les-etoiles",
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "untertitel": "J'aime les fleurs comme les étoiles",
+   "quelle": "https://sfeir-semler.com/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

@@ -19,29 +19,28 @@
    "fachgebiet": "bildende_kunst",
    "haus": "American Contemporary Art Gallery",
    "rang": 1,
-   "epoche": "gemischt",
+   "epoche": "moderne",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": null,
    "kuenstler": [
     "Fabienne Verdier",
     "Jackson Pollock"
    ],
    "anderer_ort": null,
    "eroeffnung": null,
-   "einzelausstellung_von": null,
    "url": "https://americancontemporaryartgallery.com/exhibitions/13-gravity-made-visible-fabienne-verdier-meets-jackson-pollock-horn-switzerland/",
    "quelle": "https://americancontemporaryartgallery.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
+   "standort": "american contemporary art GALLERY",
    "erstmals": "2026-10-12",
    "verpasst": 0
-  }
- ],
- "aussortiert": [
+  },
   {
-   "titel": "Hans Hofmann",
-   "untertitel": "Munich, Paris, and the Routes of Abstraction",
-   "beginn": "2026-09-16",
-   "ende": "2026-10-08",
+   "titel": "The Nature of Spiritual Power in Color and Shape",
+   "untertitel": "The Nature of Spiritual Power in Color and Shape",
+   "beginn": "2026-10-16",
+   "ende": "2027-01-16",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "American Contemporary Art Gallery",
@@ -49,18 +48,21 @@
    "epoche": "moderne",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": "Charles Pollock",
    "kuenstler": [
-    "Hans Hofmann"
+    "Charles Pollock"
    ],
    "anderer_ort": null,
    "eroeffnung": null,
-   "einzelausstellung_von": "Hans Hofmann",
-   "url": "https://americancontemporaryartgallery.com/exhibitions/14-hans-hofmann-munich-paris-and-the-routes-of-munich-germany/",
+   "url": "https://americancontemporaryartgallery.com/exhibitions/15-charles-pollock-the-nature-of-spiritual-power-in-munich-germany/",
    "quelle": "https://americancontemporaryartgallery.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet"
+   "detail_geprueft": "2026-10-15",
+   "standort": "american contemporary art GALLERY",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

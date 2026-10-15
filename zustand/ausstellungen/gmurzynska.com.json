@@ -4,15 +4,14 @@
  "haeuser": "Galerie Gmurzynska",
  "land": "CH",
  "ids": "Q5518446",
- "status": "nur aussortierte",
+ "status": "ok",
  "seiten": [
   "https://www.gmurzynska.com/exhibitions",
   "https://www.gmurzynska.com/exhibitions/christoph-niemann-urban-horizons"
  ],
- "ausstellungen": [],
- "aussortiert": [
+ "ausstellungen": [
   {
-   "titel": "Revolutionizing Collage",
+   "titel": "Jiří Kolář: Revolutionizing Collage",
    "untertitel": "Revolutionizing Collage",
    "beginn": "2026-09-24",
    "ende": "2026-10-23",
@@ -27,16 +26,42 @@
     "Jiří Kolář"
    ],
    "einzelausstellung_von": "Jiří Kolář",
-   "anderer_ort": "New York, 595 Madison Avenue",
+   "anderer_ort": null,
    "eroeffnung": null,
    "url": "https://www.gmurzynska.com/exhibitions/jiri-kolar-revolutionizing-collage",
    "quelle": "https://www.gmurzynska.com/exhibitions",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: New York, 595 Madison Avenue"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Christoph Niemann: Urban Horizons",
+   "untertitel": "Urban Horizons",
+   "beginn": "2026-06-12",
+   "ende": "2026-09-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Gmurzynska",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Christoph Niemann"
+   ],
+   "einzelausstellung_von": "Christoph Niemann",
+   "anderer_ort": "Zurich, Paradeplatz 2",
+   "eroeffnung": null,
+   "url": "https://www.gmurzynska.com/exhibitions/christoph-niemann-urban-horizons",
+   "quelle": "https://www.gmurzynska.com/exhibitions",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
   },
   {
    "titel": "Urban Horizons",
-   "untertitel": "Christoph Niemann",
+   "untertitel": "Zurich | Paradeplatz 2",
    "beginn": "2026-06-12",
    "ende": "2026-09-30",
    "art": "wechselausstellung",
@@ -45,18 +70,19 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": "Stadtansichten und New York-Motive in Acryl und Siebdruck",
-   "url": "https://www.gmurzynska.com/exhibitions/christoph-niemann-urban-horizons",
-   "eroeffnung": null,
-   "einzelausstellung_von": "Christoph Niemann",
-   "anderer_ort": null,
+   "schwerpunkt": null,
    "kuenstler": [
     "Christoph Niemann"
    ],
+   "eroeffnung": null,
+   "einzelausstellung_von": "Christoph Niemann",
+   "anderer_ort": null,
+   "url": "https://www.gmurzynska.com/exhibitions/christoph-niemann-urban-horizons",
    "quelle": "https://www.gmurzynska.com/exhibitions/christoph-niemann-urban-horizons",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

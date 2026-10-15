@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Logbuch",
-   "untertitel": "Christa Filser",
+   "untertitel": "",
    "beginn": "2026-10-16",
    "ende": "2026-11-27",
    "art": "wechselausstellung",
@@ -25,9 +25,9 @@
    "kuenstler": [
     "Christa Filser"
    ],
+   "einzelausstellung_von": "Christa Filser",
    "eroeffnung": "2026-10-16T18:00",
    "anderer_ort": null,
-   "einzelausstellung_von": "Christa Filser",
    "url": "https://filserundgraef.de/exhibitions/logbuch-christa-filser-edfe618f/",
    "quelle": "https://filserundgraef.de/exhibitions/",
    "detail_geprueft": "2026-10-12",
@@ -38,11 +38,7 @@
  "aussortiert": [
   {
    "titel": "Theatre of Life",
-   "untertitel": "Jimmy Vuong & Lilidelacrows / In Cooperation with Tartch Gallery Taipei / Taiwan",
-   "kuenstler": [
-    "Jimmy Vuong",
-    "Lilidelacrows"
-   ],
+   "untertitel": "Jimmy Vuong & Lilidelacrows / in cooperation with Tartch Gallery Taipei / Taiwan",
    "beginn": "2026-07-03",
    "ende": "2026-10-07",
    "art": "wechselausstellung",
@@ -52,15 +48,19 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "eroeffnung": "2026-07-03T18:00",
-   "anderer_ort": null,
+   "kuenstler": [
+    "Jimmy Vuong",
+    "Lilidelacrows"
+   ],
    "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": "2026-07-03",
    "url": "https://filserundgraef.de/exhibitions/theatre-of-life-jimmy-vuong-lilidelacrows-in-cooperation-with-tartch-gallery-taipei-taiwan-882846e3/?tab=e-n-tab-title-805756971",
    "quelle": "https://filserundgraef.de/exhibitions/theatre-of-life-jimmy-vuong-lilidelacrows-in-cooperation-with-tartch-gallery-taipei-taiwan-882846e3/?tab=e-n-tab-title-805756971",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

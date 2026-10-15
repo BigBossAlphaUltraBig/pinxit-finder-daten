@@ -12,10 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Fire Sermon",
-   "untertitel": null,
-   "kuenstler": [
-    "Tuan Andrew Nguyen"
-   ],
+   "untertitel": "",
    "beginn": "2026-09-10",
    "ende": "2026-10-24",
    "art": "wechselausstellung",
@@ -23,12 +20,15 @@
    "haus": "Esther Schipper",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [
+    "Tuan Andrew Nguyen"
+   ],
+   "einzelausstellung_von": "Tuan Andrew Nguyen",
+   "eroeffnung": null,
+   "gemeinfrei": false,
    "anderer_ort": null,
    "url": "https://www.estherschipper.com/exhibitions/1600-fire-sermon-tuan-andrew-nguyen/",
-   "eroeffnung": null,
-   "einzelausstellung_von": "Tuan Andrew Nguyen",
    "quelle": "https://www.estherschipper.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -36,23 +36,23 @@
   },
   {
    "titel": "Repose",
-   "untertitel": null,
-   "kuenstler": [
-    "David Claerbout"
-   ],
+   "untertitel": "",
    "beginn": "2026-09-10",
    "ende": "2026-10-24",
    "art": "wechselausstellung",
-   "fachgebiet": "medienkunst",
+   "fachgebiet": "bildende_kunst",
    "haus": "Esther Schipper",
    "rang": 2,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [
+    "David Claerbout"
+   ],
+   "einzelausstellung_von": "David Claerbout",
+   "eroeffnung": null,
+   "gemeinfrei": false,
    "anderer_ort": null,
    "url": "https://www.estherschipper.com/exhibitions/1601-repose-david-claerbout/",
-   "eroeffnung": null,
-   "einzelausstellung_von": "David Claerbout",
    "quelle": "https://www.estherschipper.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -60,10 +60,7 @@
   },
   {
    "titel": "Make A Wish",
-   "untertitel": null,
-   "kuenstler": [
-    "Jenny Brosinski"
-   ],
+   "untertitel": "",
    "beginn": "2026-11-06",
    "ende": "2026-12-19",
    "art": "wechselausstellung",
@@ -71,12 +68,15 @@
    "haus": "Esther Schipper",
    "rang": 5,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [
+    "Jenny Brosinski"
+   ],
+   "einzelausstellung_von": "Jenny Brosinski",
+   "eroeffnung": null,
+   "gemeinfrei": false,
    "anderer_ort": null,
    "url": "https://www.estherschipper.com/exhibitions/1609-make-a-wish-jenny-brosinski/",
-   "eroeffnung": null,
-   "einzelausstellung_von": "Jenny Brosinski",
    "quelle": "https://www.estherschipper.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -84,23 +84,23 @@
   },
   {
    "titel": "Elephant",
-   "untertitel": null,
-   "kuenstler": [
-    "Sara Cwynar"
-   ],
+   "untertitel": "",
    "beginn": "2026-11-06",
    "ende": "2026-12-19",
    "art": "wechselausstellung",
-   "fachgebiet": "fotografie",
+   "fachgebiet": "bildende_kunst",
    "haus": "Esther Schipper",
    "rang": 6,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [
+    "Sara Cwynar"
+   ],
+   "einzelausstellung_von": "Sara Cwynar",
+   "eroeffnung": null,
+   "gemeinfrei": false,
    "anderer_ort": null,
    "url": "https://www.estherschipper.com/exhibitions/1610-elephant-sara-cwynar/",
-   "eroeffnung": null,
-   "einzelausstellung_von": "Sara Cwynar",
    "quelle": "https://www.estherschipper.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -110,10 +110,7 @@
  "aussortiert": [
   {
    "titel": "Who Lived Happily Ever After?",
-   "untertitel": null,
-   "kuenstler": [
-    "Simon Fujiwara"
-   ],
+   "untertitel": "Who Lived Happily Ever After?",
    "beginn": "2026-09-02",
    "ende": "2026-10-31",
    "art": "wechselausstellung",
@@ -121,45 +118,45 @@
    "haus": "Esther Schipper",
    "rang": 3,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [
+    "Simon Fujiwara"
+   ],
+   "einzelausstellung_von": "Simon Fujiwara",
+   "eroeffnung": null,
+   "gemeinfrei": false,
    "anderer_ort": "Seoul",
    "url": "https://www.estherschipper.com/exhibitions/1595-who-lived-happily-ever-after-simon-fujiwara/",
-   "eroeffnung": null,
-   "einzelausstellung_von": "Simon Fujiwara",
    "quelle": "https://www.estherschipper.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Seoul"
   },
   {
    "titel": "Philippe Parreno",
-   "untertitel": null,
-   "kuenstler": [
-    "Philippe Parreno"
-   ],
+   "untertitel": "Esther Schipper, Paris",
    "beginn": "2026-10-20",
    "ende": "2026-11-21",
    "art": "wechselausstellung",
-   "fachgebiet": "medienkunst",
+   "fachgebiet": "bildende_kunst",
    "haus": "Esther Schipper",
    "rang": 4,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [
+    "Philippe Parreno"
+   ],
+   "einzelausstellung_von": "Philippe Parreno",
+   "eroeffnung": null,
+   "gemeinfrei": false,
    "anderer_ort": "Paris",
    "url": "https://www.estherschipper.com/exhibitions/1608-philippe-parreno/",
-   "eroeffnung": null,
-   "einzelausstellung_von": "Philippe Parreno",
    "quelle": "https://www.estherschipper.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Paris"
   },
   {
    "titel": "Joy / The structure of feeling / Be with me always, take any form",
-   "untertitel": null,
-   "kuenstler": [
-    "Ryan Gander"
-   ],
+   "untertitel": "The structure of feeling / Be with me always, take any form",
    "beginn": "2026-11-24",
    "ende": "2026-12-24",
    "art": "wechselausstellung",
@@ -167,22 +164,22 @@
    "haus": "Esther Schipper",
    "rang": 7,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [
+    "Ryan Gander"
+   ],
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
    "anderer_ort": "Seoul",
    "url": "https://www.estherschipper.com/exhibitions/1611-joy-the-structure-of-feeling-be-ryan-gander/",
-   "eroeffnung": null,
-   "einzelausstellung_von": "Ryan Gander",
    "quelle": "https://www.estherschipper.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Seoul"
   },
   {
    "titel": "Polla Series 2026",
-   "untertitel": null,
-   "kuenstler": [
-    "Prabhavathi Meppayil"
-   ],
+   "untertitel": "Prabhavathi Meppayil",
    "beginn": "2026-12-04",
    "ende": "2027-01-16",
    "art": "wechselausstellung",
@@ -190,17 +187,20 @@
    "haus": "Esther Schipper",
    "rang": 8,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [
+    "Prabhavathi Meppayil"
+   ],
+   "einzelausstellung_von": "Prabhavathi Meppayil",
+   "eroeffnung": null,
+   "gemeinfrei": false,
    "anderer_ort": "Paris",
    "url": "https://www.estherschipper.com/exhibitions/1612-polla-series-2026-prabhavathi-meppayil/",
-   "eroeffnung": null,
-   "einzelausstellung_von": "Prabhavathi Meppayil",
    "quelle": "https://www.estherschipper.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Paris"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

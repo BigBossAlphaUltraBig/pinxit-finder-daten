@@ -17,47 +17,48 @@
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Rodler Gschwentner Gallery",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "Julia Faber",
-    "Nicolas Pegon"
-   ],
-   "einzelausstellung_von": null,
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "url": null,
-   "quelle": "https://www.rodler-gschwenter.com/ausstellungen/",
-   "erstmals": "2026-10-12",
-   "verpasst": 0
-  }
- ],
- "aussortiert": [
-  {
-   "titel": "BETWEEN SCENES",
-   "untertitel": null,
-   "beginn": "2026-09-05",
-   "ende": "2026-10-10",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Rodler Gschwentner Gallery",
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": null,
    "kuenstler": [
-    "Dom Simon"
+    "Julia Faber",
+    "Nicolas Pegon"
    ],
-   "einzelausstellung_von": "Dom Simon",
+   "url": null,
    "eroeffnung": null,
    "anderer_ort": null,
-   "url": null,
    "quelle": "https://www.rodler-gschwenter.com/ausstellungen/",
-   "grund": "beendet"
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "THE UNSPOKEN",
+   "untertitel": null,
+   "beginn": "2026-11-14",
+   "ende": "2027-01-16",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Rodler Gschwentner Gallery",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Mario Dilitz",
+    "Eugene Shadko"
+   ],
+   "url": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://www.rodler-gschwenter.com/ausstellungen/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

@@ -6,11 +6,13 @@
  "ids": "nachtrag-kunstverein-m-nchen",
  "status": "ok",
  "seiten": [
+  "https://www.kunstverein-muenchen.de/en/programm",
   "https://www.kunstverein-muenchen.de/de/programm"
  ],
  "ausstellungen": [
   {
    "titel": "Kitty Kraus",
+   "untertitel": null,
    "beginn": "2026-09-26",
    "ende": "2026-11-29",
    "art": "wechselausstellung",
@@ -20,21 +22,21 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "untertitel": "Ein einziges neues Werk: ein scheinbar endloser Pfad",
+   "eroeffnung": "2026-09-25T19:00",
+   "anderer_ort": null,
    "einzelausstellung_von": "Kitty Kraus",
    "kuenstler": [
     "Kitty Kraus"
    ],
-   "url": "https://www.kunstverein-muenchen.de/de/programm/ausstellungen/aktuell/kitty-kraus",
-   "anderer_ort": null,
-   "eroeffnung": "2026-09-25",
-   "ausstellungen_hinweis": null,
-   "quelle": "https://www.kunstverein-muenchen.de/de/programm",
-   "detail_geprueft": "2026-10-12"
+   "url": "https://www.kunstverein-muenchen.de/en/programm/ausstellungen/current/kitty-kraus",
+   "quelle": "https://www.kunstverein-muenchen.de/en/programm",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "George Tourkovasilis",
-   "untertitel": "präsentiert mit dem Daybed von Julie Peeters",
+   "untertitel": "a Daybed presentation by Julie Peeters",
    "beginn": "2026-09-26",
    "ende": "2026-11-29",
    "art": "wechselausstellung",
@@ -44,21 +46,46 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": "2026-09-25T19:00",
+   "anderer_ort": null,
    "einzelausstellung_von": "George Tourkovasilis",
+   "kuenstler": [
+    "George Tourkovasilis"
+   ],
+   "url": "https://www.kunstverein-muenchen.de/en/programm/ausstellungen/current/george-tourkovasilis",
+   "quelle": "https://www.kunstverein-muenchen.de/en/programm",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Daybed von Julie Peeters",
+   "untertitel": "präsentiert mit dem Daybed von Julie Peeters",
+   "beginn": "2026-09-26",
+   "ende": "2026-11-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunstverein München",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "schwerpunkt": null,
+   "gemeinfrei": false,
    "kuenstler": [
     "George Tourkovasilis",
     "Julie Peeters"
    ],
-   "url": "https://www.kunstverein-muenchen.de/de/programm/ausstellungen/aktuell/george-tourkovasilis",
+   "eroeffnung": "2026-09-25T19:00",
    "anderer_ort": null,
-   "eroeffnung": "2026-09-25",
-   "ausstellungen_hinweis": null,
+   "einzelausstellung_von": "George Tourkovasilis",
+   "url": "https://www.kunstverein-muenchen.de/de/programm/ausstellungen/aktuell/george-tourkovasilis",
    "quelle": "https://www.kunstverein-muenchen.de/de/programm",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Theory",
-   "untertitel": "präsentiert im Schaufenster von Fivehundred Places / Jason Dodge, übersetzt von Thomas Eggerer",
+   "untertitel": "presented in the Schaufenster by Fivehundred Places / Jason Dodge, translated by Thomas Eggerer",
    "beginn": "2026-09-26",
    "ende": "2026-11-29",
    "art": "wechselausstellung",
@@ -68,45 +95,47 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": "2026-09-25",
+   "anderer_ort": null,
    "einzelausstellung_von": "Bianca Stone",
    "kuenstler": [
-    "Bianca Stone",
-    "Jason Dodge",
-    "Thomas Eggerer"
+    "Bianca Stone"
    ],
-   "url": "https://www.kunstverein-muenchen.de/de/programm/schaufenster/2026/bianca-stone",
-   "anderer_ort": null,
-   "eroeffnung": "2026-09-25",
-   "ausstellungen_hinweis": null,
-   "quelle": "https://www.kunstverein-muenchen.de/de/programm",
-   "detail_geprueft": "2026-10-12"
+   "url": "https://www.kunstverein-muenchen.de/en/programm/schaufenster/2026/bianca-stone",
+   "quelle": "https://www.kunstverein-muenchen.de/en/programm",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Möbelstücke etc.",
+   "untertitel": "Möbelstücke etc.",
    "beginn": "2026-06-27",
    "ende": null,
    "art": "wechselausstellung",
-   "fachgebiet": "design",
+   "fachgebiet": "bildende_kunst",
    "haus": "Kunstverein München",
    "rang": 4,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": "2026-06-26T19:00",
+   "anderer_ort": null,
    "einzelausstellung_von": "Lukas Gschwandtner",
    "kuenstler": [
     "Lukas Gschwandtner"
    ],
-   "url": "https://www.kunstverein-muenchen.de/de/programm/ausstellungen/aktuell/lukas-gschwandtner",
-   "anderer_ort": null,
-   "eroeffnung": "2026-06-26T19:00",
-   "quelle": "https://www.kunstverein-muenchen.de/de/programm",
-   "untertitel": "null",
-   "detail_geprueft": "2026-10-12"
+   "url": "https://www.kunstverein-muenchen.de/en/programm/ausstellungen/current/lukas-gschwandtner",
+   "quelle": "https://www.kunstverein-muenchen.de/en/programm",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
   {
    "titel": "Jahresgaben 2026",
+   "untertitel": "Geschichte der Jahresgaben und heutige Einordnung",
    "beginn": "2026-12-05",
    "ende": "2026-12-13",
    "art": "messe_markt",
@@ -116,16 +145,16 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": "2026-12-04",
+   "anderer_ort": null,
    "einzelausstellung_von": null,
    "kuenstler": [],
    "url": "https://www.kunstverein-muenchen.de/de/programm/ausstellungen/vorschau/jahresgaben-2026",
-   "anderer_ort": null,
-   "eroeffnung": "2026-12-04",
-   "quelle": "https://www.kunstverein-muenchen.de/de/programm",
-   "untertitel": "Geschichte der Jahresgaben und heutige Einordnung",
-   "detail_geprueft": "2026-10-12",
+   "quelle": "https://www.kunstverein-muenchen.de/en/programm",
+   "detail_geprueft": "2026-10-15",
    "grund": "Messe/Markt, keine Ausstellung"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

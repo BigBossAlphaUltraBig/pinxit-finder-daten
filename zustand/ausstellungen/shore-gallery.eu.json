@@ -11,7 +11,7 @@
  "ausstellungen": [
   {
    "titel": "BABYBUBU NEVER DIE",
-   "untertitel": "Curated by Amalia Ulman",
+   "untertitel": "",
    "beginn": "2026-09-11",
    "ende": "2026-10-17",
    "art": "wechselausstellung",
@@ -21,8 +21,6 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": null,
-   "url": "https://www.shore-gallery.eu/Curated-By-Amalia-Ulman.html",
    "kuenstler": [
     "Alexandr Hackenschmied",
     "Maya Deren",
@@ -35,7 +33,10 @@
     "Libby Rothfeld",
     "Bruno Zhu"
    ],
+   "url": "https://www.shore-gallery.eu/Curated-By-Amalia-Ulman.html",
    "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
    "quelle": "https://www.shore-gallery.eu/exhibitions.html",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -43,6 +44,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

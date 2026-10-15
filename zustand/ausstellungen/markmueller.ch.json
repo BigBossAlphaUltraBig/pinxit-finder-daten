@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "es ward ein Kasten",
-   "untertitel": "Parallel",
+   "untertitel": "",
    "beginn": "2026-09-05",
    "ende": "2026-10-17",
    "art": "wechselausstellung",
@@ -37,7 +37,7 @@
   },
   {
    "titel": "Juans Hosentasche",
-   "untertitel": null,
+   "untertitel": "",
    "beginn": "2026-09-05",
    "ende": "2026-10-17",
    "art": "wechselausstellung",
@@ -61,6 +61,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

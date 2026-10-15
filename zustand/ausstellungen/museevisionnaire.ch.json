@@ -11,7 +11,7 @@
  "ausstellungen": [
   {
    "titel": "LISTED LIVES",
-   "untertitel": "Listen als ästhetische, performative und dokumentarische Praxis",
+   "untertitel": null,
    "beginn": "2026-06-10",
    "ende": "2026-12-20",
    "art": "wechselausstellung",
@@ -21,14 +21,18 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": null,
    "kuenstler": [],
    "eroeffnung": null,
    "anderer_ort": null,
    "url": "https://www.museevisionnaire.ch/listed-lives/",
    "quelle": "https://www.museevisionnaire.ch/listed-lives/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

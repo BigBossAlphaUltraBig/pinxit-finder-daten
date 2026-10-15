@@ -11,6 +11,56 @@
  ],
  "ausstellungen": [
   {
+   "titel": "RRRRRREMIX - RESIDENCY - REPEAT",
+   "untertitel": "Chicks on Speed",
+   "beginn": "2026-09-10",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Ebensperger",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Chicks on Speed",
+   "eroeffnung": null,
+   "kuenstler": [
+    "Chicks on Speed"
+   ],
+   "url": "https://ebensperger.net/cchicks-on-speed-rrrrrremix-residency-repeat/",
+   "quelle": "https://ebensperger.net/exhibitions",
+   "detail_geprueft": "2026-10-15",
+   "standort": "EBENSPERGER",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Bonnie Camplin Archive (BCA)",
+   "untertitel": "null",
+   "beginn": "2026-09-10",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Ebensperger",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Bonnie Camplin",
+   "eroeffnung": "2026-09-13",
+   "kuenstler": [
+    "Bonnie Camplin"
+   ],
+   "url": "https://ebensperger.net/bonnie-camplin/",
+   "quelle": "https://ebensperger.net/exhibitions",
+   "detail_geprueft": "2026-10-15",
+   "standort": "EBENSPERGER",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
    "titel": "Chicks on Speed",
    "untertitel": "RRRRRREMIX - RESIDENCY - REPEAT",
    "kuenstler": [
@@ -33,35 +83,10 @@
    "detail_geprueft": "2026-10-12",
    "standort": "EBENSPERGER",
    "erstmals": "2026-10-12",
-   "verpasst": 0
-  },
-  {
-   "titel": "Bonnie Camplin Archive (BCA)",
-   "untertitel": "null",
-   "kuenstler": [
-    "Bonnie Camplin"
-   ],
-   "beginn": "2026-09-10",
-   "ende": null,
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Ebensperger",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "eroeffnung": "2026-09-13",
-   "einzelausstellung_von": "Bonnie Camplin",
-   "url": "https://ebensperger.net/bonnie-camplin/",
-   "quelle": "https://ebensperger.net/exhibitions",
-   "detail_geprueft": "2026-10-12",
-   "standort": "EBENSPERGER",
-   "erstmals": "2026-10-12",
-   "verpasst": 0
+   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 0
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 1
 }

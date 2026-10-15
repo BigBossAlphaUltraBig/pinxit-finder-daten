@@ -24,17 +24,12 @@
    "anderer_ort": null,
    "eroeffnung": "2026-10-09T18:00",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "Yoko Ono",
-    "Yvonne Rainer",
-    "VALIE EXPORT",
-    "Carolee Schneemann",
-    "Charlotte Moorman"
-   ],
    "url": "https://www.staatsgalerie.de/de/ausstellungen/aktuell/baeng",
+   "kuenstler": [],
    "quelle": "https://www.staatsgalerie.de/de/ausstellungen/aktuell",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "THIS IS TOMORROW",
@@ -45,15 +40,17 @@
    "fachgebiet": "bildende_kunst",
    "haus": "Staatsgalerie Stuttgart",
    "rang": 2,
-   "epoche": "moderne",
+   "epoche": "zeitgenoessisch",
    "einzelausstellung_von": null,
    "anderer_ort": null,
    "eroeffnung": null,
    "gemeinfrei": false,
-   "schwerpunkt": "Kunst des 20. und 21. Jahrhunderts",
-   "kuenstler": [],
    "url": "https://www.staatsgalerie.de/de/ausstellungen/aktuell/this-is-tomorrow",
-   "quelle": "https://www.staatsgalerie.de/de/ausstellungen/aktuell"
+   "kuenstler": [],
+   "schwerpunkt": "Kunst des 20. und 21. Jahrhunderts",
+   "quelle": "https://www.staatsgalerie.de/de/ausstellungen/aktuell",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Albtraum und Vision",
@@ -69,11 +66,12 @@
    "anderer_ort": null,
    "eroeffnung": null,
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [],
    "url": "https://www.staatsgalerie.de/de/ausstellungen/vorschau/albtraum-und-vision",
+   "kuenstler": [],
    "quelle": "https://www.staatsgalerie.de/de/ausstellungen/aktuell",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Alles surreal?!",
@@ -89,11 +87,12 @@
    "anderer_ort": null,
    "eroeffnung": null,
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [],
    "url": "https://www.staatsgalerie.de/de/ausstellungen/vorschau/alles-surreal",
+   "kuenstler": [],
    "quelle": "https://www.staatsgalerie.de/de/ausstellungen/aktuell",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
@@ -108,20 +107,20 @@
    "rang": 5,
    "epoche": "moderne",
    "einzelausstellung_von": null,
-   "anderer_ort": "Kunstgebäude, Schlossplatz 2, Stuttgart",
+   "anderer_ort": "Kunstgebäude, Schlossplatz 2",
    "eroeffnung": null,
    "gemeinfrei": false,
-   "schwerpunkt": "Highlights der Klassischen Moderne",
-   "kuenstler": [],
    "url": "https://www.staatsgalerie.de/de/ausstellungen/vorschau/simply-the-best",
+   "kuenstler": [],
+   "schwerpunkt": "Highlights der Klassischen Moderne",
    "quelle": "https://www.staatsgalerie.de/de/ausstellungen/aktuell",
-   "grund": "anderer Ort: Kunstgebäude, Schlossplatz 2, Stuttgart"
+   "grund": "anderer Ort: Kunstgebäude, Schlossplatz 2"
   },
   {
    "titel": "UNORDNUNG",
    "beginn": "2026-07-18",
    "ende": "2026-09-13",
-   "art": "wechselausstellung",
+   "art": "unklar",
    "fachgebiet": "bildende_kunst",
    "haus": "Staatsgalerie Stuttgart",
    "rang": 6,
@@ -130,7 +129,7 @@
    "anderer_ort": null,
    "eroeffnung": null,
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "url": "https://www.staatsgalerie.de/de/ausstellungen/aktuell/unordnung",
    "kuenstler": [
     "Evi Blink",
     "Eckart Bartnik",
@@ -156,34 +155,12 @@
     "Valentin Wormbs",
     "Wolfgang Zurborn"
    ],
-   "url": "https://www.staatsgalerie.de/de/ausstellungen/aktuell/unordnung",
    "quelle": "https://www.staatsgalerie.de/de/ausstellungen/aktuell",
    "untertitel": "Fotosommer Stuttgart 2026",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
-  },
-  {
-   "titel": "Babytour: Körper in der Kunst – Schönheit und Provokation",
-   "untertitel": "Schönheit und Provokation",
-   "beginn": "2026-10-21",
-   "ende": "2026-10-21",
-   "art": "veranstaltung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Staatsgalerie Stuttgart",
-   "rang": 2,
-   "epoche": "gemischt",
-   "einzelausstellung_von": null,
-   "eroeffnung": null,
-   "gemeinfrei": false,
-   "schwerpunkt": "Führung zu Körperdarstellungen in der Kunst",
-   "anderer_ort": null,
-   "kuenstler": [],
-   "url": "https://www.staatsgalerie.de/de/veranstaltungen/kalender/babytour-koerper-kunst-schoenheit-und-provokation",
-   "quelle": "https://www.staatsgalerie.de/de/ausstellungen/aktuell/this-is-tomorrow",
-   "eintritt": "13,50 €",
-   "detail_geprueft": "2026-10-12",
-   "grund": "Veranstaltung, keine Ausstellung"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

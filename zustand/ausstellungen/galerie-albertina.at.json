@@ -20,17 +20,17 @@
    "haus": "Galerie bei der Albertina Zetter",
    "rang": 1,
    "epoche": "moderne",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "Max Weiler"
    ],
+   "schwerpunkt": null,
+   "gemeinfrei": false,
    "eroeffnung": null,
-   "url": "https://www.galerie-albertina.at/weiler-2026/",
    "anderer_ort": null,
    "einzelausstellung_von": "Max Weiler",
+   "url": "https://www.galerie-albertina.at/weiler-2026/",
    "quelle": "https://www.galerie-albertina.at/ausstellungen/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
@@ -43,8 +43,6 @@
    "haus": "Galerie bei der Albertina Zetter",
    "rang": 2,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "Marc Adrian",
     "Joannis Avramidis",
@@ -87,14 +85,39 @@
     "Fritz Wotruba",
     "Erwin Wurm"
    ],
+   "schwerpunkt": null,
+   "gemeinfrei": false,
    "eroeffnung": null,
-   "url": "https://www.galerie-albertina.at/hk-2026/",
    "anderer_ort": null,
    "einzelausstellung_von": null,
+   "url": "https://www.galerie-albertina.at/hk-2026/",
    "quelle": "https://www.galerie-albertina.at/ausstellungen/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
+  },
+  {
+   "titel": "Franz Grabmayr - Tanz",
+   "untertitel": "Farbe, Dynamik, die Kraft des Lebendigen",
+   "beginn": "2026-05-20",
+   "ende": "2026-06-27",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie bei der Albertina Zetter",
+   "rang": 3,
+   "epoche": "moderne",
+   "kuenstler": [
+    "Franz Grabmayr"
+   ],
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Franz Grabmayr",
+   "url": "https://www.galerie-albertina.at/grabmayr-2026/",
+   "quelle": "https://www.galerie-albertina.at/ausstellungen/",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

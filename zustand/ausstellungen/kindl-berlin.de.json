@@ -12,31 +12,32 @@
  "ausstellungen": [
   {
    "titel": "boiler house",
-   "untertitel": "Kesselhaus",
-   "kuenstler": [
-    "Mischa Kuball"
-   ],
+   "untertitel": null,
    "beginn": "2026-09-13",
    "ende": "2027-05-30",
    "art": "wechselausstellung",
-   "fachgebiet": "medienkunst",
+   "fachgebiet": "bildende_kunst",
    "haus": "Kindl - Zentrum für zeitgenössische Kunst",
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [
+    "Mischa Kuball"
+   ],
    "anderer_ort": null,
    "eroeffnung": null,
+   "einzelausstellung_von": "Mischa Kuball",
+   "ende_hinweis": null,
    "url": "https://www.kindl-berlin.de/ausstellungen/mischa-kuball",
    "quelle": "https://www.kindl-berlin.de/ausstellungen",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "together",
-   "untertitel": "together",
-   "kuenstler": [
-    "NEOZOON"
-   ],
+   "untertitel": null,
    "beginn": "2026-09-13",
    "ende": "2027-02-21",
    "art": "wechselausstellung",
@@ -46,18 +47,21 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [
+    "NEOZOON"
+   ],
    "anderer_ort": null,
    "eroeffnung": null,
+   "einzelausstellung_von": "NEOZOON",
    "url": "https://www.kindl-berlin.de/ausstellungen/neozoon",
    "quelle": "https://www.kindl-berlin.de/ausstellungen",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Between Sunlight",
-   "untertitel": "Between Sunlight",
-   "kuenstler": [
-    "Kira Freije"
-   ],
+   "untertitel": null,
    "beginn": "2026-09-13",
    "ende": "2027-02-21",
    "art": "wechselausstellung",
@@ -67,18 +71,21 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [
+    "Kira Freije"
+   ],
    "anderer_ort": null,
    "eroeffnung": null,
+   "einzelausstellung_von": "Kira Freije",
    "url": "https://www.kindl-berlin.de/ausstellungen/kira-freije",
    "quelle": "https://www.kindl-berlin.de/ausstellungen",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Write As Beasts Scream at Night",
-   "untertitel": "Write As Beasts Scream at Night",
-   "kuenstler": [
-    "Thu-Van Tran"
-   ],
+   "untertitel": null,
    "beginn": "2026-09-13",
    "ende": "2027-02-14",
    "art": "wechselausstellung",
@@ -88,39 +95,56 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [
+    "Thu-Van Tran"
+   ],
    "anderer_ort": null,
    "eroeffnung": null,
+   "einzelausstellung_von": "Thu-Van Tran",
    "url": "https://www.kindl-berlin.de/ausstellungen/thu-van-tran",
    "quelle": "https://www.kindl-berlin.de/ausstellungen",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
   {
-   "titel": "In the Middle, Somewhat Rehearsed",
-   "untertitel": "Xavier Le Roy, Temporary Title, 2026",
-   "kuenstler": [
-    "Xavier Le Roy"
-   ],
+   "titel": "Xavier Le Roy, Temporary Title, 2026",
+   "untertitel": "In the Middle, Somewhat Rehearsed",
    "beginn": "2026-09-24",
    "ende": "2026-09-27",
    "art": "veranstaltung",
-   "fachgebiet": "sonstiges",
+   "fachgebiet": "bildende_kunst",
    "haus": "Kindl - Zentrum für zeitgenössische Kunst",
    "rang": 5,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [
+    "Xavier Le Roy"
+   ],
    "anderer_ort": null,
    "eroeffnung": null,
+   "einzelausstellung_von": "Xavier Le Roy",
    "url": "https://www.kindl-berlin.de/ausstellungen/xavier-le-roy",
    "quelle": "https://www.kindl-berlin.de/ausstellungen",
-   "detail_geprueft": "2026-10-12",
+   "eintritt": "Eintritt frei",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
    "titel": "An Intimacy with Strangers",
-   "untertitel": "null",
+   "untertitel": "Gruppenausstellung zu Beziehungen zwischen menschlichem und nichtmenschlichem Leben",
+   "beginn": "2026-03-22",
+   "ende": "2026-07-26",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kindl - Zentrum für zeitgenössische Kunst",
+   "rang": 99,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
    "kuenstler": [
     "Peggy Atherton",
     "David Claerbout",
@@ -136,22 +160,15 @@
     "Uýra Sodoma",
     "Zheng Bo"
    ],
-   "beginn": "2026-03-22",
-   "ende": "2026-07-26",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Kindl - Zentrum für zeitgenössische Kunst",
-   "rang": 99,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
    "anderer_ort": null,
    "eroeffnung": null,
+   "einzelausstellung_von": null,
    "url": "https://www.kindl-berlin.de/ausstellungen/intimacy-with-strangers",
    "quelle": "https://www.kindl-berlin.de/ausstellungen",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

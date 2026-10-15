@@ -11,11 +11,8 @@
  ],
  "ausstellungen": [
   {
-   "titel": "Ida Gerhardi",
-   "untertitel": "„… und alles tanzte!“",
-   "kuenstler": [
-    "Ida Gerhardi"
-   ],
+   "titel": "Ida Gerhardi „… und alles tanzte!“",
+   "untertitel": "und alles tanzte!",
    "beginn": "2026-08-29",
    "ende": "2026-11-01",
    "art": "wechselausstellung",
@@ -23,22 +20,24 @@
    "haus": "Käthe-Kollwitz-Museum Berlin",
    "rang": 1,
    "epoche": "moderne",
-   "gemeinfrei": true,
+   "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [
+    "Ida Gerhardi"
+   ],
    "url": "https://www.kaethe-kollwitz.berlin/aktuelles/ida-gerhardi/",
    "anderer_ort": null,
    "eroeffnung": null,
    "einzelausstellung_von": "Ida Gerhardi",
    "quelle": "https://www.kaethe-kollwitz.berlin/ausstellungen/aktuell/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Käthe Kollwitz – „Aber Kunst ist es doch“",
    "untertitel": null,
-   "kuenstler": [
-    "Käthe Kollwitz"
-   ],
-   "beginn": "2022-09-24",
+   "beginn": null,
    "ende": null,
    "art": "dauerausstellung",
    "fachgebiet": "bildende_kunst",
@@ -46,14 +45,20 @@
    "rang": 2,
    "epoche": "moderne",
    "gemeinfrei": true,
-   "schwerpunkt": "Grafik, Plastik und Zeichnungen von Käthe Kollwitz",
+   "schwerpunkt": "Grafik und Plastik von Käthe Kollwitz",
+   "kuenstler": [
+    "Käthe Kollwitz"
+   ],
    "url": "https://www.kaethe-kollwitz.berlin/aktuelles/kaethe-kollwitz-aber-kunst-ist-es-doch/",
    "anderer_ort": null,
    "eroeffnung": null,
    "einzelausstellung_von": "Käthe Kollwitz",
-   "quelle": "https://www.kaethe-kollwitz.berlin/ausstellungen/aktuell/"
+   "quelle": "https://www.kaethe-kollwitz.berlin/ausstellungen/aktuell/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

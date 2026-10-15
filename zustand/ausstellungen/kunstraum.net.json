@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "SUBTERRANEAN",
-   "untertitel": "Gruppenausstellung",
+   "untertitel": "",
    "beginn": "2026-09-11",
    "ende": "2026-11-07",
    "art": "wechselausstellung",
@@ -21,18 +21,11 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "Joyce Joumaa",
-    "Ghislaine Leung",
-    "Thuy-Han Nguyen-Chi",
-    "Andrew Yong Hoon Lee",
-    "Valentin Noujaïm",
-    "Marina Xenofontos"
-   ],
-   "anderer_ort": null,
+   "schwerpunkt": "",
+   "kuenstler": [],
    "einzelausstellung_von": null,
    "eroeffnung": "2026-09-10T19:00",
+   "anderer_ort": null,
    "url": "https://www.kunstraum.net/de/subterranean?v=6646",
    "quelle": "https://www.kunstraum.net/de/ausstellungen",
    "detail_geprueft": "2026-10-12",
@@ -42,7 +35,7 @@
  ],
  "aussortiert": [
   {
-   "titel": "THROUGH THE LENS OF… MIT ROSA",
+   "titel": "THROUGH THE LENS OF... MIT ROSA",
    "untertitel": "Ausstellungsführung mit Vertreter*innen von ROSA durch Subterranean",
    "beginn": "2026-10-28",
    "ende": "2026-10-28",
@@ -52,16 +45,16 @@
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "schwerpunkt": "",
    "kuenstler": [
     "ROSA"
    ],
-   "anderer_ort": null,
    "einzelausstellung_von": null,
-   "eroeffnung": "2026-10-28T18:00",
+   "eroeffnung": null,
+   "anderer_ort": null,
    "url": "https://www.kunstraum.net/de/termine/through-the-lens-of-mit-rosa/69142",
    "quelle": "https://www.kunstraum.net/de/ausstellungen",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "Veranstaltung, keine Ausstellung"
   },
   {
@@ -75,42 +68,42 @@
    "rang": 3,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "schwerpunkt": "",
    "kuenstler": [
     "Felix Helmut Wagner"
    ],
-   "anderer_ort": null,
    "einzelausstellung_von": null,
-   "eroeffnung": null,
+   "eroeffnung": "2026-11-03T18:30",
+   "anderer_ort": null,
    "url": "https://www.kunstraum.net/de/termine/through-the-lens-of-mit-felix-helmut-wagner/69751",
    "quelle": "https://www.kunstraum.net/de/ausstellungen",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "Veranstaltung, keine Ausstellung"
   },
   {
    "titel": "H13 NIEDERÖSTERREICH PREIS FÜR PERFORMANCE 2026",
-   "untertitel": "Magdalena Forster erhält den H13-Preis 2026",
+   "untertitel": "Cow Notes",
    "beginn": "2026-11-21",
    "ende": "2026-11-28",
-   "art": "veranstaltung",
+   "art": "unklar",
    "fachgebiet": "sonstiges",
    "haus": "Kunstraum NÖ",
    "rang": 4,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "schwerpunkt": "",
    "kuenstler": [
     "Magdalena Forster"
    ],
-   "anderer_ort": null,
    "einzelausstellung_von": null,
    "eroeffnung": "2026-11-20T19:00",
+   "anderer_ort": null,
    "url": "https://www.kunstraum.net/de/h13-2026?v=7064",
    "quelle": "https://www.kunstraum.net/de/ausstellungen",
-   "detail_geprueft": "2026-10-12",
-   "grund": "Veranstaltung, keine Ausstellung"
+   "detail_geprueft": "2026-10-15",
+   "grund": "keine Kunst (sonstiges)"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

@@ -12,10 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Support Act or Minor Character",
-   "untertitel": "Solo Exhibition",
-   "kuenstler": [
-    "Nicole Wermers"
-   ],
+   "untertitel": null,
    "beginn": "2026-09-04",
    "ende": "2026-10-31",
    "art": "wechselausstellung",
@@ -25,10 +22,13 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "url": "https://www.produzentengalerie.com/exhibitions/support-acts-or-minor-characters/",
+   "kuenstler": [
+    "Nicole Wermers"
+   ],
+   "einzelausstellung_von": "Nicole Wermers",
    "eroeffnung": "2026-09-03T18:00",
    "anderer_ort": null,
-   "einzelausstellung_von": "Nicole Wermers",
+   "url": "https://www.produzentengalerie.com/exhibitions/support-acts-or-minor-characters/",
    "quelle": "https://www.produzentengalerie.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -36,7 +36,7 @@
   },
   {
    "titel": "um 2000",
-   "untertitel": "Solo Exhibition",
+   "untertitel": null,
    "beginn": "2026-11-13",
    "ende": "2027-01-29",
    "art": "wechselausstellung",
@@ -46,10 +46,10 @@
    "epoche": "moderne",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": "Heinrich Modersohn",
    "kuenstler": [
     "Heinrich Modersohn"
    ],
-   "einzelausstellung_von": "Heinrich Modersohn",
    "eroeffnung": "2026-11-12T18:00",
    "anderer_ort": null,
    "url": "https://www.produzentengalerie.com/exhibitions/um-2000/",
@@ -63,9 +63,6 @@
   {
    "titel": "Overshoot",
    "untertitel": "Solo Exhibition",
-   "kuenstler": [
-    "Tobias Zielony"
-   ],
    "beginn": "2026-05-22",
    "ende": "2026-07-10",
    "art": "wechselausstellung",
@@ -75,15 +72,18 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "url": "https://www.produzentengalerie.com/exhibitions/12453/",
+   "kuenstler": [
+    "Tobias Zielony"
+   ],
+   "einzelausstellung_von": "Tobias Zielony",
    "eroeffnung": "2026-05-21T18:00",
    "anderer_ort": null,
-   "einzelausstellung_von": "Tobias Zielony",
+   "url": "https://www.produzentengalerie.com/exhibitions/12453/",
    "quelle": "https://www.produzentengalerie.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

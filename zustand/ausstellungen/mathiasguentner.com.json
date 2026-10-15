@@ -11,31 +11,8 @@
  ],
  "ausstellungen": [
   {
-   "titel": "POSE TO ROSE",
+   "titel": "Tropical Island I",
    "untertitel": "<UNKNOWN>",
-   "beginn": "2026-09-04",
-   "ende": "2026-10-31",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Galerie Mathias Güntner",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "einzelausstellung_von": "Thorsten Brinkmann",
-   "kuenstler": [
-    "Thorsten Brinkmann"
-   ],
-   "anderer_ort": null,
-   "gemeinfrei": false,
-   "eroeffnung": null,
-   "url": "https://www.mathiasguentner.com/ausstellungen/pose-to-rose/werke/",
-   "quelle": "https://www.mathiasguentner.com/ausstellungen/aktuell/",
-   "detail_geprueft": "2026-10-12"
-  }
- ],
- "aussortiert": [
-  {
-   "titel": "TROPICAL ISLAND I",
-   "untertitel": "TROPICAL ISLAND I",
    "beginn": "2026-09-11",
    "ende": "2026-10-17",
    "art": "wechselausstellung",
@@ -43,18 +20,46 @@
    "haus": "Galerie Mathias Güntner",
    "rang": 1,
    "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
    "einzelausstellung_von": "Franziska Nast",
    "kuenstler": [
     "Franziska Nast"
    ],
-   "anderer_ort": "Berlin",
-   "gemeinfrei": false,
    "eroeffnung": null,
+   "anderer_ort": null,
    "url": "https://www.mathiasguentner.com/ausstellungen/tropical-island-i/werke/",
    "quelle": "https://www.mathiasguentner.com/ausstellungen/aktuell/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Berlin"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Pose to Rose",
+   "untertitel": "null",
+   "beginn": "2026-09-04",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Mathias Güntner",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Thorsten Brinkmann",
+   "kuenstler": [
+    "Thorsten Brinkmann"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.mathiasguentner.com/ausstellungen/pose-to-rose/werke/",
+   "quelle": "https://www.mathiasguentner.com/ausstellungen/aktuell/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
- "abgerufen": "2026-10-12T06:58:30"
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

@@ -39,9 +39,6 @@
   {
    "titel": "Gobelins, Films and Dreams",
    "untertitel": "null",
-   "kuenstler": [
-    "Ingrid Wiener"
-   ],
    "beginn": "2026-05-01",
    "ende": "2026-08-01",
    "art": "wechselausstellung",
@@ -52,14 +49,17 @@
    "gemeinfrei": false,
    "schwerpunkt": null,
    "anderer_ort": null,
-   "url": "https://www.barbarawien.de/exhibition.php?archive=105",
    "eroeffnung": null,
    "einzelausstellung_von": "Ingrid Wiener",
+   "kuenstler": [
+    "Ingrid Wiener"
+   ],
+   "url": "https://www.barbarawien.de/exhibition.php?archive=105",
    "quelle": "https://www.barbarawien.de/exhibitions.php",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

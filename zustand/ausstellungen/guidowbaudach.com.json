@@ -20,15 +20,15 @@
    "haus": "Galerie Guido W. Baudach",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
+   "einzelausstellung_von": "Andy Hope 1930",
    "kuenstler": [
     "Andy Hope 1930"
    ],
-   "eroeffnung": null,
-   "einzelausstellung_von": "Andy Hope 1930",
-   "anderer_ort": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
    "url": "https://www.guidowbaudach.com/en/exhibitions/second-echo",
+   "eroeffnung": null,
+   "anderer_ort": null,
    "quelle": "https://www.guidowbaudach.com/en/exhibitions",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -46,8 +46,7 @@
    "haus": "Galerie Guido W. Baudach",
    "rang": 2,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
+   "einzelausstellung_von": null,
    "kuenstler": [
     "Tamina Amadyar",
     "Thomas Helbig",
@@ -55,15 +54,16 @@
     "Hinako Miyabayashi",
     "Markus Selg"
    ],
-   "eroeffnung": null,
-   "einzelausstellung_von": null,
-   "anderer_ort": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
    "url": "https://www.guidowbaudach.com/en/exhibitions/auto-paragone",
+   "eroeffnung": null,
+   "anderer_ort": null,
    "quelle": "https://www.guidowbaudach.com/en/exhibitions",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

@@ -22,19 +22,21 @@
    "epoche": "moderne",
    "gemeinfrei": true,
    "schwerpunkt": null,
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "einzelausstellung_von": "Franz Marc",
    "kuenstler": [
     "Franz Marc"
    ],
+   "einzelausstellung_von": "Franz Marc",
+   "eroeffnung": null,
+   "anderer_ort": null,
    "url": "https://www.kunstsammlung.de/de/exhibitions/franz-marc-2026",
    "quelle": "https://www.kunstsammlung.de/de/exhibitions",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Playground",
-   "untertitel": "Ein Spielplatz im Museum von Sonia Kazovsky",
+   "untertitel": "Ein Spielplatz im Museum",
    "beginn": "2026-04-25",
    "ende": "2027-05-09",
    "art": "wechselausstellung",
@@ -44,20 +46,21 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "einzelausstellung_von": "Sonia Kazovsky",
    "kuenstler": [
     "Sonia Kazovsky"
    ],
+   "einzelausstellung_von": "Sonia Kazovsky",
+   "eroeffnung": null,
+   "anderer_ort": null,
    "url": "https://www.kunstsammlung.de/de/exhibitions/ein-spielplatz-im-museum",
    "quelle": "https://www.kunstsammlung.de/de/exhibitions",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "K20 Collection",
-   "untertitel": "On Display",
-   "kuenstler": [],
+   "untertitel": "",
    "beginn": null,
    "ende": null,
    "art": "sammlungspraesentation",
@@ -66,17 +69,19 @@
    "rang": 3,
    "epoche": "gemischt",
    "gemeinfrei": false,
-   "schwerpunkt": "Kunst der Moderne und Nachkriegszeit",
+   "schwerpunkt": "Kunst der Moderne und Gegenwart aus der Sammlung",
    "url": "https://www.kunstsammlung.de/en/exhibitions/k20-collection",
+   "einzelausstellung_von": null,
+   "kuenstler": [],
    "eroeffnung": null,
    "anderer_ort": null,
-   "einzelausstellung_von": null,
-   "quelle": "https://www.kunstsammlung.de/en/exhibitions"
+   "quelle": "https://www.kunstsammlung.de/en/exhibitions",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "K21 Collection",
    "untertitel": "International Contemporary Art",
-   "kuenstler": [],
    "beginn": null,
    "ende": null,
    "art": "sammlungspraesentation",
@@ -85,16 +90,19 @@
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": "Internationale zeitgenössische Kunst",
+   "schwerpunkt": "Internationale zeitgenössische Kunst aus der Sammlung",
    "url": "https://www.kunstsammlung.de/en/exhibitions/k21-collection",
+   "einzelausstellung_von": null,
+   "kuenstler": [],
    "eroeffnung": null,
    "anderer_ort": null,
-   "einzelausstellung_von": null,
-   "quelle": "https://www.kunstsammlung.de/en/exhibitions"
+   "quelle": "https://www.kunstsammlung.de/en/exhibitions",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Julia Phillips",
-   "untertitel": "Preisträger K21 Global Art Award 2026",
+   "untertitel": "Preisträgerin K21 Global Art Award 2026",
    "beginn": "2026-10-09",
    "ende": "2027-08-29",
    "art": "wechselausstellung",
@@ -104,15 +112,17 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "einzelausstellung_von": "Julia Phillips",
    "kuenstler": [
     "Julia Phillips"
    ],
+   "einzelausstellung_von": "Julia Phillips",
+   "eroeffnung": null,
+   "anderer_ort": null,
    "url": "https://www.kunstsammlung.de/de/exhibitions/preistraeger-k21-global-art-award-2026-julia-phillips",
    "quelle": "https://www.kunstsammlung.de/de/exhibitions",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "K21 Sammlung",
@@ -126,12 +136,14 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": "Internationale Gegenwartskunst",
+   "kuenstler": [],
+   "einzelausstellung_von": null,
    "eroeffnung": null,
    "anderer_ort": null,
-   "einzelausstellung_von": null,
-   "kuenstler": [],
    "url": "https://www.kunstsammlung.de/de/exhibitions/k21-sammlung",
-   "quelle": "https://www.kunstsammlung.de/de/exhibitions"
+   "quelle": "https://www.kunstsammlung.de/de/exhibitions",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Thomas Schütte",
@@ -145,17 +157,44 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "eroeffnung": "2026-11-13T19:00",
-   "anderer_ort": null,
-   "einzelausstellung_von": "Thomas Schütte",
    "kuenstler": [
     "Thomas Schütte"
    ],
+   "einzelausstellung_von": "Thomas Schütte",
+   "eroeffnung": "2026-11-13T19:00",
+   "anderer_ort": null,
    "url": "https://www.kunstsammlung.de/de/exhibitions/thomas-schuette-2026",
    "quelle": "https://www.kunstsammlung.de/de/exhibitions",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Alice Neel",
+   "untertitel": "null",
+   "beginn": "2027-03-13",
+   "ende": "2027-09-05",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "K21",
+   "rang": 6,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Alice Neel"
+   ],
+   "einzelausstellung_von": "Alice Neel",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.kunstsammlung.de/de/exhibitions/alice-neel-2027",
+   "quelle": "https://www.kunstsammlung.de/de/exhibitions",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

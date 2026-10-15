@@ -11,6 +11,150 @@
  ],
  "ausstellungen": [
   {
+   "titel": "like a warrior",
+   "untertitel": "like a warrior",
+   "beginn": "2026-07-12",
+   "ende": "2026-11-08",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Morsbroich",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Cihan Çakmak",
+   "kuenstler": [
+    "Cihan Çakmak"
+   ],
+   "eroeffnung": "2026-07-12T12:00",
+   "anderer_ort": null,
+   "url": "https://www.museum-morsbroich.de/ausstellungen/ausstellungen/cihan-cakmak-like-a-warrior/",
+   "quelle": "https://www.museum-morsbroich.de/ausstellungen/aktuell/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Das Schlafzimmer der Baroness",
+   "untertitel": "9 Zimmer | 9 Gäste",
+   "beginn": "2026-11-29",
+   "ende": "2027-04-04",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Morsbroich",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "eroeffnung": "2026-11-29",
+   "url": "https://www.museum-morsbroich.de/ausstellungen/ausstellungen/das-schlafzimmer-der-baroness/",
+   "kuenstler": [],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "quelle": "https://www.museum-morsbroich.de/ausstellungen/vorschau/demnaechst/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Die Ergänzerin",
+   "untertitel": "Zeichnungen und Objekte",
+   "beginn": "2026-09-20",
+   "ende": "2027-02-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Morsbroich",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Renate Behla",
+   "kuenstler": [
+    "Renate Behla"
+   ],
+   "eroeffnung": "2026-09-20T15:00",
+   "anderer_ort": null,
+   "url": "https://www.museum-morsbroich.de/ausstellungen/ausstellungen/renate-behla-die-ergaenzerin-zeichnungen-und-objekte/",
+   "quelle": "https://www.museum-morsbroich.de/ausstellungen/aktuell/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "ENDLESS CANVAS",
+   "untertitel": "ENDLESS CANVAS",
+   "beginn": "2026-10-02",
+   "ende": "2027-01-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Morsbroich",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Tilo Schulz",
+   "kuenstler": [
+    "Tilo Schulz"
+   ],
+   "eroeffnung": "2026-10-02T18:00",
+   "anderer_ort": null,
+   "url": "https://www.museum-morsbroich.de/ausstellungen/ausstellungen/tilo-schulz-endless-canvas/",
+   "quelle": "https://www.museum-morsbroich.de/ausstellungen/aktuell/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Desire Path - Wunschpfade",
+   "untertitel": "Wunschpfade",
+   "beginn": "2026-08-20",
+   "ende": "2027-01-06",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Morsbroich",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Michael M. C. Driesch",
+    "Markus Henschler",
+    "Juliana Paek"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.museum-morsbroich.de/ausstellungen/proberaum/proberaum/desire-path-wunschpfade/",
+   "quelle": "https://www.museum-morsbroich.de/ausstellungen/aktuell/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "für ein zartes daheim",
+   "untertitel": "Poetisch-partizipative Installation",
+   "beginn": null,
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Morsbroich",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Anja Utler",
+   "kuenstler": [
+    "Anja Utler"
+   ],
+   "eroeffnung": "2025-11-23T12:00",
+   "anderer_ort": null,
+   "url": "https://www.museum-morsbroich.de/ausstellungen/ausstellungen/anja-utler-fuer-ein-zartes-daheim/",
+   "quelle": "https://www.museum-morsbroich.de/ausstellungen/aktuell/",
+   "eintritt": "11 – 17 Uhr freier Eintritt in die Installation",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
    "titel": "Cihan Çakmak. like a warrior",
    "untertitel": "like a warrior",
    "beginn": "2026-07-12",
@@ -30,37 +174,8 @@
    "anderer_ort": null,
    "url": "https://www.museum-morsbroich.de/ausstellungen/ausstellungen/cihan-cakmak-like-a-warrior/",
    "quelle": "https://www.museum-morsbroich.de/ausstellungen/aktuell/",
-   "detail_geprueft": "2026-10-12"
-  },
-  {
-   "titel": "Das Schlafzimmer der Baroness",
-   "untertitel": "9 Zimmer | 9 Gäste",
-   "beginn": "2026-11-29",
-   "ende": "2027-04-04",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Museum Morsbroich",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "eroeffnung": "2026-11-29",
-   "kuenstler": [
-    "Rebekka Benzenberg",
-    "Thorsten Brinkmann",
-    "Mic Enneper",
-    "Hedda Roman",
-    "Janis Löhrer",
-    "Simon Schubert",
-    "Erik Steinbrecher",
-    "Andrea Tippel",
-    "Anna Virnich",
-    "Nicole Miller"
-   ],
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "url": "https://www.museum-morsbroich.de/ausstellungen/ausstellungen/das-schlafzimmer-der-baroness/",
-   "quelle": "https://www.museum-morsbroich.de/ausstellungen/vorschau/demnaechst/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
   },
   {
    "titel": "Renate Behla. Die Ergänzerin.",
@@ -82,7 +197,8 @@
    "anderer_ort": null,
    "url": "https://www.museum-morsbroich.de/ausstellungen/ausstellungen/renate-behla-die-ergaenzerin-zeichnungen-und-objekte/",
    "quelle": "https://www.museum-morsbroich.de/ausstellungen/aktuell/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
   },
   {
    "titel": "Tilo Schulz. ENDLESS CANVAS",
@@ -104,7 +220,8 @@
    "anderer_ort": null,
    "url": "https://www.museum-morsbroich.de/ausstellungen/ausstellungen/tilo-schulz-endless-canvas/",
    "quelle": "https://www.museum-morsbroich.de/ausstellungen/aktuell/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
   },
   {
    "titel": "Anja Utler: für ein zartes daheim",
@@ -127,35 +244,11 @@
    "url": "https://www.museum-morsbroich.de/ausstellungen/ausstellungen/anja-utler-fuer-ein-zartes-daheim/",
    "quelle": "https://www.museum-morsbroich.de/ausstellungen/aktuell/",
    "eintritt": "frei",
-   "detail_geprueft": "2026-10-12"
-  }
- ],
- "aussortiert": [
-  {
-   "titel": "Desire Path - Wunschpfade",
-   "untertitel": "Wunschpfade",
-   "beginn": "2026-08-20",
-   "ende": "2027-01-06",
-   "art": "wechselausstellung",
-   "fachgebiet": "sonstiges",
-   "haus": "Museum Morsbroich",
-   "rang": 4,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "einzelausstellung_von": null,
-   "kuenstler": [
-    "Michael M. C. Driesch",
-    "Markus Henschler",
-    "Juliana Paek"
-   ],
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "url": "https://www.museum-morsbroich.de/ausstellungen/proberaum/proberaum/desire-path-wunschpfade/",
-   "quelle": "https://www.museum-morsbroich.de/ausstellungen/aktuell/",
    "detail_geprueft": "2026-10-12",
-   "grund": "keine Kunst (sonstiges)"
+   "verpasst": 1
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 4
 }

@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Threesome (magnetic fields)",
-   "untertitel": "",
+   "untertitel": "curated by João Laia",
    "beginn": "2026-09-12",
    "ende": "2026-10-31",
    "art": "wechselausstellung",
@@ -25,7 +25,6 @@
    "kuenstler": [],
    "anderer_ort": null,
    "eroeffnung": "2026-09-11",
-   "einzelausstellung_von": null,
    "url": "https://www.lombardi-kargl.com/en/schleifmuhlgasse-5/exhibition/--joao",
    "quelle": "https://www.lombardi-kargl.com/en/exhibitions",
    "detail_geprueft": "2026-10-12",
@@ -34,7 +33,7 @@
   },
   {
    "titel": "Three Light Sources",
-   "untertitel": "",
+   "untertitel": null,
    "beginn": "2026-07-03",
    "ende": "2026-10-31",
    "art": "wechselausstellung",
@@ -49,7 +48,6 @@
    ],
    "anderer_ort": null,
    "eroeffnung": null,
-   "einzelausstellung_von": "Andreas Fogarasi",
    "url": "https://www.lombardi-kargl.com/en/schleifmuhlgasse-17/exhibition/three-light-sources",
    "quelle": "https://www.lombardi-kargl.com/en/exhibitions",
    "detail_geprueft": "2026-10-12",
@@ -60,7 +58,7 @@
  "aussortiert": [
   {
    "titel": "Auf Wiedersehen Sprache",
-   "untertitel": "Auf Wiedersehen Sprache",
+   "untertitel": "The fundamental unit of a writing system is the character.",
    "beginn": "2026-06-12",
    "ende": "2026-07-25",
    "art": "wechselausstellung",
@@ -76,13 +74,12 @@
    ],
    "anderer_ort": null,
    "eroeffnung": null,
-   "einzelausstellung_von": null,
    "url": "https://www.lombardi-kargl.com/en/schleifmuhlgasse-5/exhibition/auf-wiedersehen-sprache",
    "quelle": "https://www.lombardi-kargl.com/en/exhibitions",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

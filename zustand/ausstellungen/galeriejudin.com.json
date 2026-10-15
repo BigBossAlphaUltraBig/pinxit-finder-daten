@@ -4,13 +4,12 @@
  "haeuser": "Galerie Judin",
  "land": "DE",
  "ids": "node/13644811020",
- "status": "nur aussortierte",
+ "status": "ok",
  "seiten": [
   "https://www.galeriejudin.com/exhibitions/",
   "https://www.galeriejudin.com/2026-michael-sailstorfer-2/"
  ],
- "ausstellungen": [],
- "aussortiert": [
+ "ausstellungen": [
   {
    "titel": "The Unclean Slate",
    "untertitel": "Die Tankstelle",
@@ -21,42 +20,43 @@
    "haus": "Galerie Judin",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "Die Tankstelle",
-   "einzelausstellung_von": "Hugo Wilson",
+   "gemeinfrei": false,
    "kuenstler": [
     "Hugo Wilson"
    ],
    "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Hugo Wilson",
    "url": "https://www.galeriejudin.com/2026-hugo-wilson-the-unclean-slate/",
    "quelle": "https://www.galeriejudin.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Die Tankstelle"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
-   "titel": "Cumulus 2026",
-   "untertitel": "Cumulus 2026",
-   "beginn": "2026-05-01",
-   "ende": "2026-06-06",
-   "art": "wechselausstellung",
+   "titel": "Die Tankstelle",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "unklar",
    "fachgebiet": "bildende_kunst",
    "haus": "Galerie Judin",
    "rang": 2,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "Mercator Höfe",
-   "einzelausstellung_von": "Michael Sailstorfer",
-   "kuenstler": [
-    "Michael Sailstorfer"
-   ],
+   "gemeinfrei": false,
+   "kuenstler": [],
    "eroeffnung": null,
-   "url": "https://www.galeriejudin.com/2026-michael-sailstorfer/",
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "url": null,
    "quelle": "https://www.galeriejudin.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet"
-  },
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
   {
    "titel": "Pull the Rug",
    "untertitel": "Pull the Rug",
@@ -69,17 +69,18 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "Mercator Höfe",
-   "einzelausstellung_von": "Michael Sailstorfer",
    "kuenstler": [
     "Michael Sailstorfer"
    ],
+   "einzelausstellung_von": "Michael Sailstorfer",
    "eroeffnung": null,
+   "anderer_ort": "Mercator Höfe",
    "url": "https://www.galeriejudin.com/2026-michael-sailstorfer-2/",
    "quelle": "https://www.galeriejudin.com/2026-michael-sailstorfer-2/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

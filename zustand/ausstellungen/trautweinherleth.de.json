@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Hollywood Forever",
-   "untertitel": "Kate Mosher Hall",
+   "untertitel": "",
    "beginn": "2026-09-10",
    "ende": "2026-10-24",
    "art": "wechselausstellung",
@@ -24,22 +24,20 @@
    "kuenstler": [
     "Kate Mosher Hall"
    ],
-   "url": "https://trautweinherleth.de/exhibitions/hollywood-forever/",
+   "schwerpunkt": null,
    "anderer_ort": null,
    "eroeffnung": null,
-   "schwerpunkt": null,
+   "url": "https://trautweinherleth.de/exhibitions/hollywood-forever/",
    "quelle": "https://trautweinherleth.de/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
    "verpasst": 0
-  }
- ],
- "aussortiert": [
+  },
   {
    "titel": "Dog Days",
-   "untertitel": "null",
+   "untertitel": "",
    "beginn": "2026-01-01",
-   "ende": "2026-08-15",
+   "ende": "2026-12-31",
    "art": "unklar",
    "fachgebiet": "bildende_kunst",
    "haus": "Trautwein Herleth",
@@ -65,15 +63,17 @@
     "Suse Weber",
     "Stella Zhong"
    ],
-   "url": "https://trautweinherleth.de/exhibitions/dog-days/",
+   "schwerpunkt": null,
    "anderer_ort": null,
    "eroeffnung": null,
-   "schwerpunkt": null,
+   "url": "https://trautweinherleth.de/exhibitions/dog-days/",
    "quelle": "https://trautweinherleth.de/exhibitions/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

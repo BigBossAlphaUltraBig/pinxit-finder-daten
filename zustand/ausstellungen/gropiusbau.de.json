@@ -11,8 +11,8 @@
  ],
  "ausstellungen": [
   {
-   "titel": "Gabriele Stötzer",
-   "untertitel": "Dabei sein und nicht schweigen",
+   "titel": "Dabei sein und nicht schweigen",
+   "untertitel": "null",
    "beginn": "2026-06-19",
    "ende": "2026-12-06",
    "art": "wechselausstellung",
@@ -21,19 +21,21 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": "Gerechtigkeit, Selbstbestimmung, Geschlecht und feministischer Widerstand",
-   "anderer_ort": null,
-   "url": "https://www.berlinerfestspiele.de/gropius-bau/programm/2026/ausstellungen/gabriele-stoetzer",
-   "eroeffnung": null,
-   "einzelausstellung_von": "Gabriele Stötzer",
+   "schwerpunkt": null,
    "kuenstler": [
     "Gabriele Stötzer"
    ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Gabriele Stötzer",
+   "url": "https://www.berlinerfestspiele.de/gropius-bau/programm/2026/ausstellungen/gabriele-stoetzer",
    "quelle": "https://www.berlinerfestspiele.de/gropius-bau/ausstellungen/aktuell-und-vorschau",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
-   "titel": "Christoph Schlingensief",
+   "titel": "Christoph Schlingensief: Es ist nicht mehr mein Problem, macht eure Scheiße alleine",
    "untertitel": "Es ist nicht mehr mein Problem, macht eure Scheiße alleine",
    "beginn": "2026-10-09",
    "ende": "2027-01-17",
@@ -43,57 +45,31 @@
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": "Genreübergreifendes Schaffen zwischen Aktion, Theater, Oper, Film und Kunst",
-   "anderer_ort": null,
-   "url": "https://www.berlinerfestspiele.de/gropius-bau/programm/2026/ausstellungen/christoph-schlingensief",
-   "eroeffnung": null,
-   "einzelausstellung_von": "Christoph Schlingensief",
+   "schwerpunkt": null,
    "kuenstler": [
     "Christoph Schlingensief"
    ],
-   "quelle": "https://www.berlinerfestspiele.de/gropius-bau/ausstellungen/aktuell-und-vorschau",
-   "detail_geprueft": "2026-10-12"
-  },
-  {
-   "titel": "Florentina Holzinger SEAWORLD VENICE",
-   "untertitel": "SEAWORLD VENICE (AT)",
-   "beginn": "2027-03-01",
-   "ende": null,
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Gropius-Bau",
-   "rang": 6,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": "Interdisziplinäres Projekt zu Körper, Wasser und Technologie",
    "anderer_ort": null,
-   "url": "https://www.berlinerfestspiele.de/gropius-bau/programm/2027/ausstellungen/florentina-holzinger",
    "eroeffnung": null,
-   "einzelausstellung_von": "Florentina Holzinger",
-   "kuenstler": [
-    "Florentina Holzinger"
-   ],
+   "einzelausstellung_von": "Christoph Schlingensief",
+   "url": "https://www.berlinerfestspiele.de/gropius-bau/programm/2026/ausstellungen/christoph-schlingensief",
    "quelle": "https://www.berlinerfestspiele.de/gropius-bau/ausstellungen/aktuell-und-vorschau",
-   "detail_geprueft": "2026-10-12"
-  }
- ],
- "aussortiert": [
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
   {
    "titel": "Kreuzberg: Kunst und Migration seit 1960",
    "untertitel": "Kunst und Migration seit 1960",
    "beginn": "2026-09-10",
    "ende": "2027-01-17",
    "art": "wechselausstellung",
-   "fachgebiet": "geschichte",
+   "fachgebiet": "bildende_kunst",
    "haus": "Gropius-Bau",
    "rang": 3,
    "epoche": "gemischt",
    "gemeinfrei": false,
-   "schwerpunkt": "Kunst und Arbeitsmigration in Berlin-Kreuzberg seit den 1960er Jahren",
-   "anderer_ort": null,
-   "url": "https://www.berlinerfestspiele.de/gropius-bau/programm/2026/ausstellungen/kreuzberg",
-   "eroeffnung": null,
-   "einzelausstellung_von": null,
+   "schwerpunkt": null,
    "kuenstler": [
     "Alexis Akrithakis",
     "Mehmet Aksoy",
@@ -143,10 +119,87 @@
     "Hanefi Yeter",
     "Serpil Yeter"
    ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "url": "https://www.berlinerfestspiele.de/gropius-bau/programm/2026/ausstellungen/kreuzberg",
+   "quelle": "https://www.berlinerfestspiele.de/gropius-bau/ausstellungen/aktuell-und-vorschau",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "SEAWORLD VENICE",
+   "untertitel": "Arbeitstitel",
+   "beginn": "2027-01-01",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Gropius-Bau",
+   "rang": 6,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Florentina Holzinger"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Florentina Holzinger",
+   "url": "https://www.berlinerfestspiele.de/gropius-bau/programm/2027/ausstellungen/florentina-holzinger",
+   "quelle": "https://www.berlinerfestspiele.de/gropius-bau/ausstellungen/aktuell-und-vorschau",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Gabriele Stötzer",
+   "untertitel": "Dabei sein und nicht schweigen",
+   "beginn": "2026-06-19",
+   "ende": "2026-12-06",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Gropius-Bau",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Gerechtigkeit, Selbstbestimmung, Geschlecht und feministischer Widerstand",
+   "anderer_ort": null,
+   "url": "https://www.berlinerfestspiele.de/gropius-bau/programm/2026/ausstellungen/gabriele-stoetzer",
+   "eroeffnung": null,
+   "einzelausstellung_von": "Gabriele Stötzer",
+   "kuenstler": [
+    "Gabriele Stötzer"
+   ],
    "quelle": "https://www.berlinerfestspiele.de/gropius-bau/ausstellungen/aktuell-und-vorschau",
    "detail_geprueft": "2026-10-12",
-   "grund": "keine Kunst (geschichte)"
+   "verpasst": 1
   },
+  {
+   "titel": "Florentina Holzinger SEAWORLD VENICE",
+   "untertitel": "SEAWORLD VENICE (AT)",
+   "beginn": "2027-03-01",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Gropius-Bau",
+   "rang": 6,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Interdisziplinäres Projekt zu Körper, Wasser und Technologie",
+   "anderer_ort": null,
+   "url": "https://www.berlinerfestspiele.de/gropius-bau/programm/2027/ausstellungen/florentina-holzinger",
+   "eroeffnung": null,
+   "einzelausstellung_von": "Florentina Holzinger",
+   "kuenstler": [
+    "Florentina Holzinger"
+   ],
+   "quelle": "https://www.berlinerfestspiele.de/gropius-bau/ausstellungen/aktuell-und-vorschau",
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
+  }
+ ],
+ "aussortiert": [
   {
    "titel": "BAUBAU",
    "untertitel": "Ein Spielort für Kinder",
@@ -158,14 +211,14 @@
    "rang": 4,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": "Kostenloser Spielort für Kinder mit Wandtapeten und Loose Parts",
-   "anderer_ort": null,
-   "url": "https://www.berlinerfestspiele.de/gropius-bau/programm/baubau",
-   "eroeffnung": null,
-   "einzelausstellung_von": null,
+   "schwerpunkt": "Kostenloser Spielort für Kinder im Erdgeschoss",
    "kuenstler": [
     "Kerstin Brätsch"
    ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "url": "https://www.berlinerfestspiele.de/gropius-bau/programm/baubau",
    "quelle": "https://www.berlinerfestspiele.de/gropius-bau/ausstellungen/aktuell-und-vorschau",
    "grund": "keine Kunst (sonstiges)"
   },
@@ -180,19 +233,20 @@
    "rang": 5,
    "epoche": "gemischt",
    "gemeinfrei": false,
-   "schwerpunkt": "Geschichte des Spielplatzes im öffentlichen Raum",
-   "anderer_ort": null,
-   "url": "https://www.berlinerfestspiele.de/gropius-bau/programm/baubau/burkhalter",
-   "eroeffnung": null,
-   "einzelausstellung_von": null,
+   "schwerpunkt": "Geschichte des Spielplatzes von 1900 bis heute",
    "kuenstler": [
     "Gabriela Burkhalter"
    ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "url": "https://www.berlinerfestspiele.de/gropius-bau/programm/baubau/burkhalter",
    "quelle": "https://www.berlinerfestspiele.de/gropius-bau/ausstellungen/aktuell-und-vorschau",
-   "eintritt": "frei",
-   "detail_geprueft": "2026-10-12",
+   "eintritt": "Eintritt frei",
+   "detail_geprueft": "2026-10-15",
    "grund": "keine Kunst (geschichte)"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 2
 }

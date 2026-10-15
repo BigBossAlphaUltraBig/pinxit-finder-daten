@@ -11,10 +11,7 @@
  "ausstellungen": [
   {
    "titel": "Rhizome",
-   "untertitel": "Paweł Książek",
-   "kuenstler": [
-    "Paweł Książek"
-   ],
+   "untertitel": "",
    "beginn": "2026-09-11",
    "ende": "2026-10-31",
    "art": "wechselausstellung",
@@ -23,11 +20,14 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "url": "https://www.personsprojects.com/exhibitions/rhizome",
+   "kuenstler": [
+    "Paweł Książek"
+   ],
    "eroeffnung": "2026-09-10",
    "einzelausstellung_von": "Paweł Książek",
+   "url": "https://www.personsprojects.com/exhibitions/rhizome",
+   "anderer_ort": null,
+   "schwerpunkt": null,
    "quelle": "https://www.personsprojects.com/exhibitions/current",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -35,6 +35,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

@@ -26,11 +26,13 @@
     "Simon Hantaï"
    ],
    "einzelausstellung_von": "Simon Hantaï",
-   "eroeffnung": null,
    "anderer_ort": null,
    "url": "https://www.museum-frieder-burda.de/ausstellung",
+   "eroeffnung": null,
    "quelle": "https://www.museum-frieder-burda.de/ausstellung",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "James Turrell: Accretion Disc",
@@ -38,22 +40,25 @@
    "beginn": null,
    "ende": null,
    "art": "dauerausstellung",
-   "fachgebiet": "medienkunst",
+   "fachgebiet": "bildende_kunst",
    "haus": "Museum Frieder Burda",
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": "Raum-Licht-Installation mit computergesteuertem LED-Lichtfeld im Untergeschoss",
-   "einzelausstellung_von": "James Turrell",
+   "schwerpunkt": "",
+   "einzelausstellung_von": null,
+   "url": "https://www.museum-frieder-burda.de/dauerausstellung",
    "kuenstler": [
     "James Turrell"
    ],
-   "url": "https://www.museum-frieder-burda.de/dauerausstellung",
    "eroeffnung": null,
    "anderer_ort": null,
-   "quelle": "https://www.museum-frieder-burda.de/dauerausstellung"
+   "quelle": "https://www.museum-frieder-burda.de/dauerausstellung",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

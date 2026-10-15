@@ -11,8 +11,7 @@
  ],
  "ausstellungen": [
   {
-   "titel": "YVES SAINT LAURENT AND PHOTOGRAPHY",
-   "untertitel": "null",
+   "titel": "Yves Saint Laurent and Photography",
    "beginn": "2027-01-23",
    "ende": "2027-05-23",
    "art": "wechselausstellung",
@@ -21,14 +20,113 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "schwerpunkt": "",
+   "einzelausstellung_von": null,
    "url": "https://www.fotoarsenalwien.at/de/ausstellung/yves-saint-laurent-and-photography",
    "kuenstler": [],
+   "untertitel": "",
    "eroeffnung": "2027-01-22",
    "anderer_ort": null,
-   "einzelausstellung_von": null,
    "quelle": "https://www.fotoarsenalwien.at/de/ausstellung",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "We Are Here",
+   "untertitel": "Zanele Muholi",
+   "beginn": "2026-09-19",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Foto Arsenal Wien",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Zanele Muholi"
+   ],
+   "einzelausstellung_von": "Zanele Muholi",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.fotoarsenalwien.at/de/ausstellung/zanele-muholi",
+   "quelle": "https://www.fotoarsenalwien.at/de/ausstellung/zanele-muholi",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Jojo Gronostay",
+   "beginn": "2027-01-23",
+   "ende": "2027-05-23",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Foto Arsenal Wien",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "",
+   "einzelausstellung_von": "Jojo Gronostay",
+   "url": "https://www.fotoarsenalwien.at/de/ausstellung/jojo-gronostay",
+   "kuenstler": [
+    "Jojo Gronostay"
+   ],
+   "untertitel": "Models",
+   "eroeffnung": "2027-01-22",
+   "anderer_ort": null,
+   "quelle": "https://www.fotoarsenalwien.at/de/ausstellung",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Martin Parr",
+   "beginn": "2027-06-05",
+   "ende": "2027-09-19",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Foto Arsenal Wien",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "",
+   "einzelausstellung_von": "Martin Parr",
+   "url": "https://www.fotoarsenalwien.at/de/ausstellung/martin-parr-lifes-a-beach",
+   "kuenstler": [
+    "Martin Parr"
+   ],
+   "untertitel": "Life's a Beach",
+   "eroeffnung": "2027-06-04",
+   "anderer_ort": null,
+   "quelle": "https://www.fotoarsenalwien.at/de/ausstellung",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Liz Johnson Artur",
+   "beginn": "2027-10-02",
+   "ende": "2028-01-16",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Foto Arsenal Wien",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "",
+   "einzelausstellung_von": "Liz Johnson Artur",
+   "url": "https://www.fotoarsenalwien.at/de/ausstellung/liz-johnson-artur",
+   "kuenstler": [
+    "Liz Johnson Artur"
+   ],
+   "untertitel": "",
+   "eroeffnung": "2027-10-01",
+   "anderer_ort": null,
+   "quelle": "https://www.fotoarsenalwien.at/de/ausstellung",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Zanele Muholi",
@@ -50,29 +148,8 @@
    "einzelausstellung_von": "Zanele Muholi",
    "anderer_ort": null,
    "quelle": "https://www.fotoarsenalwien.at/de/ausstellung/zanele-muholi",
-   "detail_geprueft": "2026-10-12"
-  },
-  {
-   "titel": "JOJO GRONOSTAY MODELS",
-   "untertitel": "Models",
-   "beginn": "2027-01-23",
-   "ende": "2027-05-23",
-   "art": "wechselausstellung",
-   "fachgebiet": "fotografie",
-   "haus": "Foto Arsenal Wien",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "url": "https://www.fotoarsenalwien.at/de/ausstellung/jojo-gronostay",
-   "kuenstler": [
-    "Jojo Gronostay"
-   ],
-   "eroeffnung": "2027-01-22",
-   "anderer_ort": null,
-   "einzelausstellung_von": "Jojo Gronostay",
-   "quelle": "https://www.fotoarsenalwien.at/de/ausstellung",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
   },
   {
    "titel": "LIFE’S A BEACH",
@@ -94,31 +171,11 @@
    "anderer_ort": null,
    "einzelausstellung_von": "Martin Parr",
    "quelle": "https://www.fotoarsenalwien.at/de/ausstellung",
-   "detail_geprueft": "2026-10-12"
-  },
-  {
-   "titel": "LIZ JOHNSON ARTUR",
-   "untertitel": null,
-   "beginn": "2027-10-02",
-   "ende": "2028-01-16",
-   "art": "wechselausstellung",
-   "fachgebiet": "fotografie",
-   "haus": "Foto Arsenal Wien",
-   "rang": 4,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "url": "https://www.fotoarsenalwien.at/de/ausstellung/liz-johnson-artur",
-   "kuenstler": [
-    "Liz Johnson Artur"
-   ],
-   "eroeffnung": "2027-10-01",
-   "anderer_ort": null,
-   "einzelausstellung_von": "Liz Johnson Artur",
-   "quelle": "https://www.fotoarsenalwien.at/de/ausstellung",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 2
 }

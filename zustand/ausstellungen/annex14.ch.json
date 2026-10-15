@@ -12,8 +12,11 @@
  "ausstellungen": [],
  "aussortiert": [
   {
-   "titel": "'Groundhog Day'",
+   "titel": "Groundhog Day",
    "untertitel": null,
+   "kuenstler": [
+    "Dominik Stauch"
+   ],
    "beginn": "2026-10-24",
    "ende": "2026-12-20",
    "art": "wechselausstellung",
@@ -23,10 +26,6 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "kuenstler": [
-    "Dominik Stauch"
-   ],
-   "einzelausstellung_von": "Dominik Stauch",
    "anderer_ort": "annex14bis, Schlossmattweg 7, Zollikofen/Bern",
    "eroeffnung": "2026-10-24",
    "url": null,
@@ -34,5 +33,5 @@
    "grund": "anderer Ort: annex14bis, Schlossmattweg 7, Zollikofen/Bern"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

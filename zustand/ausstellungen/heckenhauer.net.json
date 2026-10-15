@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "NATURE",
-   "untertitel": null,
+   "untertitel": "",
    "beginn": "2026-09-10",
    "ende": "2026-10-31",
    "art": "wechselausstellung",
@@ -20,16 +20,16 @@
    "haus": "Galerie J.J. Heckenhauer",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "Mauren Brodbeck",
     "Lara Eckert",
     "Eun Lee"
    ],
-   "eroeffnung": null,
    "anderer_ort": null,
+   "eroeffnung": null,
    "einzelausstellung_von": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
    "url": "https://heckenhauer.net/exhibitions/neue-arbeiten-46e8736c/",
    "quelle": "https://heckenhauer.net/exhibitions/",
    "detail_geprueft": "2026-10-12",
@@ -37,33 +37,7 @@
    "verpasst": 0
   }
  ],
- "aussortiert": [
-  {
-   "titel": "PAPER LOVE",
-   "untertitel": "Werke auf Papier",
-   "beginn": "2026-08-13",
-   "ende": "2026-09-05",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Galerie J.J. Heckenhauer",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "Jana Morgenstern",
-    "Emil Schult",
-    "Lukas Weiss"
-   ],
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "einzelausstellung_von": null,
-   "url": "https://heckenhauer.net/exhibitions/paper-love-80c8c435/",
-   "quelle": "https://heckenhauer.net/exhibitions/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet"
-  }
- ],
- "abgerufen": "2026-10-12T06:55:52",
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

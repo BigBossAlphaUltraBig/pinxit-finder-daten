@@ -4,35 +4,12 @@
  "haeuser": "JB Finearts",
  "land": "DE",
  "ids": "galerie-jb-finearts-hamburg",
- "status": "nur aussortierte",
+ "status": "keine Ausstellungen gefunden",
  "seiten": [
-  "https://jb-finearts.com/online-exhibition.html"
+  "https://jb-finearts.com/online-exhibition.html",
+  "https://jb-finearts.com/"
  ],
  "ausstellungen": [],
- "aussortiert": [
-  {
-   "titel": "Stefan Pehl – Works on Paper",
-   "untertitel": "Works on Paper",
-   "beginn": null,
-   "ende": null,
-   "art": "veranstaltung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "JB Finearts",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "einzelausstellung_von": "Stefan Pehl",
-   "kuenstler": [
-    "Stefan Pehl"
-   ],
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "url": "https://jb-finearts.com/online-exhibition.html",
-   "quelle": "https://jb-finearts.com/online-exhibition.html",
-   "detail_geprueft": "2026-10-12",
-   "grund": "Veranstaltung, keine Ausstellung"
-  }
- ],
- "abgerufen": "2026-10-12T06:55:52"
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20"
 }

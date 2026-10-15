@@ -11,45 +11,27 @@
  ],
  "ausstellungen": [
   {
-   "titel": "Break Up. No place to sit and talk.",
+   "titel": "Die Namen",
    "untertitel": "",
-   "beginn": "2026-09-01",
-   "ende": "2026-11-23",
+   "beginn": "2026-07-07",
+   "ende": "2026-12-31",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Malkasten",
-   "rang": 2,
+   "rang": null,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": "2026-07-07T19:00",
    "kuenstler": [
-    "Anna Möller"
+    "Michel Sauer"
    ],
+   "einzelausstellung_von": "Michel Sauer",
    "anderer_ort": null,
-   "eroeffnung": "2026-09-01",
    "url": null,
-   "quelle": "https://malkasten.org/programm/?tab=aktuell&filter=ausstellung"
-  },
-  {
-   "titel": "RAGE/bait",
-   "untertitel": "",
-   "beginn": "2026-09-01",
-   "ende": "2026-11-02",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Malkasten",
-   "rang": 3,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "Leya Christin Wüllner",
-    "Charlotte Steiger"
-   ],
-   "anderer_ort": null,
-   "eroeffnung": "2026-09-01",
-   "url": null,
-   "quelle": "https://malkasten.org/programm/?tab=aktuell&filter=ausstellung"
+   "quelle": "https://malkasten.org/programm/?tab=aktuell&filter=ausstellung",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": ".PSF 0219",
@@ -59,52 +41,57 @@
    "art": "wechselausstellung",
    "fachgebiet": "medienkunst",
    "haus": "Malkasten",
-   "rang": 4,
+   "rang": null,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": null,
    "kuenstler": [
     "Lucien Liebecke"
    ],
+   "einzelausstellung_von": "Lucien Liebecke",
    "anderer_ort": null,
-   "eroeffnung": null,
    "url": null,
-   "quelle": "https://malkasten.org/programm/?tab=aktuell&filter=ausstellung"
+   "quelle": "https://malkasten.org/programm/?tab=aktuell&filter=ausstellung",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
-   "titel": "Die Namen",
+   "titel": "Break Up. No place to sit and talk.",
    "untertitel": "",
-   "beginn": "2026-07-07",
-   "ende": "2026-12-31",
+   "beginn": "2026-09-01",
+   "ende": "2026-11-23",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Malkasten",
-   "rang": 5,
+   "rang": null,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": "2026-09-01T19:00",
    "kuenstler": [
-    "Michel Sauer"
+    "Anna Möller"
    ],
+   "einzelausstellung_von": "Anna Möller",
    "anderer_ort": null,
-   "eroeffnung": "2026-07-07",
    "url": null,
-   "quelle": "https://malkasten.org/programm/?tab=aktuell&filter=ausstellung"
-  }
- ],
- "aussortiert": [
+   "quelle": "https://malkasten.org/programm/?tab=aktuell&filter=ausstellung",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
   {
    "titel": "Garten der Möglichkeiten",
    "untertitel": "",
    "beginn": "2026-10-04",
    "ende": "2027-02-23",
    "art": "wechselausstellung",
-   "fachgebiet": "natur",
+   "fachgebiet": "bildende_kunst",
    "haus": "Malkasten",
-   "rang": 1,
+   "rang": null,
    "epoche": "gemischt",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": null,
    "kuenstler": [
     "Lothar Baumgarten",
     "Johannes Bendzulla",
@@ -118,11 +105,12 @@
     "Anja Schubert",
     "Tatjana Valsang"
    ],
-   "anderer_ort": "Malkastenforum",
-   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
    "url": null,
    "quelle": "https://malkasten.org/programm/?tab=aktuell&filter=ausstellung",
-   "grund": "keine Kunst (natur)"
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "...was sich zeigte",
@@ -132,19 +120,70 @@
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Malkasten",
-   "rang": 6,
+   "rang": null,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": "2026-10-06T19:00",
    "kuenstler": [
     "Ulrike Muenchhoff"
    ],
-   "anderer_ort": "Jacobihaus",
-   "eroeffnung": "2026-10-06",
+   "einzelausstellung_von": "Ulrike Muenchhoff",
+   "anderer_ort": null,
    "url": null,
    "quelle": "https://malkasten.org/programm/?tab=aktuell&filter=ausstellung",
-   "grund": "anderer Ort: Jacobihaus"
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Chiaroscuro",
+   "untertitel": "",
+   "beginn": "2026-10-13",
+   "ende": "2026-12-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Malkasten",
+   "rang": null,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-10-13T19:00",
+   "kuenstler": [
+    "Natalie Bell"
+   ],
+   "einzelausstellung_von": "Natalie Bell",
+   "anderer_ort": null,
+   "url": null,
+   "quelle": "https://malkasten.org/programm/?tab=aktuell&filter=ausstellung",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "aussortiert": [
+  {
+   "titel": "RAGE/bait",
+   "untertitel": "",
+   "beginn": "2026-09-01",
+   "ende": "2026-11-02",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Malkasten",
+   "rang": null,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-09-01T19:00",
+   "kuenstler": [
+    "Leya Christin Wüllner",
+    "Charlotte Steiger"
+   ],
+   "einzelausstellung_von": null,
+   "anderer_ort": "Schaukasten & Fahnen auf dem Vorplatz",
+   "url": null,
+   "quelle": "https://malkasten.org/programm/?tab=aktuell&filter=ausstellung",
+   "grund": "anderer Ort: Schaukasten & Fahnen auf dem Vorplatz"
+  }
+ ],
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

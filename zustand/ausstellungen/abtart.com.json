@@ -25,14 +25,50 @@
    "kuenstler": [
     "Ulrich Klieber"
    ],
-   "eroeffnung": "2026-07-03T19:30",
    "einzelausstellung_von": "Ulrich Klieber",
+   "eroeffnung": "2026-07-03T19:30",
    "anderer_ort": null,
    "url": "https://www.abtart.de/ausstellungen/aktuell/detail/51-3373.html",
    "quelle": "https://www.abtart.de/ausstellungen.html",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
+  },
+  {
+   "titel": "Im kleinen ganz groß",
+   "untertitel": "Kreativwerk Höfingen",
+   "beginn": "2026-09-11",
+   "ende": "2026-10-09",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Abtart",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Mika Anastasiou",
+    "Maren Benedix",
+    "Hilal Göktas",
+    "Birgit Hehr",
+    "Debora Heß",
+    "Cliff Hoppe",
+    "Monika Kwesch",
+    "Sibylle Moll",
+    "Dorothea Müller",
+    "Edward Pock",
+    "Luiz Schmidt",
+    "Andreas Stejskal",
+    "Jule Superczynski",
+    "Rolf Waldvogel"
+   ],
+   "einzelausstellung_von": null,
+   "eroeffnung": "2026-09-11T18:30",
+   "anderer_ort": "Kreativwerk Höfingen, Studio 57A",
+   "url": "https://www.abtart.de/ausstellungen/aktuell/detail/52-3373.html",
+   "quelle": "https://www.abtart.de/ausstellungen.html",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

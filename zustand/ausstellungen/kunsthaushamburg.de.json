@@ -11,6 +11,63 @@
  ],
  "ausstellungen": [
   {
+   "titel": "Temper",
+   "untertitel": null,
+   "beginn": "2026-09-05",
+   "ende": "2026-11-08",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunstverein in Hamburg",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Yalda Afsah"
+   ],
+   "einzelausstellung_von": "Yalda Afsah",
+   "eroeffnung": "2026-09-04T19:00",
+   "anderer_ort": null,
+   "schwerpunkt": null,
+   "url": "https://kunsthaushamburg.de/ausstellungen/yalda-afsah/",
+   "quelle": "https://kunsthaushamburg.de/ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Future Continuous 2026",
+   "untertitel": "Hamburger Arbeitsstipendium für bildende Kunst 2026",
+   "beginn": "2026-11-21",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunstverein in Hamburg",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Eda Aslan",
+    "Asma Ben Slama",
+    "Vedad Divović",
+    "Catalina González González",
+    "Maik Gräf",
+    "Nizan Kasper",
+    "Simone Kessler",
+    "Kenneth Lin",
+    "Lulu MacDonald",
+    "Jagrut Raval"
+   ],
+   "einzelausstellung_von": null,
+   "eroeffnung": "2026-11-20T18:00",
+   "anderer_ort": null,
+   "schwerpunkt": null,
+   "url": "https://kunsthaushamburg.de/ausstellungen/future-continuous-2026/",
+   "quelle": "https://kunsthaushamburg.de/ausstellungen/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
    "titel": "Yalda Afsah",
    "untertitel": "Temper",
    "beginn": "2026-09-05",
@@ -31,63 +88,11 @@
    "url": "https://kunsthaushamburg.de/ausstellungen/yalda-afsah/",
    "quelle": "https://kunsthaushamburg.de/ausstellungen/",
    "detail_geprueft": "2026-10-12",
-   "standort": "Kunsthaus Hamburg"
-  },
-  {
-   "titel": "Temper",
-   "untertitel": "Yalda Afsah",
-   "beginn": "2026-09-05",
-   "ende": "2026-11-08",
-   "art": "wechselausstellung",
-   "fachgebiet": "medienkunst",
-   "haus": "Kunstverein in Hamburg",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "Yalda Afsah"
-   ],
-   "einzelausstellung_von": "Yalda Afsah",
-   "eroeffnung": "2026-09-04T19:00",
-   "anderer_ort": null,
-   "url": "https://kunsthaushamburg.de/veranstaltungen/temper/",
-   "quelle": "https://kunsthaushamburg.de/ausstellungen/yalda-afsah/",
-   "detail_geprueft": "2026-10-12"
-  },
-  {
-   "titel": "Future Continuous",
-   "untertitel": "Hamburger Arbeitsstipendium für bildende Kunst 2026",
-   "beginn": "2026-11-21",
-   "ende": "2027-01-10",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Kunstverein in Hamburg",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "einzelausstellung_von": null,
-   "kuenstler": [
-    "Eda Aslan",
-    "Asma Ben Slama",
-    "Vedad Divović",
-    "Catalina González González",
-    "Maik Gräf",
-    "Nizan Kasper",
-    "Simone Kessler",
-    "Kenneth Lin",
-    "Lulu MacDonald",
-    "Jagrut Raval"
-   ],
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "url": "https://kunsthaushamburg.de/ausstellungen/future-continuous-2026/",
-   "quelle": "https://kunsthaushamburg.de/ausstellungen/",
-   "detail_geprueft": "2026-10-12",
-   "standort": "Kunsthaus Hamburg"
+   "standort": "Kunsthaus Hamburg",
+   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 1
 }

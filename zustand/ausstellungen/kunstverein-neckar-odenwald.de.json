@@ -11,7 +11,7 @@
  "ausstellungen": [
   {
    "titel": "Mein Körper ist ein Hinterland",
-   "untertitel": "null",
+   "untertitel": "",
    "beginn": "2026-09-20",
    "ende": "2026-10-31",
    "art": "wechselausstellung",
@@ -24,35 +24,13 @@
     "Emmanuel Henninger"
    ],
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "eroeffnung": null,
    "anderer_ort": null,
+   "eroeffnung": null,
    "url": "https://emmanuelhenninger.art/de/kuenstlerischer-ansatz/",
    "quelle": "https://kunstverein-neckar-odenwald.de/programm-2026/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
    "verpasst": 0
-  },
-  {
-   "titel": "Emmanuel Henninger: Mein Körper ist ein Hinterland",
-   "untertitel": null,
-   "beginn": "2026-09-20",
-   "ende": "2026-10-31",
-   "art": "wechselausstellung",
-   "einzelausstellung_von": "Emmanuel Henninger",
-   "kuenstler": [
-    "Emmanuel Henninger"
-   ],
-   "haus": "Kunstverein Neckar-Odenwald",
-   "rang": 1,
-   "kunst": true,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": "Beziehung zwischen Körper, Territorium und Protest",
-   "anderer_ort": null,
-   "url": null,
-   "quelle": "https://kunstverein-neckar-odenwald.de/programm-2026/",
-   "verpasst": 1
   }
  ],
  "aussortiert": [
@@ -74,15 +52,14 @@
     "Nina DeLudemann"
    ],
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "eroeffnung": null,
    "anderer_ort": null,
+   "eroeffnung": null,
    "url": "https://fluchtpunkt-hanoi.onepage.me",
    "quelle": "https://kunstverein-neckar-odenwald.de/programm-2026/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 1
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

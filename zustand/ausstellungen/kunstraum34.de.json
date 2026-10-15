@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "SYZYGY",
-   "untertitel": "Vor der Uhr war der Schatten.",
+   "untertitel": null,
    "beginn": "2026-10-16",
    "ende": "2026-11-08",
    "art": "wechselausstellung",
@@ -30,9 +30,12 @@
    "anderer_ort": null,
    "url": "https://kunstraum34.de/veranstaltung/syzygy/",
    "quelle": "https://kunstraum34.de/veranstaltung/syzygy/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

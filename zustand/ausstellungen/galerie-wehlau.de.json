@@ -7,12 +7,12 @@
  "status": "ok",
  "seiten": [
   "https://www.galerie-wehlau.de/exhibitions/",
-  "https://www.galerie-wehlau.de/exhibitions/transformations-christine-brunella-stephan-wurmer/overview/"
+  "https://www.galerie-wehlau.de/exhibitions/ver-wandlungen-christine-brunella-stephan-wurmer/overview/"
  ],
  "ausstellungen": [
   {
    "titel": "Ver:Wandlungen",
-   "untertitel": "",
+   "untertitel": "Christine Brunella & Stephan Wurmer",
    "beginn": "2026-09-18",
    "ende": "2026-10-30",
    "art": "wechselausstellung",
@@ -20,15 +20,15 @@
    "haus": "Galerie Fenna Wehlau",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "anderer_ort": null,
-   "schwerpunkt": null,
+   "eroeffnung": "2026-09-17T19:00",
    "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
    "kuenstler": [
     "Christine Brunella",
     "Stephan Wurmer"
    ],
-   "eroeffnung": "2026-09-17T19:00",
-   "einzelausstellung_von": null,
    "url": "https://www.galerie-wehlau.de/exhibitions/ver-wandlungen-christine-brunella-stephan-wurmer/overview/",
    "quelle": "https://www.galerie-wehlau.de/exhibitions/",
    "detail_geprueft": "2026-10-12",
@@ -45,34 +45,19 @@
    "haus": "Galerie Fenna Wehlau",
    "rang": 3,
    "epoche": "zeitgenoessisch",
-   "anderer_ort": null,
-   "schwerpunkt": null,
+   "eroeffnung": null,
    "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Andreas Kocks",
    "kuenstler": [
     "Andreas Kocks"
    ],
-   "eroeffnung": null,
-   "einzelausstellung_von": "Andreas Kocks",
    "url": "https://www.galerie-wehlau.de/exhibitions/70-permanent-now-andreas-kocks-arbeiten-in-papier-und-stahl/works/",
    "quelle": "https://www.galerie-wehlau.de/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
    "verpasst": 0
-  },
-  {
-   "titel": "MOLTENI&C FLAGSHIP STORE MUNICH",
-   "untertitel": "ARTWORKS @ GALERIE FENNA WEHLAU",
-   "beginn": "2026-01-01",
-   "ende": "2026-12-24",
-   "art": "dauerausstellung",
-   "fachgebiet": "design",
-   "haus": "Galerie Fenna Wehlau",
-   "rang": 3,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "url": "https://www.galerie-wehlau.de/exhibitions/65-molteni-c-flagship-store-munich-artworks-galerie-fenna-wehlau/installation_shots/",
-   "quelle": "https://www.galerie-wehlau.de/exhibitions/",
-   "verpasst": 1
   }
  ],
  "aussortiert": [
@@ -81,22 +66,22 @@
    "untertitel": "Molteni&C Flagship Store Munich",
    "beginn": "2026-01-01",
    "ende": "2026-12-24",
-   "art": "dauerausstellung",
+   "art": "sammlungspraesentation",
    "fachgebiet": "bildende_kunst",
    "haus": "Galerie Fenna Wehlau",
    "rang": 2,
    "epoche": "zeitgenoessisch",
-   "anderer_ort": "Molteni&C Flagship Store Munich",
-   "schwerpunkt": null,
-   "gemeinfrei": false,
-   "kuenstler": [],
    "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": "Molteni&C Flagship Store München",
    "einzelausstellung_von": null,
+   "kuenstler": [],
    "url": "https://www.galerie-wehlau.de/exhibitions/65-molteni-c-flagship-store-munich-artworks-galerie-fenna-wehlau/installation_shots/",
    "quelle": "https://www.galerie-wehlau.de/exhibitions/",
-   "grund": "anderer Ort: Molteni&C Flagship Store Munich"
+   "grund": "anderer Ort: Molteni&C Flagship Store München"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 1
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

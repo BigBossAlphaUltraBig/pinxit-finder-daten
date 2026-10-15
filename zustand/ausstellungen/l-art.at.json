@@ -13,7 +13,7 @@
  "aussortiert": [
   {
    "titel": "Artist Talk mit Flavia Mazzanti",
-   "untertitel": "Artist Talk",
+   "untertitel": "Artist Talk mit Flavia Mazzanti",
    "beginn": "2026-08-29",
    "ende": "2026-08-29",
    "art": "veranstaltung",
@@ -26,35 +26,35 @@
    "kuenstler": [
     "Flavia Mazzanti"
    ],
-   "url": "https://www.l-art.at/de/artist_talk_flavia",
-   "eroeffnung": null,
-   "anderer_ort": null,
    "einzelausstellung_von": null,
+   "eroeffnung": "2026-08-29T11:00",
+   "anderer_ort": null,
+   "url": "https://www.l-art.at/de/artist_talk_flavia",
    "quelle": "https://www.l-art.at/de/ausstellungen",
    "eintritt": "frei",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
    "titel": "Workshop: My Body, My Image",
-   "untertitel": "Was ist eigentlich ein „normaler“ oder „schöner“ Körper? Und welchen Einfluss haben KI und digitale Medien auf unser Selbstbild?",
+   "untertitel": "Interaktiver Workshop zu Schönheitsidealen, Körperbildern und KI in der digitalen Welt",
    "beginn": "2026-07-22",
    "ende": "2026-07-22",
    "art": "veranstaltung",
-   "fachgebiet": "fotografie",
+   "fachgebiet": "bildende_kunst",
    "haus": "L.art Vienna",
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
    "kuenstler": [],
-   "url": "https://www.l-art.at/de/workshop",
+   "einzelausstellung_von": null,
    "eroeffnung": null,
    "anderer_ort": null,
-   "einzelausstellung_von": null,
+   "url": "https://www.l-art.at/de/workshop",
    "quelle": "https://www.l-art.at/de/ausstellungen",
-   "eintritt": "kostenlos im Rahmen der Evaluation",
-   "detail_geprueft": "2026-10-12",
+   "eintritt": "kostenlos",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
@@ -68,19 +68,19 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
    "kuenstler": [
     "Mario Dalpra",
     "Flavia Mazzanti"
    ],
-   "einzelausstellung_von": null,
-   "eroeffnung": null,
-   "anderer_ort": null,
    "url": "https://www.l-art.at/de/startseiten-inhalt/current-exhibition",
+   "schwerpunkt": null,
    "quelle": "https://www.l-art.at/de/startseiten-inhalt/current-exhibition",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

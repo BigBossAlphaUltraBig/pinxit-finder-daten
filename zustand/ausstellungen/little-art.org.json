@@ -10,7 +10,7 @@
  ],
  "ausstellungen": [
   {
-   "titel": "WORAN KINDER GLAUBEN",
+   "titel": "Woran Kinder glauben",
    "untertitel": "Von Lettland bis Uganda: Kinder malen, woran sie glauben.",
    "beginn": null,
    "ende": null,
@@ -21,15 +21,18 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "url": "https://www.little-art.org/programm#ausstellungen",
    "anderer_ort": null,
-   "eroeffnung": null,
+   "url": "https://www.little-art.org/programm#ausstellungen",
    "einzelausstellung_von": null,
+   "eroeffnung": null,
    "kuenstler": [],
    "quelle": "https://www.little-art.org/programm",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

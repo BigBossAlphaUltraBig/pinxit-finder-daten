@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Haha Wang",
-   "untertitel": null,
+   "untertitel": "<UNKNOWN>",
    "beginn": null,
    "ende": null,
    "art": "wechselausstellung",
@@ -22,15 +22,15 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": null,
-   "einzelausstellung_von": "Haha Wang",
    "kuenstler": [
     "Haha Wang"
    ],
    "eroeffnung": "2026-11-06",
+   "anderer_ort": null,
    "url": "https://www.galeriechristinemayer.de/upcoming-exhibition/",
+   "einzelausstellung_von": "Haha Wang",
    "quelle": "https://www.galeriechristinemayer.de/upcoming-exhibition/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "erstmals": "2026-10-12",
    "verpasst": 0
   },
@@ -45,13 +45,13 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "Thomas von Poschinger"
    ],
    "einzelausstellung_von": "Thomas von Poschinger",
    "eroeffnung": null,
    "anderer_ort": null,
+   "schwerpunkt": null,
    "url": "https://www.galeriechristinemayer.de/",
    "quelle": "https://www.galeriechristinemayer.de/",
    "detail_geprueft": "2026-10-12",
@@ -80,10 +80,10 @@
    "quelle": "https://www.galeriechristinemayer.de/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
-   "verpasst": 0
+   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 0
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 1
 }

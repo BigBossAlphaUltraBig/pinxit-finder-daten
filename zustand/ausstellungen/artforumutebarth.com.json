@@ -32,9 +32,39 @@
    "anderer_ort": null,
    "url": "https://artforumutebarth.com/kuenstler/h-anna-handick/",
    "quelle": "https://artforumutebarth.com/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
+  },
+  {
+   "titel": "Art Salon Zürich 2026",
+   "untertitel": "Thema 2026: „Gegen die Eile“",
+   "beginn": "2026-10-22",
+   "ende": "2026-10-25",
+   "art": "messe_markt",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Art Forum Ute Barth",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Maria Eitle-Vozar",
+    "Eberhard Ross",
+    "Louis Schlumberger",
+    "Hans Schnorf",
+    "Hans Thomann",
+    "Maja Malmcrona",
+    "Patrizia Kränzlein",
+    "Dieter Kränzlein"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": "Art Salon Zürich",
+   "url": "https://artforumutebarth.com/messen/",
+   "quelle": "https://artforumutebarth.com/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "Messe/Markt, keine Ausstellung"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

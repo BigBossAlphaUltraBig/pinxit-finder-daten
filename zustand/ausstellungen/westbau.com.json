@@ -11,7 +11,6 @@
  "ausstellungen": [
   {
    "titel": "Christodoulos Panayiotou",
-   "untertitel": "Entertainment",
    "beginn": "2026-09-26",
    "ende": "2027-01-10",
    "art": "unklar",
@@ -20,15 +19,18 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
+   "schwerpunkt": null,
    "kuenstler": [
     "Christodoulos Panayiotou"
    ],
-   "schwerpunkt": null,
-   "eroeffnung": null,
-   "anderer_ort": null,
+   "untertitel": "2. & 3. Ebene, Luma Westbau",
    "url": "https://westbau.com/de/program/entertainment",
+   "anderer_ort": null,
+   "eroeffnung": null,
    "quelle": "https://westbau.com/de/program",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Maria Lassnig",
@@ -41,21 +43,23 @@
    "rang": 2,
    "epoche": "moderne",
    "gemeinfrei": false,
+   "schwerpunkt": null,
    "kuenstler": [
     "Maria Lassnig"
    ],
-   "schwerpunkt": null,
-   "eroeffnung": null,
-   "anderer_ort": null,
    "url": "https://westbau.com/de/program/maria-lassnig",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Maria Lassnig",
    "quelle": "https://westbau.com/de/program",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
   {
    "titel": "Swiss Institute New York at 40",
-   "untertitel": "Swiss Institute New York at 40",
    "beginn": "2026-06-13",
    "ende": "2026-09-06",
    "art": "wechselausstellung",
@@ -64,6 +68,7 @@
    "rang": 3,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
+   "schwerpunkt": null,
    "kuenstler": [
     "Darren Bader",
     "Nairy Baghramian",
@@ -121,14 +126,15 @@
     "Rirkrit Tiravanija",
     "Women's History Museum"
    ],
-   "schwerpunkt": null,
-   "eroeffnung": null,
-   "anderer_ort": null,
    "url": "https://westbau.com/de/program/regift",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "untertitel": "Swiss Institute New York at 40",
    "quelle": "https://westbau.com/de/program",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

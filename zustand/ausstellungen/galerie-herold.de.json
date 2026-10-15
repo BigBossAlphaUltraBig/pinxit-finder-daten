@@ -11,7 +11,7 @@
  ],
  "ausstellungen": [
   {
-   "titel": "MEINE HEIMAT IST DIE KUNST UND DIE SITZT IM KOPF",
+   "titel": "Meine Heimat ist die Kunst und die sitzt im Kopf",
    "untertitel": "Einzelausstellung mit Werken aus dem Heini Linkshänder Archiv",
    "beginn": "2026-08-02",
    "ende": "2026-10-31",
@@ -22,13 +22,12 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": "",
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "einzelausstellung_von": "Heini Linkshänder",
    "kuenstler": [
     "Heini Linkshänder"
    ],
    "url": "https://galerie-herold.de/exhibitions/64-meine-heimat-ist-die-kunst-und-die-sitzt-einzelausstellung-mit-werken-aus-dem-heini-linkshander-archiv/",
+   "eroeffnung": null,
+   "anderer_ort": null,
    "quelle": "https://galerie-herold.de/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -37,8 +36,8 @@
  ],
  "aussortiert": [
   {
-   "titel": "30 JAHRE SYLT",
-   "untertitel": "Jubiläumsausstellung mit Meisterwerken der klassischen Moderne und zeitgenössischer Kunst",
+   "titel": "30 Jahre Sylt",
+   "untertitel": "Jubiläumsausstellung mit Meisterwerken der Klassischen Moderne und zeitgenössischer Kunst",
    "beginn": "2026-08-02",
    "ende": "2026-10-31",
    "art": "wechselausstellung",
@@ -48,15 +47,12 @@
    "epoche": "gemischt",
    "gemeinfrei": false,
    "schwerpunkt": "",
-   "anderer_ort": "Braderuper Weg 4, Kampen",
-   "eroeffnung": null,
-   "einzelausstellung_von": null,
    "kuenstler": [
     "Daniel Hörner",
     "Eduard Bargheer",
     "Friedrich Schaper",
     "Ernst Eitner",
-    "HugoKöcke",
+    "Hugo Köcke",
     "Rainer Fetting",
     "Alexej von Jawlensky",
     "Erich Heckel",
@@ -65,16 +61,17 @@
     "Janus Hochgesand",
     "Bleicke Bleicken",
     "Ernst Ludwig Kirchner",
-    "Anita Rée",
-    "Heini Linkshänder"
+    "Anita Rée"
    ],
    "url": "https://galerie-herold.de/exhibitions/66-30-jahre-sylt-jubilaumsausstellung-mit-meisterwerken-der-klassischen-moderne-und-zeitgenossischer/",
+   "eroeffnung": null,
+   "anderer_ort": "Braderuper Weg 4, Kampen",
    "quelle": "https://galerie-herold.de/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Braderuper Weg 4, Kampen"
   },
   {
-   "titel": "THE BALLAD OF THE FALLEN",
+   "titel": "The Ballad of the Fallen",
    "untertitel": "Einzelausstellung mit Hermann Grüneberg",
    "beginn": "2026-09-03",
    "ende": "2026-10-09",
@@ -85,19 +82,18 @@
    "epoche": "moderne",
    "gemeinfrei": false,
    "schwerpunkt": "",
-   "anderer_ort": null,
-   "eroeffnung": "2026-09-05T19:00",
-   "einzelausstellung_von": "Hermann Grüneberg",
    "kuenstler": [
     "Hermann Grüneberg"
    ],
    "url": "https://galerie-herold.de/exhibitions/63-the-ballad-of-the-fallen-einzelausstellung-mit-hermann-gruneberg/",
+   "eroeffnung": "2026-09-05T19:00",
+   "anderer_ort": null,
    "quelle": "https://galerie-herold.de/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
-   "titel": "IVO HAUPTMANN UND DIE HAMBURGISCHE SEZESSION",
+   "titel": "Ivo Hauptmann und die Hamburgische Sezession",
    "untertitel": "Ausstellung zum 140. Geburtstag von Ivo Hauptmann",
    "beginn": "2026-05-24",
    "ende": "2026-07-19",
@@ -108,18 +104,17 @@
    "epoche": "moderne",
    "gemeinfrei": false,
    "schwerpunkt": "",
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "einzelausstellung_von": null,
    "kuenstler": [
     "Ivo Hauptmann"
    ],
    "url": "https://galerie-herold.de/exhibitions/61-ivo-hauptmann-und-die-hamburgische-sezession-ausstellung-zum-140-geburtstag-von-ivo-hauptmann/",
+   "eroeffnung": null,
+   "anderer_ort": null,
    "quelle": "https://galerie-herold.de/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

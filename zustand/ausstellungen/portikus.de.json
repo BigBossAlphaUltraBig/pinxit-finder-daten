@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "My Skeleton",
-   "untertitel": "Etwas in Worte zu fassen, bedeutet schon seine Grenzen zu ziehen, es durch linguistische und technische Systeme greifbar zu machen.",
+   "untertitel": "Kuratiert von Juliane Bischoff",
    "beginn": "2026-10-03",
    "ende": "2027-01-03",
    "art": "wechselausstellung",
@@ -22,17 +22,67 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": null,
-   "eroeffnung": "2026-10-02T18:00",
    "kuenstler": [
     "Kobby Adi"
    ],
    "einzelausstellung_von": "Kobby Adi",
+   "anderer_ort": null,
+   "eroeffnung": "2026-10-02T18:00",
    "url": "https://www.portikus.de/de/exhibitions/245-my-skeleton",
    "quelle": "https://www.portikus.de/de/exhibitions/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
- "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "aussortiert": [
+  {
+   "titel": "Crested",
+   "untertitel": "Crested",
+   "beginn": "2026-05-29",
+   "ende": "2026-08-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Portikus",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Tanya Lukin Linklater"
+   ],
+   "einzelausstellung_von": "Tanya Lukin Linklater",
+   "anderer_ort": null,
+   "eroeffnung": "2026-05-29T18:00",
+   "url": "https://www.portikus.de/de/exhibitions/244-crested",
+   "quelle": "https://www.portikus.de/de/exhibitions/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
+  },
+  {
+   "titel": "When the Water Turns to Wind",
+   "untertitel": "null",
+   "beginn": "2026-02-21",
+   "ende": "2026-05-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Portikus",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Saodat Ismailova"
+   ],
+   "einzelausstellung_von": "Saodat Ismailova",
+   "anderer_ort": null,
+   "eroeffnung": "2026-02-20T18:00",
+   "url": "https://www.portikus.de/de/exhibitions/243-when-the-water-turns-to-wind",
+   "quelle": "https://www.portikus.de/de/exhibitions/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

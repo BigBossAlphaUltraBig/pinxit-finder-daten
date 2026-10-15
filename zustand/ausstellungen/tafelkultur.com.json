@@ -13,23 +13,24 @@
  "aussortiert": [
   {
    "titel": "Die Daueraustellung",
-   "beginn": null,
+   "untertitel": null,
+   "kuenstler": [],
+   "beginn": "2019-08-27",
    "ende": null,
    "art": "dauerausstellung",
-   "fachgebiet": "geschichte",
+   "fachgebiet": "sonstiges",
    "haus": "Deutsches Museum für Kochkunst und Tafelkultur",
    "rang": 1,
    "epoche": "gemischt",
-   "schwerpunkt": "Historische und aktuelle Ess- und Trinkkultur, Kochkunst und Tafelkultur",
-   "url": "https://www.tafelkultur.com/save-the-date-eroeffnung-der-neuen-daueraustellung-27-august-2019/",
    "gemeinfrei": false,
+   "schwerpunkt": "Kochkunst, Tafelkultur und historische Ess- und Trinkkultur",
+   "einzelausstellung_von": null,
    "anderer_ort": null,
    "eroeffnung": null,
-   "kuenstler": [],
-   "untertitel": "",
+   "url": "https://www.tafelkultur.com/save-the-date-eroeffnung-der-neuen-daueraustellung-27-august-2019/",
    "quelle": "https://www.tafelkultur.com/museum/ausstellungen/",
-   "grund": "keine Kunst (geschichte)"
+   "grund": "keine Kunst (sonstiges)"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

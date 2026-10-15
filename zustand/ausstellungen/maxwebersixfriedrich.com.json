@@ -13,7 +13,7 @@
  "aussortiert": [
   {
    "titel": "DER LETZTE TANZ",
-   "untertitel": null,
+   "untertitel": "null",
    "beginn": "2025-10-22",
    "ende": "2025-12-12",
    "art": "unklar",
@@ -23,6 +23,7 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": "2025-10-21T18:00",
    "einzelausstellung_von": null,
    "kuenstler": [
     "Andreas Schulze",
@@ -36,15 +37,14 @@
     "Ralf Ziervogel"
    ],
    "anderer_ort": null,
-   "eroeffnung": "2025-10-21T18:00",
    "url": "https://maxwebersixfriedrich.com/news/der-letzte-tanz/",
    "quelle": "http://maxwebersixfriedrich.com/category/exhibition/current-exhibition/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
    "titel": "HIMMELSRÄUME",
-   "untertitel": "Malerei von Sid Gastl und ein Film von Alexandra Ranner",
+   "untertitel": "Sid Gastl and Alexandra Ranner",
    "beginn": "2025-05-21",
    "ende": "2025-07-11",
    "art": "wechselausstellung",
@@ -54,16 +54,16 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": "2025-05-20T18:00",
    "einzelausstellung_von": null,
    "kuenstler": [
     "Sid Gastl",
     "Alexandra Ranner"
    ],
    "anderer_ort": null,
-   "eroeffnung": "2025-05-20T18:00",
    "url": "https://maxwebersixfriedrich.com/news/sid-gastl-alexandra-ranner-himmelsraume/",
    "quelle": "http://maxwebersixfriedrich.com/category/exhibition/current-exhibition/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
@@ -71,13 +71,14 @@
    "untertitel": "Gruppenausstellung",
    "beginn": "2023-06-07",
    "ende": "2023-07-21",
-   "art": "wechselausstellung",
+   "art": "unklar",
    "fachgebiet": "bildende_kunst",
    "haus": "Galerie Max Weber Six Friedrich",
    "rang": 3,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": "2023-06-06T18:00",
    "einzelausstellung_von": null,
    "kuenstler": [
     "Wilhelm Mundt",
@@ -92,10 +93,9 @@
     "Jens Wolf"
    ],
    "anderer_ort": null,
-   "eroeffnung": "2023-06-06T18:00",
    "url": "https://maxwebersixfriedrich.com/news/brouhaha-ii/",
    "quelle": "http://maxwebersixfriedrich.com/category/exhibition/current-exhibition/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
@@ -110,17 +110,17 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": "2023-03-03T18:00",
    "einzelausstellung_von": "Saskia Friedrich",
    "kuenstler": [
     "Saskia Friedrich"
    ],
    "anderer_ort": null,
-   "eroeffnung": "2023-03-03T18:00",
    "url": "https://maxwebersixfriedrich.com/news/saskia-friedrich-wall-puppets-and-small-fields/",
    "quelle": "http://maxwebersixfriedrich.com/category/exhibition/current-exhibition/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

@@ -12,7 +12,6 @@
  "ausstellungen": [
   {
    "titel": "Floaters",
-   "untertitel": null,
    "beginn": "2026-09-19",
    "ende": "2026-11-28",
    "art": "wechselausstellung",
@@ -21,13 +20,14 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "einzelausstellung_von": "Rebecca Ackroyd",
    "kuenstler": [
     "Rebecca Ackroyd"
    ],
-   "anderer_ort": null,
    "eroeffnung": null,
-   "einzelausstellung_von": "Rebecca Ackroyd",
+   "anderer_ort": null,
+   "untertitel": null,
+   "schwerpunkt": null,
    "url": "https://deborahschamoni.com/exhibitions/rebecca-ackroyd",
    "quelle": "https://deborahschamoni.com/exhibitions",
    "detail_geprueft": "2026-10-12",
@@ -38,7 +38,6 @@
  "aussortiert": [
   {
    "titel": "À l’heure dorée",
-   "untertitel": "The golden hour is momentary. In this exhibition, that succinctness becomes the central condition.",
    "beginn": "2026-07-18",
    "ende": "2026-09-12",
    "art": "wechselausstellung",
@@ -47,22 +46,23 @@
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "einzelausstellung_von": null,
    "kuenstler": [
     "Hilda Kortei",
     "Kateryna Lysovenko",
     "Ad Minoliti",
     "Francis Offman"
    ],
-   "anderer_ort": null,
    "eroeffnung": null,
-   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "untertitel": "The golden hour is momentary.",
+   "schwerpunkt": null,
    "url": "https://deborahschamoni.com/exhibitions/a-l-heure-doree",
    "quelle": "https://deborahschamoni.com/exhibitions",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

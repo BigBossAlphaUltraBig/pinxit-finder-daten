@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Imagine there were only Sundays",
-   "untertitel": null,
+   "untertitel": "null",
    "beginn": "2026-10-30",
    "ende": "2026-12-12",
    "art": "wechselausstellung",
@@ -25,13 +25,17 @@
    "kuenstler": [
     "Philipp Keel"
    ],
-   "einzelausstellung_von": "Philipp Keel",
-   "eroeffnung": "2026-10-29",
    "anderer_ort": null,
-   "url": null,
-   "quelle": "https://www.kornfeld.ch/d625.html"
+   "eroeffnung": "2026-10-29",
+   "einzelausstellung_von": "Philipp Keel",
+   "url": "https://www.kornfeld.ch/d625.html",
+   "quelle": "https://www.kornfeld.ch/d625.html",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

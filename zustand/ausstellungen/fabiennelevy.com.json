@@ -21,17 +21,40 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "anderer_ort": null,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Amit Berman",
+   "kuenstler": [
+    "Amit Berman"
+   ],
+   "url": "https://www.fabiennelevy.com/exhibitions/63-lausanne-geneva-unfamiliar-luminous-remote-amit-berman/",
+   "quelle": "https://www.fabiennelevy.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Lausanne & Geneva – Unfamiliar, Luminous, Remote",
+   "untertitel": "",
+   "beginn": "2026-09-10",
+   "ende": "2026-11-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Fabienne Levy Gallery",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
    "kuenstler": [
     "Amit Berman"
    ],
    "einzelausstellung_von": "Amit Berman",
    "eroeffnung": null,
-   "schwerpunkt": null,
+   "anderer_ort": null,
    "url": "https://www.fabiennelevy.com/exhibitions/63-lausanne-geneva-unfamiliar-luminous-remote-amit-berman/",
-   "quelle": "https://www.fabiennelevy.com/exhibitions/",
+   "quelle": "https://www.fabiennelevy.com/exhibitions/63-lausanne-geneva-unfamiliar-luminous-remote-amit-berman/",
    "detail_geprueft": "2026-10-12",
-   "erstmals": "2026-10-12",
+   "erstmals": "2026-10-15",
    "verpasst": 0
   },
   {
@@ -45,44 +68,50 @@
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "anderer_ort": null,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-09-17T06:00",
+   "einzelausstellung_von": "Maria Kozak",
    "kuenstler": [
     "Maria Kozak"
    ],
-   "einzelausstellung_von": "Maria Kozak",
-   "eroeffnung": "2026-09-17T06:00",
-   "schwerpunkt": null,
    "url": "https://www.fabiennelevy.com/exhibitions/64-zurich-read-these-leaves-maria-kozak/",
    "quelle": "https://www.fabiennelevy.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
    "verpasst": 0
-  },
+  }
+ ],
+ "aussortiert": [
   {
-   "titel": "Lausanne & Geneva – Unfamiliar, Luminous, Remote",
-   "untertitel": "Unfamiliar, Luminous, Remote",
-   "beginn": "2026-09-10",
-   "ende": "2026-11-07",
+   "titel": "Shifting Grounds",
+   "untertitel": "Lausanne",
+   "beginn": "2026-07-05",
+   "ende": "2026-08-26",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Fabienne Levy Gallery",
-   "rang": 1,
+   "rang": 3,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "einzelausstellung_von": "Amit Berman",
-   "kuenstler": [
-    "Amit Berman"
-   ],
    "schwerpunkt": null,
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "url": "https://www.fabiennelevy.com/exhibitions/63-lausanne-geneva-unfamiliar-luminous-remote-amit-berman/",
-   "quelle": "https://www.fabiennelevy.com/exhibitions/63-lausanne-geneva-unfamiliar-luminous-remote-amit-berman/",
-   "detail_geprueft": "2026-10-12",
-   "verpasst": 1
+   "eroeffnung": "2026-07-05T12:00",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Ben Apea",
+    "Mattania Bösiger",
+    "Rebecca Brodskis",
+    "Carlo D'Anselmi",
+    "Séverin Guelpa",
+    "Anthony Miler",
+    "Tang Shuo",
+    "Yuval Yairi"
+   ],
+   "url": "https://www.fabiennelevy.com/exhibitions/61-lausanne-shifting-grounds-summer-group-show/",
+   "quelle": "https://www.fabiennelevy.com/exhibitions/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
   }
  ],
- "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 1
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

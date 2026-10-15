@@ -11,6 +11,27 @@
  ],
  "ausstellungen": [
   {
+   "titel": "Braun Design Sammlung Ettel",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "sammlungspraesentation",
+   "fachgebiet": "design",
+   "haus": "Braun-Sammlung Ettel",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": "Designprodukte der Firma Braun, Tonbandgeräte, Plattenspieler und Verstärker",
+   "url": "https://braundesignmuseum.de/collection",
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "kuenstler": [],
+   "quelle": "https://braundesignmuseum.de/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
    "titel": "Braun-Sammlung Ettel",
    "untertitel": null,
    "beginn": null,
@@ -29,27 +50,10 @@
    "url": "https://braundesignmuseum.de/collection",
    "quelle": "https://braundesignmuseum.de/",
    "erstmals": "2026-10-12",
-   "verpasst": 0
-  },
-  {
-   "titel": "Braun Design Sammlung",
-   "untertitel": null,
-   "beginn": null,
-   "ende": null,
-   "art": "sammlungspraesentation",
-   "fachgebiet": "design",
-   "haus": "Braun-Sammlung Ettel",
-   "rang": 1,
-   "epoche": "moderne",
-   "kuenstler": [],
-   "gemeinfrei": false,
-   "schwerpunkt": "Industriedesign und Elektronikprodukte der Marke Braun",
-   "url": "https://braundesignmuseum.de/collection",
-   "quelle": "https://braundesignmuseum.de/",
    "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 1
 }

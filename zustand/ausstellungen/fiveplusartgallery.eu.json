@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "ESSENCE",
-   "untertitel": "Monika Herschberger",
+   "untertitel": null,
    "beginn": "2026-10-08",
    "ende": "2026-11-03",
    "art": "wechselausstellung",
@@ -21,14 +21,14 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "eroeffnung": "2026-10-08T18:00",
-   "anderer_ort": null,
-   "einzelausstellung_von": "Monika Herschberger",
    "kuenstler": [
     "Monika Herschberger"
    ],
+   "schwerpunkt": null,
    "url": "https://fiveplusartgallery.eu/exhibitions/essence-monika-herschberger/",
+   "eroeffnung": "2026-10-08T18:00",
+   "anderer_ort": null,
+   "einzelausstellung_von": "Monika Herschberger",
    "quelle": "https://fiveplusartgallery.eu/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -47,19 +47,19 @@
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "eroeffnung": "2026-09-10T18:00",
-   "anderer_ort": null,
-   "einzelausstellung_von": "Helmut Martin",
    "kuenstler": [
     "Helmut Martin"
    ],
+   "schwerpunkt": null,
    "url": "https://fiveplusartgallery.eu/exhibitions/color-explosion-2/",
+   "eroeffnung": "2026-09-10T18:00",
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
    "quelle": "https://fiveplusartgallery.eu/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

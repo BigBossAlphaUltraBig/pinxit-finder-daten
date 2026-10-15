@@ -22,11 +22,11 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": "2026-09-03",
    "kuenstler": [
     "Janice Kerbel"
    ],
    "einzelausstellung_von": "Janice Kerbel",
-   "eroeffnung": "2026-09-03",
    "anderer_ort": null,
    "url": "https://galerie-karin-guenther.de/artists/janice-kerbel/images.html",
    "quelle": "https://galerie-karin-guenther.de/exhibitions/current.html",
@@ -45,14 +45,14 @@
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
+   "schwerpunkt": null,
    "kuenstler": [
     "Alexander Heim"
    ],
-   "eroeffnung": "2026-11-12",
-   "url": "https://galerie-karin-guenther.de/artists/alexander-heim/images.html",
    "anderer_ort": null,
+   "eroeffnung": "2026-11-12",
    "einzelausstellung_von": "Alexander Heim",
-   "schwerpunkt": null,
+   "url": "https://galerie-karin-guenther.de/artists/alexander-heim/images.html",
    "quelle": "https://galerie-karin-guenther.de/exhibitions/upcoming.html",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -60,6 +60,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

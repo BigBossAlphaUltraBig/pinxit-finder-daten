@@ -19,16 +19,16 @@
    "fachgebiet": "bildende_kunst",
    "haus": "Galerie St. Gertrude",
    "rang": 1,
-   "epoche": "moderne",
+   "epoche": "zeitgenoessisch",
    "einzelausstellung_von": "Raimund Girke",
    "kuenstler": [
     "Raimund Girke"
    ],
-   "schwerpunkt": null,
    "gemeinfrei": false,
-   "anderer_ort": null,
+   "schwerpunkt": null,
    "url": "https://st-gertrude.de/exhibitions/lichte-welt-6830e7d9/",
    "eroeffnung": null,
+   "anderer_ort": null,
    "quelle": "https://st-gertrude.de/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -36,6 +36,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

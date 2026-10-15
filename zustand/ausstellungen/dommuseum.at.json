@@ -21,36 +21,39 @@
    "rang": 1,
    "epoche": "gemischt",
    "gemeinfrei": true,
-   "schwerpunkt": "Kirchliche Kunst vom Mittelalter bis zur zeitgenössischen Sammlung Otto Mauer",
+   "schwerpunkt": "Sakrale Kunst der Kirche von Heiligenfiguren bis Buchmalerei, dazu moderne Kunst der Sammlung Otto Mauer",
    "einzelausstellung_von": null,
    "anderer_ort": null,
    "eroeffnung": null,
    "kuenstler": [],
-   "url": "https://dommuseum.at/category/sammlungen_information",
-   "quelle": "https://dommuseum.at/dauerausstellung"
-  }
- ],
- "aussortiert": [
+   "url": "https://dommuseum.at/dauerausstellung",
+   "quelle": "https://dommuseum.at/dauerausstellung",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
   {
    "titel": "tierisch menschlich",
    "untertitel": null,
    "beginn": "2026-10-02",
    "ende": "2027-08-22",
    "art": "wechselausstellung",
-   "fachgebiet": "natur",
+   "fachgebiet": "bildende_kunst",
    "haus": "Dom Museum Wien",
    "rang": 2,
    "epoche": "gemischt",
    "gemeinfrei": false,
-   "schwerpunkt": "Beziehung zwischen Tier und Mensch in Skulptur, Grafik, Malerei, Fotografie, Video",
+   "schwerpunkt": "Beziehung zwischen Tier und Mensch in Skulptur, Grafik, Malerei, Fotografie und Video",
    "einzelausstellung_von": null,
    "anderer_ort": null,
    "eroeffnung": null,
    "kuenstler": [],
    "url": null,
    "quelle": "https://dommuseum.at/dauerausstellung",
-   "grund": "keine Kunst (natur)"
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

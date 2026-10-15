@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Get Intimate",
-   "untertitel": "",
+   "untertitel": "Margot Pilz, Janne Schipper",
    "beginn": "2026-09-11",
    "ende": "2026-10-23",
    "art": "wechselausstellung",
@@ -25,10 +25,10 @@
     "Margot Pilz",
     "Janne Schipper"
    ],
-   "eroeffnung": null,
-   "schwerpunkt": null,
    "anderer_ort": null,
+   "eroeffnung": null,
    "einzelausstellung_von": null,
+   "schwerpunkt": null,
    "url": "https://galerie3.com/exhibitions/get-intimate-a0d66582/",
    "quelle": "https://galerie3.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
@@ -39,7 +39,7 @@
  "aussortiert": [
   {
    "titel": "Mann beißt Hund",
-   "untertitel": "",
+   "untertitel": "GALERIE3 Klagenfurt",
    "beginn": "2026-09-26",
    "ende": "2026-11-14",
    "art": "wechselausstellung",
@@ -51,18 +51,18 @@
    "kuenstler": [
     "Leo Mayr"
    ],
-   "eroeffnung": null,
-   "schwerpunkt": null,
    "anderer_ort": "Klagenfurt",
+   "eroeffnung": null,
    "einzelausstellung_von": "Leo Mayr",
+   "schwerpunkt": null,
    "url": "https://galerie3.com/exhibitions/mann-beist-hund-b67ad094/",
    "quelle": "https://galerie3.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Klagenfurt"
   },
   {
    "titel": "Gunter Damisch",
-   "untertitel": "",
+   "untertitel": "GALERIE3 Klagenfurt | PLUS",
    "beginn": "2026-09-26",
    "ende": "2026-11-14",
    "art": "wechselausstellung",
@@ -74,16 +74,16 @@
    "kuenstler": [
     "Gunter Damisch"
    ],
+   "anderer_ort": "Klagenfurt",
    "eroeffnung": null,
-   "schwerpunkt": null,
-   "anderer_ort": "Klagenfurt | PLUS",
    "einzelausstellung_von": "Gunter Damisch",
+   "schwerpunkt": null,
    "url": "https://galerie3.com/exhibitions/62547faf/",
    "quelle": "https://galerie3.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Klagenfurt | PLUS"
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Klagenfurt"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

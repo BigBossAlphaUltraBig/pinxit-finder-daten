@@ -13,7 +13,7 @@
  "aussortiert": [
   {
    "titel": "Zwischen Screen und Material",
-   "untertitel": "*.sculptr",
+   "untertitel": ".sculptr",
    "beginn": "2026-06-06",
    "ende": "2026-10-04",
    "art": "wechselausstellung",
@@ -22,19 +22,19 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "einzelausstellung_von": null,
-   "eroeffnung": "2026-06-05",
+   "schwerpunkt": "Zeitgenössische Skulptur zwischen digitalen Technologien und physischem Material",
    "kuenstler": [
     "Fürer Nielsen",
     "Thomas Julier",
     "Lithic Alliance",
     "Mélodie Mousset"
    ],
-   "url": "https://www.stadt-zuerich.ch/atelierhermannhaller",
+   "eroeffnung": "2026-06-05",
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "url": "https://www.stadt-zuerich.ch/atelierhermannhaller#ausstellung",
    "quelle": "https://www.stadt-zuerich.ch/atelierhermannhaller",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
@@ -49,18 +49,18 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "einzelausstellung_von": null,
    "kuenstler": [
     "Fürer Nielsen",
     "Thomas Julier",
     "Lithic Alliance",
     "Mélodie Mousset"
    ],
+   "einzelausstellung_von": null,
    "eroeffnung": null,
    "anderer_ort": null,
    "url": "https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/05/wiedereroeffnung-atelier-hermann-haller-2026.html",
    "quelle": "https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/05/wiedereroeffnung-atelier-hermann-haller-2026.html",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
@@ -68,24 +68,24 @@
    "untertitel": "Zwischen Screen und Material",
    "beginn": "2026-06-06",
    "ende": "2026-10-04",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
+   "art": "veranstaltung",
+   "fachgebiet": "sonstiges",
    "haus": "Atelier Hermann Haller",
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "einzelausstellung_von": null,
    "kuenstler": [
     "volumes"
    ],
+   "einzelausstellung_von": null,
    "eroeffnung": null,
    "anderer_ort": null,
    "url": "https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/05/wiedereroeffnung-atelier-hermann-haller-2026.html",
    "quelle": "https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/05/wiedereroeffnung-atelier-hermann-haller-2026.html",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

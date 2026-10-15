@@ -22,6 +22,28 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [],
+   "url": "https://www.fkv.de/ausstellung/propaganda-flood-the-zone-with-shit-its-about-money-stupid/",
+   "eroeffnung": "2026-11-13T18:00",
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://www.fkv.de/exhibitions-current-preview/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Propaganda – Flooding the Zone with Shit – It’s About Money, Stupid!",
+   "untertitel": "Flooding the Zone with Shit – It's About Money, Stupid!",
+   "beginn": "2026-11-14",
+   "ende": "2027-03-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Frankfurter Kunstverein",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
    "kuenstler": [
     "Joshua Citarella",
     "Ganslmeier&Zibelnik",
@@ -29,12 +51,14 @@
     "Playfool",
     "Oguz Sen"
    ],
-   "anderer_ort": null,
-   "eroeffnung": "2026-11-13T18:00",
    "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": "2026-11-13",
    "url": "https://www.fkv.de/ausstellung/propaganda-flood-the-zone-with-shit-its-about-money-stupid/",
-   "quelle": "https://www.fkv.de/exhibitions-current-preview/",
-   "detail_geprueft": "2026-10-12"
+   "quelle": "https://www.fkv.de/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "And This Is Us 2027",
@@ -49,14 +73,17 @@
    "gemeinfrei": false,
    "schwerpunkt": null,
    "kuenstler": [],
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "einzelausstellung_von": null,
    "url": "https://www.fkv.de/ausstellung/and-this-is-us-2027-junge-kunst-aus-frankfurt/",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
    "quelle": "https://www.fkv.de/exhibitions-current-preview/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

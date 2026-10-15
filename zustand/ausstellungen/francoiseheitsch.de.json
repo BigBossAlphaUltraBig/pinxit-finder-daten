@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "3 HAMBURGER FRAUEN / DANCING BAREFOOT II",
-   "untertitel": null,
+   "untertitel": "",
    "beginn": "2026-09-17",
    "ende": "2026-11-13",
    "art": "wechselausstellung",
@@ -20,15 +20,15 @@
    "haus": "Françoise Heitsch",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
    "kuenstler": [
     "3 Hamburger Frauen"
    ],
-   "schwerpunkt": null,
    "url": "https://www.francoiseheitsch.de/exhibitions/3-hamburger-frauen-dancing-barefoot-ii",
-   "anderer_ort": null,
    "eroeffnung": null,
-   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "3 Hamburger Frauen",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
    "quelle": "https://www.francoiseheitsch.de/exhibitions",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -36,6 +36,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

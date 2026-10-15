@@ -14,9 +14,6 @@
   {
    "titel": "MOMENTAUFNAHMEN",
    "untertitel": "Neue Bilder 2021",
-   "kuenstler": [
-    "Inge Brandl"
-   ],
    "beginn": "2021-11-18",
    "ende": "2022-01-31",
    "art": "wechselausstellung",
@@ -26,14 +23,17 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [
+    "Inge Brandl"
+   ],
+   "url": "https://www.abc-westside-galerie.de/ausstellungen/aktuelle-ausstellung-4/",
    "eroeffnung": "2021-11-18T18:30",
    "einzelausstellung_von": "Inge Brandl",
    "anderer_ort": null,
-   "url": "https://www.abc-westside-galerie.de/ausstellungen/aktuelle-ausstellung-4/",
    "quelle": "https://www.abc-westside-galerie.de/ausstellungen/aktuelle-ausstellung-4/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

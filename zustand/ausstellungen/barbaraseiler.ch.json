@@ -13,7 +13,7 @@
  "aussortiert": [
   {
    "titel": "White Smoker",
-   "untertitel": "null",
+   "untertitel": "Sebastian Stöhrer's second solo exhibition at Barbara Seiler",
    "beginn": "2025-05-30",
    "ende": "2025-07-13",
    "art": "wechselausstellung",
@@ -21,19 +21,19 @@
    "haus": "Barbara Seiler Galerie",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
+   "einzelausstellung_von": "Sebastian Stöhrer",
    "kuenstler": [
     "Sebastian Stöhrer"
    ],
-   "einzelausstellung_von": "Sebastian Stöhrer",
+   "gemeinfrei": false,
    "eroeffnung": null,
-   "schwerpunkt": null,
    "anderer_ort": null,
    "url": "https://www.barbaraseiler.ch/exhibitions/sebastian-stohrer/",
+   "schwerpunkt": null,
    "quelle": "https://www.barbaraseiler.ch/exhibitions/sebastian-stohrer/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

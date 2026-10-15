@@ -21,14 +21,14 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "schwerpunkt": "Großformatige Malerei zu Mozart, kombiniert mit Klang, Video, Installation und Tanz",
+   "einzelausstellung_von": "Makis E. Warlamis",
    "kuenstler": [
     "Makis E. Warlamis"
    ],
-   "einzelausstellung_von": "Makis E. Warlamis",
+   "url": "https://daskunstmuseum.at/jahresausstellung/",
    "eroeffnung": null,
    "anderer_ort": null,
-   "url": "https://daskunstmuseum.at/jahresausstellung/",
    "quelle": "https://daskunstmuseum.at/jahresausstellung/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -38,7 +38,7 @@
  "aussortiert": [
   {
    "titel": "36 Farben",
-   "untertitel": "Überblick über ein Jahrzehnt künstlerischen Schaffens mit dem Material Filz",
+   "untertitel": "Don Ferguson – 36 Farben",
    "beginn": "2024-09-14",
    "ende": "2025-01-12",
    "art": "wechselausstellung",
@@ -56,10 +56,10 @@
    "eroeffnung": null,
    "url": "https://daskunstmuseum.at/don-ferguson-36-farben/",
    "quelle": "https://daskunstmuseum.at/don-ferguson-36-farben/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

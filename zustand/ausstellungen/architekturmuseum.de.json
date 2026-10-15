@@ -4,14 +4,38 @@
  "haeuser": "Architekturmuseum der TU München",
  "land": "DE",
  "ids": "nachtrag-architekturmuseum-der-tu-m-nchen",
- "status": "nur aussortierte",
+ "status": "ok",
  "seiten": [
-  "https://www.architekturmuseum.de/ausstellungen/convivium/"
+  "https://www.architekturmuseum.de/ausstellungen/convivium/",
+  "https://www.architekturmuseum.de/aktuell/"
  ],
- "ausstellungen": [],
+ "ausstellungen": [
+  {
+   "titel": "AIR CONDITIONED",
+   "untertitel": "Architektur zwischen Behaglichkeit und Klimawandel",
+   "beginn": "2026-11-19",
+   "ende": "2027-05-23",
+   "art": "wechselausstellung",
+   "fachgebiet": "architektur",
+   "haus": "Architekturmuseum der TU München",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "eroeffnung": "2026-11-18T19:00",
+   "gemeinfrei": false,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [],
+   "schwerpunkt": null,
+   "url": "https://www.architekturmuseum.de/ausstellungen/air-conditioned/",
+   "quelle": "https://www.architekturmuseum.de/aktuell/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  }
+ ],
  "aussortiert": [
   {
-   "titel": "Convivium",
+   "titel": "CONVIVIUM",
    "untertitel": "Nahrungssysteme am Limit",
    "beginn": "2026-04-23",
    "ende": "2026-10-18",
@@ -20,16 +44,18 @@
    "haus": "Architekturmuseum der TU München",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "eroeffnung": "2026-04-22T19:00",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "Pinakothek der Moderne",
-   "kuenstler": [],
    "einzelausstellung_von": null,
+   "anderer_ort": "Pinakothek der Moderne",
+   "eroeffnung": "2026-04-22T19:00",
+   "kuenstler": [],
    "url": "https://www.architekturmuseum.de/ausstellungen/convivium/",
    "quelle": "https://www.architekturmuseum.de/ausstellungen/convivium/",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Pinakothek der Moderne"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

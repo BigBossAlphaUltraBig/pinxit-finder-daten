@@ -21,13 +21,13 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
    "einzelausstellung_von": null,
    "kuenstler": [
     "Katharina Duwe",
     "Birgit Klerch"
    ],
-   "eroeffnung": "2026-09-30T17:30",
+   "eroeffnung": "2026-09-30",
+   "schwerpunkt": "",
    "url": "https://galerie1565.de/2026/08/26/common-grounds/",
    "anderer_ort": null,
    "quelle": "https://galerie1565.de/2026/08/26/common-grounds/",
@@ -37,6 +37,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

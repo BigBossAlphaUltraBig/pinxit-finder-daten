@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Vom Alltagszauber",
-   "untertitel": "Amnon David Ar und Kurt Mühlenhaupt - zwei Künstler, die einander nie begegnet sind und doch dieselbe Frage stellen: Wie malt man das Leben so, wie es ist?",
+   "untertitel": "Amnon David Ar und Kurt Mühlenhaupt",
    "beginn": "2026-09-11",
    "ende": "2027-01-10",
    "art": "wechselausstellung",
@@ -20,15 +20,15 @@
    "haus": "Kurt Mühlenhaupt Museum",
    "rang": 1,
    "epoche": "gemischt",
-   "einzelausstellung_von": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
    "kuenstler": [
     "Amnon David Ar",
     "Kurt Mühlenhaupt"
    ],
-   "eroeffnung": null,
-   "gemeinfrei": false,
-   "schwerpunkt": null,
    "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
    "url": "https://www.muehlenhaupt.de/museum/aktuelle-ausstellung",
    "quelle": "https://www.muehlenhaupt.de/museum/aktuelle-ausstellung",
    "eintritt": "Frei!",
@@ -38,7 +38,7 @@
   },
   {
    "titel": "Das Leben eines Multitalents",
-   "untertitel": "",
+   "untertitel": "Tauchen Sie ein in die Welt des Kurt Mühlenhaupt und lernen Sie einen außergewöhnlichen Künstler kennen",
    "beginn": null,
    "ende": null,
    "art": "dauerausstellung",
@@ -46,14 +46,14 @@
    "haus": "Kurt Mühlenhaupt Museum",
    "rang": 2,
    "epoche": "moderne",
-   "einzelausstellung_von": "Kurt Mühlenhaupt",
+   "gemeinfrei": false,
+   "schwerpunkt": "Leben und Werk des Künstlers Kurt Mühlenhaupt",
    "kuenstler": [
     "Kurt Mühlenhaupt"
    ],
-   "eroeffnung": null,
-   "gemeinfrei": false,
-   "schwerpunkt": "Leben und Werk des Künstlers Kurt Mühlenhaupt",
    "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Kurt Mühlenhaupt",
    "url": "https://www.muehlenhaupt.de/museum/dauerausstellung",
    "quelle": "https://www.muehlenhaupt.de/museum/aktuelle-ausstellung",
    "erstmals": "2026-10-12",
@@ -61,7 +61,7 @@
   },
   {
    "titel": "Mühlenhaupts Welt der kleinen Leute",
-   "untertitel": "",
+   "untertitel": null,
    "beginn": null,
    "ende": null,
    "art": "dauerausstellung",
@@ -69,14 +69,14 @@
    "haus": "Kurt Mühlenhaupt Museum",
    "rang": 3,
    "epoche": "moderne",
-   "einzelausstellung_von": null,
+   "gemeinfrei": false,
+   "schwerpunkt": "Kinderwerkstatt mit Werken von Kurt Mühlenhaupt für Kinder",
    "kuenstler": [
     "Kurt Mühlenhaupt"
    ],
-   "eroeffnung": null,
-   "gemeinfrei": false,
-   "schwerpunkt": "Kinderausstellung mit Werken Kurt Mühlenhaupts",
    "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
    "url": "https://www.muehlenhaupt.de/museum/kinderwerkstatt",
    "quelle": "https://www.muehlenhaupt.de/museum/aktuelle-ausstellung",
    "erstmals": "2026-10-12",
@@ -84,6 +84,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

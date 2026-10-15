@@ -6,36 +6,127 @@
  "ids": "node/6964786549",
  "status": "nur aussortierte",
  "seiten": [
-  "https://kullukcugregorian.com/aktuelles/",
-  "https://kullukcugregorian.com/"
+  "https://kullukcugregorian.com/aktuelles/"
  ],
  "ausstellungen": [],
  "aussortiert": [
   {
-   "titel": "Ankunftsschichten",
-   "untertitel": "Die Stadt als Instrument",
-   "beginn": "2026-06-18",
-   "ende": "2026-07-09",
-   "art": "unklar",
+   "titel": "Körper, die sprechen lernen I",
+   "untertitel": "Performance mit Video-, Bildprojektionen und Erzähltexten",
+   "beginn": "2026-11-05",
+   "ende": "2026-11-05",
+   "art": "veranstaltung",
    "fachgebiet": "sonstiges",
    "haus": "Galerie Kullukcu & Gregorian",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "einzelausstellung_von": null,
+   "schwerpunkt": "Ortsgebundene Erkundungsperformance zu kolonialer Geschichte und Wissenschaft",
    "kuenstler": [
-    "Bülent Kullukcu",
-    "Anton Kaun"
+    "Modupe Laja",
+    "Karnik Gregorian",
+    "Bülent Kullukcu"
    ],
-   "url": "https://kullukcugregorian.com/ankunftsschichten-die-stadt-als-instrument/",
+   "anderer_ort": "Pathologisches Institut München, Thalkirchener Str. 36",
+   "gemeinfrei": false,
+   "url": "https://maat-archiv.de/",
    "eroeffnung": null,
+   "quelle": "https://kullukcugregorian.com/aktuelles/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "Veranstaltung, keine Ausstellung"
+  },
+  {
+   "titel": "Neue Horizonte",
+   "untertitel": "Körper, die sprechen lernen I",
+   "beginn": "2026-11-05",
+   "ende": "2026-11-05",
+   "art": "veranstaltung",
+   "fachgebiet": "sonstiges",
+   "haus": "Galerie Kullukcu & Gregorian",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "schwerpunkt": "Ortsgebundene Erkundungsperformance im Münchner Stadtraum",
+   "kuenstler": [
+    "Karnik Gregorian",
+    "Bülent Kullukcu"
+   ],
+   "anderer_ort": "München (Treffpunkt Pathologisches Institut)",
+   "gemeinfrei": false,
+   "url": "https://maat-archiv.de/",
+   "eroeffnung": null,
+   "quelle": "https://kullukcugregorian.com/aktuelles/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "Veranstaltung, keine Ausstellung"
+  },
+  {
+   "titel": "Wie lange ist man Gast?",
+   "untertitel": "Lesung und Gespräch mit Özlem Özgül Dündar und Karnik Gregorian",
+   "beginn": "2026-11-24",
+   "ende": "2026-11-24",
+   "art": "veranstaltung",
+   "fachgebiet": "sonstiges",
+   "haus": "Galerie Kullukcu & Gregorian",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "schwerpunkt": "Lesung und Gespräch zu Migration",
+   "kuenstler": [
+    "Özlem Özgül Dündar",
+    "Karnik Gregorian"
+   ],
    "anderer_ort": null,
-   "quelle": "https://kullukcugregorian.com/",
+   "gemeinfrei": false,
+   "url": "https://www.muenchner-stadtbibliothek.de/veranstaltungen/details/wie-lange-bleibt-man-gast-45224",
+   "eroeffnung": "2026-11-24T19:00",
+   "quelle": "https://kullukcugregorian.com/aktuelles/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "Veranstaltung, keine Ausstellung"
+  },
+  {
+   "titel": "Fiktion und Zeitzeuginnenschaft: «TEUTONISTAN» im Dialog mit Berrin Önler-Sayan",
+   "untertitel": "Szenische Lesung und Gespräch",
+   "beginn": "2026-12-10",
+   "ende": "2026-12-10",
+   "art": "veranstaltung",
+   "fachgebiet": "sonstiges",
+   "haus": "Galerie Kullukcu & Gregorian",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "schwerpunkt": "Szenische Lesung und Zeitzeugengespräch zu Migrationsgeschichte",
+   "kuenstler": [
+    "Anne-Isabelle Zils",
+    "Bülent Kullukcu",
+    "Berrin Önler-Sayan"
+   ],
+   "anderer_ort": null,
+   "gemeinfrei": false,
+   "url": "https://www.muenchner-stadtbibliothek.de/veranstaltungen/details/fiktion-und-zeitzeuginnenschaft-45230",
+   "eroeffnung": null,
+   "quelle": "https://kullukcugregorian.com/aktuelles/",
    "eintritt": "frei",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet"
+   "detail_geprueft": "2026-10-15",
+   "grund": "Veranstaltung, keine Ausstellung"
+  },
+  {
+   "titel": "Die Gerichte meines Vaters",
+   "untertitel": "Filmabend mit anschließendem Gespräch und zwei Gerichten aus dem Dokumentarfilm",
+   "beginn": "2026-12-17",
+   "ende": "2026-12-17",
+   "art": "veranstaltung",
+   "fachgebiet": "sonstiges",
+   "haus": "Galerie Kullukcu & Gregorian",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "schwerpunkt": "Dokumentarfilm über Migrationsgeschichte und Kochen",
+   "kuenstler": [
+    "Karnik Gregorian"
+   ],
+   "anderer_ort": "VHS Taufkirchen, Ahornring 121, Raum 3.1, 82024 Taufkirchen",
+   "gemeinfrei": false,
+   "url": "https://www.vhs-taufkirchen.de/kurse/kurs/Die-Gerichte-meines-Vaters/262-21208",
+   "eroeffnung": null,
+   "quelle": "https://kullukcugregorian.com/aktuelles/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "Veranstaltung, keine Ausstellung"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

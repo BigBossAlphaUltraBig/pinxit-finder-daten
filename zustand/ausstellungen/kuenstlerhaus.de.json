@@ -11,6 +11,53 @@
  ],
  "ausstellungen": [
   {
+   "titel": "Grizedale Arts & Adam Sutherland: ()Print()",
+   "untertitel": "()Print()",
+   "beginn": "2026-05-22",
+   "ende": "2026-11-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Künstlerhaus Stuttgart",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Grizedale Arts",
+    "Adam Sutherland"
+   ],
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://kuenstlerhaus.de/#deep::print-2",
+   "quelle": "https://kuenstlerhaus.de/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Laughing While the House Is Burning",
+   "untertitel": null,
+   "beginn": "2026-10-10",
+   "ende": "2027-01-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Künstlerhaus Stuttgart",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://kuenstlerhaus.de/#deep::laughing-while-the-house-is-burning-2",
+   "quelle": "https://kuenstlerhaus.de/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
    "titel": "()Print()",
    "untertitel": "null",
    "beginn": "2026-05-22",
@@ -31,7 +78,8 @@
    "anderer_ort": null,
    "url": "https://kuenstlerhaus.de/#deep::print-2",
    "quelle": "https://kuenstlerhaus.de/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
   },
   {
    "titel": "-ATI: Laughing While the House Is Burning",
@@ -51,9 +99,11 @@
    "anderer_ort": null,
    "url": "https://kuenstlerhaus.de/#deep::laughing-while-the-house-is-burning-2",
    "quelle": "https://kuenstlerhaus.de/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 2
 }

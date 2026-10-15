@@ -13,7 +13,7 @@
  "aussortiert": [
   {
    "titel": "Sterling Ruby",
-   "untertitel": "Sammlung Goetz /Schaufenster",
+   "untertitel": "null",
    "beginn": "2026-07-16",
    "ende": "2026-10-24",
    "art": "wechselausstellung",
@@ -22,21 +22,21 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "schwerpunkt": "",
+   "anderer_ort": "Sammlung Goetz /Schaufenster",
+   "einzelausstellung_von": "Sterling Ruby",
+   "eroeffnung": null,
    "kuenstler": [
     "Sterling Ruby"
    ],
-   "einzelausstellung_von": "Sterling Ruby",
-   "anderer_ort": "Sammlung Goetz /Schaufenster, Pacellistraße 5, München",
-   "eroeffnung": null,
    "url": "https://www.sammlung-goetz.de/ausstellungen/sterling-ruby/",
    "quelle": "https://www.sammlung-goetz.de/ausstellungen/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Sammlung Goetz /Schaufenster, Pacellistraße 5, München"
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Sammlung Goetz /Schaufenster"
   },
   {
    "titel": "Jeff Wall",
-   "untertitel": "Leuchtkastenbilder aus den 1990er Jahren",
+   "untertitel": "null",
    "beginn": "2026-11-17",
    "ende": "2027-04-30",
    "art": "wechselausstellung",
@@ -45,18 +45,18 @@
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "schwerpunkt": "",
+   "anderer_ort": "Sammlung Goetz /Schaufenster",
+   "einzelausstellung_von": "Jeff Wall",
+   "eroeffnung": null,
    "kuenstler": [
     "Jeff Wall"
    ],
-   "einzelausstellung_von": "Jeff Wall",
-   "anderer_ort": "Sammlung Goetz /Schaufenster, Pacellistraße 5, München",
-   "eroeffnung": null,
    "url": "https://www.sammlung-goetz.de/ausstellungen/jeff-wall/",
    "quelle": "https://www.sammlung-goetz.de/ausstellungen/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Sammlung Goetz /Schaufenster, Pacellistraße 5, München"
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Sammlung Goetz /Schaufenster"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

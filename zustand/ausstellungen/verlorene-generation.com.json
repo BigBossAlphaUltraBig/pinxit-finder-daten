@@ -21,14 +21,16 @@
    "rang": 1,
    "epoche": "gemischt",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "schwerpunkt": "Individuelle Schicksale, verborgene Geschichten und künstlerische Neuentdeckungen",
    "kuenstler": [],
-   "anderer_ort": null,
+   "url": "https://verlorene-generation.com/ausstellung/die-verlorene-generation/",
    "eroeffnung": null,
    "einzelausstellung_von": null,
-   "url": "https://verlorene-generation.com/ihr-besuch/",
+   "anderer_ort": null,
    "quelle": "https://verlorene-generation.com/ihr-besuch/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Akt immer nackt",
@@ -40,14 +42,16 @@
    "haus": "Museum Kunst der Verlorenen Generation",
    "rang": 2,
    "epoche": "unklar",
-   "gemeinfrei": false,
    "schwerpunkt": null,
+   "url": "https://verlorene-generation.com/ausstellung/akt-immer-nackt/",
    "kuenstler": [],
+   "gemeinfrei": false,
    "anderer_ort": null,
    "eroeffnung": null,
-   "url": "https://verlorene-generation.com/ausstellung/akt-immer-nackt/",
    "quelle": "https://verlorene-generation.com/ausstellung/die-verlorene-generation/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Wünsche hinter dem Vorhang",
@@ -65,9 +69,11 @@
    "anderer_ort": null,
    "eroeffnung": null,
    "url": null,
-   "quelle": "https://verlorene-generation.com/ausstellung/die-verlorene-generation/"
+   "quelle": "https://verlorene-generation.com/ausstellung/die-verlorene-generation/",
+   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 1
 }

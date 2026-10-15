@@ -19,9 +19,12 @@
    "fachgebiet": "bildende_kunst",
    "haus": "Meyer Kainer",
    "rang": 1,
-   "epoche": "gemischt",
+   "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
    "kuenstler": [
     "Rebecca Ackroyd",
     "Anonymous",
@@ -50,8 +53,6 @@
     "Franz West",
     "Heimo Zobernig"
    ],
-   "eroeffnung": null,
-   "anderer_ort": null,
    "url": "https://meyerkainer.com/exhibition/side-by-side-curated-by-andreas-reiter-raabe-rebecca-ackroyd-anonymous-hany-armanious-korakrit-arunanondchai-gernot-bubenik-john-currin-tacita-dean-gelatin-ronagorn-kerdchot-emily-kam/",
    "quelle": "https://meyerkainer.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
@@ -60,6 +61,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

@@ -11,8 +11,8 @@
  ],
  "ausstellungen": [
   {
-   "titel": "Like Another Time, in the Same Place",
-   "untertitel": null,
+   "titel": "LIKE ANOTHER TIME, IN THE SAME PLACE",
+   "untertitel": "ZHANG PEILI, ALFREDO JAAR & DAVID HORVITZ",
    "beginn": "2026-09-10",
    "ende": "2026-10-17",
    "art": "wechselausstellung",
@@ -27,18 +27,19 @@
     "Alfredo Jaar",
     "David Horvitz"
    ],
-   "einzelausstellung_von": null,
-   "eroeffnung": null,
    "anderer_ort": null,
    "url": "https://hua-international.com/exhibitions/67-like-another-time-in-the-same-place-zhang-peili-alfredo-jaar-david-horvitz/",
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
    "quelle": "https://hua-international.com/exhibitions/current/",
    "detail_geprueft": "2026-10-12",
+   "standort": "HUA INTERNATIONAL",
    "erstmals": "2026-10-12",
    "verpasst": 0
   },
   {
-   "titel": "Alva",
-   "untertitel": null,
+   "titel": "ALVA",
+   "untertitel": "BERNARDO LIU",
    "beginn": "2026-09-10",
    "ende": "2026-10-17",
    "art": "wechselausstellung",
@@ -51,17 +52,18 @@
    "kuenstler": [
     "Bernardo Liu"
    ],
-   "einzelausstellung_von": "Bernardo Liu",
-   "eroeffnung": null,
    "anderer_ort": null,
    "url": "https://hua-international.com/exhibitions/69-alva-bernardo-liu/",
+   "eroeffnung": null,
+   "einzelausstellung_von": "Bernardo Liu",
    "quelle": "https://hua-international.com/exhibitions/current/",
    "detail_geprueft": "2026-10-12",
+   "standort": "HUA INTERNATIONAL",
    "erstmals": "2026-10-12",
    "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

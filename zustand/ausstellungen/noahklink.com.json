@@ -4,18 +4,17 @@
  "haeuser": "Galerie Noah Klink",
  "land": "DE",
  "ids": "node/3632389516",
- "status": "nur aussortierte",
+ "status": "ok",
  "seiten": [
   "http://noahklink.com/exhibitions",
-  "http://noahklink.com/artists/irina-jasnowski-pascual"
+  "http://noahklink.com/exhibitions/surface"
  ],
- "ausstellungen": [],
- "aussortiert": [
+ "ausstellungen": [
   {
-   "titel": "Source",
+   "titel": "Surface",
    "untertitel": "Source",
    "beginn": "2026-09-10",
-   "ende": "2026-10-10",
+   "ende": "2026-11-08",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Galerie Noah Klink",
@@ -26,37 +25,17 @@
    "kuenstler": [
     "Xavier Robles de Medina"
    ],
-   "einzelausstellung_von": "Xavier Robles de Medina",
-   "eroeffnung": null,
-   "anderer_ort": null,
    "url": "http://noahklink.com/exhibitions/surface",
-   "quelle": "http://noahklink.com/exhibitions",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet"
-  },
-  {
-   "titel": "Forms of the Unseen: Art and Invisibility from the 1960s to Today",
-   "untertitel": "Art and Invisibility from the 1960s to Today",
-   "beginn": "2026-01-01",
-   "ende": null,
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Galerie Noah Klink",
-   "rang": 1,
-   "epoche": "gemischt",
-   "gemeinfrei": false,
-   "anderer_ort": "TheMerode Brussels, BE",
-   "kuenstler": [
-    "Irina Jasnowski Pascual"
-   ],
    "eroeffnung": null,
-   "schwerpunkt": null,
-   "url": "http://noahklink.com/artists/irina-jasnowski-pascual/forms-of-the-unseen-art-and-invisibility-from-the-1960s-to-today",
-   "einzelausstellung_von": null,
-   "quelle": "http://noahklink.com/artists/irina-jasnowski-pascual",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: TheMerode Brussels, BE"
+   "einzelausstellung_von": "Xavier Robles de Medina",
+   "anderer_ort": null,
+   "quelle": "http://noahklink.com/exhibitions",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

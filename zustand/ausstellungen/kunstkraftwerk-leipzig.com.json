@@ -7,7 +7,7 @@
  "status": "ok",
  "seiten": [
   "https://www.kunstkraftwerk-leipzig.com/exhibitions/der-kleine-prinz-auf-reisen/",
-  "https://www.kunstkraftwerk-leipzig.com/exhibitions/art-move-activate/"
+  "https://www.kunstkraftwerk-leipzig.com/exhibitions/voltage/"
  ],
  "ausstellungen": [
   {
@@ -19,41 +19,50 @@
    "fachgebiet": "medienkunst",
    "haus": "Kunstkraftwerk",
    "rang": 1,
-   "epoche": "gemischt",
+   "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "schwerpunkt": "Multimediale Projektionen zu Saint-Exupérys Klassiker und seinem Leben",
    "kuenstler": [
     "Antoine de Saint-Exupéry"
    ],
    "eroeffnung": null,
+   "einzelausstellung_von": null,
    "anderer_ort": null,
    "url": "https://www.kunstkraftwerk-leipzig.com/exhibitions/der-kleine-prinz-auf-reisen/",
    "quelle": "https://www.kunstkraftwerk-leipzig.com/exhibitions/der-kleine-prinz-auf-reisen/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
   {
-   "titel": "Art. Move. Activate.",
-   "untertitel": "Wo Wohlbefinden auf digitale Kunst trifft",
-   "beginn": null,
-   "ende": null,
+   "titel": "Volt[age]",
+   "untertitel": "Ein immersives Ballett zwischen Mensch und Technologie",
+   "beginn": "2026-10-20",
+   "ende": "2026-10-21",
    "art": "veranstaltung",
-   "fachgebiet": "sonstiges",
+   "fachgebiet": "medienkunst",
    "haus": "Kunstkraftwerk",
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "url": "https://www.kunstkraftwerk-leipzig.com/exhibitions/art-move-activate/",
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "kuenstler": [],
+   "schwerpunkt": "Immersives Ballett mit interaktiven Projektionen und Motion-Tracking",
    "einzelausstellung_von": null,
-   "quelle": "https://www.kunstkraftwerk-leipzig.com/exhibitions/art-move-activate/",
-   "detail_geprueft": "2026-10-12",
+   "kuenstler": [
+    "Nicolas Landrieux",
+    "Mirko Mahr",
+    "Sara Brandao",
+    "Lolita Valau"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.kunstkraftwerk-leipzig.com/exhibitions/voltage/",
+   "quelle": "https://www.kunstkraftwerk-leipzig.com/exhibitions/voltage/",
+   "detail_geprueft": "2026-10-15",
    "grund": "Veranstaltung, keine Ausstellung"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

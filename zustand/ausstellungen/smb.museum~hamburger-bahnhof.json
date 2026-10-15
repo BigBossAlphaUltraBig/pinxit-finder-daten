@@ -6,7 +6,8 @@
  "ids": "nachtrag-hamburger-bahnhof-nationalgalerie-der-gegenwart",
  "status": "ok",
  "seiten": [
-  "https://www.smb.museum/ausstellungen/aktuell/"
+  "https://www.smb.museum/ausstellungen/aktuell/",
+  "https://www.smb.museum/museen-einrichtungen/hamburger-bahnhof/ausstellungen/aktuell/"
  ],
  "ausstellungen": [
   {
@@ -19,11 +20,8 @@
    "haus": "Hamburger Bahnhof – Nationalgalerie der Gegenwart",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "schwerpunkt": null,
    "gemeinfrei": false,
-   "einzelausstellung_von": null,
-   "anderer_ort": null,
-   "eroeffnung": null,
+   "schwerpunkt": null,
    "kuenstler": [
     "Tacita Dean",
     "Thomas Demand",
@@ -31,12 +29,18 @@
     "Henrik Håkansson",
     "Tomás Saraceno"
    ],
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
    "url": "https://www.smb.museum/ausstellungen/detail/next-door/",
-   "quelle": "https://www.smb.museum/ausstellungen/aktuell/"
+   "quelle": "https://www.smb.museum/ausstellungen/aktuell/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
-   "titel": "seeing sound, hearing time",
-   "untertitel": null,
+   "titel": "Ryuichi Sakamoto",
+   "untertitel": "seeing sound, hearing time",
    "beginn": "2026-09-11",
    "ende": "2027-06-20",
    "art": "wechselausstellung",
@@ -44,16 +48,43 @@
    "haus": "Hamburger Bahnhof – Nationalgalerie der Gegenwart",
    "rang": 2,
    "epoche": "zeitgenoessisch",
-   "schwerpunkt": null,
    "gemeinfrei": false,
-   "einzelausstellung_von": "Ryuichi Sakamoto",
-   "anderer_ort": null,
-   "eroeffnung": null,
+   "schwerpunkt": null,
    "kuenstler": [
     "Ryuichi Sakamoto"
    ],
+   "anderer_ort": null,
+   "einzelausstellung_von": "Ryuichi Sakamoto",
+   "eroeffnung": null,
    "url": "https://www.smb.museum/ausstellungen/detail/ryuichi-sakamoto/",
-   "quelle": "https://www.smb.museum/ausstellungen/aktuell/"
+   "quelle": "https://www.smb.museum/ausstellungen/aktuell/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "seeing sound, hearing time",
+   "untertitel": "seeing sound, hearing time",
+   "beginn": "2026-09-11",
+   "ende": "2027-06-20",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Hamburger Bahnhof – Nationalgalerie der Gegenwart",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Ryuichi Sakamoto"
+   ],
+   "einzelausstellung_von": "Ryuichi Sakamoto",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.smb.museum/museen-einrichtungen/hamburger-bahnhof/ausstellungen/detail/ryuichi-sakamoto/",
+   "quelle": "https://www.smb.museum/museen-einrichtungen/hamburger-bahnhof/ausstellungen/aktuell/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "[ materialistin ]",
@@ -65,14 +96,40 @@
    "haus": "Hamburger Bahnhof – Nationalgalerie der Gegenwart",
    "rang": 3,
    "epoche": "zeitgenoessisch",
-   "schwerpunkt": null,
    "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "url": null,
+   "quelle": "https://www.smb.museum/ausstellungen/aktuell/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Matter of Care, Care of Matter",
+   "untertitel": "[ materialistin ]",
+   "beginn": "2026-07-03",
+   "ende": "2027-03-14",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Hamburger Bahnhof – Nationalgalerie der Gegenwart",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Cemile Sahin"
+   ],
    "einzelausstellung_von": null,
    "anderer_ort": null,
    "eroeffnung": null,
-   "kuenstler": [],
-   "url": null,
-   "quelle": "https://www.smb.museum/ausstellungen/aktuell/"
+   "url": "https://www.smb.museum/museen-einrichtungen/hamburger-bahnhof/ausstellungen/detail/materialistin/",
+   "quelle": "https://www.smb.museum/museen-einrichtungen/hamburger-bahnhof/ausstellungen/aktuell/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Tausendmal Berlin",
@@ -84,14 +141,16 @@
    "haus": "Hamburger Bahnhof – Nationalgalerie der Gegenwart",
    "rang": 4,
    "epoche": "zeitgenoessisch",
-   "schwerpunkt": "Sammlung zeitgenössischer Kunst, Berlin-Bezüge",
    "gemeinfrei": false,
-   "einzelausstellung_von": null,
-   "anderer_ort": null,
-   "eroeffnung": null,
+   "schwerpunkt": "Sammlung zeitgenössischer Kunst mit Bezug zu Berlin",
    "kuenstler": [],
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
    "url": null,
-   "quelle": "https://www.smb.museum/ausstellungen/aktuell/"
+   "quelle": "https://www.smb.museum/ausstellungen/aktuell/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "CHANEL Commission: Lina Lapelytė",
@@ -103,16 +162,42 @@
    "haus": "Hamburger Bahnhof – Nationalgalerie der Gegenwart",
    "rang": 5,
    "epoche": "zeitgenoessisch",
-   "schwerpunkt": null,
    "gemeinfrei": false,
-   "einzelausstellung_von": "Lina Lapelytė",
-   "anderer_ort": null,
-   "eroeffnung": null,
+   "schwerpunkt": null,
    "kuenstler": [
     "Lina Lapelytė"
    ],
+   "anderer_ort": null,
+   "einzelausstellung_von": "Lina Lapelytė",
+   "eroeffnung": null,
    "url": null,
-   "quelle": "https://www.smb.museum/ausstellungen/aktuell/"
+   "quelle": "https://www.smb.museum/ausstellungen/aktuell/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "We Make Years Out of Hours",
+   "untertitel": "CHANEL Commission",
+   "beginn": "2026-05-01",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Hamburger Bahnhof – Nationalgalerie der Gegenwart",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Lina Lapelytė"
+   ],
+   "einzelausstellung_von": "Lina Lapelytė",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.smb.museum/museen-einrichtungen/hamburger-bahnhof/ausstellungen/detail/chanel-commission-lina-lapelyte-we-make-years-out-of-hours/",
+   "quelle": "https://www.smb.museum/museen-einrichtungen/hamburger-bahnhof/ausstellungen/aktuell/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Shilpa Gupta",
@@ -124,16 +209,42 @@
    "haus": "Hamburger Bahnhof – Nationalgalerie der Gegenwart",
    "rang": 6,
    "epoche": "zeitgenoessisch",
-   "schwerpunkt": null,
    "gemeinfrei": false,
-   "einzelausstellung_von": "Shilpa Gupta",
-   "anderer_ort": null,
-   "eroeffnung": null,
+   "schwerpunkt": null,
    "kuenstler": [
     "Shilpa Gupta"
    ],
+   "anderer_ort": null,
+   "einzelausstellung_von": "Shilpa Gupta",
+   "eroeffnung": null,
    "url": null,
-   "quelle": "https://www.smb.museum/ausstellungen/aktuell/"
+   "quelle": "https://www.smb.museum/ausstellungen/aktuell/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "What Still Holds",
+   "untertitel": "What Still Holds",
+   "beginn": "2026-03-27",
+   "ende": "2027-01-03",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Hamburger Bahnhof – Nationalgalerie der Gegenwart",
+   "rang": 6,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Shilpa Gupta"
+   ],
+   "einzelausstellung_von": "Shilpa Gupta",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "url": "https://www.smb.museum/museen-einrichtungen/hamburger-bahnhof/ausstellungen/detail/shilpa-gupta/",
+   "quelle": "https://www.smb.museum/museen-einrichtungen/hamburger-bahnhof/ausstellungen/aktuell/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Joseph Beuys",
@@ -144,21 +255,22 @@
    "fachgebiet": "bildende_kunst",
    "haus": "Hamburger Bahnhof – Nationalgalerie der Gegenwart",
    "rang": 7,
-   "epoche": "moderne",
-   "schwerpunkt": "Werke von Joseph Beuys aus der Nationalgalerie",
+   "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "einzelausstellung_von": "Joseph Beuys",
-   "anderer_ort": null,
-   "eroeffnung": null,
+   "schwerpunkt": "Werke von Joseph Beuys aus der Nationalgalerie-Sammlung",
    "kuenstler": [
     "Joseph Beuys"
    ],
+   "anderer_ort": null,
+   "einzelausstellung_von": "Joseph Beuys",
+   "eroeffnung": null,
    "url": null,
-   "quelle": "https://www.smb.museum/ausstellungen/aktuell/"
+   "quelle": "https://www.smb.museum/ausstellungen/aktuell/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Unendliche Ausstellung",
-   "untertitel": null,
    "beginn": "2023-06-16",
    "ende": null,
    "art": "sammlungspraesentation",
@@ -166,18 +278,19 @@
    "haus": "Hamburger Bahnhof – Nationalgalerie der Gegenwart",
    "rang": 8,
    "epoche": "zeitgenoessisch",
-   "schwerpunkt": "Dauerausstellung zeitgenössischer Kunst aus der Sammlung",
    "gemeinfrei": false,
-   "einzelausstellung_von": null,
-   "anderer_ort": null,
-   "eroeffnung": null,
+   "schwerpunkt": "Zeitgenössische Sammlungswerke im Hamburger Bahnhof",
    "kuenstler": [],
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
    "url": null,
-   "quelle": "https://www.smb.museum/ausstellungen/aktuell/"
+   "quelle": "https://www.smb.museum/ausstellungen/aktuell/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Forum Hamburger Bahnhof",
-   "untertitel": null,
    "beginn": "2023-06-16",
    "ende": null,
    "art": "unklar",
@@ -185,16 +298,19 @@
    "haus": "Hamburger Bahnhof – Nationalgalerie der Gegenwart",
    "rang": 9,
    "epoche": "zeitgenoessisch",
-   "schwerpunkt": null,
    "gemeinfrei": false,
-   "einzelausstellung_von": null,
-   "anderer_ort": null,
-   "eroeffnung": null,
+   "schwerpunkt": null,
    "kuenstler": [],
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
    "url": null,
-   "quelle": "https://www.smb.museum/ausstellungen/aktuell/"
+   "quelle": "https://www.smb.museum/ausstellungen/aktuell/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

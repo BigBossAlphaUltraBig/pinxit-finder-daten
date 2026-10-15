@@ -19,10 +19,8 @@
    "fachgebiet": "bildende_kunst",
    "haus": "Bucerius Kunst Forum",
    "rang": 1,
-   "epoche": "moderne",
-   "gemeinfrei": true,
-   "schwerpunkt": null,
-   "eroeffnung": null,
+   "epoche": "gemischt",
+   "schwerpunkt": "Kunstsammlungen deutscher Jüdinnen und Juden vor 1945",
    "kuenstler": [
     "Paul Cezanne",
     "Lovis Corinth",
@@ -35,13 +33,17 @@
     "Milly Steeger"
    ],
    "url": "https://www.buceriuskunstforum.de/ausstellungen/von-monet-bis-picasso-juedische-kunstsammlerinnen-in-deutschland",
+   "eroeffnung": null,
    "anderer_ort": null,
+   "gemeinfrei": false,
+   "einzelausstellung_von": null,
    "quelle": "https://www.buceriuskunstforum.de/ausstellungen",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
-   "titel": "Better Together",
-   "untertitel": "Von Cranachs Werkstatt bis zu den Guerrilla Girls",
+   "titel": "Better Together. Von Cranachs Werkstatt bis zu den Guerrilla Girls",
    "beginn": "2027-04-30",
    "ende": "2027-08-29",
    "art": "wechselausstellung",
@@ -49,16 +51,50 @@
    "haus": "Bucerius Kunst Forum",
    "rang": 2,
    "epoche": "gemischt",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "eroeffnung": null,
+   "schwerpunkt": "Zusammenarbeit in der Kunst, von Werkstätten bis Protestkunst",
    "kuenstler": [],
    "url": "https://www.buceriuskunstforum.de/ausstellungen/better-together-von-cranachs-werkstatt-bis-zu-den-guerrilla-girls",
+   "eroeffnung": null,
    "anderer_ort": null,
+   "gemeinfrei": false,
+   "einzelausstellung_von": null,
    "quelle": "https://www.buceriuskunstforum.de/ausstellungen",
-   "detail_geprueft": "2026-10-12"
+   "untertitel": "Von Cranachs Werkstatt bis zu den Guerrilla Girls",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
- "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "aussortiert": [
+  {
+   "titel": "Führung",
+   "untertitel": "Durch die Ausstellung: Jüdische Kunstsammler:innen in Deutschland",
+   "beginn": "2026-10-15",
+   "ende": "2026-10-15",
+   "art": "veranstaltung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Bucerius Kunst Forum",
+   "rang": 2,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "url": "https://www.buceriuskunstforum.de/veranstaltungen/durch-die-ausstellung-juedische-kunstsammlerinnen-in-deutschland",
+   "kuenstler": [
+    "Paul Cezanne",
+    "Claude Monet",
+    "Paula Modersohn-Becker",
+    "Ernst Ludwig Kirchner",
+    "Max Pechstein",
+    "Pablo Picasso"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "quelle": "https://www.buceriuskunstforum.de/ausstellungen/von-monet-bis-picasso-juedische-kunstsammlerinnen-in-deutschland",
+   "detail_geprueft": "2026-10-15",
+   "grund": "Veranstaltung, keine Ausstellung"
+  }
+ ],
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

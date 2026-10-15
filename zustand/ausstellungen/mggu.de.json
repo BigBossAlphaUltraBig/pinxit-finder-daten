@@ -21,47 +21,50 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "schwerpunkt": "Dialog zwischen Malerei und Literatur",
    "anderer_ort": null,
-   "eroeffnung": null,
    "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "url": "https://www.mggu.de/ausstellungen/einst-war-ich-aelter/",
    "kuenstler": [
     "Johannes Heisig",
     "Wolfgang Hilbig"
    ],
-   "url": "https://www.mggu.de/ausstellungen/einst-war-ich-aelter/",
    "quelle": "https://www.mggu.de/ausstellungen/",
    "eintritt": "Pay what you want",
-   "detail_geprueft": "2026-10-12"
-  }
- ],
- "aussortiert": [
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
   {
    "titel": "DEEP FIELD",
    "untertitel": "Die Vermessung des Unvorstellbaren",
    "beginn": "2026-11-06",
    "ende": "2027-05-30",
    "art": "wechselausstellung",
-   "fachgebiet": "sonstiges",
+   "fachgebiet": "bildende_kunst",
    "haus": "Museum Giersch",
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "schwerpunkt": "",
    "anderer_ort": null,
-   "eroeffnung": null,
    "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "url": "https://www.mggu.de/ausstellungen/deep-field/",
    "kuenstler": [
     "Katie Paterson",
     "Armin Linke",
     "Nina Caviezel",
     "Estelle Blaschke"
    ],
-   "url": "https://www.mggu.de/ausstellungen/deep-field/",
    "quelle": "https://www.mggu.de/ausstellungen/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "keine Kunst (sonstiges)"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

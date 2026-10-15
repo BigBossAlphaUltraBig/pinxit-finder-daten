@@ -11,26 +11,29 @@
  "ausstellungen": [
   {
    "titel": "Offene Stadt",
-   "untertitel": "Begehbare Treppenskulptur",
+   "untertitel": "Begehbare Treppenskulptur von Thomas Moecker",
    "beginn": null,
    "ende": null,
-   "art": "dauerausstellung",
+   "art": "sammlungspraesentation",
    "fachgebiet": "bildende_kunst",
    "haus": "GRASSI Museum für Angewandte Kunst Leipzig",
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": "Begehbare Treppenskulptur mit Ausblick über die Dächer des Museums",
-   "einzelausstellung_von": "Thomas Moecker",
+   "schwerpunkt": "Begehbare Treppenskulptur mit Ausblick über die Dächer der Innenstadt",
    "kuenstler": [
     "Thomas Moecker"
    ],
+   "url": "https://grassi-leipzig.de/",
+   "einzelausstellung_von": null,
    "anderer_ort": null,
    "eroeffnung": null,
-   "url": "https://grassi-leipzig.de/",
-   "quelle": "https://grassi-leipzig.de/"
+   "quelle": "https://grassi-leipzig.de/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

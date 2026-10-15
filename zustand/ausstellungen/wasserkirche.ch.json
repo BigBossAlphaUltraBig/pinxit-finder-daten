@@ -17,7 +17,7 @@
     "Mickry 3"
    ],
    "beginn": "2026-09-01",
-   "ende": "2026-12-09",
+   "ende": "2027-01-15",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Wasserkirche",
@@ -30,11 +30,13 @@
    "einzelausstellung_von": "Mickry 3",
    "url": "https://reformiert-zuerich.ch/kirchgemeinde/kirchen/johanneskirche/kunst/aktuelle-ausstellung/",
    "quelle": "https://reformiert-zuerich.ch/kirchgemeinde/kirchen/johanneskirche/kunst/aktuelle-ausstellung/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Palliative Care – Bilder einer Realität",
-   "untertitel": "Bilder einer Realität",
+   "untertitel": "",
    "beginn": "2026-10-24",
    "ende": "2026-11-01",
    "art": "wechselausstellung",
@@ -48,13 +50,16 @@
     "Gaëtan Bally"
    ],
    "eroeffnung": "2026-10-22T18:00",
-   "anderer_ort": null,
    "einzelausstellung_von": "Gaëtan Bally",
+   "anderer_ort": null,
    "url": "https://reformiert-zuerich.ch/event/palliative-care-bilder-einer-realitat-14358",
    "quelle": "https://reformiert-zuerich.ch/event/palliative-care-bilder-einer-realitat-14358",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

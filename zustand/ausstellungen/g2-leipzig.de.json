@@ -25,16 +25,18 @@
    "kuenstler": [
     "David Schnell"
    ],
+   "eroeffnung": "2026-10-15T17:00",
    "einzelausstellung_von": "David Schnell",
    "anderer_ort": null,
-   "eroeffnung": "2026-10-15",
    "url": "http://g2-leipzig.de/ausstellungen/david-schnell-vertigo",
    "quelle": "http://g2-leipzig.de/ausstellungen",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "SEIFEN, IN BLÜTE",
-   "untertitel": "G2 Schaulager #47",
+   "untertitel": null,
    "beginn": "2026-09-04",
    "ende": "2026-12-06",
    "art": "wechselausstellung",
@@ -47,12 +49,14 @@
    "kuenstler": [
     "Maja Behrmann"
    ],
+   "eroeffnung": "2026-09-03T17:00",
    "einzelausstellung_von": "Maja Behrmann",
    "anderer_ort": null,
-   "eroeffnung": "2026-09-03T17:00",
    "url": "http://g2-leipzig.de/ausstellungen/maja-behrmann-seifen-in-bluete",
    "quelle": "http://g2-leipzig.de/ausstellungen",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
@@ -67,18 +71,19 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
+   "schwerpunkt": null,
    "kuenstler": [
     "Jeanette Mundt"
    ],
    "einzelausstellung_von": "Jeanette Mundt",
    "eroeffnung": "2026-06-11",
    "url": "http://g2-leipzig.de/de/ausstellungen/jeanette-mundt-public-and-beyond-judgment",
-   "schwerpunkt": null,
    "anderer_ort": null,
    "quelle": "http://g2-leipzig.de/ausstellungen/jeanette-mundt-public-and-beyond-judgment",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

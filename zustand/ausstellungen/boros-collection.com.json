@@ -20,7 +20,8 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": "Zeitgenössische internationale Kunst seit 1990 aus der Sammlung Boros",
+   "schwerpunkt": "Zeitgenössische Kunst internationaler Künstler seit 1990",
+   "url": "https://boros-collection.com/en/2021-2026",
    "kuenstler": [
     "Tomma Abts",
     "Lorenzo Amos",
@@ -50,13 +51,14 @@
     "Sung Tieu",
     "Paloma Varga Weisz"
    ],
-   "url": "https://boros-collection.com/en/2021-2026",
+   "eroeffnung": null,
+   "anderer_ort": null,
    "quelle": "https://boros-collection.com/en/",
    "erstmals": "2026-10-12",
    "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

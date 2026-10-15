@@ -11,7 +11,7 @@
  "ausstellungen": [
   {
    "titel": "Gemäldegalerie Alte Meister und Skulpturensammlung bis 1800",
-   "untertitel": "Weltberühmte Meisterwerke",
+   "untertitel": "",
    "beginn": null,
    "ende": null,
    "art": "dauerausstellung",
@@ -20,12 +20,15 @@
    "rang": 1,
    "epoche": "alte_meister",
    "gemeinfrei": true,
-   "schwerpunkt": "Europäische Malerei und Skulptur von der Renaissance bis zum Barock",
+   "schwerpunkt": "Europäische Malerei und Skulptur vom 15. bis 18. Jahrhundert, Raffaels Sixtinische Madonna",
    "kuenstler": [],
-   "url": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/",
    "anderer_ort": null,
    "eroeffnung": null,
-   "quelle": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/"
+   "einzelausstellung_von": null,
+   "url": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/",
+   "quelle": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Antikenhalle",
@@ -43,7 +46,8 @@
    "url": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/#c19750",
    "anderer_ort": null,
    "eroeffnung": null,
-   "quelle": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/"
+   "quelle": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/",
+   "verpasst": 1
   },
   {
    "titel": "Abguss-Sammlung von Anton Raphael Mengs",
@@ -63,7 +67,8 @@
    "url": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/#c21243",
    "anderer_ort": null,
    "eroeffnung": null,
-   "quelle": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/"
+   "quelle": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/",
+   "verpasst": 1
   },
   {
    "titel": "Skulpturengang",
@@ -81,7 +86,8 @@
    "url": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/#c21244",
    "anderer_ort": null,
    "eroeffnung": null,
-   "quelle": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/"
+   "quelle": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/",
+   "verpasst": 1
   },
   {
    "titel": "Correggio. Berührend menschlich",
@@ -101,9 +107,11 @@
    "url": null,
    "anderer_ort": null,
    "eroeffnung": null,
-   "quelle": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/"
+   "quelle": "https://gemaeldegalerie.skd.museum/ausstellungen/gemaeldegalerie-alte-meister-und-skulpturensammlung-bis-1800/",
+   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 4
 }

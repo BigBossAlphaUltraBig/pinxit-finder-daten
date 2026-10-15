@@ -22,12 +22,12 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
    "kuenstler": [
     "Julia Wachtel"
    ],
    "einzelausstellung_von": "Julia Wachtel",
-   "eroeffnung": null,
-   "anderer_ort": null,
    "url": "https://www.klemms-berlin.com/exhibitions/return-to-content-a-b/",
    "quelle": "https://www.klemms-berlin.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
@@ -46,13 +46,13 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
    "kuenstler": [
     "Mia Gap",
     "Freja Sofie Kirk"
    ],
    "einzelausstellung_von": null,
-   "eroeffnung": null,
-   "anderer_ort": null,
    "url": "https://www.klemms-berlin.com/exhibitions/tracks-taps/",
    "quelle": "https://www.klemms-berlin.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
@@ -71,12 +71,12 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
    "kuenstler": [
     "Ulrich Gebert"
    ],
    "einzelausstellung_von": "Ulrich Gebert",
-   "eroeffnung": null,
-   "anderer_ort": null,
    "url": "https://www.klemms-berlin.com/exhibitions/poltergeist-presence/",
    "quelle": "https://www.klemms-berlin.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
@@ -95,12 +95,12 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": "2026-10-30",
+   "anderer_ort": null,
    "kuenstler": [
     "Johannes Raimann"
    ],
    "einzelausstellung_von": "Johannes Raimann",
-   "eroeffnung": "2026-10-30",
-   "anderer_ort": null,
    "url": "https://www.klemms-berlin.com/exhibitions/oje-oje/",
    "quelle": "https://www.klemms-berlin.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
@@ -109,6 +109,29 @@
   }
  ],
  "aussortiert": [
+  {
+   "titel": "40's - part I/II",
+   "untertitel": "Part I/II",
+   "beginn": "2026-06-12",
+   "ende": "2026-07-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Klemm's",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "kuenstler": [
+    "Fiona Mackay"
+   ],
+   "einzelausstellung_von": "Fiona Mackay",
+   "url": "https://www.klemms-berlin.com/exhibitions/40s/",
+   "quelle": "https://www.klemms-berlin.com/exhibitions/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
+  },
   {
    "titel": "Unfolding",
    "untertitel": "null",
@@ -121,16 +144,16 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": null,
    "kuenstler": [],
    "anderer_ort": null,
    "einzelausstellung_von": null,
-   "eroeffnung": null,
    "url": "https://www.klemms-berlin.com/exhibitions/18430/",
    "quelle": "https://www.klemms-berlin.com/artists/alexej-meschtschanow/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

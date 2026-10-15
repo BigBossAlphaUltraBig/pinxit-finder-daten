@@ -13,9 +13,6 @@
   {
    "titel": "Sunset Sour",
    "untertitel": "null",
-   "kuenstler": [
-    "Anne Morgenstern"
-   ],
    "beginn": null,
    "ende": "2026-10-31",
    "art": "wechselausstellung",
@@ -26,16 +23,19 @@
    "gemeinfrei": false,
    "schwerpunkt": null,
    "einzelausstellung_von": "Anne Morgenstern",
+   "kuenstler": [
+    "Anne Morgenstern"
+   ],
    "anderer_ort": null,
    "eroeffnung": null,
    "url": "https://www.lullinferrari.com/de/aktuell",
    "quelle": "https://www.lullinferrari.com/de/aktuell/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "erstmals": "2026-10-12",
    "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

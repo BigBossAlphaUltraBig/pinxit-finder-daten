@@ -13,7 +13,7 @@
  "aussortiert": [
   {
    "titel": "Eyelids, towards Night",
-   "untertitel": "null",
+   "untertitel": "Eyelids, towards Night",
    "beginn": "2026-06-12",
    "ende": "2026-08-15",
    "art": "wechselausstellung",
@@ -22,18 +22,41 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "eroeffnung": "2026-06-11",
-   "einzelausstellung_von": "David Weishaar",
    "kuenstler": [
     "David Weishaar"
    ],
+   "einzelausstellung_von": "David Weishaar",
+   "eroeffnung": "2026-06-11",
    "anderer_ort": null,
+   "schwerpunkt": null,
    "url": "https://www.flatmarkus.com/david-weishaar-eyelids-towards-night",
    "quelle": "https://www.flatmarkus.com/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
+  },
+  {
+   "titel": "Gioele Corradengo",
+   "untertitel": "Text by Philip Neuberger",
+   "beginn": "2023-06-09",
+   "ende": "2023-07-21",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "flatmarkus",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2023-06-09",
+   "einzelausstellung_von": "Gioele Corradengo",
+   "kuenstler": [
+    "Gioele Corradengo"
+   ],
+   "anderer_ort": null,
+   "url": "https://www.flatmarkus.com/kopie-von-current",
+   "quelle": "https://www.flatmarkus.com/kopie-von-current",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

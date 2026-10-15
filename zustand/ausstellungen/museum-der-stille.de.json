@@ -14,49 +14,26 @@
    "untertitel": null,
    "beginn": null,
    "ende": null,
-   "art": "sammlungspraesentation",
+   "art": "dauerausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Museum der Stille",
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": "Dauerausstellung der Gemälde Nikolai Makarovs zur Stille und Kontemplation",
-   "einzelausstellung_von": "Nikolai Makarov",
+   "schwerpunkt": "Meditative Großgemälde von Nikolai Makarov in stiller Architektur",
    "kuenstler": [
     "Nikolai Makarov"
    ],
-   "anderer_ort": null,
+   "einzelausstellung_von": "Nikolai Makarov",
    "eroeffnung": null,
+   "anderer_ort": null,
    "url": "http://museum-der-stille.de/#museum",
    "quelle": "http://museum-der-stille.de/de/",
    "erstmals": "2026-10-12",
    "verpasst": 0
   }
  ],
- "aussortiert": [
-  {
-   "titel": "GULAG Gedenkraum",
-   "untertitel": null,
-   "beginn": null,
-   "ende": null,
-   "art": "dauerausstellung",
-   "fachgebiet": "geschichte",
-   "haus": "Museum der Stille",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": "Gedenkraum für die Opfer des Stalinismus, mit Torf gestaltet",
-   "einzelausstellung_von": "Nikolai Makarov",
-   "kuenstler": [
-    "Nikolai Makarov"
-   ],
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "url": null,
-   "quelle": "http://museum-der-stille.de/de/",
-   "grund": "keine Kunst (geschichte)"
-  }
- ],
- "abgerufen": "2026-10-12T06:55:52",
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

@@ -4,11 +4,32 @@
  "haeuser": "Fälschermuseum Wien",
  "land": "AT",
  "ids": "Q1459712",
- "status": "keine Ausstellungen gefunden",
+ "status": "nur aussortierte",
  "seiten": [
   "https://www.faelschermuseum.com/"
  ],
  "ausstellungen": [],
- "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "aussortiert": [
+  {
+   "titel": "Fälschermuseum Wien – Dauerausstellung",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "sonstiges",
+   "haus": "Fälschermuseum Wien",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": "Berühmte Kunstfälscher und ihre spektakulären Kriminalgeschichten",
+   "kuenstler": [],
+   "url": "https://www.faelschermuseum.com/sammlung/",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://www.faelschermuseum.com/",
+   "grund": "keine Kunst (sonstiges)"
+  }
+ ],
+ "abgerufen": "2026-10-15T07:25:20"
 }

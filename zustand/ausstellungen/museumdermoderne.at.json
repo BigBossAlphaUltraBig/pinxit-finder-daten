@@ -25,12 +25,14 @@
    "kuenstler": [
     "Georg Baselitz"
    ],
+   "einzelausstellung_von": "Georg Baselitz",
    "anderer_ort": null,
    "eroeffnung": null,
-   "einzelausstellung_von": "Georg Baselitz",
    "url": "https://www.museumdermoderne.at/ausstellungen/detail/baselitz-jetzt/",
    "quelle": "https://www.museumdermoderne.at/ausstellungen",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Stano Filko. 12 Chakras of Becoming",
@@ -41,18 +43,20 @@
    "fachgebiet": "bildende_kunst",
    "haus": "Museum der Moderne Salzburg",
    "rang": 2,
-   "epoche": "moderne",
+   "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
    "kuenstler": [
     "Stano Filko"
    ],
+   "einzelausstellung_von": "Stano Filko",
    "anderer_ort": null,
    "eroeffnung": null,
-   "einzelausstellung_von": "Stano Filko",
    "url": "https://www.museumdermoderne.at/ausstellungen/detail/stano-filko/",
    "quelle": "https://www.museumdermoderne.at/ausstellungen",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Neugier im Fluss",
@@ -65,41 +69,37 @@
    "rang": 3,
    "epoche": "gemischt",
    "gemeinfrei": false,
-   "schwerpunkt": "Salzburger Kunst zwischen Aufbruch und Erinnerung",
+   "schwerpunkt": "Salzburger Kunst aus der Sammlung",
    "kuenstler": [],
+   "einzelausstellung_von": null,
    "anderer_ort": null,
    "eroeffnung": null,
-   "einzelausstellung_von": null,
    "url": "https://www.museumdermoderne.at/ausstellungen/detail/neugier-im-fluss-salzburger-kunst-zwischen-aufbruch-und-erinnerung/",
-   "quelle": "https://www.museumdermoderne.at/ausstellungen"
+   "quelle": "https://www.museumdermoderne.at/ausstellungen",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
   {
    "titel": "Lese- und Medienlounge",
-   "untertitel": "Lese- und Medienlounge im Rupertinum",
-   "beginn": "2026-07-03",
+   "untertitel": null,
+   "beginn": null,
    "ende": "2027-05-30",
-   "art": "unklar",
-   "fachgebiet": "medienkunst",
+   "art": "dauerausstellung",
+   "fachgebiet": "sonstiges",
    "haus": "Museum der Moderne Salzburg",
    "rang": 4,
-   "epoche": "gemischt",
+   "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "Franz West",
-    "Marcus Geiger",
-    "Peter Kogler",
-    "Heimo Zobernig"
-   ],
-   "anderer_ort": "Altstadt (Rupertinum)",
-   "eroeffnung": null,
+   "schwerpunkt": "Künstlerbücher, Videos und Lesematerial",
+   "kuenstler": [],
    "einzelausstellung_von": null,
+   "anderer_ort": "Rupertinum",
+   "eroeffnung": null,
    "url": "https://www.museumdermoderne.at/ausstellungen/detail/lese-und-medienlounge/",
    "quelle": "https://www.museumdermoderne.at/ausstellungen",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Altstadt (Rupertinum)"
+   "grund": "keine Kunst (sonstiges)"
   },
   {
    "titel": "Ernst Caramelle. Denkfiguren",
@@ -107,7 +107,7 @@
    "beginn": "2026-07-03",
    "ende": "2027-05-30",
    "art": "wechselausstellung",
-   "fachgebiet": "medienkunst",
+   "fachgebiet": "bildende_kunst",
    "haus": "Museum der Moderne Salzburg",
    "rang": 5,
    "epoche": "zeitgenoessisch",
@@ -116,14 +116,15 @@
    "kuenstler": [
     "Ernst Caramelle"
    ],
-   "anderer_ort": "Generali Foundation Studienzentrum, Altstadt (Rupertinum)",
-   "eroeffnung": null,
    "einzelausstellung_von": "Ernst Caramelle",
+   "anderer_ort": "Generali Foundation Studienzentrum, Rupertinum",
+   "eroeffnung": null,
    "url": "https://www.museumdermoderne.at/ausstellungen/detail/ernst-caramelle-kuenstlerbuecher-video-landschaften-lese-und-medienlounge/",
    "quelle": "https://www.museumdermoderne.at/ausstellungen",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Generali Foundation Studienzentrum, Altstadt (Rupertinum)"
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Generali Foundation Studienzentrum, Rupertinum"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

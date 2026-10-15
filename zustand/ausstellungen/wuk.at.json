@@ -7,12 +7,21 @@
  "status": "ok",
  "seiten": [
   "https://www.wuk.at/programm/",
-  "https://www.wuk.at/programm/baba-zula-2026/"
+  "https://www.wuk.at/programm/lisa-hinterreithner-many-in-a-bed/"
  ],
  "ausstellungen": [
   {
-   "titel": "ON CHEWING SHOELACES",
-   "untertitel": "ART, MESS AND RADICAL KINSHIP",
+   "titel": "On Chewing Shoelaces: Art, Mess and Radical Kinship",
+   "untertitel": "Was, wenn Mess – das Durcheinander – die Methode ist?",
+   "beginn": "2026-09-17",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthalle Exnergasse",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "einzelausstellung_von": null,
    "kuenstler": [
     "Liesel Burisch",
     "Club Fortuna",
@@ -22,30 +31,20 @@
     "Sarah Sternat",
     "HOOD dreamers"
    ],
-   "beginn": "2026-09-17",
-   "ende": "2026-10-24",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Kunsthalle Exnergasse",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
    "anderer_ort": null,
    "url": "https://www.wuk.at/programm/on-chewing-shoelaces-art-mess-and-radical-kinship/",
    "eroeffnung": "2026-09-16T15:00",
-   "einzelausstellung_von": null,
+   "schwerpunkt": null,
    "quelle": "https://www.wuk.at/programm/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
   {
-   "titel": "HANNES GRÖBLACHER - RÜCKRUFAKTION",
+   "titel": "Hannes Gröblacher - Rückrufaktion",
    "untertitel": "Eine interaktive Soundinstallation",
-   "kuenstler": [
-    "Hannes Gröblacher"
-   ],
    "beginn": "2026-09-23",
    "ende": "2026-11-06",
    "art": "wechselausstellung",
@@ -54,70 +53,70 @@
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "einzelausstellung_von": "Hannes Gröblacher",
+   "kuenstler": [
+    "Hannes Gröblacher"
+   ],
    "anderer_ort": "Kunstzelle im Hof",
    "url": "https://www.wuk.at/programm/hannes-groeblacher-rueckrufaktion/",
    "eroeffnung": "2026-09-23T19:00",
-   "einzelausstellung_von": "Hannes Gröblacher",
+   "schwerpunkt": null,
    "quelle": "https://www.wuk.at/programm/",
    "eintritt": "Eintritt frei",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Kunstzelle im Hof"
   },
   {
-   "titel": "GRAUES RAUSCHEN",
+   "titel": "Graues Rauschen",
    "untertitel": "Fotoausstellung von Julius Werner Chromecek, Daniela Zeilinger und Bastian Hackl-Schwind",
+   "beginn": "2026-10-17",
+   "ende": "2026-10-18",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Kunsthalle Exnergasse",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "einzelausstellung_von": null,
    "kuenstler": [
     "Julius Werner Chromecek",
     "Daniela Zeilinger",
     "Bastian Hackl-Schwind"
    ],
-   "beginn": "2026-10-17",
-   "ende": "2026-10-18",
+   "anderer_ort": "WSB Plenarraum",
+   "url": "https://www.wuk.at/programm/graues-rauschen/",
+   "eroeffnung": null,
+   "schwerpunkt": null,
+   "quelle": "https://www.wuk.at/programm/",
+   "eintritt": "frei",
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: WSB Plenarraum"
+  },
+  {
+   "titel": "Werkschau XXXI: Gabriele Rothemann",
+   "untertitel": "Fotografische und medienreflexive Arbeiten",
+   "beginn": "2026-10-19",
+   "ende": "2026-11-21",
    "art": "wechselausstellung",
    "fachgebiet": "fotografie",
    "haus": "Kunsthalle Exnergasse",
    "rang": 3,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": "WSB Plenarraum",
-   "url": "https://www.wuk.at/programm/graues-rauschen/",
-   "eroeffnung": null,
-   "einzelausstellung_von": null,
-   "quelle": "https://www.wuk.at/programm/",
-   "eintritt": "Eintritt frei",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: WSB Plenarraum"
-  },
-  {
-   "titel": "TRIGGER HAPPY",
-   "untertitel": "Open Stage Experiment zur Reiz-Reaktion-Mechanik",
+   "einzelausstellung_von": "Gabriele Rothemann",
    "kuenstler": [
-    "Olivier Hölzl",
-    "Julia Fromm",
-    "Sebastian Pflügelmeier",
-    "Daria Savytska",
-    "Jakob Liu Wächter de Zordo"
+    "Gabriele Rothemann"
    ],
-   "beginn": "2026-10-13",
-   "ende": "2026-10-13",
-   "art": "veranstaltung",
-   "fachgebiet": "medienkunst",
-   "haus": "Kunsthalle Exnergasse",
-   "rang": 4,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
+   "anderer_ort": "Fotogalerie Wien",
+   "url": "https://www.wuk.at/programm/werkschau-xxxi-gabriele-rothemann/",
+   "eroeffnung": "2026-10-19T19:00",
    "schwerpunkt": null,
-   "anderer_ort": "WSB-Studio",
-   "url": "https://www.wuk.at/programm/trigger-happy/",
-   "eroeffnung": null,
-   "einzelausstellung_von": null,
    "quelle": "https://www.wuk.at/programm/",
    "eintritt": "Eintritt frei",
-   "detail_geprueft": "2026-10-12",
-   "grund": "Veranstaltung, keine Ausstellung"
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Fotogalerie Wien"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

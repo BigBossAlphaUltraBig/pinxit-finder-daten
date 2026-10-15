@@ -12,7 +12,7 @@
  "aussortiert": [
   {
    "titel": "Soli Beitrag",
-   "untertitel": "Installation zur Ausstellung „BILDRÄUME DER SOLIDARITÄT“, Villa Heike Kunstverein",
+   "untertitel": "Installation zur Ausstellung „BILDRÄUME DER SOLIDARITÄT“ in der Villa Heike Kunstverein, Berlin",
    "beginn": null,
    "ende": null,
    "art": "wechselausstellung",
@@ -21,35 +21,35 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "schwerpunkt": "",
+   "kuenstler": [],
    "anderer_ort": "Villa Heike Kunstverein, Freienwalder Str. 17, 13055 Berlin",
    "einzelausstellung_von": null,
-   "url": null,
-   "kuenstler": [],
    "eroeffnung": null,
+   "url": null,
    "quelle": "https://untergrundmuseum.de/",
    "grund": "anderer Ort: Villa Heike Kunstverein, Freienwalder Str. 17, 13055 Berlin"
   },
   {
-   "titel": "Untergrundmuseum – Kunst- & Wunderkammer",
-   "untertitel": "begehbare Suchmaschine",
+   "titel": "Untergrundmuseum Kunst- & Wunderkammer – begehbare Suchmaschine",
+   "untertitel": "Der Grund für den Untergrund – liegt unter Oberflächen",
    "beginn": null,
    "ende": null,
    "art": "dauerausstellung",
    "fachgebiet": "geschichte",
    "haus": "U144 Untergrundmuseum",
    "rang": 2,
-   "epoche": "zeitgenoessisch",
+   "epoche": "gemischt",
    "gemeinfrei": false,
-   "schwerpunkt": "Berliner Industrie- und Zeitgeschichte in Fundstücken, Geschichten und Themenräumen",
+   "schwerpunkt": "Industrie- und Stadtgeschichte Berlin Mitte, Fundstücke aus über 50 Betrieben",
+   "kuenstler": [],
    "anderer_ort": null,
    "einzelausstellung_von": null,
-   "url": "https://untergrundmuseum.de/ueber-u144-das-untergrundmuseum/",
-   "kuenstler": [],
    "eroeffnung": null,
+   "url": "https://untergrundmuseum.de/",
    "quelle": "https://untergrundmuseum.de/",
    "grund": "keine Kunst (geschichte)"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

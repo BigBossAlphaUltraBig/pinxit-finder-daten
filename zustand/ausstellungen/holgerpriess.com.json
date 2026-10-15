@@ -11,7 +11,7 @@
  "ausstellungen": [
   {
    "titel": "Stephan Balkenhol",
-   "untertitel": null,
+   "untertitel": "null",
    "beginn": null,
    "ende": null,
    "art": "unklar",
@@ -25,16 +25,17 @@
    "kuenstler": [
     "Stephan Balkenhol"
    ],
-   "eroeffnung": null,
    "anderer_ort": null,
-   "url": null,
+   "eroeffnung": null,
+   "url": "https://holgerpriess.com/exhibitions",
    "quelle": "https://holgerpriess.com/exhibitions/",
+   "detail_geprueft": "2026-10-15",
    "erstmals": "2026-10-12",
    "verpasst": 0
   },
   {
-   "titel": "Slawomir Elsner und Peter Rösel",
-   "untertitel": null,
+   "titel": "Slawomir Elsner",
+   "untertitel": "Peter Rösel",
    "beginn": null,
    "ende": null,
    "art": "unklar",
@@ -49,16 +50,16 @@
     "Slawomir Elsner",
     "Peter Rösel"
    ],
-   "eroeffnung": null,
    "anderer_ort": null,
+   "eroeffnung": null,
    "url": "https://holgerpriess.com/pdf/elsner-roesel_2025kl.pdf",
    "quelle": "https://holgerpriess.com/exhibitions/",
-   "erstmals": "2026-10-12",
+   "erstmals": "2026-10-15",
    "verpasst": 0
   },
   {
    "titel": "Synonym",
-   "untertitel": null,
+   "untertitel": "",
    "beginn": null,
    "ende": null,
    "art": "unklar",
@@ -72,8 +73,8 @@
    "kuenstler": [
     "Olav Christopher Jenssen"
    ],
-   "eroeffnung": null,
    "anderer_ort": null,
+   "eroeffnung": null,
    "url": "https://holgerpriess.com/pdf/olav-christopher-jenssen_synonym-2025m.pdf",
    "quelle": "https://holgerpriess.com/exhibitions/",
    "erstmals": "2026-10-12",
@@ -81,7 +82,7 @@
   },
   {
    "titel": "Ich soll dich schön grüßen",
-   "untertitel": null,
+   "untertitel": "",
    "beginn": null,
    "ende": null,
    "art": "unklar",
@@ -95,8 +96,8 @@
    "kuenstler": [
     "Martin Assig"
    ],
-   "eroeffnung": null,
    "anderer_ort": null,
+   "eroeffnung": null,
    "url": "https://holgerpriess.com/pdf/martin-assig_240929opm.pdf",
    "quelle": "https://holgerpriess.com/exhibitions/",
    "erstmals": "2026-10-12",
@@ -104,7 +105,7 @@
   },
   {
    "titel": "Parade",
-   "untertitel": null,
+   "untertitel": "",
    "beginn": null,
    "ende": null,
    "art": "unklar",
@@ -118,8 +119,8 @@
    "kuenstler": [
     "Claudia Pegel"
    ],
-   "eroeffnung": null,
    "anderer_ort": null,
+   "eroeffnung": null,
    "url": null,
    "quelle": "https://holgerpriess.com/exhibitions/",
    "erstmals": "2026-10-12",
@@ -127,7 +128,7 @@
   },
   {
    "titel": "leaf the logic",
-   "untertitel": null,
+   "untertitel": "",
    "beginn": null,
    "ende": null,
    "art": "unklar",
@@ -141,8 +142,8 @@
    "kuenstler": [
     "Nina Kluth"
    ],
-   "eroeffnung": null,
    "anderer_ort": null,
+   "eroeffnung": null,
    "url": null,
    "quelle": "https://holgerpriess.com/exhibitions/",
    "erstmals": "2026-10-12",
@@ -150,11 +151,11 @@
   },
   {
    "titel": "Time Loops",
-   "untertitel": null,
+   "untertitel": "",
    "beginn": null,
    "ende": null,
    "art": "unklar",
-   "fachgebiet": "bildende_kunst",
+   "fachgebiet": "fotografie",
    "haus": "Holger Priess Galerie",
    "rang": 7,
    "epoche": "zeitgenoessisch",
@@ -164,8 +165,8 @@
    "kuenstler": [
     "Anett Stuth"
    ],
-   "eroeffnung": null,
    "anderer_ort": null,
+   "eroeffnung": null,
    "url": null,
    "quelle": "https://holgerpriess.com/exhibitions/",
    "erstmals": "2026-10-12",
@@ -173,7 +174,7 @@
   },
   {
    "titel": "Park und Porträts",
-   "untertitel": null,
+   "untertitel": "",
    "beginn": null,
    "ende": null,
    "art": "unklar",
@@ -187,8 +188,8 @@
    "kuenstler": [
     "Caroline von Grone"
    ],
-   "eroeffnung": null,
    "anderer_ort": null,
+   "eroeffnung": null,
    "url": null,
    "quelle": "https://holgerpriess.com/exhibitions/",
    "erstmals": "2026-10-12",
@@ -196,11 +197,11 @@
   },
   {
    "titel": "Please ask me if you have any questions",
-   "untertitel": null,
+   "untertitel": "",
    "beginn": null,
    "ende": null,
    "art": "unklar",
-   "fachgebiet": "bildende_kunst",
+   "fachgebiet": "fotografie",
    "haus": "Holger Priess Galerie",
    "rang": 9,
    "epoche": "zeitgenoessisch",
@@ -210,184 +211,15 @@
    "kuenstler": [
     "Tatsuya Sugimoto"
    ],
-   "eroeffnung": null,
    "anderer_ort": null,
+   "eroeffnung": null,
    "url": null,
    "quelle": "https://holgerpriess.com/exhibitions/",
    "erstmals": "2026-10-12",
    "verpasst": 0
-  },
-  {
-   "titel": "Slawomir Elsner\nPeter Rösel",
-   "untertitel": null,
-   "beginn": null,
-   "ende": null,
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Holger Priess Galerie",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Slawomir Elsner",
-    "Peter Rösel"
-   ],
-   "einzelausstellung_von": null,
-   "gemeinfrei": false,
-   "url": "https://holgerpriess.com/pdf/elsner-roesel_2025kl.pdf",
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "quelle": "https://holgerpriess.com/exhibitions/",
-   "verpasst": 1
-  },
-  {
-   "titel": "Olav Christopher Jenssen\nSynonym",
-   "untertitel": "Synonym",
-   "beginn": null,
-   "ende": null,
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Holger Priess Galerie",
-   "rang": 3,
-   "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Olav Christopher Jenssen"
-   ],
-   "einzelausstellung_von": "Olav Christopher Jenssen",
-   "gemeinfrei": false,
-   "url": "https://holgerpriess.com/pdf/olav-christopher-jenssen_synonym-2025m.pdf",
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "quelle": "https://holgerpriess.com/exhibitions/",
-   "verpasst": 1
-  },
-  {
-   "titel": "Martin Assig\nIch soll dich schön grüßen",
-   "untertitel": "Ich soll dich schön grüßen",
-   "beginn": null,
-   "ende": null,
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Holger Priess Galerie",
-   "rang": 4,
-   "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Martin Assig"
-   ],
-   "einzelausstellung_von": "Martin Assig",
-   "gemeinfrei": false,
-   "url": "https://holgerpriess.com/pdf/martin-assig_240929opm.pdf",
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "quelle": "https://holgerpriess.com/exhibitions/",
-   "verpasst": 1
-  },
-  {
-   "titel": "Claudia Pegel\nParade",
-   "untertitel": "Parade",
-   "beginn": null,
-   "ende": null,
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Holger Priess Galerie",
-   "rang": 5,
-   "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Claudia Pegel"
-   ],
-   "einzelausstellung_von": "Claudia Pegel",
-   "gemeinfrei": false,
-   "url": null,
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "quelle": "https://holgerpriess.com/exhibitions/",
-   "verpasst": 1
-  },
-  {
-   "titel": "Nina Kluth\nleaf the logic",
-   "untertitel": "leaf the logic",
-   "beginn": null,
-   "ende": null,
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Holger Priess Galerie",
-   "rang": 6,
-   "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Nina Kluth"
-   ],
-   "einzelausstellung_von": "Nina Kluth",
-   "gemeinfrei": false,
-   "url": null,
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "quelle": "https://holgerpriess.com/exhibitions/",
-   "verpasst": 1
-  },
-  {
-   "titel": "Anett Stuth\nTime Loops",
-   "untertitel": "Time Loops",
-   "beginn": null,
-   "ende": null,
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Holger Priess Galerie",
-   "rang": 7,
-   "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Anett Stuth"
-   ],
-   "einzelausstellung_von": "Anett Stuth",
-   "gemeinfrei": false,
-   "url": null,
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "quelle": "https://holgerpriess.com/exhibitions/",
-   "verpasst": 1
-  },
-  {
-   "titel": "Caroline von Grone\nPark und Porträts",
-   "untertitel": "Park und Porträts",
-   "beginn": null,
-   "ende": null,
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Holger Priess Galerie",
-   "rang": 8,
-   "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Caroline von Grone"
-   ],
-   "einzelausstellung_von": "Caroline von Grone",
-   "gemeinfrei": false,
-   "url": null,
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "quelle": "https://holgerpriess.com/exhibitions/",
-   "verpasst": 1
-  },
-  {
-   "titel": "Tatsuya Sugimoto\nPlease ask me if you have any questions",
-   "untertitel": "Please ask me if you have any questions",
-   "beginn": null,
-   "ende": null,
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Holger Priess Galerie",
-   "rang": 9,
-   "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Tatsuya Sugimoto"
-   ],
-   "einzelausstellung_von": "Tatsuya Sugimoto",
-   "gemeinfrei": false,
-   "url": null,
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "quelle": "https://holgerpriess.com/exhibitions/",
-   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 8
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

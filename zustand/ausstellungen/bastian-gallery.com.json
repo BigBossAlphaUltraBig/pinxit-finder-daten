@@ -12,7 +12,10 @@
  "ausstellungen": [
   {
    "titel": "Crosstown",
-   "untertitel": "Crosstown",
+   "untertitel": null,
+   "kuenstler": [
+    "Robert Rauschenberg"
+   ],
    "beginn": "2026-09-11",
    "ende": "2026-11-21",
    "art": "wechselausstellung",
@@ -21,14 +24,11 @@
    "rang": 1,
    "epoche": "moderne",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "Robert Rauschenberg"
-   ],
-   "einzelausstellung_von": "Robert Rauschenberg",
-   "anderer_ort": null,
    "eroeffnung": "2026-09-10T18:00",
+   "anderer_ort": null,
+   "einzelausstellung_von": "Robert Rauschenberg",
    "url": "https://www.bastian-gallery.com/ausstellungen/robert-rauschenberg-crosstown/",
+   "schwerpunkt": null,
    "quelle": "https://www.bastian-gallery.com/ausstellungen/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -60,6 +60,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

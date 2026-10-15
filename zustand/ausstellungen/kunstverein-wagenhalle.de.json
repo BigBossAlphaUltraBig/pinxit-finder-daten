@@ -4,33 +4,79 @@
  "haeuser": "Kunstverein Wagenhalle",
  "land": "DE",
  "ids": "node/11513816863",
- "status": "nur aussortierte",
+ "status": "ok",
  "seiten": [
   "https://kunstverein-wagenhalle.de/events/"
  ],
- "ausstellungen": [],
+ "ausstellungen": [
+  {
+   "titel": "Glitchy Networks",
+   "untertitel": "Streichquartett, Elektronik und interaktive LED-Lichtinstallation als audiovisuelles Netzwerk",
+   "beginn": "2026-10-21",
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Kunstverein Wagenhalle",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "eroeffnung": "2026-10-21T19:30",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Marta Haladzhun"
+   ],
+   "anderer_ort": null,
+   "url": "https://kunstverein-wagenhalle.de/events/glitchy-networks/",
+   "quelle": "https://kunstverein-wagenhalle.de/events/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "INSOMNIA",
+   "untertitel": "Maschinen schlafen nie",
+   "beginn": "2026-11-13",
+   "ende": "2026-11-28",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunstverein Wagenhalle",
+   "rang": 7,
+   "epoche": "zeitgenoessisch",
+   "eroeffnung": "2026-11-13T19:00",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "YouTransfer"
+   ],
+   "anderer_ort": null,
+   "url": "https://kunstverein-wagenhalle.de/events/insomnia/",
+   "quelle": "https://kunstverein-wagenhalle.de/events/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  }
+ ],
  "aussortiert": [
   {
    "titel": "ROHKUNSTBAU",
    "untertitel": "Die Kunst des Überschreitens",
-   "beginn": "2026-06-13",
-   "ende": "2026-11-01",
+   "beginn": "2026-07-18",
+   "ende": "2026-10-17",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Kunstverein Wagenhalle",
    "rang": 1,
    "epoche": "zeitgenoessisch",
+   "eroeffnung": null,
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "Schloss Altdöbern",
-   "einzelausstellung_von": "Jörg Mandernach",
    "kuenstler": [
     "Jörg Mandernach"
    ],
-   "eroeffnung": null,
+   "anderer_ort": "Schloss Altdöbern",
    "url": "https://kunstverein-wagenhalle.de/events/31-rohkunstbau-die-kunst-des-ueberschreitens-joerg-mandernach/",
    "quelle": "https://kunstverein-wagenhalle.de/events/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Schloss Altdöbern"
   },
   {
@@ -43,69 +89,44 @@
    "haus": "Kunstverein Wagenhalle",
    "rang": 2,
    "epoche": "zeitgenoessisch",
+   "eroeffnung": null,
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "Mühlerama, Zürich",
-   "einzelausstellung_von": "Gabriela Oberkofler",
    "kuenstler": [
     "Gabriela Oberkofler"
    ],
-   "eroeffnung": null,
+   "anderer_ort": "Mühlerama, Zürich",
    "url": "https://kunstverein-wagenhalle.de/events/winzige-giganten-die-macht-der-mikroorganismen-gabriela-oberkofler/",
    "quelle": "https://kunstverein-wagenhalle.de/events/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "keine Kunst (natur)"
   },
   {
    "titel": "VOLLFORMAT",
-   "untertitel": "Ein ganzes Gebäude in Stuttgart-West wird zur begehbaren Gruppenausstellung",
-   "beginn": "2026-07-18",
+   "untertitel": "Studio Vierkant (PFFFESTIVAL)",
+   "beginn": "2026-07-23",
    "ende": "2026-10-17",
-   "art": "wechselausstellung",
+   "art": "messe_markt",
    "fachgebiet": "bildende_kunst",
    "haus": "Kunstverein Wagenhalle",
    "rang": 3,
    "epoche": "zeitgenoessisch",
+   "eroeffnung": "2026-07-18T17:00",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "Johannesstraße 47b, Stuttgart",
-   "einzelausstellung_von": "Studio Vierkant",
    "kuenstler": [
     "Studio Vierkant"
    ],
-   "eroeffnung": "2026-07-18T17:00",
+   "anderer_ort": "Johannesstraße 47b, Stuttgart",
    "url": "https://kunstverein-wagenhalle.de/events/vollformat/",
    "quelle": "https://kunstverein-wagenhalle.de/events/",
    "eintritt": "frei",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Johannesstraße 47b, Stuttgart"
+   "detail_geprueft": "2026-10-15",
+   "grund": "Messe/Markt, keine Ausstellung"
   },
   {
-   "titel": "Glitchy Networks",
-   "untertitel": "Freiheit für den Raum",
-   "beginn": "2026-10-21",
-   "ende": null,
-   "art": "wechselausstellung",
-   "fachgebiet": "medienkunst",
-   "haus": "Kunstverein Wagenhalle",
-   "rang": 4,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": "Projektraum, Innerer Nordbahnhof 1, Stuttgart",
-   "einzelausstellung_von": null,
-   "kuenstler": [
-    "Marta Haladzhun"
-   ],
-   "eroeffnung": "2026-10-21T19:30",
-   "url": "https://kunstverein-wagenhalle.de/events/glitchy-networks/",
-   "quelle": "https://kunstverein-wagenhalle.de/events/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Projektraum, Innerer Nordbahnhof 1, Stuttgart"
-  },
-  {
-   "titel": "Ausstellung der Weißenhof Meisterschüler*innen",
-   "untertitel": "Die Meisterschüler*innen des Jahrgangs 2025 im Weißenhof-Programm präsentieren ihre Arbeiten im Projektraum.",
+   "titel": "ZEITGEIST",
+   "untertitel": "Ausstellung der Weissenhof-Meisterschüler*innen",
    "beginn": "2026-10-30",
    "ende": "2026-11-01",
    "art": "wechselausstellung",
@@ -113,21 +134,29 @@
    "haus": "Kunstverein Wagenhalle",
    "rang": 5,
    "epoche": "zeitgenoessisch",
+   "eroeffnung": null,
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [
+    "Sismalena",
+    "Oni Weber",
+    "Anton Linus",
+    "Paula Dischinger",
+    "SUPER VIVAZ",
+    "Seonha Park",
+    "DUO UFO",
+    "Guan-Ying Hu"
+   ],
    "anderer_ort": "Projektraum Kunstverein Wagenhalle, Stuttgart",
-   "einzelausstellung_von": null,
-   "kuenstler": [],
-   "eroeffnung": null,
    "url": "https://kunstverein-wagenhalle.de/events/ausstellung-der-weissenhof-meisterschuelerinnenmemorials/",
    "quelle": "https://kunstverein-wagenhalle.de/events/",
    "eintritt": "frei",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Projektraum Kunstverein Wagenhalle, Stuttgart"
   },
   {
    "titel": "Fenster zum Hof",
-   "untertitel": "Lasse Rave und Jonathan Zarth schauen raus.",
+   "untertitel": "Lasse Rave und Jonathan Zarth schauen raus",
    "beginn": "2026-11-13",
    "ende": "2026-11-15",
    "art": "wechselausstellung",
@@ -135,20 +164,42 @@
    "haus": "Kunstverein Wagenhalle",
    "rang": 6,
    "epoche": "zeitgenoessisch",
+   "eroeffnung": "2026-11-13T19:00",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "TOR5 Kunstverein Wagenhalle, Innerer Nordbahnhof 1, Stuttgart",
-   "einzelausstellung_von": null,
    "kuenstler": [
     "Lasse Rave",
     "Jonathan Zarth"
    ],
-   "eroeffnung": "2026-11-13T19:00",
+   "anderer_ort": "TOR5 Kunstverein Wagenhalle",
    "url": "https://kunstverein-wagenhalle.de/events/fenster-zum-hof/",
    "quelle": "https://kunstverein-wagenhalle.de/events/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: TOR5 Kunstverein Wagenhalle, Innerer Nordbahnhof 1, Stuttgart"
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: TOR5 Kunstverein Wagenhalle"
+  },
+  {
+   "titel": "Ausgefuchst",
+   "untertitel": "Ein partizipatives Figurentheater ab 5 Jahren",
+   "beginn": "2026-11-04",
+   "ende": "2026-11-08",
+   "art": "wechselausstellung",
+   "fachgebiet": "sonstiges",
+   "haus": "Kunstverein Wagenhalle",
+   "rang": 8,
+   "epoche": "zeitgenoessisch",
+   "eroeffnung": "2026-11-04T10:00",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Lukas Schneider"
+   ],
+   "anderer_ort": "FITZ! Zentrum für Figurentheater, Stuttgart",
+   "url": "https://kunstverein-wagenhalle.de/events/ausgefuchst-lukas-schneider/",
+   "quelle": "https://kunstverein-wagenhalle.de/events/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "keine Kunst (sonstiges)"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

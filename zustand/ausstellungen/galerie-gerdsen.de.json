@@ -33,33 +33,12 @@
    "anderer_ort": null,
    "einzelausstellung_von": null,
    "quelle": "https://www.galerie-gerdsen.de/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "erstmals": "2026-10-12",
    "verpasst": 0
-  },
-  {
-   "titel": "Die Farbe hat mich!",
-   "untertitel": "Farbe als Anlass zur Bildfindung: Eduard Bargheer und das Licht im Süden, Kai Quedens und die Atmosphäre der norddeutschen Weite",
-   "beginn": "2024-10-01",
-   "ende": null,
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Galerie Magnus P. Gerdsen",
-   "rang": 1,
-   "epoche": "moderne",
-   "kuenstler": [
-    "Eduard Bargheer",
-    "Kai Quedens"
-   ],
-   "gemeinfrei": true,
-   "url": "https://www.galerie-gerdsen.de/?p=3857",
-   "quelle": "https://www.galerie-gerdsen.de/?page_id=278",
-   "eroeffnung": null,
-   "detail_geprueft": "2026-10-12",
-   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 1
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

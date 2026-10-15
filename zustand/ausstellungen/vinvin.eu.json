@@ -7,9 +7,58 @@
  "status": "ok",
  "seiten": [
   "https://vinvin.eu/exhibitions/curated-by-2026-im-very-into-you",
-  "https://vinvin.eu/"
+  "https://vinvin.eu/exhibitions/marila-scartozzi-but-it-only-happens-to-whoever-has-a-body"
  ],
  "ausstellungen": [
+  {
+   "titel": "Curated by 2026",
+   "untertitel": "I'm Very Into You",
+   "beginn": "2026-09-17",
+   "ende": "2026-10-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "VIN VIN Gallery",
+   "rang": 1,
+   "epoche": "gemischt",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Lydia Silvestri",
+    "Cecilia De Nisco"
+   ],
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": "2026-10-11",
+   "url": "https://vinvin.eu/exhibitions/curated-by-2026-im-very-into-you",
+   "quelle": "https://vinvin.eu/exhibitions/curated-by-2026-im-very-into-you",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "But it only happens to whoever has a body",
+   "untertitel": "But it only happens to whoever has a body",
+   "beginn": "2026-10-23",
+   "ende": "2026-11-21",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "VIN VIN Gallery",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Marila Scartozzi"
+   ],
+   "einzelausstellung_von": "Marila Scartozzi",
+   "eroeffnung": "2026-10-22T18:00",
+   "schwerpunkt": "",
+   "anderer_ort": null,
+   "url": "https://vinvin.eu/exhibitions/marila-scartozzi-but-it-only-happens-to-whoever-has-a-body",
+   "quelle": "https://vinvin.eu/exhibitions/marila-scartozzi-but-it-only-happens-to-whoever-has-a-body",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
   {
    "titel": "I'm Very Into You",
    "untertitel": "Curated by 2026: Exhibition with Cecilia De Nisco and Lydia Silvestri",
@@ -32,54 +81,10 @@
    "quelle": "https://vinvin.eu/exhibitions/curated-by-2026-im-very-into-you",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
-   "verpasst": 0
-  },
-  {
-   "titel": "Curated by 2026: I'm Very Into You",
-   "untertitel": "Exhibition with Cecilia De Nisco and Lydia Silvestri",
-   "beginn": "2026-09-17",
-   "ende": "2026-10-17",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "VIN VIN Gallery",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Cecilia De Nisco",
-    "Lydia Silvestri"
-   ],
-   "gemeinfrei": false,
-   "schwerpunkt": "Intimität, Körper und Beziehungen in Skulptur und Malerei",
-   "eroeffnung": "2026-09-11T12:00",
-   "url": "https://vinvin.eu/exhibitions/curated-by-2026-im-very-into-you",
-   "quelle": "https://vinvin.eu/exhibitions/curated-by-2026-im-very-into-you",
-   "detail_geprueft": "2026-10-12",
    "verpasst": 1
   }
  ],
- "aussortiert": [
-  {
-   "titel": "LISTE Art Fair Basel",
-   "untertitel": "LISTE Art Fair Basel 2026",
-   "beginn": "2026-06-15",
-   "ende": "2026-06-21",
-   "art": "messe_markt",
-   "fachgebiet": "bildende_kunst",
-   "haus": "VIN VIN Gallery",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "eroeffnung": null,
-   "kuenstler": [],
-   "einzelausstellung_von": null,
-   "anderer_ort": null,
-   "url": "https://vinvin.eu/fairs/liste-art-fair-basel-2026",
-   "quelle": "https://vinvin.eu/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet"
-  }
- ],
- "abgerufen": "2026-10-12T06:55:52",
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 1
 }

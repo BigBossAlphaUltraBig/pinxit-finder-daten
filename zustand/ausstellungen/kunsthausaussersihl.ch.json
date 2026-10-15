@@ -10,8 +10,33 @@
  ],
  "ausstellungen": [
   {
+   "titel": "fontein: Ida Dober",
+   "untertitel": "",
+   "beginn": "2026-10-23",
+   "ende": "2026-12-11",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthaus Aussersihl",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Ida Dober"
+   ],
+   "eroeffnung": "2026-10-23",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "url": null,
+   "quelle": "https://www.kunsthausaussersihl.ch/Aktuell",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
    "titel": "Re-Vision",
-   "untertitel": "fontein: Ida Dober",
+   "untertitel": "",
    "beginn": "2026-10-23",
    "ende": "2026-12-11",
    "art": "wechselausstellung",
@@ -25,13 +50,34 @@
    ],
    "eroeffnung": "2026-10-23",
    "gemeinfrei": false,
-   "schwerpunkt": "",
-   "anderer_ort": null,
+   "schwerpunkt": null,
+   "anderer_ort": "fontein, Langstrasse 30, Zürich",
    "url": "https://www.kunsthausaussersihl.ch/Aktuell",
    "quelle": "https://www.kunsthausaussersihl.ch/Aktuell",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "grund": "anderer Ort: fontein, Langstrasse 30, Zürich"
+  },
+  {
+   "titel": "Finissage MICKRY3: Fundstücke-Verkauf",
+   "untertitel": "",
+   "beginn": "2026-10-16",
+   "ende": "2026-10-16",
+   "art": "messe_markt",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthaus Aussersihl",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": null,
+   "kuenstler": [],
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "url": null,
+   "quelle": "https://www.kunsthausaussersihl.ch/Aktuell",
+   "grund": "Messe/Markt, keine Ausstellung"
   }
  ],
- "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

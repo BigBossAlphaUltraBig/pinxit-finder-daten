@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Anne Carnein",
-   "untertitel": "",
+   "untertitel": "Die Einzelausstellung präsentiert Werke der Bildhauerin Anne Carnein",
    "beginn": "2027-04-24",
    "ende": "2028-01-16",
    "art": "wechselausstellung",
@@ -22,17 +22,20 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": "Anne Carnein",
    "kuenstler": [
     "Anne Carnein"
    ],
-   "einzelausstellung_von": "Anne Carnein",
    "eroeffnung": "2027-04-23T19:00",
    "anderer_ort": null,
-   "url": null,
-   "quelle": "https://museum-kleihues-bau.kornwestheim.de/start/ausstellungen/vorschau.html"
+   "url": "https://museum-kleihues-bau.kornwestheim.de/start/ausstellungen/vorschau.html",
+   "quelle": "https://museum-kleihues-bau.kornwestheim.de/start/ausstellungen/vorschau.html",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
-   "titel": "ars dynografia",
+   "titel": "ars dynografia. Experimentelle Fotografie der 1960er und 1970er Jahre",
    "untertitel": "Experimentelle Fotografie der 1960er und 1970er Jahre",
    "beginn": "2026-07-25",
    "ende": "2027-04-04",
@@ -46,12 +49,14 @@
    "kuenstler": [
     "Reiner Michelfelder"
    ],
+   "einzelausstellung_von": "Reiner Michelfelder",
    "anderer_ort": null,
    "eroeffnung": null,
-   "einzelausstellung_von": "Reiner Michelfelder",
    "url": "https://museum-kleihues-bau.kornwestheim.de/start/ausstellungen/reiner+michelfelder+_+ars+dynografia_+experimentelle+fotografie+der+1960er+und+1970er+jahre.html",
    "quelle": "https://museum-kleihues-bau.kornwestheim.de/start/ausstellungen.html",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Stadt – Land – Sehnsucht",
@@ -63,41 +68,20 @@
    "haus": "Museum im Kleihues-Bau",
    "rang": 2,
    "epoche": "gemischt",
-   "gemeinfrei": null,
+   "gemeinfrei": false,
    "schwerpunkt": "Idyllische Ansichten in Kunst und Alltagskultur des Südwestens",
-   "kuenstler": [
-    "Maria Caspar Filser",
-    "Johann Dannenmann",
-    "Oskar Frey",
-    "Manfred Henninger",
-    "Otto Hofer Bach",
-    "Lothar Hörer",
-    "Albert Kappis",
-    "Richard Kiwit",
-    "Christian Landenberger",
-    "Alfred Lehmann",
-    "Bernhard Pankok",
-    "Jakob Plankenhorn",
-    "Hermann Pleuer",
-    "Robert Poetzelberger",
-    "Otto Reiniger",
-    "Alois Schenk",
-    "Oskar Schlemmer",
-    "Gustav Schönleber",
-    "Erwin Starker",
-    "Walter Strich Chapell",
-    "Adalbert Sutor",
-    "Hermann Umgelter",
-    "Roland Wesner"
-   ],
+   "kuenstler": [],
+   "einzelausstellung_von": null,
    "anderer_ort": null,
    "eroeffnung": null,
-   "einzelausstellung_von": null,
    "url": "https://museum-kleihues-bau.kornwestheim.de/start/ausstellungen/stadt+_+land+_+sehnsucht_+idyllische+ansichten+in+kunst+und+alltagskultur+aus+dem+suedwesten.html",
    "quelle": "https://museum-kleihues-bau.kornwestheim.de/start/ausstellungen.html",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

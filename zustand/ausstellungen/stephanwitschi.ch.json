@@ -13,7 +13,7 @@
  "ausstellungen": [
   {
    "titel": "Beton und Nagellack",
-   "untertitel": null,
+   "untertitel": "Nathalie Bissig – The Wolves",
    "beginn": "2026-09-10",
    "ende": "2026-10-31",
    "art": "wechselausstellung",
@@ -22,16 +22,21 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "schwerpunkt": "",
+   "einzelausstellung_von": "Christoph Haerle",
    "kuenstler": [
     "Christoph Haerle"
    ],
    "eroeffnung": "2026-09-10T17:00",
    "anderer_ort": null,
-   "url": null,
-   "quelle": "https://www.stephanwitschi.ch/"
+   "url": "https://www.stephanwitschi.ch/about-1",
+   "quelle": "https://www.stephanwitschi.ch/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

@@ -13,40 +13,6 @@
   {
    "titel": "Nicht alle Reisenden folgen Wegen",
    "untertitel": "Humanität als Praxis",
-   "kuenstler": [
-    "Amina Agueznay",
-    "Malika Agueznay",
-    "Akinbode Akinbiyi",
-    "Leo Asemota",
-    "Maria Auxiliadora",
-    "Aline Baiana",
-    "María Magdalena Campos-Pons",
-    "Rebeca Carapiá",
-    "Manauara Clandestina",
-    "Christopher Cozier",
-    "Gervane de Paula",
-    "Théodore Diouf",
-    "Juliana dos Santos",
-    "Cevdet Erek",
-    "Theo Eshetu",
-    "Tanka Fonta",
-    "Forensic Architecture",
-    "Laila Hida",
-    "Lynn Hershman Leeson",
-    "Leiko Ikemura",
-    "Mao Ishikawa",
-    "Julianknxx",
-    "Lidia Lisbôa",
-    "Mohamed Melehi",
-    "Emeka Ogboh",
-    "Olu Oguibe",
-    "Alberto Pitta",
-    "Ana Raylander Mártis dos Anjos",
-    "Ming Smith",
-    "Sérgio Soarez",
-    "Chaïbia Talal",
-    "Wolfgang Tillmans"
-   ],
    "beginn": "2026-09-12",
    "ende": "2026-12-06",
    "art": "wechselausstellung",
@@ -55,13 +21,17 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
+   "kuenstler": [],
    "schwerpunkt": null,
    "anderer_ort": null,
    "eroeffnung": null,
    "einzelausstellung_von": null,
    "url": "https://www.hkw.de/programme/not-all-travellers-walk-roads-of-humanity-as-practice",
+   "ausstellungsseite_gefunden": true,
    "quelle": "https://www.hkw.de/programme/not-all-travellers-walk-roads-of-humanity-as-practice/a-walk-through-the-exhibition-with",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Nicht alle Reisenden folgen Wegen – Humanität als Praxis",
@@ -110,10 +80,12 @@
     "Wolfgang Tillmans"
    ],
    "url": "https://www.hkw.de/programme/not-all-travellers-walk-roads-of-humanity-as-practice/exhibition",
-   "eroeffnung": null,
    "anderer_ort": null,
+   "eroeffnung": null,
    "quelle": "https://www.hkw.de/programme/not-all-travellers-walk-roads-of-humanity-as-practice/exhibition",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Apparitions",
@@ -151,9 +123,11 @@
    "einzelausstellung_von": null,
    "url": "https://www.hkw.de/programme/not-all-travellers-walk-roads-of-humanity-as-practice/apparitions",
    "quelle": "https://www.hkw.de/programme/not-all-travellers-walk-roads-of-humanity-as-practice/a-walk-through-the-exhibition-with",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 1
 }

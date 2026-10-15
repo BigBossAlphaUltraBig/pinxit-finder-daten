@@ -22,7 +22,6 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": null,
    "kuenstler": [
     "Matt McClune",
     "Rakuko Naito",
@@ -33,6 +32,7 @@
     "Susan York",
     "Jerry Zeniuk"
    ],
+   "anderer_ort": null,
    "eroeffnung": "2026-10-16T18:00",
    "url": "https://www.galerie-bender.de/de/category/aktuelle-ausstellung/",
    "quelle": "https://www.galerie-bender.de/de/category/aktuelle-ausstellung/",
@@ -42,6 +42,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

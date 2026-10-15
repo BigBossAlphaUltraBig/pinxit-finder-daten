@@ -20,7 +20,7 @@
    "rang": 1,
    "epoche": "moderne",
    "gemeinfrei": false,
-   "schwerpunkt": "Druckgrafik, Lithografien, Radierungen und Künstlerbücher von Alberto Giacometti",
+   "schwerpunkt": "Graphisches Werk, Lithografien, Radierungen und Künstlerbücher Giacomettis",
    "einzelausstellung_von": "Alberto Giacometti",
    "kuenstler": [
     "Alberto Giacometti"
@@ -52,7 +52,7 @@
    "url": "https://www.aldier.ch/de/alberto-giacometti/alberto-giacometti-museum/37-0.html",
    "quelle": "https://www.aldier.ch/de/alberto-giacometti/alberto-giacometti-museum/37-0.html",
    "erstmals": "2026-10-12",
-   "verpasst": 0
+   "verpasst": 1
   },
   {
    "titel": "Diego Giacometti",
@@ -75,10 +75,10 @@
    "url": "https://www.aldier.ch/de/alberto-giacometti/alberto-giacometti-museum/37-0.html",
    "quelle": "https://www.aldier.ch/de/alberto-giacometti/alberto-giacometti-museum/37-0.html",
    "erstmals": "2026-10-12",
-   "verpasst": 0
+   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 0
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 2
 }

@@ -11,30 +11,32 @@
  ],
  "ausstellungen": [
   {
-   "titel": "BLENDZEIT",
-   "untertitel": "Herlinde Koelbl",
-   "beginn": "2026-09-16",
-   "ende": "2026-10-13",
+   "titel": "vis-à-vis",
+   "untertitel": "Ramiro Oller · Andreas Zagler",
+   "beginn": "2026-10-16",
+   "ende": "2026-11-22",
    "art": "wechselausstellung",
-   "fachgebiet": "fotografie",
+   "fachgebiet": "bildende_kunst",
    "haus": "Ping Rodach Contemporary",
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": "Fotografische Werkgruppen über den Blick und die Wahrnehmung des Menschen",
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": "2026-10-15T18:00",
    "kuenstler": [
-    "Herlinde Koelbl"
+    "Ramiro Oller",
+    "Andreas Zagler"
    ],
-   "url": null,
-   "eroeffnung": null,
+   "url": "https://pingrodach.com/exhibitions/",
    "anderer_ort": null,
-   "einzelausstellung_von": "Herlinde Koelbl",
    "quelle": "https://pingrodach.com/",
-   "erstmals": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
    "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

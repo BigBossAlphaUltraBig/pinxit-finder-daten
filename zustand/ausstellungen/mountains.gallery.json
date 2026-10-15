@@ -22,12 +22,12 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": "Nschotschi Haslinger",
    "kuenstler": [
     "Nschotschi Haslinger"
    ],
-   "einzelausstellung_von": "Nschotschi Haslinger",
-   "anderer_ort": null,
    "eroeffnung": null,
+   "anderer_ort": null,
    "url": "https://mountains.gallery/nschotschi-haslinger/",
    "quelle": "https://mountains.gallery/exhibitions/",
    "detail_geprueft": "2026-10-12",
@@ -55,33 +55,10 @@
    "quelle": "https://mountains.gallery/exhibitions/upcoming/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
-   "verpasst": 0
+   "verpasst": 1
   }
  ],
- "aussortiert": [
-  {
-   "titel": "Mountains × PARIS INTERNATIONALE 2026",
-   "untertitel": null,
-   "beginn": "2026-10-19",
-   "ende": "2026-10-24",
-   "art": "messe_markt",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Mountains",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Lauren Coullard",
-    "Shinoh Nam"
-   ],
-   "anderer_ort": "Paris",
-   "gemeinfrei": false,
-   "url": null,
-   "eroeffnung": null,
-   "schwerpunkt": null,
-   "quelle": "https://mountains.gallery/exhibitions/upcoming/",
-   "grund": "Messe/Markt, keine Ausstellung"
-  }
- ],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 0
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 1
 }

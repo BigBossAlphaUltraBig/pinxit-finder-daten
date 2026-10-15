@@ -14,42 +14,45 @@
    "untertitel": null,
    "beginn": null,
    "ende": null,
-   "art": "dauerausstellung",
+   "art": "sammlungspraesentation",
    "fachgebiet": "bildende_kunst",
    "haus": "Antikensammlung",
    "rang": 1,
    "epoche": "alte_meister",
    "gemeinfrei": true,
    "schwerpunkt": "Gipsabgüsse berühmter griechischer und römischer Skulpturen",
-   "url": "https://www.iaw.unibe.ch/forschung/archaeologie_des_mittelmeerraumes/antikensammlung_bern/index_ger.html",
-   "kuenstler": [],
-   "eroeffnung": null,
-   "anderer_ort": null,
    "einzelausstellung_von": null,
-   "quelle": "https://www.iaw.unibe.ch/forschung/archaeologie_des_mittelmeerraumes/antikensammlung_bern/index_ger.html"
-  }
- ],
- "aussortiert": [
+   "eroeffnung": null,
+   "kuenstler": [],
+   "anderer_ort": null,
+   "url": "https://www.iaw.unibe.ch/forschung/archaeologie_des_mittelmeerraumes/antikensammlung_bern/index_ger.html",
+   "quelle": "https://www.iaw.unibe.ch/forschung/archaeologie_des_mittelmeerraumes/antikensammlung_bern/index_ger.html",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
   {
    "titel": "Originalsammlung",
-   "untertitel": "Kleinkunst der Antike",
+   "untertitel": null,
    "beginn": null,
    "ende": null,
    "art": "sammlungspraesentation",
-   "fachgebiet": "geschichte",
+   "fachgebiet": "bildende_kunst",
    "haus": "Antikensammlung",
    "rang": 2,
    "epoche": "alte_meister",
    "gemeinfrei": true,
    "schwerpunkt": "Kleine Sammlung originaler antiker Kleinkunst",
-   "url": "https://www.iaw.unibe.ch/forschung/archaeologie_des_mittelmeerraumes/antikensammlung_bern/index_ger.html",
-   "kuenstler": [],
-   "eroeffnung": null,
-   "anderer_ort": "Mittelstrasse 43, Bern",
    "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "kuenstler": [],
+   "anderer_ort": null,
+   "url": "https://www.iaw.unibe.ch/forschung/archaeologie_des_mittelmeerraumes/antikensammlung_bern/index_ger.html",
    "quelle": "https://www.iaw.unibe.ch/forschung/archaeologie_des_mittelmeerraumes/antikensammlung_bern/index_ger.html",
-   "grund": "keine Kunst (geschichte)"
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

@@ -13,6 +13,9 @@
   {
    "titel": "Toupie",
    "untertitel": null,
+   "kuenstler": [
+    "Zad Moultaka"
+   ],
    "beginn": "2026-10-29",
    "ende": "2026-12-03",
    "art": "wechselausstellung",
@@ -22,9 +25,6 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "kuenstler": [
-    "Zad Moultaka"
-   ],
    "anderer_ort": null,
    "eroeffnung": null,
    "einzelausstellung_von": "Zad Moultaka",
@@ -37,18 +37,18 @@
   {
    "titel": "Ordinary Things",
    "untertitel": null,
+   "kuenstler": [
+    "Zena Assi"
+   ],
    "beginn": "2026-09-10",
    "ende": "2026-10-17",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Galerie Tanit",
-   "rang": 5,
+   "rang": 6,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "kuenstler": [
-    "Zena Assi"
-   ],
    "anderer_ort": null,
    "eroeffnung": null,
    "einzelausstellung_von": "Zena Assi",
@@ -95,7 +95,7 @@
    "einzelausstellung_von": null,
    "url": "https://www.galerietanit.com/exhibitions/of-red-and-gold-virtual-exhibition/",
    "quelle": "https://www.galerietanit.com/all-exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "Veranstaltung, keine Ausstellung"
   },
   {
@@ -107,7 +107,7 @@
    "fachgebiet": "bildende_kunst",
    "haus": "Galerie Tanit",
    "rang": 3,
-   "epoche": "gemischt",
+   "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
    "kuenstler": [
@@ -127,41 +127,18 @@
    "einzelausstellung_von": null,
    "url": "https://www.galerietanit.com/exhibitions/la-vie-en-rose-collective-exhibition/",
    "quelle": "https://www.galerietanit.com/all-exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Reisingerstraße 6 Rgb, 80337 München, Germany"
   },
   {
-   "titel": "Little Boy",
-   "untertitel": "Georges Yammine",
-   "beginn": "2026-10-06",
-   "ende": "2026-10-17",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Galerie Tanit",
-   "rang": 4,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "Georges Yammine"
-   ],
-   "anderer_ort": "Difaf Gallery - Jacaranda, Jacaranda Bldg, Mar Mikhael, Beirut",
-   "eroeffnung": "2026-10-06",
-   "einzelausstellung_von": "Georges Yammine",
-   "url": "https://www.galerietanit.com/exhibitions/little-boy-georges-yammine/",
-   "quelle": "https://www.galerietanit.com/all-exhibitions/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Difaf Gallery - Jacaranda, Jacaranda Bldg, Mar Mikhael, Beirut"
-  },
-  {
    "titel": "MENART 2026",
-   "untertitel": "Galerie Tanit auf der MENART 2026 mit einer Gruppenausstellung",
+   "untertitel": "Galerie Tanit - Beteiligung an MENART 2026 mit einer Gruppenausstellung (Galerie Joseph, 116 rue de Turenne, 75003 Paris; Stand M4 bzw. F14 für Jean Boghossian)",
    "beginn": "2026-10-23",
    "ende": "2026-10-25",
    "art": "messe_markt",
    "fachgebiet": "bildende_kunst",
    "haus": "Galerie Tanit",
-   "rang": 6,
+   "rang": 4,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
@@ -176,10 +153,33 @@
    "einzelausstellung_von": null,
    "url": "https://www.galerietanit.com/exhibitions/menart-2026/",
    "quelle": "https://www.galerietanit.com/all-exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "Messe/Markt, keine Ausstellung"
+  },
+  {
+   "titel": "Little Boy",
+   "untertitel": "Georges Yammine",
+   "kuenstler": [
+    "Georges Yammine"
+   ],
+   "beginn": "2026-10-06",
+   "ende": "2026-10-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Tanit",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": "Difaf Gallery - Jacaranda, Jacaranda Bldg, Mar Mikhael, Beirut",
+   "eroeffnung": "2026-10-06",
+   "einzelausstellung_von": "Georges Yammine",
+   "url": "https://www.galerietanit.com/exhibitions/little-boy-georges-yammine/",
+   "quelle": "https://www.galerietanit.com/all-exhibitions/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Difaf Gallery - Jacaranda, Jacaranda Bldg, Mar Mikhael, Beirut"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

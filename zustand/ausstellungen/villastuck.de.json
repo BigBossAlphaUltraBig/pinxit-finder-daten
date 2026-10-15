@@ -6,33 +6,37 @@
  "ids": "Q264573",
  "status": "ok",
  "seiten": [
-  "https://www.villastuck.de/programm"
+  "https://www.villastuck.de/programm",
+  "https://www.villastuck.de/kalender"
  ],
  "ausstellungen": [
   {
-   "titel": "NO SINGLE VIEW",
-   "untertitel": null,
+   "titel": "No Single View",
+   "untertitel": "Kuratiert von Helena Pereña",
    "beginn": "2026-05-15",
    "ende": "2026-10-18",
    "art": "wechselausstellung",
-   "fachgebiet": "fotografie",
+   "fachgebiet": "bildende_kunst",
    "haus": "Villa Stuck",
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "url": "https://www.villastuck.de/programm/detail/no-single-view",
    "kuenstler": [
     "Ilit Azoulay"
    ],
    "einzelausstellung_von": "Ilit Azoulay",
    "eroeffnung": null,
    "anderer_ort": null,
-   "url": "https://www.villastuck.de/programm/detail/no-single-view",
-   "quelle": "https://www.villastuck.de/programm"
+   "quelle": "https://www.villastuck.de/programm",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
-   "titel": "ZEHN LEBEN",
-   "untertitel": null,
+   "titel": "Zehn Leben",
+   "untertitel": "Von Flucht und Trauma erzählen",
    "beginn": "2026-05-15",
    "ende": "2026-11-08",
    "art": "wechselausstellung",
@@ -42,6 +46,7 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "url": "https://www.villastuck.de/programm/detail/zehn-leben",
    "kuenstler": [
     "Delschad Numan Khorschid",
     "Jan-Hendrik Pelz"
@@ -49,12 +54,14 @@
    "einzelausstellung_von": null,
    "eroeffnung": null,
    "anderer_ort": null,
-   "url": "https://www.villastuck.de/programm/detail/zehn-leben",
-   "quelle": "https://www.villastuck.de/programm"
+   "quelle": "https://www.villastuck.de/programm",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
-   "titel": "MATER",
-   "untertitel": null,
+   "titel": "Mater",
+   "untertitel": "Gonzalo Borondo",
    "beginn": "2026-10-29",
    "ende": null,
    "art": "wechselausstellung",
@@ -64,37 +71,45 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "url": "https://www.villastuck.de/programm/detail/mater",
    "kuenstler": [
     "Gonzalo Borondo"
    ],
    "einzelausstellung_von": "Gonzalo Borondo",
    "eroeffnung": null,
    "anderer_ort": null,
-   "url": "https://www.villastuck.de/programm/detail/mater",
-   "quelle": "https://www.villastuck.de/programm"
+   "quelle": "https://www.villastuck.de/programm",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
   {
-   "titel": "PFOTEN, PRANKEN, KLAUEN, FLOSSEN, PATSCHEN, PRATZEN, TATZEN, HÄNDE, KRALLEN",
-   "untertitel": null,
+   "titel": "Pfoten, Pranken, Klauen, Flossen, Patschen, Pratzen, Tatzen, Hände, Krallen",
+   "untertitel": "Kuratiert von Chus Martínez",
    "beginn": "2027-05-07",
    "ende": null,
    "art": "wechselausstellung",
-   "fachgebiet": "natur",
+   "fachgebiet": "sonstiges",
    "haus": "Villa Stuck",
    "rang": 4,
    "epoche": "andere",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "kuenstler": [],
+   "url": "https://www.villastuck.de/programm/detail/pfoten-pranken-klauen-flossen-patschen-pratzen-tatzen-haende-krallen",
+   "kuenstler": [
+    "Alexa Karolinski",
+    "Ingo Niermann"
+   ],
    "einzelausstellung_von": null,
    "eroeffnung": null,
    "anderer_ort": null,
-   "url": "https://www.villastuck.de/programm/detail/pfoten-pranken-klauen-flossen-patschen-pratzen-tatzen-haende-krallen",
    "quelle": "https://www.villastuck.de/programm",
-   "grund": "keine Kunst (natur)"
+   "detail_geprueft": "2026-10-15",
+   "grund": "keine Kunst (sonstiges)"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

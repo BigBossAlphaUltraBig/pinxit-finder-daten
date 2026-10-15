@@ -21,20 +21,22 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "Peter Wächtler"
    ],
    "einzelausstellung_von": "Peter Wächtler",
+   "url": "https://hausamwaldsee.de/peter-waechtler/",
    "eroeffnung": null,
    "anderer_ort": null,
-   "url": "https://hausamwaldsee.de/peter-waechtler/",
+   "schwerpunkt": null,
    "quelle": "https://hausamwaldsee.de/aktuell/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Gigantomania",
-   "untertitel": "Das dritte und letzte Kapitel der Ausstellungsreihe „Seit…“ zum 80. Jubiläum des Haus am Waldsee",
+   "untertitel": null,
    "beginn": "2026-10-16",
    "ende": "2027-01-17",
    "art": "wechselausstellung",
@@ -43,18 +45,21 @@
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "Sophie Kovel"
    ],
    "einzelausstellung_von": "Sophie Kovel",
+   "url": "https://hausamwaldsee.de/sophie-kovel/",
    "eroeffnung": null,
    "anderer_ort": null,
-   "url": "https://hausamwaldsee.de/sophie-kovel/",
+   "schwerpunkt": null,
    "quelle": "https://hausamwaldsee.de/aktuell/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

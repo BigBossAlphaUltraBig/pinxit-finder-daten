@@ -19,22 +19,22 @@
    "haus": "Galerie Ruberl",
    "rang": 1,
    "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": null,
+   "eroeffnung": "2026-10-14T19:00",
    "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "Olga Shcheblykina",
     "Arnulf Rainer"
    ],
-   "eroeffnung": "2026-10-14T19:00",
-   "anderer_ort": null,
+   "schwerpunkt": null,
    "url": "https://www.ruberl.at/ausstellungen/the-distance-between-arrivals",
    "quelle": "https://www.ruberl.at/ausstellungen",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "erstmals": "2026-10-12",
    "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

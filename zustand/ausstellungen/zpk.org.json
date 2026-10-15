@@ -11,7 +11,7 @@
  ],
  "ausstellungen": [
   {
-   "titel": "Kosmos Klee.",
+   "titel": "Kosmos Klee",
    "untertitel": "Die Sammlung",
    "beginn": "2023-10-07",
    "ende": "2027-10-03",
@@ -19,42 +19,23 @@
    "fachgebiet": "bildende_kunst",
    "haus": "Zentrum Paul Klee",
    "rang": 1,
-   "epoche": "moderne",
+   "epoche": "gemischt",
    "gemeinfrei": false,
-   "schwerpunkt": "Sammlung Paul Klee und Werke der Moderne im Dialog",
+   "schwerpunkt": "Werke aus der Sammlung des Zentrums Paul Klee, im Zentrum Paul Klee",
+   "url": "https://www.zpk.org/de/node/411",
+   "anderer_ort": null,
+   "eroeffnung": null,
    "einzelausstellung_von": null,
    "kuenstler": [
     "Paul Klee"
    ],
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "url": "https://www.zpk.org/de/node/411",
-   "quelle": "https://www.zpk.org/de/ausstellung"
-  },
-  {
-   "titel": "Roberto Burle Marx.",
-   "untertitel": "Modernismo tropical",
-   "beginn": "2026-10-17",
-   "ende": "2027-02-07",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Zentrum Paul Klee",
-   "rang": 2,
-   "epoche": "moderne",
-   "gemeinfrei": false,
-   "schwerpunkt": "Landschaftsarchitektur und Design der brasilianischen Moderne",
-   "einzelausstellung_von": "Roberto Burle Marx",
-   "kuenstler": [
-    "Roberto Burle Marx"
-   ],
-   "eroeffnung": "2026-10-16T18:00",
-   "anderer_ort": null,
-   "url": "https://www.zpk.org/de/node/11349",
    "quelle": "https://www.zpk.org/de/ausstellung",
-   "detail_geprueft": "2026-10-12"
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
-   "titel": "Roberto Burle Marx. Modernismo tropical",
+   "titel": "Roberto Burle Marx",
+   "untertitel": "Modernismo tropical",
    "beginn": "2026-10-17",
    "ende": "2027-02-07",
    "art": "wechselausstellung",
@@ -63,20 +44,21 @@
    "rang": 2,
    "epoche": "moderne",
    "gemeinfrei": false,
-   "schwerpunkt": "Brasilianischer Landschaftsarchitekt und Künstler der Moderne",
-   "einzelausstellung_von": "Roberto Burle Marx",
+   "schwerpunkt": "Gartenarchitektur, Malerei und Design des brasilianischen Modernismus",
+   "url": "https://www.zpk.org/de/node/11349",
+   "anderer_ort": null,
    "eroeffnung": "2026-10-16T18:00",
+   "einzelausstellung_von": "Roberto Burle Marx",
    "kuenstler": [
     "Roberto Burle Marx"
    ],
-   "url": "https://www.zpk.org/de/node/11349",
-   "quelle": "https://www.zpk.org/de/ausstellung/kosmos-klee",
-   "untertitel": "Modernismo tropical",
-   "eintritt": "frei",
-   "detail_geprueft": "2026-10-12"
+   "quelle": "https://www.zpk.org/de/ausstellung",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
-   "titel": "Fokus.",
+   "titel": "Fokus",
    "untertitel": "Florence Henri (1893–1982)",
    "beginn": "2026-08-29",
    "ende": "2027-01-10",
@@ -86,18 +68,45 @@
    "rang": 3,
    "epoche": "moderne",
    "gemeinfrei": false,
-   "schwerpunkt": "Fotografie und Avantgarde der Zwischenkriegszeit",
+   "schwerpunkt": "Fotografie der Künstlerin Florence Henri",
+   "url": "https://www.zpk.org/de/node/11353",
+   "anderer_ort": null,
+   "eroeffnung": null,
    "einzelausstellung_von": "Florence Henri",
    "kuenstler": [
     "Florence Henri"
    ],
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "url": "https://www.zpk.org/de/node/11353",
    "quelle": "https://www.zpk.org/de/ausstellung",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Lang/Baumann \"Module #4\"",
+   "untertitel": "Module #4",
+   "beginn": null,
+   "ende": null,
+   "art": "unklar",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Zentrum Paul Klee",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Werk der Künstler Lang/Baumann",
+   "url": "https://www.zpk.org/de/node/3807",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Lang/Baumann"
+   ],
+   "quelle": "https://www.zpk.org/de/ausstellung",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

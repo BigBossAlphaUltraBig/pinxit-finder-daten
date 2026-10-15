@@ -4,9 +4,37 @@
  "haeuser": "Zille-Museum",
  "land": "DE",
  "ids": "node/1476011662",
- "status": "nicht erreichbar",
- "seiten": [],
- "ausstellungen": [],
+ "status": "ok",
+ "seiten": [
+  "https://zille-museum.de/"
+ ],
+ "ausstellungen": [
+  {
+   "titel": "Heinrich Zille – Das Original!",
+   "untertitel": "Verborgene Bilder",
+   "beginn": "2026-01-10",
+   "ende": "2026-12-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Zille-Museum",
+   "rang": 1,
+   "epoche": "19_jahrhundert",
+   "gemeinfrei": true,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Heinrich Zille",
+   "kuenstler": [
+    "Heinrich Zille"
+   ],
+   "eroeffnung": null,
+   "url": "https://zille-museum.de/heinrich-zille/",
+   "anderer_ort": null,
+   "quelle": "https://zille-museum.de/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  }
+ ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

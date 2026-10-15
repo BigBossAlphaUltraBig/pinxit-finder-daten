@@ -20,8 +20,6 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "einzelausstellung_von": null,
    "kuenstler": [
     "Bruce LaBruce",
     "Herbert De Colle",
@@ -39,6 +37,7 @@
     "B. Wurtz"
    ],
    "eroeffnung": null,
+   "schwerpunkt": null,
    "anderer_ort": null,
    "url": "https://www.galeriekrobath.at/archiv/our-love-illusio-is-everything-that-the-waterfall-is-doxa-curated-by-christian-egger/",
    "quelle": "https://www.galeriekrobath.at/ausstellungen/",
@@ -48,6 +47,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

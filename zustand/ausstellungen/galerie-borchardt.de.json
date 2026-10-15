@@ -16,17 +16,17 @@
    "beginn": null,
    "ende": null,
    "art": "unklar",
-   "fachgebiet": "architektur",
+   "fachgebiet": "bildende_kunst",
    "haus": "Galerie Borchardt",
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "einzelausstellung_von": null,
+   "kuenstler": [],
    "anderer_ort": null,
    "eroeffnung": "2026-04-16",
-   "kuenstler": [],
    "url": null,
+   "einzelausstellung_von": null,
    "quelle": "https://galerie-borchardt.de/",
    "standort": "Galerie Borchardt Hamburg",
    "erstmals": "2026-10-12",
@@ -34,6 +34,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

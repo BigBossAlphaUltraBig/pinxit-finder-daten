@@ -21,12 +21,12 @@
    "rang": 1,
    "epoche": "gemischt",
    "gemeinfrei": false,
-   "schwerpunkt": "Sammlungspräsentation von Cranach bis Lassnig",
-   "einzelausstellung_von": null,
+   "schwerpunkt": "Gemälde und Werke der Belvedere-Sammlung vom 16. bis 20. Jahrhundert",
    "kuenstler": [],
-   "url": "https://www.belvedere.at/en/picture",
    "anderer_ort": null,
    "eroeffnung": null,
+   "url": "https://www.belvedere.at/en/picture",
+   "einzelausstellung_von": null,
    "quelle": "https://www.belvedere.at/en/current-exhibitions",
    "erstmals": "2026-10-12",
    "verpasst": 0
@@ -53,7 +53,7 @@
    "quelle": "https://www.belvedere.at/en/current-exhibitions",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
-   "verpasst": 0
+   "verpasst": 1
   },
   {
    "titel": "All Is Movement",
@@ -77,7 +77,7 @@
    "quelle": "https://www.belvedere.at/en/current-exhibitions",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
-   "verpasst": 0
+   "verpasst": 1
   },
   {
    "titel": "On the Other Side of Silence",
@@ -101,7 +101,7 @@
    "quelle": "https://www.belvedere.at/en/current-exhibitions",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
-   "verpasst": 0
+   "verpasst": 1
   },
   {
    "titel": "Gallery Middle Ages and Renaissance",
@@ -122,64 +122,10 @@
    "eroeffnung": null,
    "quelle": "https://www.belvedere.at/en/current-exhibitions",
    "erstmals": "2026-10-12",
-   "verpasst": 0
-  },
-  {
-   "titel": "CARLONE CONTEMPORARY: Asta Gröting",
-   "untertitel": "Things",
-   "beginn": "2026-09-24",
-   "ende": "2027-03-29",
-   "art": "wechselausstellung",
-   "kunst": true,
-   "haus": "Österreichische Galerie Belvedere",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "kuenstler": [
-    "Asta Gröting"
-   ],
-   "url": "https://www.belvedere.at/en/carlone-contemporary-asta-groting",
-   "quelle": "https://www.belvedere.at/en/current-exhibitions",
-   "verpasst": 1
-  },
-  {
-   "titel": "Erika Giovanna Klien",
-   "untertitel": "All Is Movement",
-   "beginn": "2026-09-18",
-   "ende": "2027-01-31",
-   "art": "wechselausstellung",
-   "kunst": true,
-   "haus": "Österreichische Galerie Belvedere",
-   "rang": 3,
-   "epoche": "19_jahrhundert",
-   "gemeinfrei": true,
-   "kuenstler": [
-    "Erika Giovanna Klien"
-   ],
-   "url": "https://www.belvedere.at/en/erika-giovanna-klien",
-   "quelle": "https://www.belvedere.at/en/current-exhibitions",
-   "verpasst": 1
-  },
-  {
-   "titel": "Erna Rosenstein",
-   "untertitel": "On the Other Side of Silence",
-   "beginn": "2026-07-03",
-   "ende": "2027-01-10",
-   "art": "wechselausstellung",
-   "kunst": true,
-   "haus": "Österreichische Galerie Belvedere",
-   "rang": 4,
-   "epoche": "moderne",
-   "gemeinfrei": false,
-   "kuenstler": [
-    "Erna Rosenstein"
-   ],
-   "url": "https://www.belvedere.at/en/erna-rosenstein",
-   "quelle": "https://www.belvedere.at/en/current-exhibitions",
    "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 3
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 4
 }

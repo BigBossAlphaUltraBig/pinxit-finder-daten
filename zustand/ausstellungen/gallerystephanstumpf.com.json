@@ -12,6 +12,7 @@
  "aussortiert": [
   {
    "titel": "DISTURBANCE",
+   "untertitel": "Natur als Existenzraum zwischen Verbundenheit und Entfremdung",
    "beginn": "2026-09-10",
    "ende": "2026-10-10",
    "art": "wechselausstellung",
@@ -19,6 +20,9 @@
    "haus": "Gallery Stephan Stumpf",
    "rang": 1,
    "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
    "kuenstler": [
     "Andrea Gallo",
     "Betty Mü",
@@ -32,16 +36,13 @@
     "Raphael Auer",
     "Susannah Martin"
    ],
-   "url": "https://gallerystephanstumpf.com/disturbance-gruppenausstellung-gallery-stephan-stumpf/",
-   "eroeffnung": null,
+   "anderer_ort": null,
    "einzelausstellung_von": null,
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "untertitel": "[group]",
+   "url": "https://gallerystephanstumpf.com/disturbance-gruppenausstellung-gallery-stephan-stumpf/",
    "quelle": "https://gallerystephanstumpf.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

@@ -21,17 +21,19 @@
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "einzelausstellung_von": null,
    "kuenstler": [
     "Daniel Näf",
     "Heinrich Bobst"
    ],
    "anderer_ort": null,
    "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "schwerpunkt": null,
    "url": "http://www.klhb.ch/auf-den-zweiten-blick.html",
    "quelle": "http://www.klhb.ch/werke-von-frenden.html",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Yukio Gohara",
@@ -44,20 +46,22 @@
    "rang": 4,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "einzelausstellung_von": "Yukio Gohara",
    "kuenstler": [
     "Yukio Gohara"
    ],
    "anderer_ort": null,
    "eroeffnung": null,
+   "einzelausstellung_von": "Yukio Gohara",
+   "schwerpunkt": null,
    "url": "http://www.klhb.ch/yukio-gohara.html",
    "quelle": "http://www.klhb.ch/werke-von-frenden.html",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Raschi Küng",
-   "untertitel": "null",
+   "untertitel": "Acrylmalerei, Siebdruck, Digitaldruck, Blattgold und Schlagaluminium",
    "beginn": null,
    "ende": null,
    "art": "unklar",
@@ -66,16 +70,18 @@
    "rang": 5,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "einzelausstellung_von": "Raschi Küng",
    "kuenstler": [
     "Raschi Küng"
    ],
    "anderer_ort": null,
    "eroeffnung": null,
+   "einzelausstellung_von": "Raschi Küng",
+   "schwerpunkt": null,
    "url": "http://www.klhb.ch/raschi-kueng.html",
    "quelle": "http://www.klhb.ch/werke-von-frenden.html",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
@@ -90,17 +96,17 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "einzelausstellung_von": null,
    "kuenstler": [
     "Yukio Gohara",
     "Raschi Küng"
    ],
    "anderer_ort": null,
    "eroeffnung": "2019-05-24T18:00",
+   "einzelausstellung_von": null,
+   "schwerpunkt": null,
    "url": "http://www.klhb.ch/ausstellung-240519.html",
    "quelle": "http://www.klhb.ch/werke-von-frenden.html",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
@@ -114,19 +120,20 @@
    "rang": 3,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "einzelausstellung_von": null,
    "kuenstler": [
     "Raschi Küng",
     "Heinrich Bobst"
    ],
    "anderer_ort": null,
    "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "schwerpunkt": null,
    "url": "http://www.klhb.ch/synergie.html",
    "quelle": "http://www.klhb.ch/werke-von-frenden.html",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

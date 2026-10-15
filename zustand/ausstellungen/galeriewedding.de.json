@@ -11,7 +11,7 @@
  "ausstellungen": [
   {
    "titel": "»매난국죽 Mae Nan Guk Juk: Diasporic Memories Formed in Clay«",
-   "untertitel": "Diasporic Memories Formed in Clay",
+   "untertitel": "",
    "beginn": "2026-08-21",
    "ende": "2026-11-01",
    "art": "wechselausstellung",
@@ -20,65 +20,43 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "kuenstler": [
-    "Frank Jimin Hopp"
-   ],
-   "eroeffnung": "2026-08-20",
    "schwerpunkt": null,
-   "einzelausstellung_von": null,
+   "kuenstler": [],
+   "eroeffnung": "2026-08-20",
    "anderer_ort": null,
+   "einzelausstellung_von": null,
    "url": "https://galeriewedding.de/mae-nan-guk-juk-diasporic-memories-formed-in-clay/",
    "quelle": "https://galeriewedding.de/programm/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
   {
-   "titel": "»Die gesiezte Tochter. My Total Deconstruction of an Armenian Family«",
-   "untertitel": "My Total Deconstruction of an Armenian Family",
-   "beginn": "2026-05-21",
-   "ende": "2026-08-09",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Galerie Wedding",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "kuenstler": [
-    "Beatrice Moumdjian"
-   ],
-   "eroeffnung": "2026-05-21",
-   "schwerpunkt": null,
-   "einzelausstellung_von": null,
-   "anderer_ort": null,
-   "url": "https://galeriewedding.de/vernissage-die-gesiezte-tochter-my-total-deconstruction-of-an-armenian-family/",
-   "quelle": "https://galeriewedding.de/programm/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet"
-  },
-  {
-   "titel": "»Malplaquetstraße 33 – Jugend einer Monteurin«",
+   "titel": "Malplaquetstraße 33",
    "untertitel": "Jugend einer Monteurin",
    "beginn": "2026-02-27",
    "ende": "2026-05-10",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Galerie Wedding",
-   "rang": 3,
+   "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
+   "schwerpunkt": null,
    "kuenstler": [
     "Ahu Dural"
    ],
    "eroeffnung": "2026-02-26",
-   "schwerpunkt": null,
-   "einzelausstellung_von": null,
    "anderer_ort": null,
+   "einzelausstellung_von": null,
    "url": "https://galeriewedding.de/malplaquetstrasse-33-jugend-einer-monteurin/",
    "quelle": "https://galeriewedding.de/programm/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

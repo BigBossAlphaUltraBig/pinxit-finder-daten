@@ -22,18 +22,19 @@
    "epoche": "gemischt",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "url": "https://karmainternational.ch/exhibitions/381-hans-josephsohn-gretchen-lawrence-margaret-tashkova-guadalupe-weststrasse-70-75/installation_shots/",
+   "anderer_ort": null,
    "eroeffnung": null,
+   "einzelausstellung_von": null,
    "kuenstler": [
     "Hans Josephsohn",
     "Gretchen Lawrence",
     "Margaret Tashkova",
     "Guadalupe Rosales"
    ],
-   "einzelausstellung_von": null,
-   "anderer_ort": null,
+   "url": "https://karmainternational.ch/exhibitions/381-hans-josephsohn-gretchen-lawrence-margaret-tashkova-guadalupe-weststrasse-70-75/installation_shots/",
    "quelle": "https://karmainternational.ch/exhibitions/381/installation_shots/",
    "detail_geprueft": "2026-10-12",
+   "standort": "Karma International",
    "erstmals": "2026-10-12",
    "verpasst": 0
   }
@@ -51,21 +52,21 @@
    "epoche": "moderne",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "url": "https://karmainternational.ch/exhibitions/379-hans-josephsohn-herbert-boeckl-figural-archetypes-leopold-museum-vienna/installation_shots/",
    "kuenstler": [
     "Hans Josephsohn",
     "Herbert Boeckl"
    ],
    "anderer_ort": "Leopold Museum, Wien",
    "eroeffnung": null,
-   "url": "https://karmainternational.ch/exhibitions/379-hans-josephsohn-herbert-boeckl-figural-archetypes-leopold-museum-vienna/installation_shots/",
    "quelle": "https://karmainternational.ch/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Leopold Museum, Wien",
    "standort": "Karma International"
   },
   {
    "titel": "NOCH EINE WELLE",
-   "untertitel": "Noch eine Welle",
+   "untertitel": "NOCH EINE WELLE",
    "beginn": "2026-06-13",
    "ende": "2026-09-03",
    "art": "wechselausstellung",
@@ -75,18 +76,41 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "url": "https://karmainternational.ch/exhibitions/373-kateryna-lysovenko-noch-eine-welle-13-jun-3/installation_shots/",
    "kuenstler": [
     "Kateryna Lysovenko"
    ],
    "anderer_ort": null,
    "eroeffnung": null,
-   "url": "https://karmainternational.ch/exhibitions/373-kateryna-lysovenko-noch-eine-welle-13-jun-3/installation_shots/",
    "quelle": "https://karmainternational.ch/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet",
+   "standort": "Karma International"
+  },
+  {
+   "titel": "VALIE EXPORT",
+   "untertitel": "null",
+   "beginn": "2026-06-13",
+   "ende": "2026-09-03",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Karma International (Weststrasse 70)",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://karmainternational.ch/exhibitions/374-valie-export-13-jun-3-sept-2026-weststrasse/installation_shots/",
+   "kuenstler": [
+    "VALIE EXPORT"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "quelle": "https://karmainternational.ch/exhibitions/",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet",
    "standort": "Karma International"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

@@ -12,25 +12,25 @@
  "ausstellungen": [],
  "aussortiert": [
   {
-   "titel": "FINAL SALE – FROM DEPARTMENT STORES' TO MUSEUM",
+   "titel": "FINAL SALE – FROM DEPARTMENT STORES’ TO MUSEUM",
    "untertitel": "An exhibition of former department stores from 1980 to today",
    "beginn": null,
    "ende": "2025-12-31",
    "art": "wechselausstellung",
-   "fachgebiet": "design",
+   "fachgebiet": "bildende_kunst",
    "haus": "Buchstabenmuseum",
    "rang": 1,
-   "epoche": "zeitgenoessisch",
+   "epoche": "moderne",
    "gemeinfrei": false,
-   "schwerpunkt": null,
+   "schwerpunkt": "Former department store lettering and architecture in German city centres",
    "anderer_ort": null,
-   "url": "https://www.buchstabenmuseum.de/en/program/",
+   "einzelausstellung_von": null,
    "eroeffnung": null,
-   "kuenstler": [],
+   "url": "https://www.buchstabenmuseum.de/en/program/",
    "quelle": "https://www.buchstabenmuseum.de/en/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

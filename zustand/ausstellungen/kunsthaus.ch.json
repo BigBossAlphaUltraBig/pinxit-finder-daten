@@ -21,39 +21,18 @@
    "rang": 1,
    "epoche": "19_jahrhundert",
    "einzelausstellung_von": "Vilhelm Hammershøi",
+   "gemeinfrei": true,
+   "schwerpunkt": "Stille Interieurs und Porträts des dänischen Malers",
+   "url": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/vilhelm-hammershoi/",
    "kuenstler": [
     "Vilhelm Hammershøi"
    ],
-   "gemeinfrei": true,
-   "schwerpunkt": null,
-   "anderer_ort": null,
    "eroeffnung": null,
-   "url": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/vilhelm-hammershoi/",
+   "anderer_ort": null,
    "quelle": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/",
-   "detail_geprueft": "2026-10-12"
-  },
-  {
-   "titel": "Maria Lassnig und Edvard Munch",
-   "untertitel": "Malfluss = Lebensfluss",
-   "beginn": null,
-   "ende": "2027-02-21",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Kunsthaus Zürich",
-   "rang": 1,
-   "epoche": "moderne",
-   "gemeinfrei": false,
-   "kuenstler": [
-    "Maria Lassnig",
-    "Edvard Munch"
-   ],
-   "einzelausstellung_von": null,
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "schwerpunkt": null,
-   "url": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/maria-lassnig-und-edvard-munch/",
-   "quelle": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/maria-lassnig-und-edvard-munch/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Ikonen",
@@ -65,14 +44,65 @@
    "haus": "Kunsthaus Zürich",
    "rang": 2,
    "epoche": "alte_meister",
-   "einzelausstellung_von": null,
-   "kuenstler": [],
    "gemeinfrei": true,
-   "schwerpunkt": "Ausgewählte Ikonen aus der eigenen Sammlung",
-   "anderer_ort": null,
-   "eroeffnung": null,
+   "schwerpunkt": "Ausgewählte byzantinische und orthodoxe Ikonen aus der Sammlung",
    "url": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/ikonen/",
-   "quelle": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/"
+   "kuenstler": [],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Maria Lassnig und Edvard Munch",
+   "untertitel": "Malfluss = Lebensfluss",
+   "beginn": null,
+   "ende": "2027-02-21",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthaus Zürich",
+   "rang": 3,
+   "epoche": "moderne",
+   "einzelausstellung_von": null,
+   "gemeinfrei": false,
+   "schwerpunkt": "Gegenüberstellung von Malerei zweier Künstler",
+   "url": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/maria-lassnig-und-edvard-munch/",
+   "kuenstler": [
+    "Maria Lassnig",
+    "Edvard Munch"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Wu Tsang",
+   "untertitel": "«La montaña invertida» – im Rahmen der ReCollect!-Reihe",
+   "beginn": null,
+   "ende": "2026-12-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Kunsthaus Zürich",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Wu Tsang",
+   "gemeinfrei": false,
+   "schwerpunkt": "Installation und Film der zeitgenössischen Künstlerin",
+   "url": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/wu-tsang/",
+   "kuenstler": [
+    "Wu Tsang"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/",
+   "eintritt": "CHF 24.–/17.–* (reduziert)",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Malfluss = Lebensfluss",
@@ -95,7 +125,8 @@
    "eroeffnung": null,
    "url": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/maria-lassnig-und-edvard-munch/",
    "quelle": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
   },
   {
    "titel": "La montaña invertida",
@@ -118,7 +149,8 @@
    "url": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/wu-tsang/",
    "quelle": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/",
    "eintritt": "CHF 24.–/17.– (reduziert)",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
   },
   {
    "titel": "Residuum",
@@ -141,10 +173,34 @@
    "eroeffnung": null,
    "url": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/ralph-lemon-und-kevin-beasley/",
    "quelle": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
   }
  ],
  "aussortiert": [
+  {
+   "titel": "Wolfgang Laib und die Sammlung des Kunsthaus Zürich",
+   "untertitel": "Im Rahmen der ReCollect!-Reihe",
+   "beginn": "2026-03-07",
+   "ende": "2026-10-04",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthaus Zürich",
+   "rang": 5,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Wolfgang Laib",
+   "gemeinfrei": false,
+   "schwerpunkt": "Werke Wolfgang Laibs im Dialog mit der Sammlung",
+   "url": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/wolfgang-laib/",
+   "kuenstler": [
+    "Wolfgang Laib"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "quelle": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
+  },
   {
    "titel": "Marisol",
    "untertitel": "Zwischen Pop Art und gesellschaftlicher Kritik",
@@ -153,21 +209,22 @@
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Kunsthaus Zürich",
-   "rang": 6,
+   "rang": 0,
    "epoche": "moderne",
    "einzelausstellung_von": "Marisol",
+   "gemeinfrei": false,
+   "schwerpunkt": "Skulpturen und Objekte der Künstlerin",
+   "url": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/marisol/",
    "kuenstler": [
     "Marisol"
    ],
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
    "eroeffnung": null,
-   "url": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/marisol/",
+   "anderer_ort": null,
    "quelle": "https://www.kunsthaus.ch/besuch-planen/ausstellungen/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 3
 }

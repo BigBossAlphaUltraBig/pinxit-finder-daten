@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Schönheit des Zufalls",
-   "untertitel": null,
+   "untertitel": "",
    "beginn": "2026-10-17",
    "ende": "2026-12-31",
    "art": "wechselausstellung",
@@ -28,7 +28,6 @@
    ],
    "eroeffnung": "2026-10-16T18:00",
    "url": "https://www.galeriewittenbrink.de/fecht-tom.html",
-   "anderer_ort": null,
    "quelle": "https://www.galeriewittenbrink.de/ausstellungen.html",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -54,9 +53,8 @@
    ],
    "eroeffnung": null,
    "url": "https://www.galeriewittenbrink.de/dekker-michael.html",
-   "anderer_ort": null,
    "quelle": "https://www.galeriewittenbrink.de/ausstellungen.html",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
@@ -71,17 +69,18 @@
    "epoche": "moderne",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": null,
    "kuenstler": [
     "Rolf-Gunter Dienst"
    ],
    "anderer_ort": "MKM Museum Küppersmühle, Duisburg",
    "eroeffnung": null,
-   "url": "https://museum-kueppersmuehle.de/ausstellung/rolf-gunter-dienst-tagebuch-der-bilder-ein-blick-in-den-nachlass/",
+   "url": "https://www.galeriewittenbrink.de/news-reader-wittenbrink/rolf-gunter-dienst-tagebuch-der-bilder-ein-blick-in-den-nachlass-ausstellung-im-mkm-museum-kueppersmuehle-duisburg.html",
    "quelle": "https://www.galeriewittenbrink.de/aktuelles.html",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: MKM Museum Küppersmühle, Duisburg"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

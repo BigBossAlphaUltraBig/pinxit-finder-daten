@@ -11,6 +11,30 @@
  ],
  "ausstellungen": [
   {
+   "titel": "WOLFRAM ULLRICH",
+   "untertitel": null,
+   "beginn": "2026-11-07",
+   "ende": "2027-01-15",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Sturm & Schober",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [
+    "Wolfram Ullrich"
+   ],
+   "eroeffnung": "2026-11-07T11:00",
+   "einzelausstellung_von": "Wolfram Ullrich",
+   "anderer_ort": null,
+   "url": "https://www.sturmschober.com/ausstellungen/wolfram-ullrich/",
+   "quelle": "https://www.sturmschober.com/ausstellungen/?future",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
    "titel": "Tautologien",
    "untertitel": "Paul Thuile – Tautologien",
    "beginn": "2026-09-14",
@@ -32,55 +56,10 @@
    "quelle": "https://www.sturmschober.com/ausstellungen/paul-thuile-tautologien/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
-   "verpasst": 0
-  },
-  {
-   "titel": "Wolfram Ullrich",
-   "untertitel": null,
-   "beginn": "2026-11-07",
-   "ende": "2027-01-15",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Galerie Sturm & Schober",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "kuenstler": [
-    "Wolfram Ullrich"
-   ],
-   "eroeffnung": "2026-11-07T11:00",
-   "url": "https://www.sturmschober.com/ausstellungen/wolfram-ullrich/",
-   "quelle": "https://www.sturmschober.com/ausstellungen/?future",
-   "detail_geprueft": "2026-10-12",
-   "erstmals": "2026-10-12",
-   "verpasst": 0
-  },
-  {
-   "titel": "PAUL THUILE – TAUTOLOGIEN",
-   "untertitel": "Ausstellung zu architektonischen Räumen in Wien",
-   "kuenstler": [
-    "PAUL THUILE"
-   ],
-   "beginn": "2026-09-14",
-   "ende": "2026-10-31",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Galerie Sturm & Schober",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "eroeffnung": "2026-09-12T10:00",
-   "anderer_ort": null,
-   "url": "https://www.sturmschober.com/ausstellungen/paul-thuile-tautologien/",
-   "quelle": "https://www.sturmschober.com/ausstellungen/paul-thuile-tautologien/",
-   "detail_geprueft": "2026-10-12",
    "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 1
 }

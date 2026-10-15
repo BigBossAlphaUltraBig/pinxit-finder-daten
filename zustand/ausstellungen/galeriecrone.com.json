@@ -27,8 +27,8 @@
    "einzelausstellung_von": "Paul Prothesis",
    "eroeffnung": null,
    "url": "https://www.galeriecrone.com/recent/curated-by-2026-eng",
-   "schwerpunkt": null,
    "anderer_ort": null,
+   "schwerpunkt": null,
    "quelle": "https://www.galeriecrone.com/wien",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -38,20 +38,20 @@
    "titel": "Sediments",
    "untertitel": null,
    "beginn": "2026-09-10",
-   "ende": "2026-10-31",
+   "ende": "2026-11-21",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Crone",
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Clemens Krauss",
    "kuenstler": [
     "Clemens Krauss"
    ],
-   "einzelausstellung_von": "Clemens Krauss",
-   "eroeffnung": null,
    "anderer_ort": null,
-   "schwerpunkt": null,
+   "eroeffnung": null,
    "url": "https://www.galeriecrone.com/recent/clemens-krauss-2026-eng",
    "quelle": "https://www.galeriecrone.com/berlin",
    "detail_geprueft": "2026-10-12",
@@ -73,49 +73,13 @@
     "Ruscha Voormann"
    ],
    "einzelausstellung_von": "Ruscha Voormann",
-   "eroeffnung": null,
+   "eroeffnung": "2026-11-12",
    "url": null,
-   "schwerpunkt": null,
    "anderer_ort": null,
+   "schwerpunkt": null,
    "quelle": "https://www.galeriecrone.com/wien",
    "erstmals": "2026-10-12",
    "verpasst": 0
-  },
-  {
-   "titel": "Paul Prothesis",
-   "untertitel": "Containment & Desire in the Leaking Body",
-   "beginn": "2026-09-15",
-   "ende": "2026-10-24",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Crone",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Paul Prothesis"
-   ],
-   "url": "https://www.galeriecrone.com/recent/curated-by-2026-eng",
-   "quelle": "https://www.galeriecrone.com/wien",
-   "eroeffnung": null,
-   "detail_geprueft": "2026-10-12",
-   "verpasst": 1
-  },
-  {
-   "titel": "Ruscha Voormann",
-   "untertitel": "Processing: performance",
-   "beginn": "2026-10-27",
-   "ende": "2026-11-10",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Crone",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Ruscha Voormann"
-   ],
-   "eroeffnung": null,
-   "quelle": "https://www.galeriecrone.com/wien",
-   "verpasst": 1
   }
  ],
  "aussortiert": [
@@ -125,7 +89,7 @@
    "beginn": "2026-10-27",
    "ende": "2026-11-10",
    "art": "veranstaltung",
-   "fachgebiet": "bildende_kunst",
+   "fachgebiet": "sonstiges",
    "haus": "Crone",
    "rang": 3,
    "epoche": "zeitgenoessisch",
@@ -136,8 +100,8 @@
    "einzelausstellung_von": null,
    "eroeffnung": null,
    "url": null,
-   "schwerpunkt": null,
    "anderer_ort": null,
+   "schwerpunkt": null,
    "quelle": "https://www.galeriecrone.com/wien",
    "grund": "Veranstaltung, keine Ausstellung"
   },
@@ -156,12 +120,12 @@
    "einzelausstellung_von": null,
    "eroeffnung": null,
    "url": null,
-   "schwerpunkt": null,
    "anderer_ort": null,
+   "schwerpunkt": null,
    "quelle": "https://www.galeriecrone.com/wien",
    "grund": "Messe/Markt, keine Ausstellung"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 2
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

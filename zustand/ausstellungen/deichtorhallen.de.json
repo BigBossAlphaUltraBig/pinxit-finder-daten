@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Rotting from Within",
-   "untertitel": "PHOXXI – Haus der Photographie temporär",
+   "untertitel": "",
    "beginn": "2026-06-05",
    "ende": "2026-11-01",
    "art": "wechselausstellung",
@@ -20,45 +20,24 @@
    "haus": "Deichtorhallen",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
+   "schwerpunkt": "",
    "kuenstler": [
     "Abdulhamid Kircher"
    ],
    "anderer_ort": null,
    "eroeffnung": null,
    "einzelausstellung_von": "Abdulhamid Kircher",
+   "gemeinfrei": false,
    "url": "https://www.deichtorhallen.de/de/ausstellungen/abdulhamid-kircher/",
    "quelle": "https://www.deichtorhallen.de/de/ausstellungen",
    "detail_geprueft": "2026-10-12",
-   "standort": "Deichtorhallen / Haus der Photographie"
-  },
-  {
-   "titel": "Residual Sky",
-   "untertitel": "Under Contamination",
-   "beginn": "2026-06-05",
-   "ende": "2026-11-01",
-   "art": "wechselausstellung",
-   "fachgebiet": "fotografie",
-   "haus": "Deichtorhallen",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "Akosua Viktoria Adu-Sanyah"
-   ],
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "einzelausstellung_von": "Akosua Viktoria Adu-Sanyah",
-   "url": "https://www.deichtorhallen.de/de/ausstellungen/akosua-viktoria-adu-sanyah/",
-   "quelle": "https://www.deichtorhallen.de/de/ausstellungen",
-   "detail_geprueft": "2026-10-12",
-   "standort": "Deichtorhallen / Haus der Photographie"
+   "standort": "Deichtorhallen / Haus der Photographie",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Residual Sky under Contamination",
-   "untertitel": "PHOXXI – Haus der Photographie temporär",
+   "untertitel": "",
    "beginn": "2026-06-05",
    "ende": "2026-11-01",
    "art": "wechselausstellung",
@@ -66,7 +45,6 @@
    "haus": "Deichtorhallen",
    "rang": 2,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
    "schwerpunkt": "",
    "kuenstler": [
     "Akosua Viktoria Adu-Sanyah"
@@ -74,14 +52,17 @@
    "anderer_ort": null,
    "eroeffnung": null,
    "einzelausstellung_von": "Akosua Viktoria Adu-Sanyah",
+   "gemeinfrei": false,
    "url": "https://www.deichtorhallen.de/de/ausstellungen/akosua-viktoria-adu-sanyah/",
-   "quelle": "https://www.deichtorhallen.de/de/ausstellungen/",
+   "quelle": "https://www.deichtorhallen.de/de/ausstellungen",
    "detail_geprueft": "2026-10-12",
-   "standort": "Deichtorhallen / Haus der Photographie"
+   "standort": "Deichtorhallen / Haus der Photographie",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Hito Steyerl – Deine Mudda macht Show",
-   "untertitel": "Deine Mudda macht Show",
+   "untertitel": "",
    "beginn": "2026-10-30",
    "ende": "2027-03-29",
    "art": "wechselausstellung",
@@ -89,30 +70,6 @@
    "haus": "Deichtorhallen",
    "rang": 4,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "Hito Steyerl"
-   ],
-   "anderer_ort": null,
-   "eroeffnung": "2026-10-29T19:00",
-   "einzelausstellung_von": "Hito Steyerl",
-   "url": "https://www.deichtorhallen.de/de/ausstellungen/hito-steyerl/",
-   "quelle": "https://www.deichtorhallen.de/de/ausstellungen",
-   "detail_geprueft": "2026-10-12",
-   "standort": "Deichtorhallen / Haus der Photographie"
-  },
-  {
-   "titel": "Deine Mudda macht Show",
-   "untertitel": "Hito Steyerl – Deine Mudda macht Show",
-   "beginn": "2026-10-30",
-   "ende": "2027-03-29",
-   "art": "wechselausstellung",
-   "fachgebiet": "medienkunst",
-   "haus": "Deichtorhallen",
-   "rang": 4,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
    "schwerpunkt": "",
    "kuenstler": [
     "Hito Steyerl"
@@ -120,13 +77,41 @@
    "anderer_ort": null,
    "eroeffnung": "2026-10-29T19:00",
    "einzelausstellung_von": "Hito Steyerl",
+   "gemeinfrei": false,
    "url": "https://www.deichtorhallen.de/de/ausstellungen/hito-steyerl/",
-   "quelle": "https://www.deichtorhallen.de/de/ausstellungen/",
+   "quelle": "https://www.deichtorhallen.de/de/ausstellungen",
    "detail_geprueft": "2026-10-12",
-   "standort": "Deichtorhallen / Haus der Photographie"
+   "standort": "Deichtorhallen / Haus der Photographie",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
-   "titel": "Tomorrow's Ghosts – (Zeit-)Geister des Fotografischen",
+   "titel": "Deine Mudda macht Show",
+   "untertitel": "",
+   "beginn": "2026-10-30",
+   "ende": "2027-03-29",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Deichtorhallen",
+   "rang": 4,
+   "epoche": "zeitgenoessisch",
+   "anderer_ort": null,
+   "einzelausstellung_von": "Hito Steyerl",
+   "kuenstler": [
+    "Hito Steyerl"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://www.deichtorhallen.de/de/ausstellungen/hito-steyerl/",
+   "eroeffnung": "2026-10-29T19:00",
+   "quelle": "https://www.deichtorhallen.de/de/ausstellungen/",
+   "detail_geprueft": "2026-10-12",
+   "standort": "Deichtorhallen / Haus der Photographie",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Tomorrow’s Ghosts – (Zeit-)Geister des Fotografischen",
    "untertitel": "Expanded Horizons – Neue fotografische Perspektiven",
    "beginn": "2026-11-20",
    "ende": "2027-04-04",
@@ -135,25 +120,18 @@
    "haus": "Deichtorhallen",
    "rang": 5,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "Teresa Fischer",
-    "Lisa Mazenauer",
-    "Cedric Zellweger",
-    "Mai Do",
-    "Pavle Nikolić",
-    "Anastasiia Batishcheva",
-    "Nora Handsley",
-    "Vincent Völker"
-   ],
+   "schwerpunkt": "",
+   "kuenstler": [],
    "anderer_ort": null,
    "eroeffnung": null,
    "einzelausstellung_von": null,
+   "gemeinfrei": false,
    "url": "https://www.deichtorhallen.de/de/ausstellungen/expanded-horizons/",
    "quelle": "https://www.deichtorhallen.de/de/ausstellungen",
    "detail_geprueft": "2026-10-12",
-   "standort": "Deichtorhallen / Haus der Photographie"
+   "standort": "Deichtorhallen / Haus der Photographie",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "(Zeit-)Geister des Fotografischen",
@@ -183,13 +161,14 @@
    "url": "https://www.deichtorhallen.de/de/ausstellungen/expanded-horizons/",
    "quelle": "https://www.deichtorhallen.de/de/ausstellungen/",
    "detail_geprueft": "2026-10-12",
-   "standort": "Deichtorhallen / Haus der Photographie"
+   "standort": "Deichtorhallen / Haus der Photographie",
+   "verpasst": 1
   }
  ],
  "aussortiert": [
   {
    "titel": "Joyce Pensato: Eyes for You",
-   "untertitel": "EYES FOR YOU",
+   "untertitel": "Eyes for You",
    "beginn": "2026-10-10",
    "ende": "2027-04-04",
    "art": "wechselausstellung",
@@ -197,31 +176,6 @@
    "haus": "Deichtorhallen",
    "rang": 3,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "Joyce Pensato"
-   ],
-   "anderer_ort": "Sammlung Falckenberg",
-   "eroeffnung": null,
-   "einzelausstellung_von": "Joyce Pensato",
-   "url": "https://www.deichtorhallen.de/de/ausstellungen/joyce-pensato/",
-   "quelle": "https://www.deichtorhallen.de/de/ausstellungen",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Sammlung Falckenberg",
-   "standort": "Deichtorhallen / Haus der Photographie"
-  },
-  {
-   "titel": "Eyes for You",
-   "untertitel": "Joyce Pensato: Eyes for You",
-   "beginn": "2026-10-10",
-   "ende": "2027-04-04",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Deichtorhallen",
-   "rang": 3,
-   "epoche": "moderne",
-   "gemeinfrei": false,
    "schwerpunkt": "",
    "kuenstler": [
     "Joyce Pensato"
@@ -229,12 +183,59 @@
    "anderer_ort": "Sammlung Falckenberg",
    "eroeffnung": null,
    "einzelausstellung_von": "Joyce Pensato",
+   "gemeinfrei": false,
    "url": "https://www.deichtorhallen.de/de/ausstellungen/joyce-pensato/",
+   "quelle": "https://www.deichtorhallen.de/de/ausstellungen",
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Sammlung Falckenberg",
+   "standort": "Deichtorhallen / Haus der Photographie"
+  },
+  {
+   "titel": "Tanz!",
+   "untertitel": "",
+   "beginn": "2027-05-01",
+   "ende": "2027-09-19",
+   "art": "wechselausstellung",
+   "fachgebiet": "sonstiges",
+   "haus": "Deichtorhallen",
+   "rang": 6,
+   "epoche": "zeitgenoessisch",
+   "schwerpunkt": "",
+   "kuenstler": [],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
+   "gemeinfrei": false,
+   "url": null,
+   "quelle": "https://www.deichtorhallen.de/de/ausstellungen",
+   "grund": "keine Kunst (sonstiges)",
+   "standort": "Deichtorhallen / Haus der Photographie"
+  },
+  {
+   "titel": "Eyes for You",
+   "untertitel": "Eyes for You",
+   "beginn": "2026-10-10",
+   "ende": "2027-04-04",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Deichtorhallen",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "anderer_ort": "Sammlung Falckenberg",
+   "einzelausstellung_von": "Joyce Pensato",
+   "kuenstler": [
+    "Joyce Pensato"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://www.deichtorhallen.de/de/ausstellungen/joyce-pensato/",
+   "eroeffnung": null,
    "quelle": "https://www.deichtorhallen.de/de/ausstellungen/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Sammlung Falckenberg",
    "standort": "Deichtorhallen / Haus der Photographie"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 1
 }

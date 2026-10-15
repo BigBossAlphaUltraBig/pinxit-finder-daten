@@ -10,6 +10,54 @@
  ],
  "ausstellungen": [
   {
+   "titel": "Lecture on Birdsong",
+   "untertitel": "Andy Holden – Lecture on Birdsong",
+   "kuenstler": [
+    "Andy Holden"
+   ],
+   "beginn": "2026-09-03",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Hidde van Seggelen",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://hiddevanseggelen.com/exhibitions/andy-holden-lecture-on-birdsong-80ef5341/",
+   "eroeffnung": null,
+   "einzelausstellung_von": "Andy Holden",
+   "anderer_ort": null,
+   "quelle": "https://hiddevanseggelen.com/exhibitions/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Suchan Kinoshita",
+   "untertitel": "",
+   "kuenstler": [
+    "Suchan Kinoshita"
+   ],
+   "beginn": "2026-11-27",
+   "ende": "2027-01-30",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Hidde van Seggelen",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://hiddevanseggelen.com/exhibitions/suchan-kinoshita-f9564b53/",
+   "eroeffnung": null,
+   "einzelausstellung_von": "Suchan Kinoshita",
+   "anderer_ort": null,
+   "quelle": "https://hiddevanseggelen.com/exhibitions/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
    "titel": "Andy Holden – Lecture on Birdsong",
    "untertitel": "",
    "beginn": "2026-09-03",
@@ -31,34 +79,10 @@
    "quelle": "https://hiddevanseggelen.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
-   "verpasst": 0
-  },
-  {
-   "titel": "Suchan Kinoshita",
-   "untertitel": "null",
-   "beginn": "2026-11-27",
-   "ende": "2027-01-30",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Hidde van Seggelen",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "Suchan Kinoshita"
-   ],
-   "einzelausstellung_von": "Suchan Kinoshita",
-   "url": "https://hiddevanseggelen.com/exhibitions/suchan-kinoshita-f9564b53/",
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "quelle": "https://hiddevanseggelen.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
-   "erstmals": "2026-10-12",
-   "verpasst": 0
+   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 0
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 1
 }

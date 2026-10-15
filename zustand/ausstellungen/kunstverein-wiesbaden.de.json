@@ -22,18 +22,11 @@
    "epoche": "gemischt",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "kuenstler": [
-    "Gregor Gleiwitz",
-    "Kapwani Kiwanga",
-    "Markues",
-    "Edie Monetti",
-    "Frances Scholz",
-    "P. Staff"
-   ],
-   "url": "https://www.kunstverein-wiesbaden.de/details/couleur-vivante-vom-eigensinn-der-wahrnehmung",
+   "kuenstler": [],
    "anderer_ort": null,
    "eroeffnung": null,
    "einzelausstellung_von": null,
+   "url": "https://www.kunstverein-wiesbaden.de/details/couleur-vivante-vom-eigensinn-der-wahrnehmung",
    "quelle": "https://www.kunstverein-wiesbaden.de/ausstellungen/vorschau",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -41,7 +34,7 @@
   },
   {
    "titel": "[a noise in the ear like the wind]",
-   "untertitel": "Christian Naujoks / [a noise in the ear like the wind]",
+   "untertitel": null,
    "beginn": "2026-09-04",
    "ende": "2027-04-25",
    "art": "wechselausstellung",
@@ -55,37 +48,17 @@
     "Christian Naujoks"
    ],
    "einzelausstellung_von": "Christian Naujoks",
-   "anderer_ort": null,
    "eroeffnung": null,
+   "anderer_ort": null,
    "url": "https://www.kunstverein-wiesbaden.de/austellung/christian-naujoks-a-noise-in-the-ear-like-the-wind",
+   "ende_hinweis": null,
    "quelle": "https://www.kunstverein-wiesbaden.de/ausstellungen/whats-on",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
    "verpasst": 0
-  },
-  {
-   "titel": "Christian Naujoks / [a noise in the ear like the wind]",
-   "untertitel": null,
-   "beginn": "2026-09-04",
-   "ende": "2027-04-25",
-   "art": "wechselausstellung",
-   "kunst": true,
-   "haus": "Nassauischer Kunstverein",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Christian Naujoks"
-   ],
-   "einzelausstellung_von": "Christian Naujoks",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "url": "https://www.kunstverein-wiesbaden.de/austellung/christian-naujoks-a-noise-in-the-ear-like-the-wind",
-   "quelle": "https://www.kunstverein-wiesbaden.de/ausstellungen/whats-on",
-   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 1
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

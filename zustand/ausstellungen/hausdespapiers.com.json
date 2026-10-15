@@ -22,6 +22,7 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": null,
    "kuenstler": [
     "Dirk Krecker",
     "Hideaki Yamanobe",
@@ -58,6 +59,7 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": null,
    "kuenstler": [
     "Andrea Pöter",
     "Andrey Krasulin",
@@ -109,9 +111,9 @@
   },
   {
    "titel": "Sonderschau Annette Berr und Annika Lorenz",
-   "untertitel": "Sonderschau Annette Berr und Annika Lorenz",
-   "beginn": null,
-   "ende": null,
+   "untertitel": null,
+   "beginn": "2026-06-12",
+   "ende": "2026-12-06",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Haus des Papiers",
@@ -119,6 +121,7 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": null,
    "kuenstler": [
     "Annette Berr",
     "Annika Lorenz"
@@ -145,6 +148,7 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": null,
    "kuenstler": [
     "Anna Handick",
     "Alexandra Fruhstorfer",
@@ -156,10 +160,10 @@
    "eroeffnung": null,
    "url": "https://www.hausdespapiers.com/",
    "quelle": "https://www.hausdespapiers.com/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "keine Kunst (technik)"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

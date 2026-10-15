@@ -25,14 +25,17 @@
     "Lucia Tallová"
    ],
    "einzelausstellung_von": "Lucia Tallová",
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "schwerpunkt": null,
    "url": "https://palaispopulaire.db.com/exhibitions/current-exhibition/lucia-tallov-moving-clouds",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "schwerpunkt": null,
    "quelle": "https://palaispopulaire.db.com/exhibitions/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

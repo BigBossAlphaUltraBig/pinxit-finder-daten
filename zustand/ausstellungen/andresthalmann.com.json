@@ -22,11 +22,11 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": "Ian Davenport",
    "kuenstler": [
     "Ian Davenport"
    ],
    "eroeffnung": null,
-   "einzelausstellung_von": "Ian Davenport",
    "anderer_ort": null,
    "url": "https://andresthalmann.com/exhibitions/95-ian-davenport-resonance/overview/",
    "quelle": "https://andresthalmann.com/exhibitions/",
@@ -40,17 +40,17 @@
    "beginn": "2026-09-04",
    "ende": "2026-11-21",
    "art": "wechselausstellung",
-   "fachgebiet": "architektur",
+   "fachgebiet": "bildende_kunst",
    "haus": "Galerie Andres Thalmann",
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": "Eamon O'Kane",
    "kuenstler": [
     "Eamon O'Kane"
    ],
    "eroeffnung": null,
-   "einzelausstellung_von": "Eamon O'Kane",
    "anderer_ort": null,
    "url": "https://andresthalmann.com/exhibitions/98-eamon-o-kane-echoes-of-modernism/overview/",
    "quelle": "https://andresthalmann.com/exhibitions/",
@@ -60,6 +60,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

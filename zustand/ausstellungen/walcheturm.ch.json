@@ -20,24 +20,23 @@
    "haus": "Kunstraum Walcheturm",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "Zhao Ziyi",
     "Manfred Werder"
    ],
-   "url": "https://walcheturm.ch/agenda/the-law-is-a-calculated-and-relentless-pleasure-delight-in-the-promised-blood-zhao-ziyi-and-manfred-werder",
    "eroeffnung": null,
+   "url": "https://www.walcheturm.ch/agenda/the-law-is-a-calculated-and-relentless-pleasure-delight-in-the-promised-blood-zhao-ziyi-and-manfred-werder",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
    "anderer_ort": null,
    "einzelausstellung_von": null,
    "quelle": "https://www.walcheturm.ch/",
    "eintritt": "20 CHF / 15 CHF",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "Veranstaltung, keine Ausstellung"
   },
   {
-   "titel": "Bring me Flowers And Tell Me You Love Me",
-   "untertitel": "Stepmother: Album Präsentation",
+   "titel": "Stepmother: Album Präsentation «Bring me Flowers And Tell Me You Love Me»",
    "beginn": "2026-10-20",
    "ende": "2026-10-20",
    "art": "veranstaltung",
@@ -45,23 +44,23 @@
    "haus": "Kunstraum Walcheturm",
    "rang": 2,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "Stepmother"
    ],
-   "url": "https://walcheturm.ch/agenda/stepmother-album-praesentation-bring-me-flowers-and-tell-me-you-love-me",
    "eroeffnung": null,
+   "url": "https://www.walcheturm.ch/agenda/stepmother-album-praesentation-bring-me-flowers-and-tell-me-you-love-me",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
    "anderer_ort": null,
    "einzelausstellung_von": null,
+   "untertitel": "Album Präsentation «Bring me Flowers And Tell Me You Love Me»",
    "quelle": "https://www.walcheturm.ch/",
    "eintritt": "CHF 25.- / 15.-",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "Veranstaltung, keine Ausstellung"
   },
   {
    "titel": "Glenn Jones - Liam Grant - Son of Buzzi",
-   "untertitel": "Drei Perspektiven der zeitgenössischen American Primitive Guitar",
    "beginn": "2026-10-21",
    "ende": "2026-10-21",
    "art": "veranstaltung",
@@ -69,25 +68,25 @@
    "haus": "Kunstraum Walcheturm",
    "rang": 3,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "Glenn Jones",
     "Liam Grant",
     "Son of Buzzi"
    ],
-   "url": "https://walcheturm.ch/agenda/glenn-jones-liam-grant-son-of-buzzi",
    "eroeffnung": null,
+   "url": "https://www.walcheturm.ch/agenda/glenn-jones-liam-grant-son-of-buzzi",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
    "anderer_ort": null,
    "einzelausstellung_von": null,
+   "untertitel": "Glenn Jones - Liam Grant - Son of Buzzi",
    "quelle": "https://www.walcheturm.ch/",
    "eintritt": "CHF 25.- / 15.-",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "Veranstaltung, keine Ausstellung"
   },
   {
    "titel": "FRANCE",
-   "untertitel": "Electric Freak Fusion",
    "beginn": "2026-10-22",
    "ende": "2026-10-22",
    "art": "veranstaltung",
@@ -95,23 +94,22 @@
    "haus": "Kunstraum Walcheturm",
    "rang": 4,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "France"
    ],
-   "url": "https://walcheturm.ch/agenda/france",
    "eroeffnung": null,
+   "url": "https://www.walcheturm.ch/agenda/france",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
    "anderer_ort": null,
    "einzelausstellung_von": null,
+   "untertitel": "Electric Freak Fusion",
    "quelle": "https://www.walcheturm.ch/",
-   "eintritt": "CHF 25.- / 15.-",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "Veranstaltung, keine Ausstellung"
   },
   {
-   "titel": "Jannik Giger - Endless Love",
-   "untertitel": "Ensemble Tzara #1",
+   "titel": "Ensemble Tzara #1: Jannik Giger - Endless Love",
    "beginn": "2026-10-24",
    "ende": "2026-10-24",
    "art": "veranstaltung",
@@ -119,21 +117,22 @@
    "haus": "Kunstraum Walcheturm",
    "rang": 5,
    "epoche": "zeitgenoessisch",
+   "kuenstler": [
+    "Ensemble Tzara",
+    "Jannik Giger"
+   ],
+   "eroeffnung": null,
+   "url": "https://www.walcheturm.ch/agenda/ensemble-tzara-1-jannik-giger-endless-love",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "kuenstler": [
-    "Jannik Giger",
-    "Ensemble Tzara"
-   ],
-   "url": "https://walcheturm.ch/agenda/ensemble-tzara-1-jannik-giger-endless-love",
-   "eroeffnung": null,
    "anderer_ort": null,
    "einzelausstellung_von": null,
+   "untertitel": "Porträtkonzert",
    "quelle": "https://www.walcheturm.ch/",
    "eintritt": "CHF 25.- / 15.-",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "Veranstaltung, keine Ausstellung"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

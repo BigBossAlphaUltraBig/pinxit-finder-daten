@@ -7,9 +7,85 @@
  "status": "ok",
  "seiten": [
   "https://www.museum-ludwig.de/de/ausstellungen",
-  "https://www.museum-ludwig.de/de/"
+  "https://www.museum-ludwig.de/de/ausstellungen/along-the-color-line-spuren-einer-transatlantischen-moderne"
  ],
  "ausstellungen": [
+  {
+   "titel": "Along the Color Line",
+   "untertitel": "Spuren einer transatlantischen Moderne",
+   "beginn": "2026-10-03",
+   "ende": "2027-03-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Ludwig",
+   "rang": 1,
+   "epoche": "moderne",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "url": "https://www.museum-ludwig.de/de/ausstellungen/along-the-color-line-spuren-einer-transatlantischen-moderne",
+   "kuenstler": [
+    "James Gregory Atkinson",
+    "Mildred Thompson",
+    "Herbert Gentry",
+    "Iba Ndiaye"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "quelle": "https://www.museum-ludwig.de/de/ausstellungen",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "HIER UND JETZT im Museum Ludwig",
+   "untertitel": "De/Collecting Memories from Turtle Island",
+   "beginn": "2026-02-07",
+   "ende": "2026-11-08",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Ludwig",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "url": "https://www.museum-ludwig.de/de/ausstellungen/hier-und-jetzt-im-museum-ludwig-de/collecting-memories-from-turtle-island",
+   "kuenstler": [
+    "Marie Watt",
+    "Wendy Red Star"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "quelle": "https://www.museum-ludwig.de/de/ausstellungen",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Schultze Projects #5 Jana Euler",
+   "untertitel": "Triptych – Image Viewer Connections",
+   "beginn": "2026-07-18",
+   "ende": "2028-07-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Ludwig",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Jana Euler",
+   "url": "https://www.museum-ludwig.de/de/ausstellungen/schultze-projects-5-jana-euler",
+   "kuenstler": [
+    "Jana Euler"
+   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "quelle": "https://www.museum-ludwig.de/de/ausstellungen",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
   {
    "titel": "Collecting Memories from Turtle Island",
    "untertitel": "HIER UND JETZT IM MUSEUM LUDWIG – DE/",
@@ -27,51 +103,11 @@
    "eroeffnung": null,
    "anderer_ort": null,
    "einzelausstellung_von": null,
-   "quelle": "https://www.museum-ludwig.de/de/"
-  },
-  {
-   "titel": "Schultze Projects #5",
-   "untertitel": "Jana Euler",
-   "beginn": "2026-07-18",
-   "ende": "2028-07-31",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Museum Ludwig",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": "",
-   "url": "https://www.museum-ludwig.de/de/ausstellungen/schultze-projects-5-jana-euler",
-   "kuenstler": [
-    "Jana Euler"
-   ],
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "einzelausstellung_von": "Jana Euler",
-   "quelle": "https://www.museum-ludwig.de/de/"
-  }
- ],
- "aussortiert": [
-  {
-   "titel": "Sammlung Fotografie: Zweimal Deutschland um 1980",
-   "untertitel": "Präsentation in den Fotoräumen",
-   "beginn": "2026-04-18",
-   "ende": "2026-10-11",
-   "art": "sammlungspraesentation",
-   "fachgebiet": "fotografie",
-   "haus": "Museum Ludwig",
-   "rang": 3,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": "Fotografie der 1980er Jahre aus Ost- und Westdeutschland",
-   "url": "https://www.museum-ludwig.de/de/ausstellungen/sammlung-fotografie-zweimal-deutschland-um-1980",
-   "kuenstler": [],
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "einzelausstellung_von": null,
    "quelle": "https://www.museum-ludwig.de/de/",
-   "grund": "beendet"
+   "verpasst": 1
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 1
 }

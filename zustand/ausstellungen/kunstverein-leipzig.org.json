@@ -4,49 +4,9 @@
  "haeuser": "Kunstverein Leipzig",
  "land": "DE",
  "ids": "node/9725081761",
- "status": "nur aussortierte",
- "seiten": [
-  "https://kunstverein-leipzig.org/actions/on-view",
-  "https://kunstverein-leipzig.org/actions/strecke-deine-woerter-oder-haende-langsam-aus-opening-copy"
- ],
+ "status": "nicht erreichbar",
+ "seiten": [],
  "ausstellungen": [],
- "aussortiert": [
-  {
-   "titel": "Strecke deine Wörter oder Hände langsam aus",
-   "untertitel": "Ausstellung 14. August bis 9. Oktober 2026",
-   "beginn": "2026-08-14",
-   "ende": "2026-10-09",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Kunstverein Leipzig",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "Alisa Kossak",
-    "Sarah Veith",
-    "the Other Gods",
-    "Dirk Sorge",
-    "Jovana Komnenić",
-    "Hooria Sanei",
-    "Iz Paehr",
-    "Jana Maria Dohmann",
-    "Jo Bannon",
-    "Paula Gehrmann",
-    "Sophie Hoyle",
-    "Theresa Rothe",
-    "Tina Mamczur",
-    "Verena Schöttmer"
-   ],
-   "eroeffnung": "2026-08-14",
-   "url": "https://kunstverein-leipzig.org/actions/strecke-deine-woerter-oder-haende-langsam-aus",
-   "anderer_ort": null,
-   "einzelausstellung_von": null,
-   "quelle": "https://kunstverein-leipzig.org/actions/on-view",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet"
-  }
- ],
- "abgerufen": "2026-10-12T06:55:52"
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20"
 }

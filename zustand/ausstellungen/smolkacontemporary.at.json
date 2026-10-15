@@ -20,15 +20,15 @@
    "haus": "Smolka Contemporary",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "Gilbert Bretterbauer"
    ],
    "einzelausstellung_von": "Gilbert Bretterbauer",
-   "eroeffnung": null,
+   "gemeinfrei": false,
    "anderer_ort": null,
+   "eroeffnung": null,
    "url": "https://smolkacontemporary.at/de/galerie/2026/09/11740",
+   "schwerpunkt": null,
    "quelle": "https://smolkacontemporary.at/de/ausstellungen",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -36,6 +36,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

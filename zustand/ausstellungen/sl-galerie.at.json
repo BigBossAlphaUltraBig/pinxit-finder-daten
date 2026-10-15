@@ -10,8 +10,11 @@
  ],
  "ausstellungen": [
   {
-   "titel": "Daydrifters",
+   "titel": "DAYDRIFTERS",
    "untertitel": "Anja Korherr",
+   "kuenstler": [
+    "Anja Korherr"
+   ],
    "beginn": "2026-10-15",
    "ende": "2027-03-25",
    "art": "wechselausstellung",
@@ -21,15 +24,14 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "kuenstler": [
-    "Anja Korherr"
-   ],
    "anderer_ort": null,
+   "url": "https://www.sl-galerie.at/daydrifters-anja-korherr/",
    "eroeffnung": "2026-10-14T19:00",
    "einzelausstellung_von": "Anja Korherr",
-   "url": "https://www.sl-galerie.at/",
    "quelle": "https://www.sl-galerie.at/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Schaudepot",
@@ -48,9 +50,11 @@
    "eroeffnung": null,
    "einzelausstellung_von": null,
    "url": "https://www.sl-galerie.at/schaudepot/",
-   "quelle": "https://www.sl-galerie.at/"
+   "quelle": "https://www.sl-galerie.at/",
+   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 1
 }

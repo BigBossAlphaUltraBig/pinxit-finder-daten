@@ -7,12 +7,12 @@
  "status": "ok",
  "seiten": [
   "https://www.liebieghaus.de/de/ausstellungen",
-  "https://www.liebieghaus.de/de/ausstellungen/tiere-sind-auch-nur-menschen"
+  "https://www.liebieghaus.de/de/informationen-service"
  ],
  "ausstellungen": [
   {
-   "titel": "Bühne frei für Athena",
-   "untertitel": "Das Parthenon-Puzzle",
+   "titel": "BÜHNE FREI FÜR ATHENA",
+   "untertitel": null,
    "beginn": "2026-11-18",
    "ende": "2027-07-25",
    "art": "wechselausstellung",
@@ -20,18 +20,17 @@
    "haus": "Liebieghaus  Skulpturensammlung",
    "rang": 1,
    "epoche": "andere",
+   "kuenstler": [],
+   "url": "https://www.liebieghaus.de/de/ausstellungen/buehne-frei-fuer-athena",
    "schwerpunkt": null,
-   "gemeinfrei": null,
-   "kuenstler": [
-    "Vinzenz Brinkmann",
-    "Jakob Salzmann"
-   ],
    "anderer_ort": null,
    "eroeffnung": null,
-   "url": "https://www.liebieghaus.de/de/ausstellungen/buehne-frei-fuer-athena",
+   "einzelausstellung_von": null,
+   "gemeinfrei": false,
    "quelle": "https://www.liebieghaus.de/de/ausstellungen",
    "detail_geprueft": "2026-10-12",
-   "standort": "Liebieghaus Skulpturensammlung"
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Antike",
@@ -42,15 +41,17 @@
    "fachgebiet": "bildende_kunst",
    "haus": "Liebieghaus  Skulpturensammlung",
    "rang": 2,
-   "epoche": "andere",
-   "schwerpunkt": "Bildwerke vom alten Ägypten über Griechenland bis Rom",
-   "gemeinfrei": true,
+   "epoche": "alte_meister",
    "kuenstler": [],
+   "url": "https://www.liebieghaus.de/de/ausstellungen/antike",
+   "schwerpunkt": "Bildwerke vom alten Ägypten über Griechenland bis Rom",
    "anderer_ort": null,
    "eroeffnung": null,
-   "url": "https://www.liebieghaus.de/de/ausstellungen/antike",
+   "einzelausstellung_von": null,
+   "gemeinfrei": true,
    "quelle": "https://www.liebieghaus.de/de/ausstellungen",
-   "standort": "Liebieghaus Skulpturensammlung"
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Mittelalter",
@@ -61,15 +62,17 @@
    "fachgebiet": "bildende_kunst",
    "haus": "Liebieghaus  Skulpturensammlung",
    "rang": 3,
-   "epoche": "mittelalter",
-   "schwerpunkt": "Christliche Bildhauerkunst zwischen 9. und 16. Jahrhundert",
-   "gemeinfrei": true,
+   "epoche": "alte_meister",
    "kuenstler": [],
+   "url": "https://www.liebieghaus.de/de/ausstellungen/mittelalter",
+   "schwerpunkt": "Christliche Bildhauerkunst zwischen dem 9. und 16. Jahrhundert",
    "anderer_ort": null,
    "eroeffnung": null,
-   "url": "https://www.liebieghaus.de/de/ausstellungen/mittelalter",
+   "einzelausstellung_von": null,
+   "gemeinfrei": true,
    "quelle": "https://www.liebieghaus.de/de/ausstellungen",
-   "standort": "Liebieghaus Skulpturensammlung"
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Renaissance bis Klassizismus",
@@ -80,20 +83,22 @@
    "fachgebiet": "bildende_kunst",
    "haus": "Liebieghaus  Skulpturensammlung",
    "rang": 4,
-   "epoche": "gemischt",
-   "schwerpunkt": "Neuzeitliche Skulpturen von Renaissance bis Klassizismus",
-   "gemeinfrei": true,
+   "epoche": "alte_meister",
    "kuenstler": [],
+   "url": "https://www.liebieghaus.de/de/ausstellungen/renaissance-bis-klassizismus",
+   "schwerpunkt": "Neuzeitliche Skulpturen von Renaissance bis Klassizismus",
    "anderer_ort": null,
    "eroeffnung": null,
-   "url": "https://www.liebieghaus.de/de/ausstellungen/renaissance-bis-klassizismus",
+   "einzelausstellung_von": null,
+   "gemeinfrei": true,
    "quelle": "https://www.liebieghaus.de/de/ausstellungen",
-   "standort": "Liebieghaus Skulpturensammlung"
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
   {
-   "titel": "Tiere sind auch nur Menschen",
+   "titel": "TIERE SIND AUCH NUR MENSCHEN",
    "untertitel": "Skulpturen von August Gaul",
    "beginn": "2025-11-13",
    "ende": "2026-10-11",
@@ -101,20 +106,21 @@
    "fachgebiet": "bildende_kunst",
    "haus": "Liebieghaus  Skulpturensammlung",
    "rang": 5,
-   "epoche": "andere",
-   "schwerpunkt": null,
-   "gemeinfrei": null,
+   "epoche": "gemischt",
    "kuenstler": [
     "August Gaul"
    ],
+   "url": "https://www.liebieghaus.de/de/ausstellungen/tiere-sind-auch-nur-menschen",
+   "schwerpunkt": null,
    "anderer_ort": null,
    "eroeffnung": null,
-   "url": "https://www.liebieghaus.de/de/ausstellungen/tiere-sind-auch-nur-menschen",
+   "einzelausstellung_von": null,
+   "gemeinfrei": false,
    "quelle": "https://www.liebieghaus.de/de/ausstellungen",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet",
-   "standort": "Liebieghaus Skulpturensammlung"
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

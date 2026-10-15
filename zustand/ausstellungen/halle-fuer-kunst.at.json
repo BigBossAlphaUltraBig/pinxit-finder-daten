@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Neonfarbblendluminanzwuchtgemaeldenetzhautkollisionsgefahr",
-   "untertitel": "Neonfarbblendluminanzwuchtgemaeldenetzhautkollisionsgefahr",
+   "untertitel": null,
    "beginn": "2026-09-24",
    "ende": "2027-01-10",
    "art": "wechselausstellung",
@@ -22,18 +22,20 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "einzelausstellung_von": "Katherine Bernhardt",
    "kuenstler": [
     "Katherine Bernhardt"
    ],
-   "anderer_ort": null,
+   "einzelausstellung_von": "Katherine Bernhardt",
    "eroeffnung": null,
+   "anderer_ort": null,
    "url": "https://halle-fuer-kunst.at/ausstellungen/katherine-bernhardt-neonfarbblendluminanzwuchtgemaeldenetzhautkollisionsgefahr/",
    "quelle": "https://halle-fuer-kunst.at/ausstellungen/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
-   "titel": "Die Wirklichkeit kommt später",
+   "titel": "Günter Schimunek: Die Wirklichkeit kommt später",
    "untertitel": "Die Wirklichkeit kommt später",
    "beginn": "2027-01-21",
    "ende": "2027-02-14",
@@ -43,20 +45,21 @@
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "einzelausstellung_von": "Günter Schimunek",
    "kuenstler": [
     "Günter Schimunek"
    ],
+   "einzelausstellung_von": "Günter Schimunek",
    "anderer_ort": null,
    "eroeffnung": "2027-01-20T18:00",
    "url": "https://halle-fuer-kunst.at/ausstellungen/guenter-schimunek-die-wirklichkeit-kommt-spaeter/",
-   "quelle": "https://halle-fuer-kunst.at/ausstellungen/",
-   "detail_geprueft": "2026-10-12"
+   "quelle": "https://halle-fuer-kunst.at/ausstellungen/katherine-bernhardt-neonfarbblendluminanzwuchtgemaeldenetzhautkollisionsgefahr/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "The Battles of Form against the Clouds and the Birds and the Fire",
-   "untertitel": "The Battles of Form against the Clouds and the Birds and the Fire",
+   "untertitel": null,
    "beginn": "2027-03-05",
    "ende": "2027-05-09",
    "art": "wechselausstellung",
@@ -66,19 +69,21 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "einzelausstellung_von": "Josef Strau",
    "kuenstler": [
     "Josef Strau"
    ],
-   "anderer_ort": null,
+   "einzelausstellung_von": "Josef Strau",
    "eroeffnung": "2027-03-04T18:00",
+   "anderer_ort": null,
    "url": "https://halle-fuer-kunst.at/ausstellungen/josef-strau-the-battles-of-form-against-the-clouds-and-the-birds-and-the-fire/",
    "quelle": "https://halle-fuer-kunst.at/ausstellungen/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "The Urban Expressionist",
-   "untertitel": "Leroy Johnson",
+   "untertitel": null,
    "beginn": "2027-03-05",
    "ende": "2027-05-09",
    "art": "wechselausstellung",
@@ -88,41 +93,44 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "einzelausstellung_von": "Leroy Johnson",
    "kuenstler": [
     "Leroy Johnson"
    ],
-   "anderer_ort": null,
+   "einzelausstellung_von": "Leroy Johnson",
    "eroeffnung": "2027-03-04T18:00",
+   "anderer_ort": null,
    "url": "https://halle-fuer-kunst.at/ausstellungen/leroy-johnson-the-urban-expressionist/",
    "quelle": "https://halle-fuer-kunst.at/ausstellungen/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
   {
-   "titel": "Ulrike Ottinger: Die Berlin-Trilogie",
-   "untertitel": "Die Berlin-Trilogie",
-   "beginn": "2026-04-24",
-   "ende": "2026-04-26",
-   "art": "veranstaltung",
-   "fachgebiet": "medienkunst",
+   "titel": "Die Wirklichkeit kommt später",
+   "untertitel": null,
+   "beginn": "2027-01-21",
+   "ende": "2027-02-14",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
    "haus": "Halle für Kunst Steiermark",
-   "rang": 5,
+   "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "einzelausstellung_von": null,
    "kuenstler": [
-    "Ulrike Ottinger"
+    "Günter Schimunek"
    ],
-   "anderer_ort": null,
-   "eroeffnung": "2026-04-24T18:00",
-   "url": "https://halle-fuer-kunst.at/ausstellungen/ulrike-ottinger-die-berlin-trilogie/",
+   "einzelausstellung_von": "Günter Schimunek",
+   "eroeffnung": "2027-01-20T18:00",
+   "anderer_ort": "Changes",
+   "url": "https://halle-fuer-kunst.at/ausstellungen/guenter-schimunek-die-wirklichkeit-kommt-spaeter/",
    "quelle": "https://halle-fuer-kunst.at/ausstellungen/",
    "detail_geprueft": "2026-10-12",
-   "grund": "beendet"
+   "grund": "anderer Ort: Changes"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

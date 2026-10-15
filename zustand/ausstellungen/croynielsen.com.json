@@ -19,16 +19,16 @@
    "fachgebiet": "bildende_kunst",
    "haus": "Croy Nielsen",
    "rang": 1,
-   "epoche": "moderne",
+   "epoche": "gemischt",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "einzelausstellung_von": "Lenke Rothman",
    "kuenstler": [
     "Lenke Rothman"
    ],
-   "eroeffnung": "2026-09-12T16:00",
+   "einzelausstellung_von": "Lenke Rothman",
    "anderer_ort": null,
    "url": "https://croynielsen.com/exhibitions/lenke-rothman-the-necessities-of-life-and-the-consequences-of-dreams/",
+   "eroeffnung": "2026-09-12T16:00",
    "quelle": "https://croynielsen.com/exhibitions/lenke-rothman-the-necessities-of-life-and-the-consequences-of-dreams/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -36,29 +36,6 @@
   }
  ],
  "aussortiert": [
-  {
-   "titel": "Birke Gorm – Roll Out",
-   "untertitel": "Presented by Croy Nielsen and P21, Seoul",
-   "beginn": "2026-09-01",
-   "ende": "2026-10-10",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Croy Nielsen",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "einzelausstellung_von": "Birke Gorm",
-   "kuenstler": [
-    "Birke Gorm"
-   ],
-   "eroeffnung": null,
-   "anderer_ort": "P21, Seoul",
-   "url": "https://croynielsen.com/exhibitions/birke-gorm-roll-out/",
-   "quelle": "https://croynielsen.com/exhibitions/lenke-rothman-the-necessities-of-life-and-the-consequences-of-dreams/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet"
-  },
   {
    "titel": "roll-out",
    "untertitel": "Presented by Croy Nielsen and P21, Seoul",
@@ -71,17 +48,18 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": null,
    "kuenstler": [
     "Birke Gorm"
    ],
-   "eroeffnung": null,
-   "anderer_ort": null,
+   "anderer_ort": "P21, Seoul",
+   "einzelausstellung_von": "Birke Gorm",
    "url": "https://croynielsen.com/exhibitions/birke-gorm-roll-out/",
    "quelle": "https://croynielsen.com/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

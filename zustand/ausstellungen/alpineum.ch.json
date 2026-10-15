@@ -14,16 +14,44 @@
    "untertitel": "Die Geschichte der räumlichen Photographie um 1900",
    "beginn": null,
    "ende": null,
-   "art": "sammlungspraesentation",
+   "art": "dauerausstellung",
    "fachgebiet": "fotografie",
    "haus": "Alpineum",
    "rang": 1,
    "epoche": "19_jahrhundert",
    "gemeinfrei": true,
-   "schwerpunkt": "Geschichte der räumlichen Photographie um 1900",
+   "schwerpunkt": "Geschichte der räumlichen Photographie um 1900 (Stereofotografie)",
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
    "url": "https://www.alpineum.ch/",
+   "kuenstler": [],
    "quelle": "https://www.alpineum.ch/",
    "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Alpenpanorama Luzern",
+   "untertitel": "Weitblick in die Berge",
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Alpineum",
+   "rang": 2,
+   "epoche": "19_jahrhundert",
+   "gemeinfrei": true,
+   "schwerpunkt": "Riesige Diorama-Gemälde der Schweizer Gebirgsregionen",
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "url": "https://www.alpineum.ch/",
+   "kuenstler": [
+    "Ernst Hodel sen.",
+    "Ernst Hodel jun."
+   ],
+   "quelle": "https://www.alpineum.ch/",
+   "erstmals": "2026-10-15",
    "verpasst": 0
   },
   {
@@ -41,30 +69,10 @@
    "url": "https://www.alpineum.ch/",
    "quelle": "https://www.alpineum.ch/",
    "erstmals": "2026-10-12",
-   "verpasst": 0
-  },
-  {
-   "titel": "3D-Alpen Diorama",
-   "untertitel": null,
-   "beginn": null,
-   "ende": null,
-   "art": "dauerausstellung",
-   "epoche": "19_jahrhundert",
-   "gemeinfrei": true,
-   "schwerpunkt": "Diorama-Gemälde der Schweizer Alpenregionen von Hodel",
-   "kuenstler": [
-    "Ernst Hodel sen.",
-    "Ernst Hodel jun."
-   ],
-   "kunst": true,
-   "haus": "Alpineum",
-   "rang": 1,
-   "url": "https://www.alpineum.ch/ueber-uns",
-   "quelle": "https://www.alpineum.ch/",
    "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 1
 }

@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Ayo Akingbade",
-   "untertitel": "Crossing",
+   "untertitel": null,
    "beginn": "2026-09-26",
    "ende": "2027-01-10",
    "art": "wechselausstellung",
@@ -25,9 +25,9 @@
    "kuenstler": [
     "Ayo Akingbade"
    ],
-   "anderer_ort": null,
    "eroeffnung": "2026-09-25T18:00",
-   "einzelausstellung_von": null,
+   "einzelausstellung_von": "Ayo Akingbade",
+   "anderer_ort": null,
    "url": "https://www.kunsthallezurich.ch/de/ausstellungen/10329-ayo-akingbade",
    "quelle": "https://www.kunsthallezurich.ch/de/ausstellungen/",
    "detail_geprueft": "2026-10-12",
@@ -36,7 +36,7 @@
   },
   {
    "titel": "Crossing",
-   "untertitel": "Crossing",
+   "untertitel": "",
    "beginn": "2026-09-26",
    "ende": "2027-01-10",
    "art": "wechselausstellung",
@@ -44,14 +44,14 @@
    "haus": "Kunsthalle Zürich",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "einzelausstellung_von": "Ayo Akingbade",
-   "eroeffnung": "2026-09-25T18:00",
-   "schwerpunkt": null,
    "gemeinfrei": false,
-   "anderer_ort": null,
+   "schwerpunkt": "Filme zu Urbanismus, Architektur und sozialen Kräften im städtischen Raum",
    "kuenstler": [
     "Ayo Akingbade"
    ],
+   "einzelausstellung_von": "Ayo Akingbade",
+   "eroeffnung": "2026-09-25",
+   "anderer_ort": null,
    "url": "https://www.kunsthallezurich.ch/de/ausstellungen/10329-ayo-akingbade",
    "quelle": "https://www.kunsthallezurich.ch/de/ausstellungen/10329-ayo-akingbade",
    "detail_geprueft": "2026-10-12",
@@ -60,7 +60,7 @@
   },
   {
    "titel": "Caspar Heinemann",
-   "untertitel": "Tempting Fate",
+   "untertitel": null,
    "beginn": "2026-09-26",
    "ende": "2027-01-10",
    "art": "wechselausstellung",
@@ -73,9 +73,9 @@
    "kuenstler": [
     "Caspar Heinemann"
    ],
-   "anderer_ort": null,
    "eroeffnung": "2026-09-25T18:00",
-   "einzelausstellung_von": null,
+   "einzelausstellung_von": "Caspar Heinemann",
+   "anderer_ort": null,
    "url": "https://www.kunsthallezurich.ch/de/ausstellungen/10330-caspar-heinemann",
    "quelle": "https://www.kunsthallezurich.ch/de/ausstellungen/",
    "detail_geprueft": "2026-10-12",
@@ -84,6 +84,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

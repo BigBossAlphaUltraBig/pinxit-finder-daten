@@ -22,15 +22,15 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "einzelausstellung_von": null,
    "kuenstler": [
     "Peter Boué",
     "Marianne Greve",
     "Florian Huber",
-    "Llaura Sünner",
-    "Alexander Rischer"
+    "Alexander Rischer",
+    "Llaura Sünner"
    ],
    "eroeffnung": "2026-10-11",
+   "einzelausstellung_von": null,
    "anderer_ort": null,
    "url": null,
    "quelle": "https://galerierenatekammer.de/",
@@ -39,6 +39,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

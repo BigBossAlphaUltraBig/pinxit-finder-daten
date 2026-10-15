@@ -10,6 +10,51 @@
  ],
  "ausstellungen": [
   {
+   "titel": "Collecting with style",
+   "untertitel": "Caroline Murat, Ludwig I and antiquity",
+   "beginn": "2026-07-08",
+   "ende": "2027-01-17",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Glyptothek",
+   "rang": 1,
+   "epoche": "andere",
+   "gemeinfrei": true,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "url": "https://www.antike-am-koenigsplatz.mwn.de/en/event/upcoming-special-exhibition-collecting-with-style-caroline-murat-ludwig-i-and-antiquity/",
+   "quelle": "https://www.antike-am-koenigsplatz.mwn.de/en/state-collections-of-antiquities-a-museum-of-world-renown/",
+   "detail_geprueft": "2026-10-15",
+   "standort": "State Collections of Antiquities",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Permanent exhibition Collections of Antiquities",
+   "untertitel": "the entire spectrum of ancient \"small art\"",
+   "beginn": null,
+   "ende": null,
+   "art": "dauerausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Glyptothek",
+   "rang": 2,
+   "epoche": "andere",
+   "gemeinfrei": true,
+   "schwerpunkt": "Antike Kleinkunst: Keramik, Metall, Stein, Alltagsgegenstände aus Griechenland, Etrurien und Rom",
+   "kuenstler": [],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "url": "https://www.antike-am-koenigsplatz.mwn.de/en/event/permanent-exhibition-collections-of-antiquities-the-entire-spectrum-of-ancient-small-art/",
+   "quelle": "https://www.antike-am-koenigsplatz.mwn.de/en/state-collections-of-antiquities-a-museum-of-world-renown/",
+   "standort": "State Collections of Antiquities",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
    "titel": "Collections of Antiquities: the entire spectrum of ancient \"small art\"",
    "untertitel": null,
    "beginn": null,
@@ -26,31 +71,11 @@
    "eroeffnung": null,
    "url": "https://www.antike-am-koenigsplatz.mwn.de/en/event/permanent-exhibition-collections-of-antiquities-the-entire-spectrum-of-ancient-small-art/",
    "quelle": "https://www.antike-am-koenigsplatz.mwn.de/en/state-collections-of-antiquities-a-museum-of-world-renown/",
-   "standort": "State Collections of Antiquities"
+   "standort": "State Collections of Antiquities",
+   "verpasst": 1
   }
  ],
- "aussortiert": [
-  {
-   "titel": "Collecting with style",
-   "untertitel": "Caroline Murat, Ludwig I and antiquity",
-   "beginn": "2026-07-08",
-   "ende": "2027-01-17",
-   "art": "wechselausstellung",
-   "fachgebiet": "geschichte",
-   "haus": "Glyptothek",
-   "rang": 1,
-   "epoche": "19_jahrhundert",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [],
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "url": "https://www.antike-am-koenigsplatz.mwn.de/en/event/upcoming-special-exhibition-collecting-with-style-caroline-murat-ludwig-i-and-antiquity/",
-   "quelle": "https://www.antike-am-koenigsplatz.mwn.de/en/state-collections-of-antiquities-a-museum-of-world-renown/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "keine Kunst (geschichte)",
-   "standort": "State Collections of Antiquities"
-  }
- ],
- "abgerufen": "2026-10-12T06:55:52"
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 1
 }

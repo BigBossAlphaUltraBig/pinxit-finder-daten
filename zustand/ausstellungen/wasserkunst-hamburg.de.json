@@ -13,26 +13,27 @@
  "aussortiert": [
   {
    "titel": "Stadt.Wasser.Kunst",
-   "untertitel": "Modelle Hamburger Brunnen und Geschichte des Wasserwerks Kaltehofe",
+   "untertitel": "",
    "beginn": null,
    "ende": null,
-   "art": "dauerausstellung",
+   "art": "sammlungspraesentation",
    "fachgebiet": "geschichte",
    "haus": "Wasserkunst",
    "rang": 1,
    "epoche": "gemischt",
    "gemeinfrei": false,
-   "schwerpunkt": "Modelle Hamburger Brunnen und Geschichte des Wasserwerks Kaltehofe",
-   "anderer_ort": null,
+   "schwerpunkt": "Modelle Hamburger Brunnen, Geschichte des Wasserwerks Kaltehofe und der Zierbrunnen",
    "url": "https://wasserkunst-hamburg.de/wasserkunst-kaltehofe/neubau-und-ausstellung/",
    "kuenstler": [],
+   "anderer_ort": null,
    "eroeffnung": null,
+   "einzelausstellung_von": null,
    "quelle": "https://wasserkunst-hamburg.de/wasserkunst-kaltehofe/neubau-und-ausstellung/",
    "grund": "keine Kunst (geschichte)"
   },
   {
    "titel": "WasserForum",
-   "untertitel": "Die Welt von Wasser und Abwasser erlebbar gemacht",
+   "untertitel": "Die Wasserversorgung und Abwasserentsorgung Hamburgs",
    "beginn": null,
    "ende": null,
    "art": "dauerausstellung",
@@ -41,15 +42,15 @@
    "rang": 1,
    "epoche": "andere",
    "gemeinfrei": false,
-   "schwerpunkt": "Hamburger Wasserversorgung, Grundwasser-Trinkwasser und Weg des Abwassers bis zum Klärwerk",
-   "anderer_ort": null,
+   "schwerpunkt": "Hamburger Wasserversorgung, Grundwasseraufbereitung und Abwasserweg bis zum Klärwerk",
    "url": "https://wasserkunst-hamburg.de/wasserforum/ausstellung-wasserforum/",
-   "einzelausstellung_von": null,
-   "eroeffnung": null,
    "kuenstler": [],
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
    "quelle": "https://wasserkunst-hamburg.de/wasserforum/ausstellung-wasserforum/",
    "grund": "keine Kunst (technik)"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

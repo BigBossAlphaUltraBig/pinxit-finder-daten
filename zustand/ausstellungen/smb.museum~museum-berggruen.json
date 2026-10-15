@@ -6,9 +6,26 @@
  "ids": "nachtrag-museum-berggruen",
  "status": "ok",
  "seiten": [
-  "https://www.smb.museum/ausstellungen/aktuell/"
+  "https://www.smb.museum/ausstellungen/aktuell/",
+  "https://www.smb.museum/museen-einrichtungen/museum-berggruen/ausstellungen/aktuell/"
  ],
  "ausstellungen": [
+  {
+   "titel": "Museum Berggruen",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
+   "art": "unklar",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum Berggruen",
+   "rang": 1,
+   "epoche": "gemischt",
+   "schwerpunkt": "x",
+   "url": null,
+   "quelle": "https://www.smb.museum/ausstellungen/aktuell/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
   {
    "titel": "Rubens, Jordaens, van Dyck",
    "untertitel": "Flämische Meisterzeichnungen",
@@ -29,9 +46,11 @@
    "anderer_ort": null,
    "eroeffnung": null,
    "url": "https://www.smb.museum/ausstellungen/detail/rubens-jordaens-van-dyck/",
-   "quelle": "https://www.smb.museum/ausstellungen/aktuell/"
+   "quelle": "https://www.smb.museum/ausstellungen/aktuell/",
+   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 1
 }

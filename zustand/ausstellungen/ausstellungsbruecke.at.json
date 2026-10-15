@@ -6,31 +6,36 @@
  "ids": "Q780583",
  "status": "ok",
  "seiten": [
-  "https://www.noe.gv.at/noe/Kunst-Kultur/Ausstellungsbruecke.html"
+  "https://www.noe.gv.at/noe/Kunst-Kultur/Ausstellungsbruecke.html",
+  "https://www.noe.gv.at/noe/Kunst-Kultur/Digitale_Veranstaltungen_und_Ausstellungen.html"
  ],
  "ausstellungen": [
   {
-   "titel": "Leerstellen",
+   "titel": "Beerenstarke Bilder!",
    "untertitel": null,
-   "beginn": "2026-09-10",
-   "ende": "2026-10-11",
+   "beginn": "2026-10-22",
+   "ende": "2026-11-22",
    "art": "wechselausstellung",
-   "kunst": true,
+   "fachgebiet": "bildende_kunst",
    "haus": "Ausstellungsbrücke",
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "kuenstler": [
-    "Lukas Matuschek",
-    "Markus Reiter"
+    "Christopher Lane",
+    "Verena Crow"
    ],
-   "schwerpunkt": "Zeitgenössische Kunst aus Niederösterreich",
+   "eroeffnung": "2026-10-21T18:30",
    "einzelausstellung_von": null,
    "anderer_ort": null,
+   "schwerpunkt": null,
    "url": null,
-   "quelle": "https://www.noe.gv.at/noe/Kunst-Kultur/Ausstellungsbruecke.html"
+   "quelle": "https://www.noe.gv.at/noe/Kunst-Kultur/Ausstellungsbruecke.html",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-08T11:16:32"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Pleiades",
-   "untertitel": "Pléiades",
+   "untertitel": null,
    "beginn": "2026-09-10",
    "ende": "2026-11-14",
    "art": "wechselausstellung",
@@ -33,33 +33,12 @@
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
    "verpasst": 0
-  },
-  {
-   "titel": "Achraf Touloub",
-   "untertitel": "Pleiades",
-   "beginn": "2026-09-10",
-   "ende": "2026-11-14",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Galeria Plan B",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "einzelausstellung_von": "Achraf Touloub",
-   "kuenstler": [
-    "Achraf Touloub"
-   ],
-   "gemeinfrei": false,
-   "url": "https://www.plan-b.ro/exhibition/achraf-touloub-2026/",
-   "quelle": "https://www.plan-b.ro/exhibition/achraf-touloub-2026/",
-   "eroeffnung": null,
-   "detail_geprueft": "2026-10-12",
-   "verpasst": 1
   }
  ],
  "aussortiert": [
   {
    "titel": "PAINTPUSHER",
-   "untertitel": null,
+   "untertitel": "",
    "beginn": "2026-11-27",
    "ende": "2027-02-13",
    "art": "wechselausstellung",
@@ -72,15 +51,15 @@
    "kuenstler": [
     "Navid Nuur"
    ],
-   "einzelausstellung_von": "Navid Nuur",
-   "anderer_ort": "Berlin",
    "eroeffnung": null,
+   "einzelausstellung_von": "Navid Nuur",
+   "anderer_ort": "Plan B, Berlin",
    "url": "https://www.plan-b.ro/exhibition/navid-nuur-paintpusher/",
    "quelle": "https://www.plan-b.ro/upcoming/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Berlin"
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Plan B, Berlin"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 1
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

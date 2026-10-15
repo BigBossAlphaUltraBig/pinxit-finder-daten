@@ -11,6 +11,31 @@
  ],
  "ausstellungen": [
   {
+   "titel": "PARATEXT",
+   "untertitel": null,
+   "beginn": "2026-07-10",
+   "ende": "2026-10-31",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "KOW",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Heinrich Dunst",
+    "Simon Lehner",
+    "Sophia Eisenhut"
+   ],
+   "eroeffnung": "2026-07-10",
+   "gemeinfrei": false,
+   "anderer_ort": null,
+   "url": "https://www.kow-berlin.com/exhibitions/paratext",
+   "quelle": "https://www.kow-berlin.com/exhibitions",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
    "titel": "Heinrich Dunst, Simon Lehner, Sophia Eisenhut",
    "untertitel": "null",
    "beginn": "2026-07-10",
@@ -33,35 +58,10 @@
    "quelle": "https://www.kow-berlin.com/exhibitions",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
-   "verpasst": 0
-  },
-  {
-   "titel": "PARATEXT",
-   "untertitel": "",
-   "beginn": "2026-07-10",
-   "ende": "2026-10-31",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "KOW",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "kuenstler": [
-    "Heinrich Dunst",
-    "Simon Lehner",
-    "Sophia Eisenhut"
-   ],
-   "einzelausstellung_von": null,
-   "eroeffnung": "2026-07-10",
-   "anderer_ort": null,
-   "url": "https://www.kow-berlin.com/exhibitions/paratext",
-   "quelle": "https://www.kow-berlin.com/exhibitions/paratext",
-   "detail_geprueft": "2026-10-12",
-   "erstmals": "2026-10-12",
-   "verpasst": 0
+   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 0
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 1
 }

@@ -11,17 +11,89 @@
  ],
  "ausstellungen": [
   {
+   "titel": "The good, the true and the beautiful",
+   "untertitel": "The good, the true and the beautiful",
+   "beginn": "2026-09-18",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Sprüth Magers",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Lucy Dodd",
+   "kuenstler": [
+    "Lucy Dodd"
+   ],
+   "anderer_ort": null,
+   "url": "https://spruethmagers.com/exhibitions/lucy-dodd-london/",
+   "quelle": "https://spruethmagers.com/exhibitions/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "A well of night",
+   "untertitel": "null",
+   "beginn": "2026-09-18",
+   "ende": "2026-12-19",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Sprüth Magers",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Thea Djordjadze",
+   "kuenstler": [
+    "Thea Djordjadze"
+   ],
+   "anderer_ort": null,
+   "url": "https://spruethmagers.com/exhibitions/thea-djordjadze-a-well-of-night-new-york/",
+   "quelle": "https://spruethmagers.com/exhibitions/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Sculptures",
+   "untertitel": "Sculptures",
+   "beginn": "2026-09-11",
+   "ende": "2026-12-19",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Sprüth Magers",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "eroeffnung": null,
+   "einzelausstellung_von": "John Baldessari",
+   "kuenstler": [
+    "John Baldessari"
+   ],
+   "anderer_ort": null,
+   "url": "https://spruethmagers.com/exhibitions/john-baldessari-sculptures-los-angeles/",
+   "quelle": "https://spruethmagers.com/exhibitions/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
    "titel": "Let’s Get Married, Let’s Get Lost",
-   "untertitel": "Let’s Get Married, Let’s Get Lost",
+   "untertitel": "",
    "beginn": "2026-09-11",
    "ende": "2026-12-19",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Sprüth Magers",
    "rang": 4,
-   "epoche": "moderne",
-   "gemeinfrei": false,
+   "epoche": "zeitgenoessisch",
    "schwerpunkt": null,
+   "gemeinfrei": false,
    "eroeffnung": null,
    "einzelausstellung_von": "Walter Dahn",
    "kuenstler": [
@@ -36,7 +108,7 @@
   },
   {
    "titel": "Reflection",
-   "untertitel": "Reflection",
+   "untertitel": "",
    "beginn": "2026-09-11",
    "ende": "2026-10-24",
    "art": "wechselausstellung",
@@ -44,8 +116,8 @@
    "haus": "Sprüth Magers",
    "rang": 5,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
    "schwerpunkt": null,
+   "gemeinfrei": false,
    "eroeffnung": null,
    "einzelausstellung_von": "Jean-Luc Mylayne",
    "kuenstler": [
@@ -60,16 +132,16 @@
   },
   {
    "titel": "La città",
-   "untertitel": "La città",
+   "untertitel": "",
    "beginn": "2026-09-11",
    "ende": "2026-10-24",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Sprüth Magers",
    "rang": 6,
-   "epoche": "moderne",
-   "gemeinfrei": false,
+   "epoche": "zeitgenoessisch",
    "schwerpunkt": null,
+   "gemeinfrei": false,
    "eroeffnung": null,
    "einzelausstellung_von": "Salvo",
    "kuenstler": [
@@ -83,77 +155,7 @@
    "verpasst": 0
   }
  ],
- "aussortiert": [
-  {
-   "titel": "The good, the true and the beautiful",
-   "untertitel": "The good, the true and the beautiful",
-   "beginn": "2026-09-18",
-   "ende": "2026-10-24",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Sprüth Magers",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "eroeffnung": null,
-   "einzelausstellung_von": "Lucy Dodd",
-   "kuenstler": [
-    "Lucy Dodd"
-   ],
-   "anderer_ort": "London",
-   "url": "https://spruethmagers.com/exhibitions/lucy-dodd-london/",
-   "quelle": "https://spruethmagers.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: London"
-  },
-  {
-   "titel": "A well of night",
-   "untertitel": "New York",
-   "beginn": "2026-09-18",
-   "ende": "2026-12-19",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Sprüth Magers",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "eroeffnung": null,
-   "einzelausstellung_von": "Thea Djordjadze",
-   "kuenstler": [
-    "Thea Djordjadze"
-   ],
-   "anderer_ort": "New York",
-   "url": "https://spruethmagers.com/exhibitions/thea-djordjadze-a-well-of-night-new-york/",
-   "quelle": "https://spruethmagers.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: New York"
-  },
-  {
-   "titel": "Sculptures",
-   "untertitel": "Sculptures",
-   "beginn": "2026-09-11",
-   "ende": "2026-12-19",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Sprüth Magers",
-   "rang": 3,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "eroeffnung": null,
-   "einzelausstellung_von": "John Baldessari",
-   "kuenstler": [
-    "John Baldessari"
-   ],
-   "anderer_ort": "Los Angeles",
-   "url": "https://spruethmagers.com/exhibitions/john-baldessari-sculptures-los-angeles/",
-   "quelle": "https://spruethmagers.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Los Angeles"
-  }
- ],
- "abgerufen": "2026-10-12T06:55:52",
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

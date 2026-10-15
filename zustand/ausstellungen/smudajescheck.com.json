@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "»In the Mood for Color«",
-   "untertitel": "In the Mood for Color",
+   "untertitel": null,
    "beginn": "2026-10-15",
    "ende": "2026-11-14",
    "art": "wechselausstellung",
@@ -22,11 +22,11 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": "2026-10-14T18:00",
+   "einzelausstellung_von": "ZHUANG HONG YI",
    "kuenstler": [
     "Zhuang Hong Yi"
    ],
-   "eroeffnung": "2026-10-14T18:00",
-   "einzelausstellung_von": "Zhuang Hong Yi",
    "anderer_ort": null,
    "url": "https://smudajescheck.com/exhibitions/current/zhuang-hong-yi-in-the-mood-for-color-15-10-14-11-2026/",
    "quelle": "https://smudajescheck.com/exhibitions/",
@@ -35,8 +35,8 @@
    "verpasst": 0
   },
   {
-   "titel": "»EYE CANDY«",
-   "untertitel": "»EYE CANDY«",
+   "titel": "»eye candy«",
+   "untertitel": null,
    "beginn": "2026-11-26",
    "ende": "2026-12-19",
    "art": "wechselausstellung",
@@ -46,61 +46,16 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": "DANIEL ENGELBERG",
    "kuenstler": [
     "Daniel Engelberg"
    ],
-   "eroeffnung": null,
-   "einzelausstellung_von": "Daniel Engelberg",
    "anderer_ort": null,
    "url": "https://smudajescheck.com/exhibitions/daniel-engelberg-eye-candy-26-11-19-12-2026/",
    "quelle": "https://smudajescheck.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
    "verpasst": 0
-  },
-  {
-   "titel": "ZHUANG HONG YI »In the Mood for Color«",
-   "untertitel": "In the Mood for Color",
-   "beginn": "2026-10-15",
-   "ende": "2026-11-14",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Smudajescheck Galerie",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Zhuang Hong Yi"
-   ],
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "url": "https://smudajescheck.com/exhibitions/current/zhuang-hong-yi-in-the-mood-for-color-15-10-14-11-2026/",
-   "eroeffnung": "2026-10-14T18:00",
-   "quelle": "https://smudajescheck.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
-   "verpasst": 1
-  },
-  {
-   "titel": "DANIEL ENGELBERG »EYE CANDY«",
-   "untertitel": "Eye Candy",
-   "beginn": "2026-11-26",
-   "ende": "2026-12-19",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Smudajescheck Galerie",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Daniel Engelberg"
-   ],
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "url": "https://smudajescheck.com/exhibitions/daniel-engelberg-eye-candy-26-11-19-12-2026/",
-   "eroeffnung": null,
-   "quelle": "https://smudajescheck.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
-   "verpasst": 1
   }
  ],
  "aussortiert": [
@@ -112,20 +67,20 @@
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Smudajescheck Galerie",
-   "rang": 99,
+   "rang": 3,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": null,
    "kuenstler": [
     "Esther Hagenmaier",
     "Gisela Hoffmann"
    ],
-   "eroeffnung": "2026-09-15T18:00",
-   "einzelausstellung_von": null,
    "anderer_ort": null,
    "url": "https://smudajescheck.com/exhibitions/esther-hagenmaier-gisela-hoffmann-move-with-it-and-join-the-dance-15-9-8-10/",
    "quelle": "https://smudajescheck.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "eroeffnung": "2026-09-15T18:00",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
@@ -143,15 +98,15 @@
    "kuenstler": [
     "Julius Dörner"
    ],
-   "einzelausstellung_von": "Julius Dörner",
-   "anderer_ort": null,
    "eroeffnung": null,
    "url": "https://smudajescheck.com/exhibitions/__trashed-2/",
+   "anderer_ort": null,
+   "einzelausstellung_von": "Julius Dörner",
    "quelle": "https://smudajescheck.com/exhibitions/__trashed-2/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 2
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

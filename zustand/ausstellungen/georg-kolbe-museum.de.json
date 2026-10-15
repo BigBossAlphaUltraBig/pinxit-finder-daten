@@ -20,17 +20,19 @@
    "haus": "Georg-Kolbe-Museum",
    "rang": 1,
    "epoche": "gemischt",
-   "einzelausstellung_von": null,
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "Ro Robertson"
    ],
+   "einzelausstellung_von": "Ro Robertson",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
    "url": "https://georg-kolbe-museum.de/programm/ausstellungen/ro-robertson-freeform-i/",
    "quelle": "https://georg-kolbe-museum.de/programm/ausstellungen/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "everybody",
@@ -42,11 +44,6 @@
    "haus": "Georg-Kolbe-Museum",
    "rang": 2,
    "epoche": "zeitgenoessisch",
-   "einzelausstellung_von": null,
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "Pauline Boudry",
     "Renate Lorenz",
@@ -57,9 +54,16 @@
     "Luís Lázaro Matos",
     "Lauryn Youden"
    ],
+   "einzelausstellung_von": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
    "url": "https://georg-kolbe-museum.de/programm/ausstellungen/everybody/",
    "quelle": "https://georg-kolbe-museum.de/programm/ausstellungen/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Waschbären, Wildschweine, Windhunde",
@@ -71,28 +75,21 @@
    "haus": "Georg-Kolbe-Museum",
    "rang": 3,
    "epoche": "gemischt",
+   "kuenstler": [],
    "einzelausstellung_von": null,
-   "anderer_ort": null,
-   "eroeffnung": null,
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "kuenstler": [
-    "Max Liebermann",
-    "Aristide Maillol",
-    "Gerhard Marcks",
-    "Max Pechstein",
-    "Pierre-Auguste Renoir",
-    "Auguste Rodin",
-    "Karl Schmidt-Rottluff",
-    "Renée Sintenis"
-   ],
+   "anderer_ort": null,
+   "eroeffnung": null,
    "url": "https://georg-kolbe-museum.de/programm/ausstellungen/waschbaeren-wildschweine-windhunde/",
    "quelle": "https://georg-kolbe-museum.de/programm/ausstellungen/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Gerd Rohling. Das Licht der Welt",
-   "untertitel": "Das Licht der Welt",
+   "untertitel": null,
    "beginn": "2027-04-10",
    "ende": "2027-09-12",
    "art": "wechselausstellung",
@@ -100,19 +97,22 @@
    "haus": "Georg-Kolbe-Museum",
    "rang": 4,
    "epoche": "zeitgenoessisch",
-   "einzelausstellung_von": "Gerd Rohling",
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "Gerd Rohling"
    ],
+   "einzelausstellung_von": "Gerd Rohling",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
    "url": "https://georg-kolbe-museum.de/programm/ausstellungen/gerd-rohling-das-licht-der-welt/",
    "quelle": "https://georg-kolbe-museum.de/programm/ausstellungen/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

@@ -11,47 +11,23 @@
  ],
  "ausstellungen": [
   {
-   "titel": "Intimate Legacy",
-   "untertitel": "Jackson Pollock: Intimate Legacy",
+   "titel": "KNOTTING, TYING, FOLDING",
+   "untertitel": "",
    "beginn": "2026-09-11",
    "ende": "2026-10-24",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Pace – Die Tankstelle",
    "rang": 1,
-   "epoche": "moderne",
-   "kuenstler": [
-    "Jackson Pollock"
-   ],
+   "epoche": "zeitgenoessisch",
+   "eroeffnung": null,
    "gemeinfrei": false,
    "schwerpunkt": null,
    "anderer_ort": null,
-   "eroeffnung": null,
-   "einzelausstellung_von": "Jackson Pollock",
-   "url": "https://www.pacegallery.com/exhibitions/jackson-pollock-intimate-legacy/",
-   "quelle": "https://www.pacegallery.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
-   "erstmals": "2026-10-12",
-   "verpasst": 0
-  },
-  {
-   "titel": "KNOTTING, TYING, FOLDING",
-   "untertitel": "Sculptures by Lynda Benglis",
-   "beginn": "2026-09-11",
-   "ende": "2026-10-24",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Pace – Die Tankstelle",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Lynda Benglis",
    "kuenstler": [
     "Lynda Benglis"
    ],
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "einzelausstellung_von": "Lynda Benglis",
    "url": "https://www.pacegallery.com/exhibitions/lynda-benglis-knotting-tying-folding/",
    "quelle": "https://www.pacegallery.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
@@ -59,8 +35,32 @@
    "verpasst": 0
   },
   {
+   "titel": "Intimate Legacy",
+   "untertitel": "",
+   "beginn": "2026-09-11",
+   "ende": "2026-10-24",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Pace – Die Tankstelle",
+   "rang": 2,
+   "epoche": "gemischt",
+   "eroeffnung": null,
+   "gemeinfrei": true,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Jackson Pollock",
+   "kuenstler": [
+    "Jackson Pollock"
+   ],
+   "url": "https://www.pacegallery.com/exhibitions/jackson-pollock-intimate-legacy/",
+   "quelle": "https://www.pacegallery.com/exhibitions/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
    "titel": "She Said She Said",
-   "untertitel": "Arlene Shechet: She Said She Said",
+   "untertitel": "",
    "beginn": "2026-09-11",
    "ende": "2026-10-24",
    "art": "wechselausstellung",
@@ -68,14 +68,14 @@
    "haus": "Pace – Die Tankstelle",
    "rang": 3,
    "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Arlene Shechet"
-   ],
+   "eroeffnung": null,
    "gemeinfrei": false,
    "schwerpunkt": null,
    "anderer_ort": null,
-   "eroeffnung": null,
    "einzelausstellung_von": "Arlene Shechet",
+   "kuenstler": [
+    "Arlene Shechet"
+   ],
    "url": "https://www.pacegallery.com/exhibitions/arlene-shechet-she-said-she-said/",
    "quelle": "https://www.pacegallery.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
@@ -84,7 +84,7 @@
   },
   {
    "titel": "Seeing in Blue",
-   "untertitel": "Seeing in Blue",
+   "untertitel": "",
    "beginn": "2026-09-11",
    "ende": "2026-10-24",
    "art": "wechselausstellung",
@@ -92,14 +92,14 @@
    "haus": "Pace – Die Tankstelle",
    "rang": 4,
    "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Torkwase Dyson"
-   ],
+   "eroeffnung": null,
    "gemeinfrei": false,
    "schwerpunkt": null,
    "anderer_ort": null,
-   "eroeffnung": null,
    "einzelausstellung_von": "Torkwase Dyson",
+   "kuenstler": [
+    "Torkwase Dyson"
+   ],
    "url": "https://www.pacegallery.com/exhibitions/torkwase-dyson-seeing-in-blue/",
    "quelle": "https://www.pacegallery.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
@@ -108,7 +108,7 @@
   },
   {
    "titel": "Stairwell Drawings",
-   "untertitel": "Stairwell Drawings",
+   "untertitel": "",
    "beginn": "2025-04-10",
    "ende": "2026-12-31",
    "art": "wechselausstellung",
@@ -116,14 +116,14 @@
    "haus": "Pace – Die Tankstelle",
    "rang": 5,
    "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "David Byrne"
-   ],
+   "eroeffnung": null,
    "gemeinfrei": false,
    "schwerpunkt": null,
    "anderer_ort": null,
-   "eroeffnung": null,
    "einzelausstellung_von": "David Byrne",
+   "kuenstler": [
+    "David Byrne"
+   ],
    "url": "https://www.pacegallery.com/exhibitions/david-byrne-stairwell-drawings/",
    "quelle": "https://www.pacegallery.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
@@ -132,7 +132,7 @@
   },
   {
    "titel": "the year of mud",
-   "untertitel": "null",
+   "untertitel": "",
    "beginn": "2026-11-06",
    "ende": "2026-12-19",
    "art": "wechselausstellung",
@@ -140,14 +140,14 @@
    "haus": "Pace – Die Tankstelle",
    "rang": 6,
    "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Li Hei Di"
-   ],
+   "eroeffnung": "2026-11-05T18:00",
    "gemeinfrei": false,
    "schwerpunkt": null,
    "anderer_ort": null,
-   "eroeffnung": "2026-11-05T18:00",
    "einzelausstellung_von": "Li Hei Di",
+   "kuenstler": [
+    "Li Hei Di"
+   ],
    "url": "https://www.pacegallery.com/exhibitions/li-hei-di-the-year-of-mud/",
    "quelle": "https://www.pacegallery.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
@@ -156,7 +156,7 @@
   },
   {
    "titel": "Boxes and Reconstructions",
-   "untertitel": "Boxes and Reconstructions",
+   "untertitel": "",
    "beginn": "2026-11-06",
    "ende": "2027-01-23",
    "art": "wechselausstellung",
@@ -164,14 +164,14 @@
    "haus": "Pace – Die Tankstelle",
    "rang": 7,
    "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Lucas Samaras"
-   ],
+   "eroeffnung": "2026-11-05T18:00",
    "gemeinfrei": false,
    "schwerpunkt": null,
    "anderer_ort": null,
-   "eroeffnung": "2026-11-05T18:00",
    "einzelausstellung_von": "Lucas Samaras",
+   "kuenstler": [
+    "Lucas Samaras"
+   ],
    "url": "https://www.pacegallery.com/exhibitions/lucas-samaras-boxes-reconstructions/",
    "quelle": "https://www.pacegallery.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
@@ -180,7 +180,7 @@
   },
   {
    "titel": "TRANSITION",
-   "untertitel": "Elmgreen & Dragset",
+   "untertitel": "",
    "beginn": "2026-11-06",
    "ende": "2027-01-16",
    "art": "wechselausstellung",
@@ -188,25 +188,23 @@
    "haus": "Pace – Die Tankstelle",
    "rang": 8,
    "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Elmgreen & Dragset"
-   ],
+   "eroeffnung": "2026-11-05T18:00",
    "gemeinfrei": false,
    "schwerpunkt": null,
    "anderer_ort": null,
-   "eroeffnung": "2026-11-05T18:00",
    "einzelausstellung_von": "Elmgreen & Dragset",
+   "kuenstler": [
+    "Elmgreen & Dragset"
+   ],
    "url": "https://www.pacegallery.com/exhibitions/elmgreen-dragset-transition/",
    "quelle": "https://www.pacegallery.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
    "verpasst": 0
-  }
- ],
- "aussortiert": [
+  },
   {
    "titel": "Recent Work",
-   "untertitel": "Recent Work",
+   "untertitel": "Asher Liftin: Recent Work",
    "beginn": "2026-09-18",
    "ende": "2026-11-07",
    "art": "wechselausstellung",
@@ -214,22 +212,25 @@
    "haus": "Pace – Die Tankstelle",
    "rang": 9,
    "epoche": "zeitgenoessisch",
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": "Asher Liftin",
    "kuenstler": [
     "Asher Liftin"
    ],
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": "New York – 125 Newbury",
-   "eroeffnung": null,
-   "einzelausstellung_von": "Asher Liftin",
    "url": "https://www.pacegallery.com/exhibitions/asher-liftin-recent-work/",
    "quelle": "https://www.pacegallery.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: New York – 125 Newbury"
-  },
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
   {
    "titel": "LA",
-   "untertitel": "Photographs by David Lynch at Pace Los Angeles",
+   "untertitel": "Photographs by David Lynch",
    "beginn": "2026-09-19",
    "ende": "2026-12-22",
    "art": "wechselausstellung",
@@ -237,22 +238,22 @@
    "haus": "Pace – Die Tankstelle",
    "rang": 10,
    "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "David Lynch"
-   ],
+   "eroeffnung": null,
    "gemeinfrei": false,
    "schwerpunkt": null,
    "anderer_ort": "Los Angeles",
-   "eroeffnung": null,
    "einzelausstellung_von": "David Lynch",
+   "kuenstler": [
+    "David Lynch"
+   ],
    "url": "https://www.pacegallery.com/exhibitions/david-lynch-la/",
    "quelle": "https://www.pacegallery.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Los Angeles"
   },
   {
    "titel": "The Mudlarkers",
-   "untertitel": "null",
+   "untertitel": "Kylie Manning, The Mudlarkers",
    "beginn": "2026-10-13",
    "ende": "2026-11-14",
    "art": "wechselausstellung",
@@ -260,22 +261,22 @@
    "haus": "Pace – Die Tankstelle",
    "rang": 11,
    "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Kylie Manning"
-   ],
+   "eroeffnung": null,
    "gemeinfrei": false,
    "schwerpunkt": null,
    "anderer_ort": "London",
-   "eroeffnung": null,
    "einzelausstellung_von": "Kylie Manning",
+   "kuenstler": [
+    "Kylie Manning"
+   ],
    "url": "https://www.pacegallery.com/exhibitions/kylie-manning-the-mudlarkers/",
    "quelle": "https://www.pacegallery.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: London"
   },
   {
    "titel": "Exquisite Corpse",
-   "untertitel": "An exhibition curated by Loie Hollowell in response to Kiki Kogelnik",
+   "untertitel": "null",
    "beginn": "2026-09-10",
    "ende": "2026-11-08",
    "art": "wechselausstellung",
@@ -283,20 +284,20 @@
    "haus": "Pace – Die Tankstelle",
    "rang": 12,
    "epoche": "zeitgenoessisch",
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": "Berlin",
+   "einzelausstellung_von": null,
    "kuenstler": [
     "Loie Hollowell",
     "Kiki Kogelnik",
     "Sascha Braunig",
     "Veronika Pausova"
    ],
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": "Berlin",
-   "eroeffnung": null,
-   "einzelausstellung_von": null,
    "url": "https://www.pacegallery.com/exhibitions/exquisite-corpse/",
    "quelle": "https://www.pacegallery.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Berlin"
   },
   {
@@ -309,43 +310,66 @@
    "haus": "Pace – Die Tankstelle",
    "rang": 13,
    "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Friedrich Kunath"
-   ],
+   "eroeffnung": null,
    "gemeinfrei": false,
    "schwerpunkt": null,
    "anderer_ort": "Seoul",
-   "eroeffnung": null,
    "einzelausstellung_von": "Friedrich Kunath",
+   "kuenstler": [
+    "Friedrich Kunath"
+   ],
    "url": "https://www.pacegallery.com/exhibitions/friedrich-kunath-the-nearest-faraway-place/",
    "quelle": "https://www.pacegallery.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Seoul"
   },
   {
-   "titel": "Untethered Journey",
-   "untertitel": "Untethered Journey",
-   "beginn": "2026-10-30",
-   "ende": "2027-01-23",
+   "titel": "La Pêche miraculeuse",
+   "untertitel": "La Pêche miraculeuse",
+   "beginn": "2026-10-29",
+   "ende": "2026-12-25",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Pace – Die Tankstelle",
    "rang": 14,
    "epoche": "zeitgenoessisch",
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": "Tokyo",
+   "einzelausstellung_von": "Alicja Kwade",
    "kuenstler": [
-    "Kiki Smith"
+    "Alicja Kwade"
    ],
+   "url": "https://www.pacegallery.com/exhibitions/alicja-kwade-la-peche-miraculeuse/",
+   "quelle": "https://www.pacegallery.com/exhibitions/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Tokyo"
+  },
+  {
+   "titel": "Untethered Journey",
+   "untertitel": "null",
+   "beginn": "2026-10-30",
+   "ende": "2027-01-23",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Pace – Die Tankstelle",
+   "rang": 15,
+   "epoche": "zeitgenoessisch",
+   "eroeffnung": "2026-10-30T18:00",
    "gemeinfrei": false,
    "schwerpunkt": null,
    "anderer_ort": "Los Angeles",
-   "eroeffnung": "2026-10-30T18:00",
    "einzelausstellung_von": "Kiki Smith",
+   "kuenstler": [
+    "Kiki Smith"
+   ],
    "url": "https://www.pacegallery.com/exhibitions/kiki-smith-untethered-journey/",
    "quelle": "https://www.pacegallery.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Los Angeles"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

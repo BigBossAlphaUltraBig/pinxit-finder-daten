@@ -4,11 +4,58 @@
  "haeuser": "Kleine Galerie",
  "land": "AT",
  "ids": "galerie-kleine-galerie-wien",
- "status": "keine Ausstellungen gefunden",
+ "status": "ok",
  "seiten": [
-  "https://www.kleinegalerie.at/"
+  "https://www.kleinegalerie.at/programm/foto-pov/",
+  "https://www.kleinegalerie.at/programm-uebersicht/"
  ],
- "ausstellungen": [],
+ "ausstellungen": [
+  {
+   "titel": "FOTO.POV",
+   "untertitel": "Eine Reflexion zu künstlerischen Positionen der Fotografie aus Anlass von 200 Jahren Fotografie",
+   "kuenstler": [
+    "Irene Andessner",
+    "Lukas Beck",
+    "Barbara Doser",
+    "Michael Endlicher",
+    "Rainer Friedl",
+    "Robert Gruber",
+    "Hanakam Schuller",
+    "Franzi Kreis",
+    "Hofstetter Kurt",
+    "Anton Kehrer",
+    "Michael Najjar",
+    "Monika Pichler",
+    "Chris Saupper",
+    "Eva Schlegel",
+    "Cynthia Schwertsik",
+    "Fritz Simak",
+    "Margherita Spiluttini",
+    "Karen Stuke",
+    "Anita Witek",
+    "Robert Zahornicky"
+   ],
+   "beginn": "2026-10-01",
+   "ende": "2026-11-20",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Kleine Galerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "url": "https://www.kleinegalerie.at/programm/foto-pov/",
+   "quelle": "https://www.kleinegalerie.at/programm/foto-pov/",
+   "eintritt": "frei",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  }
+ ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

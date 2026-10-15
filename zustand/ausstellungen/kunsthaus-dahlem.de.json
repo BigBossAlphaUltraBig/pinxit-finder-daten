@@ -20,41 +20,23 @@
    "fachgebiet": "bildende_kunst",
    "haus": "Kunsthaus Dahlem",
    "rang": 1,
-   "epoche": "moderne",
+   "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "einzelausstellung_von": "Eva Frankfurther",
    "kuenstler": [
     "Eva Frankfurther"
    ],
-   "eroeffnung": "2026-10-22",
    "anderer_ort": null,
+   "einzelausstellung_von": "Eva Frankfurther",
+   "eroeffnung": "2026-10-22",
    "url": "https://kunsthaus-dahlem.de/ausstellung/eva-frankfurther/",
    "quelle": "https://kunsthaus-dahlem.de/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "erstmals": "2026-10-12",
    "verpasst": 0
-  },
-  {
-   "titel": "Neue Ausstellungen im Aufbau",
-   "beginn": "2026-10-22",
-   "ende": "2026-10-22",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Kunsthaus Dahlem",
-   "rang": 1,
-   "epoche": "gemischt",
-   "url": "https://kunsthaus-dahlem.de/ausstellung/ausstellungsaufbau/",
-   "quelle": "https://kunsthaus-dahlem.de/ausstellungen/aktuell/",
-   "kuenstler": [
-    "Eva Frankfurther",
-    "Antonio Peña"
-   ],
-   "untertitel": "Neue Ausstellungen im Aufbau",
-   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 1
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

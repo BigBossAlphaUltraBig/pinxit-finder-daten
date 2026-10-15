@@ -20,17 +20,16 @@
    "haus": "Galerie Elisabeth & Klaus Thoman",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "einzelausstellung_von": null,
    "kuenstler": [
     "Museum of Broken Relationships",
     "Nanna Kaiser",
     "R. Sebastian Schachinger"
    ],
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "anderer_ort": null,
    "url": "https://www.galeriethoman.com/exhibitions/after-love-curated-by-benedikt-wyss-469f0b18/",
+   "eroeffnung": null,
    "quelle": "https://www.galeriethoman.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -38,7 +37,7 @@
   },
   {
    "titel": "SOPRATUTTO",
-   "untertitel": "null",
+   "untertitel": null,
    "beginn": "2026-06-20",
    "ende": "2026-10-31",
    "art": "wechselausstellung",
@@ -46,15 +45,14 @@
    "haus": "Galerie Elisabeth & Klaus Thoman",
    "rang": 2,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "eroeffnung": "2026-06-19T18:00",
-   "einzelausstellung_von": "Florin Kompatscher",
    "kuenstler": [
     "Florin Kompatscher"
    ],
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "anderer_ort": null,
    "url": "https://www.galeriethoman.com/exhibitions/sopratutto-2da972a1/",
+   "eroeffnung": "2026-06-19T18:00",
    "quelle": "https://www.galeriethoman.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -62,7 +60,7 @@
   },
   {
    "titel": "The Crunchtime. Where the rubber hit the road",
-   "untertitel": "Where the rubber hit the road",
+   "untertitel": null,
    "beginn": "2026-11-13",
    "ende": "2027-01-29",
    "art": "wechselausstellung",
@@ -70,15 +68,14 @@
    "haus": "Galerie Elisabeth & Klaus Thoman",
    "rang": 3,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "einzelausstellung_von": "Julia Haugeneder",
    "kuenstler": [
     "Julia Haugeneder"
    ],
+   "schwerpunkt": null,
+   "gemeinfrei": false,
+   "anderer_ort": null,
    "url": "https://www.galeriethoman.com/exhibitions/the-crunchtime-where-the-rubber-hit-the-road-08a30b9f/",
+   "eroeffnung": null,
    "quelle": "https://www.galeriethoman.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -86,6 +83,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

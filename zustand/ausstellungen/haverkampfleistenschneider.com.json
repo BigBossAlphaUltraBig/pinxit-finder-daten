@@ -22,10 +22,10 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": "Maxi Thom",
    "kuenstler": [
     "Maxi Thom"
    ],
-   "einzelausstellung_von": "Maxi Thom",
    "anderer_ort": null,
    "eroeffnung": "2026-10-01T17:00",
    "url": "https://haverkampfleistenschneider.com/exhibitions/maxi-thom-gallery-cabinet-d2ce6b91/",
@@ -46,10 +46,10 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": "Alex Müller",
    "kuenstler": [
     "Alex Müller"
    ],
-   "einzelausstellung_von": "Alex Müller",
    "anderer_ort": null,
    "eroeffnung": "2026-10-15T18:00",
    "url": "https://haverkampfleistenschneider.com/exhibitions/gestern-ist-heute-62b16a3c/",
@@ -60,6 +60,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

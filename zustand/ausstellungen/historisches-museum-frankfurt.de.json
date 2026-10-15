@@ -12,29 +12,7 @@
  "ausstellungen": [],
  "aussortiert": [
   {
-   "titel": "Höchst erzählt!",
-   "untertitel": "Über das Museum im Bolongaropalast",
-   "beginn": "2026-06-10",
-   "ende": "2027-02-28",
-   "art": "wechselausstellung",
-   "fachgebiet": "geschichte",
-   "haus": "Höchster Porzellan-Museum im Kronberger Haus",
-   "rang": 1,
-   "epoche": "gemischt",
-   "gemeinfrei": false,
-   "schwerpunkt": "Stadtlabor mit Porzellanen und Fayencen im Historischen Museum Frankfurt",
-   "anderer_ort": "Historisches Museum Frankfurt",
-   "url": "https://historisches-museum-frankfurt.de/de/ausstellungen/hoechst-erzaehlt",
-   "einzelausstellung_von": null,
-   "eroeffnung": null,
-   "kuenstler": [],
-   "quelle": "https://historisches-museum-frankfurt.de/de/ausstellungen/porzellan-museum",
-   "eintritt": "8 €, ermäßigt 4 €",
-   "detail_geprueft": "2026-10-12",
-   "grund": "keine Kunst (geschichte)"
-  },
-  {
-   "titel": "Höchst erzählt! Über das Museum im Bolongaro-Palast",
+   "titel": "Höchst erzählt die Geschichte! Über das Museum im Bolongaro-Palast",
    "untertitel": "Stadtlabor",
    "beginn": "2026-06-10",
    "ende": "2027-02-28",
@@ -44,18 +22,18 @@
    "rang": 1,
    "epoche": "gemischt",
    "gemeinfrei": false,
-   "schwerpunkt": "Vorschau auf die künftige Ausstellung Höchster Porzellan im Bolongaro-Palast",
+   "schwerpunkt": "Stadtlabor zur Geschichte des künftigen Museums im Bolongaro-Palast mit Porzellanen",
    "anderer_ort": "Historisches Museum Frankfurt",
-   "url": "https://historisches-museum-frankfurt.de/en/exhibitions/hoechst-erzaehlt",
-   "eroeffnung": null,
-   "ausstellungen_kuenstler": null,
    "einzelausstellung_von": null,
-   "kuenstler": [],
+   "kuenstler": [
+    "Peter Schloss"
+   ],
+   "eroeffnung": null,
+   "url": "https://historisches-museum-frankfurt.de/en/exhibitions/hoechst-erzaehlt",
    "quelle": "https://historisches-museum-frankfurt.de/en/exhibitions/porzellan-museum",
-   "eintritt": "€8, ermäßigt €4",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "keine Kunst (geschichte)"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

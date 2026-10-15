@@ -11,6 +11,7 @@
  "ausstellungen": [
   {
    "titel": "Gleb Amankulov",
+   "untertitel": "",
    "beginn": "2026-10-29",
    "ende": "2026-11-28",
    "art": "wechselausstellung",
@@ -18,21 +19,22 @@
    "haus": "Commune",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "eroeffnung": null,
-   "einzelausstellung_von": "Gleb Amankulov",
+   "gemeinfrei": false,
    "kuenstler": [
     "Gleb Amankulov"
    ],
-   "gemeinfrei": false,
-   "untertitel": null,
+   "schwerpunkt": null,
+   "eroeffnung": null,
    "anderer_ort": null,
    "url": null,
+   "einzelausstellung_von": "Gleb Amankulov",
    "quelle": "https://www.commune-gallery.com/exhibitions/",
    "erstmals": "2026-10-12",
    "verpasst": 0
   },
   {
    "titel": "Tenki Hiramatsu",
+   "untertitel": "",
    "beginn": "2026-12-10",
    "ende": "2027-01-15",
    "art": "wechselausstellung",
@@ -40,15 +42,15 @@
    "haus": "Commune",
    "rang": 2,
    "epoche": "zeitgenoessisch",
-   "eroeffnung": null,
-   "einzelausstellung_von": "Tenki Hiramatsu",
+   "gemeinfrei": false,
    "kuenstler": [
     "Tenki Hiramatsu"
    ],
-   "gemeinfrei": false,
-   "untertitel": null,
+   "schwerpunkt": null,
+   "eroeffnung": null,
    "anderer_ort": null,
    "url": null,
+   "einzelausstellung_von": "Tenki Hiramatsu",
    "quelle": "https://www.commune-gallery.com/exhibitions/",
    "erstmals": "2026-10-12",
    "verpasst": 0
@@ -56,8 +58,8 @@
  ],
  "aussortiert": [
   {
-   "titel": "Pilot",
-   "untertitel": "Calli Ryan / Marielena Stark",
+   "titel": "Commune / Pilot",
+   "untertitel": "Pilot",
    "beginn": "2026-09-17",
    "ende": "2026-10-10",
    "art": "wechselausstellung",
@@ -65,20 +67,21 @@
    "haus": "Commune",
    "rang": 3,
    "epoche": "zeitgenoessisch",
-   "eroeffnung": null,
-   "einzelausstellung_von": null,
+   "gemeinfrei": false,
    "kuenstler": [
     "Calli Ryan",
     "Marielena Stark"
    ],
-   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
    "anderer_ort": null,
    "url": "https://www.commune-gallery.com/exhibitions/34-calli-ryan-marielena-stark-commune-pilot/",
+   "einzelausstellung_von": null,
    "quelle": "https://www.commune-gallery.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

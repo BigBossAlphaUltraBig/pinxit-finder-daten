@@ -12,16 +12,19 @@
  "ausstellungen": [
   {
    "titel": "Bestform 2026",
-   "untertitel": "Die Berner Design Stiftung präsentiert in der jährlich stattfindenden Ausstellung Bestform die Projekte der von ihr geförderten Designer:innen",
+   "untertitel": "Projekte geförderter Designer:innen und Objekte aus der Sammlung angewandte Kunst Kanton Bern",
    "beginn": null,
    "ende": null,
    "art": "wechselausstellung",
    "fachgebiet": "design",
    "haus": "Berner Designstiftung (ehemals Bernische Stiftung für angewandte Kunst und Gestaltung)",
    "rang": 1,
-   "epoche": "zeitgenoessisch",
+   "epoche": "gemischt",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
    "url": "https://bernerdesignstiftung.ch/de/bestform/bestform-2026/",
    "kuenstler": [
     "Andrea Dreier",
@@ -35,12 +38,11 @@
     "NINA YUUN",
     "Vincent Grand"
    ],
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "einzelausstellung_von": null,
    "quelle": "https://bernerdesignstiftung.ch/de/bestform/",
-   "detail_geprueft": "2026-10-12",
-   "standort": "Berner Designstiftung"
+   "detail_geprueft": "2026-10-15",
+   "standort": "Berner Designstiftung",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Sammlung angewandte Kunst Kanton Bern",
@@ -60,9 +62,11 @@
    "eroeffnung": null,
    "einzelausstellung_von": null,
    "quelle": "https://bernerdesignstiftung.ch/de/bestform/",
-   "standort": "Berner Designstiftung"
+   "standort": "Berner Designstiftung",
+   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 1
 }

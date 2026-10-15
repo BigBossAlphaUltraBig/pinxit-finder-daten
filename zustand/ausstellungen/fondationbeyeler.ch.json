@@ -21,17 +21,42 @@
    "rang": 1,
    "epoche": "gemischt",
    "gemeinfrei": false,
-   "schwerpunkt": "Dialog zwischen Kunst, Architektur und Natur, Werke des 19. bis 21. Jahrhunderts",
-   "einzelausstellung_von": null,
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "kuenstler": [],
+   "schwerpunkt": "Meisterwerke des 19. bis 21. Jahrhunderts im Dialog mit Architektur und Natur",
    "url": "https://www.fondationbeyeler.ch/de/ausstellungen/constellations",
-   "quelle": "https://www.fondationbeyeler.ch/de/ausstellungen/constellations"
+   "kuenstler": [
+    "Claude Monet",
+    "Pablo Picasso",
+    "Alexander Calder",
+    "Joan Miró",
+    "René Magritte",
+    "Alberto Giacometti",
+    "Mark Rothko",
+    "Willem de Kooning",
+    "Joan Mitchell",
+    "Cy Twombly",
+    "Louise Bourgeois",
+    "Fujiko Nakaya",
+    "Gerhard Richter",
+    "Vija Celmins",
+    "Marlene Dumas",
+    "Robert Gober",
+    "Thomas Schütte",
+    "Roni Horn",
+    "Fischli/Weiss",
+    "Elizabeth Peyton",
+    "Wolfgang Tillmans",
+    "Otobong Nkanga"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
+   "quelle": "https://www.fondationbeyeler.ch/de/ausstellungen/constellations",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Ruth Asawa",
-   "untertitel": "Die erste Retrospektive Ruth Asawas (1926–2013) in Europa",
+   "untertitel": "",
    "beginn": "2026-10-18",
    "ende": "2027-01-10",
    "art": "wechselausstellung",
@@ -40,18 +65,21 @@
    "rang": 1,
    "epoche": "moderne",
    "gemeinfrei": false,
-   "schwerpunkt": "",
    "kuenstler": [
     "Ruth Asawa"
    ],
    "einzelausstellung_von": "Ruth Asawa",
    "eroeffnung": null,
    "anderer_ort": null,
+   "schwerpunkt": null,
    "url": "https://www.fondationbeyeler.ch/de/ausstellungen/ruth-asawa",
    "quelle": "https://www.fondationbeyeler.ch/de/ausstellungen/ruth-asawa",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

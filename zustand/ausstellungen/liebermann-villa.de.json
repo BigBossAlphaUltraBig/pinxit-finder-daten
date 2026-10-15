@@ -21,19 +21,20 @@
    "rang": 1,
    "epoche": "moderne",
    "gemeinfrei": true,
-   "schwerpunkt": "Neuerwerbungen von Werken der Künstler Slevogt, Cassirer und Liebermann",
-   "url": "https://liebermann-villa.de/ausstellungen/auf-zu-neuen-werken/",
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
    "kuenstler": [
     "Max Slevogt",
     "Bruno Cassirer",
     "Max Liebermann"
    ],
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "einzelausstellung_von": null,
-   "ende_hinweis": null,
+   "url": "https://liebermann-villa.de/ausstellungen/auf-zu-neuen-werken/",
    "quelle": "https://liebermann-villa.de/ausstellungen-aktuell/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Max Liebermann am Wannsee",
@@ -46,20 +47,20 @@
    "rang": 2,
    "epoche": "moderne",
    "gemeinfrei": true,
-   "schwerpunkt": "Leben und Werk Max Liebermanns in seiner Sommervilla am Wannsee",
-   "url": "https://liebermann-villa.de/ausstellungen/dauerausstellung/",
+   "schwerpunkt": "Max Liebermann und sein Sommerhaus am Wannsee",
+   "einzelausstellung_von": "Max Liebermann",
    "kuenstler": [
     "Max Liebermann"
    ],
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "einzelausstellung_von": "Max Liebermann",
-   "quelle": "https://liebermann-villa.de/ausstellungen-aktuell/"
+   "url": "https://liebermann-villa.de/ausstellungen/dauerausstellung/",
+   "quelle": "https://liebermann-villa.de/ausstellungen-aktuell/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
   {
-   "titel": "Liebermanns Pastelle",
+   "titel": "IM FOKUS. LIEBERMANNS PASTELLE",
    "untertitel": "Eine Welt in Kreide",
    "beginn": "2026-06-06",
    "ende": "2026-09-21",
@@ -67,20 +68,44 @@
    "fachgebiet": "bildende_kunst",
    "haus": "Liebermann-Villa",
    "rang": 1,
-   "epoche": "19_jahrhundert",
+   "epoche": "moderne",
    "gemeinfrei": true,
-   "schwerpunkt": null,
-   "einzelausstellung_von": "Max Liebermann",
+   "schwerpunkt": "Pastellbilder aus der Sammlung von Max Liebermann",
    "kuenstler": [
     "Max Liebermann"
    ],
+   "einzelausstellung_von": "Max Liebermann",
    "eroeffnung": null,
    "anderer_ort": null,
    "url": "https://liebermann-villa.de/ausstellungen/liebermanns-pastelle/",
    "quelle": "https://liebermann-villa.de/ausstellungen/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
+  },
+  {
+   "titel": "ALLES FÜR DIE KUNST!",
+   "untertitel": "MAX LIEBERMANN ZWISCHEN STRATEGIE UND KULTURPOLITIK",
+   "beginn": "2026-02-07",
+   "ende": "2026-05-25",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Liebermann-Villa",
+   "rang": 2,
+   "epoche": "moderne",
+   "gemeinfrei": true,
+   "schwerpunkt": "Max Liebermann und Kulturpolitik",
+   "kuenstler": [
+    "Max Liebermann"
+   ],
+   "einzelausstellung_von": null,
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://liebermann-villa.de/ausstellungen/alles-fuer-die-kunst/",
+   "quelle": "https://liebermann-villa.de/ausstellungen/",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

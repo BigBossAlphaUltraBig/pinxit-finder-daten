@@ -11,6 +11,30 @@
  ],
  "ausstellungen": [
   {
+   "titel": "Heidi Specker: DamenzimmerHerrenschnitt. Eine Hommage an Aenne Biermann",
+   "untertitel": null,
+   "beginn": "2026-09-05",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Galerie für Zeitgenössische Kunst",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Heidi Specker"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": null,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Heidi Specker",
+   "quelle": "https://gfzk.de/aktivitaeten/ausstellungen/vorschau/",
+   "standort": "Galerie für Zeitgenössische Kunst Leipzig",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
    "titel": "DamenzimmerHerrenschnitt. Eine Hommage an Aenne Biermann",
    "untertitel": null,
    "beginn": "2026-09-05",
@@ -29,7 +53,8 @@
    "anderer_ort": null,
    "url": null,
    "quelle": "https://gfzk.de/aktivitaeten/ausstellungen/vorschau/",
-   "standort": "Galerie für Zeitgenössische Kunst Leipzig"
+   "standort": "Galerie für Zeitgenössische Kunst Leipzig",
+   "verpasst": 1
   }
  ],
  "aussortiert": [
@@ -38,27 +63,26 @@
    "untertitel": "Die schönsten deutschen Bücher 2026 / Stiftung Buchkunst",
    "beginn": "2026-10-01",
    "ende": "2027-01-10",
-   "art": "messe_markt",
-   "fachgebiet": "bildende_kunst",
+   "art": "wechselausstellung",
+   "fachgebiet": "sonstiges",
    "haus": "Galerie für Zeitgenössische Kunst",
-   "rang": 5,
+   "rang": 3,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "GfZK Auditorium",
-   "eroeffnung": "2026-10-01T18:00",
-   "einzelausstellung_von": null,
    "kuenstler": [
     "Stiftung Buchkunst"
    ],
+   "anderer_ort": "GfZK Auditorium",
+   "eroeffnung": "2026-10-01T18:00",
    "url": "https://gfzk.de/en/2026/dedie-schoensten-deutschen-buecher-2026enthe-most-beautiful-german-books-2026/",
    "quelle": "https://gfzk.de/en/aktivitaeten/ausstellungen/aktuell/",
    "eintritt": "frei",
-   "detail_geprueft": "2026-10-12",
-   "grund": "Messe/Markt, keine Ausstellung"
+   "detail_geprueft": "2026-10-15",
+   "grund": "keine Kunst (sonstiges)"
   },
   {
-   "titel": "DamenzimmerHerrenschnitt. A homage to Aenne Biermann",
+   "titel": "DamenzimmerHerrenschnitt",
    "untertitel": "A homage to Aenne Biermann",
    "beginn": "2026-09-05",
    "ende": "2027-01-10",
@@ -69,20 +93,18 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "GfZK Altbau",
-   "eroeffnung": "2026-09-04T19:00",
-   "einzelausstellung_von": "Heidi Specker",
    "kuenstler": [
     "Heidi Specker"
    ],
+   "anderer_ort": "GfZK Altbau",
+   "eroeffnung": "2026-09-04T19:00",
    "url": "https://gfzk.de/en/2026/heidi-specker-damenzimmer-herrenschnitt-eine-hommage-an-aenne-biermann/",
    "quelle": "https://gfzk.de/en/aktivitaeten/ausstellungen/aktuell/",
-   "eintritt": "frei",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: GfZK Altbau"
   },
   {
-   "titel": "It’s not about nothing. Episode 2",
+   "titel": "It's not about nothing. Episode 2",
    "untertitel": "Episode 2",
    "beginn": "2026-07-04",
    "ende": "2026-10-18",
@@ -93,9 +115,6 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "GfZK Neubau",
-   "eroeffnung": "2026-07-03T17:00",
-   "einzelausstellung_von": null,
    "kuenstler": [
     "Maryam Jafri",
     "Pınar Öğrenci",
@@ -103,26 +122,25 @@
     "Merlin Rainer",
     "Pooya Sedighi Mournani"
    ],
+   "anderer_ort": "GfZK Neubau",
+   "eroeffnung": "2026-07-03T17:00",
    "url": "https://gfzk.de/en/2026/its-not-about-nothing-episode-2/",
    "quelle": "https://gfzk.de/en/aktivitaeten/ausstellungen/aktuell/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: GfZK Neubau"
   },
   {
-   "titel": "It’s not about nothing. Episode 1",
+   "titel": "It's not about nothing. Episode 1",
    "untertitel": "Episode 1",
    "beginn": "2026-05-22",
    "ende": "2027-06-27",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Galerie für Zeitgenössische Kunst",
-   "rang": 3,
+   "rang": 4,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "GfZK Altbau & GfZK Neubau",
-   "eroeffnung": "2026-05-21T19:00",
-   "einzelausstellung_von": null,
    "kuenstler": [
     "Azra Akšamija",
     "Éric Baudelaire",
@@ -139,43 +157,40 @@
     "Anna Witt",
     "Clemens von Wedemeyer"
    ],
+   "anderer_ort": "GfZK Altbau & GfZK Neubau",
+   "eroeffnung": "2026-05-21T19:00",
    "url": "https://gfzk.de/en/2026/its-not-about-nothing/",
    "quelle": "https://gfzk.de/en/aktivitaeten/ausstellungen/aktuell/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: GfZK Altbau & GfZK Neubau"
   },
   {
    "titel": "STUDIO INKLUSIV",
-   "untertitel": "Spiel, Raum, Licht",
+   "untertitel": "Grafik: Nora Krings",
    "beginn": "2025-09-01",
    "ende": "2027-12-31",
    "art": "wechselausstellung",
    "fachgebiet": "sonstiges",
    "haus": "Galerie für Zeitgenössische Kunst",
-   "rang": 4,
+   "rang": 5,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [],
    "anderer_ort": null,
    "eroeffnung": null,
-   "einzelausstellung_von": null,
-   "kuenstler": [
-    "Nora Krings",
-    "Franziska Merkel",
-    "Anja Kreher"
-   ],
    "url": "https://gfzk.de/en/2025/studioinklusiv/",
    "quelle": "https://gfzk.de/en/aktivitaeten/ausstellungen/aktuell/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "keine Kunst (sonstiges)"
   },
   {
    "titel": "Die Schönsten Deutschen Bücher 2026",
-   "untertitel": "Die 25 prämierten Bücher des Jahres",
+   "untertitel": "Die 25 prämierten Bücher des Jahres der Stiftung Buchkunst",
    "beginn": "2026-10-01",
    "ende": "2027-01-10",
    "art": "wechselausstellung",
-   "fachgebiet": "design",
+   "fachgebiet": "sonstiges",
    "haus": "Galerie für Zeitgenössische Kunst",
    "rang": 2,
    "epoche": "zeitgenoessisch",
@@ -183,14 +198,15 @@
    "kuenstler": [
     "Stiftung Buchkunst"
    ],
-   "schwerpunkt": null,
    "eroeffnung": "2026-10-01T18:00",
    "anderer_ort": "GfZK Auditorium",
    "url": "https://gfzk.de/2026/dedie-schoensten-deutschen-buecher-2026enthe-most-beautiful-german-books-2026/",
+   "schwerpunkt": null,
+   "einzelausstellung_von": null,
    "quelle": "https://gfzk.de/aktivitaeten/ausstellungen/vorschau/",
    "eintritt": "frei",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: GfZK Auditorium",
+   "detail_geprueft": "2026-10-15",
+   "grund": "keine Kunst (sonstiges)",
    "standort": "Galerie für Zeitgenössische Kunst Leipzig"
   },
   {
@@ -207,15 +223,17 @@
    "kuenstler": [
     "Sara Sejin Chang (Sara van der Heide)"
    ],
-   "schwerpunkt": null,
    "eroeffnung": "2026-11-13",
    "anderer_ort": "GfZK Neubau",
    "url": "https://gfzk.de/2026/sara-sejin-chang/",
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Sara Sejin Chang (Sara van der Heide)",
    "quelle": "https://gfzk.de/aktivitaeten/ausstellungen/vorschau/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: GfZK Neubau",
    "standort": "Galerie für Zeitgenössische Kunst Leipzig"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 1
 }

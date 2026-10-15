@@ -21,35 +21,16 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "url": "https://maedlerartforum.com/2026/06/30/south-africa-und-leipzig/",
-   "kuenstler": [
-    "Katherine Bull",
-    "Sebastian Burger",
-    "Bongile Gorata Lecoge-Zulu",
-    "Roxy Kaczmarek",
-    "Thalente Khomo",
-    "Hemali Khoosal",
-    "Nolwazi Mbali Mahlangu",
-    "Bjørn Mehlhus",
-    "Nono Motlhoki",
-    "Maria Ondrej",
-    "Vlado Ondrej",
-    "Natalie Paneng",
-    "Ramona Schacht",
-    "Maria Schumacher",
-    "Jana Schulz",
-    "Oupa Sibeko",
-    "Tzung-Hui Lauren Lee",
-    "Raul Walch",
-    "Angelika Waniek",
-    "Xhanti Zwelendaba"
-   ],
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "einzelausstellung_von": null,
    "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "url": "https://maedlerartforum.com/2026/06/30/south-africa-und-leipzig/",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "kuenstler": [],
    "quelle": "https://maedlerartforum.com/ausstellungen/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
@@ -63,15 +44,17 @@
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "einzelausstellung_von": null,
-   "kuenstler": [],
-   "eroeffnung": null,
-   "anderer_ort": null,
-   "url": null,
    "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "kuenstler": [],
+   "url": null,
+   "untertitel": null,
    "quelle": "https://maedlerartforum.com/2026/06/30/south-africa-und-leipzig/",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

@@ -12,23 +12,23 @@
  "ausstellungen": [
   {
    "titel": "Martin Disler",
-   "untertitel": "Galerie Urs Meile, Zurich Ankerstrasse",
+   "untertitel": "",
    "beginn": "2026-11-19",
    "ende": "2027-01-09",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Galerie Urs Meile (Ankerstrasse)",
    "rang": 2,
-   "epoche": "moderne",
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Martin Disler",
+   "eroeffnung": "2026-11-19T18:00",
    "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "Martin Disler"
    ],
    "anderer_ort": null,
-   "eroeffnung": "2026-11-19T18:00",
-   "einzelausstellung_von": "Martin Disler",
    "url": "https://www.galerieursmeile.com/exhibitions/upcoming",
+   "schwerpunkt": null,
    "quelle": "https://www.galerieursmeile.com/exhibitions/upcoming",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -36,7 +36,7 @@
   },
   {
    "titel": "Horsehair takes a long time to burn",
-   "untertitel": null,
+   "untertitel": "",
    "beginn": "2026-09-10",
    "ende": "2026-10-31",
    "art": "wechselausstellung",
@@ -49,10 +49,9 @@
    ],
    "schwerpunkt": null,
    "gemeinfrei": false,
-   "anderer_ort": null,
-   "eroeffnung": "2026-09-10T18:00",
    "url": "https://www.galerieursmeile.com/exhibitions/event/horsehair",
-   "einzelausstellung_von": "Rebekka Steiger",
+   "eroeffnung": "2026-09-10T18:00",
+   "anderer_ort": null,
    "quelle": "https://www.galerieursmeile.com/exhibitions/current",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -75,13 +74,12 @@
    ],
    "schwerpunkt": null,
    "gemeinfrei": false,
-   "anderer_ort": "Beijing",
-   "eroeffnung": "2026-08-29T16:00",
    "url": "https://www.galerieursmeile.com/exhibitions/event/cai-dongdong-2",
-   "einzelausstellung_von": "Cai Dongdong",
+   "eroeffnung": "2026-08-29T16:00",
+   "anderer_ort": "Galerie Urs Meile Beijing",
    "quelle": "https://www.galerieursmeile.com/exhibitions/current",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Beijing"
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Galerie Urs Meile Beijing"
   },
   {
    "titel": "Landscape As Body",
@@ -98,19 +96,18 @@
    ],
    "schwerpunkt": null,
    "gemeinfrei": false,
-   "anderer_ort": "Beijing",
-   "eroeffnung": "2026-08-29T16:00",
    "url": "https://www.galerieursmeile.com/exhibitions/event/LandscapeAsBody",
-   "einzelausstellung_von": "Han Yong",
+   "eroeffnung": "2026-08-29T16:00",
+   "anderer_ort": "Galerie Urs Meile Beijing",
    "quelle": "https://www.galerieursmeile.com/exhibitions/current",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Beijing"
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Galerie Urs Meile Beijing"
   },
   {
    "titel": "Holding Things Together",
-   "untertitel": "Holding Things Together",
+   "untertitel": "The first solo show by Swiss artist Loredana Sperini with the gallery",
    "beginn": "2026-09-17",
-   "ende": "2026-11-07",
+   "ende": "2026-11-13",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Galerie Urs Meile (Ankerstrasse)",
@@ -121,13 +118,12 @@
    ],
    "schwerpunkt": null,
    "gemeinfrei": false,
-   "anderer_ort": "Rämistrasse Zürich",
-   "eroeffnung": "2026-09-17T18:00",
    "url": "https://www.galerieursmeile.com/exhibitions/event/holdingthingstogether",
-   "einzelausstellung_von": "Loredana Sperini",
+   "eroeffnung": "2026-09-17T18:00",
+   "anderer_ort": "Galerie Urs Meile, Zurich Rämistrasse",
    "quelle": "https://www.galerieursmeile.com/exhibitions/current",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Rämistrasse Zürich"
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Galerie Urs Meile, Zurich Rämistrasse"
   },
   {
    "titel": "Time Out of Joint",
@@ -139,20 +135,20 @@
    "haus": "Galerie Urs Meile (Ankerstrasse)",
    "rang": 1,
    "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": null,
+   "eroeffnung": "2026-10-31T16:00",
    "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "Martin Disler"
    ],
    "anderer_ort": "Beijing",
-   "eroeffnung": "2026-10-31T16:00",
-   "einzelausstellung_von": null,
    "url": "https://www.galerieursmeile.com/exhibitions/upcoming",
+   "schwerpunkt": null,
    "quelle": "https://www.galerieursmeile.com/exhibitions/upcoming",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Beijing"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

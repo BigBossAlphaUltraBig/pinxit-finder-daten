@@ -24,36 +24,16 @@
    "kuenstler": [
     "Oliver Coran"
    ],
-   "einzelausstellung_von": "Oliver Coran",
-   "eroeffnung": "2026-09-10",
    "anderer_ort": null,
    "url": null,
+   "eroeffnung": "2026-09-10T18:00",
+   "einzelausstellung_von": "Oliver Coran",
    "quelle": "https://larsfriedrich.net/",
    "erstmals": "2026-10-12",
    "verpasst": 0
-  },
-  {
-   "titel": "Eröffnung",
-   "untertitel": null,
-   "beginn": "2026-09-10",
-   "ende": "2026-10-17",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Galerie Lars Friedrich",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "kuenstler": [
-    "Oliver Coran"
-   ],
-   "einzelausstellung_von": "Oliver Coran",
-   "eroeffnung": "2026-09-10T18:00",
-   "url": null,
-   "quelle": "https://larsfriedrich.net/",
-   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 1
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

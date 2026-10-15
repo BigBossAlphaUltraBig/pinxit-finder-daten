@@ -22,9 +22,6 @@
    "epoche": "gemischt",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": null,
-   "einzelausstellung_von": null,
-   "eroeffnung": "2026-09-10",
    "kuenstler": [
     "Mamma Andersson",
     "Mirosław Bałka",
@@ -43,6 +40,8 @@
     "Michael Schmidt",
     "Not Vital"
    ],
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-10T18:00",
    "url": "https://nordenhake.com/exhibitions/2026/inaugural-group-exhibition-opening-our-new-location-at-goethestrasse-2-3",
    "quelle": "https://nordenhake.com/exhibitions/2026/inaugural-group-exhibition-opening-our-new-location-at-goethestrasse-2-3",
    "detail_geprueft": "2026-10-12",
@@ -53,7 +52,7 @@
  "aussortiert": [
   {
    "titel": "»BEING«",
-   "untertitel": "»BEING«",
+   "untertitel": "Stockholm, 2026",
    "beginn": "2026-10-01",
    "ende": "2026-11-08",
    "art": "wechselausstellung",
@@ -63,18 +62,18 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "Stockholm",
-   "einzelausstellung_von": "Mirosław Bałka",
+   "eroeffnung": null,
    "kuenstler": [
     "Mirosław Bałka"
    ],
-   "eroeffnung": null,
+   "einzelausstellung_von": "Mirosław Bałka",
+   "anderer_ort": "Stockholm",
    "url": "https://nordenhake.com/exhibitions/2026/miroslaw-balka",
    "quelle": "https://nordenhake.com/exhibitions/2026/miroslaw-balka",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Stockholm"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

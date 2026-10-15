@@ -13,7 +13,7 @@
   {
    "titel": "On Chewing Shoelaces",
    "untertitel": "Art, Mess and Radical Kinship",
-   "beginn": "2026-09-17",
+   "beginn": "2026-09-16",
    "ende": "2026-10-24",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
@@ -21,10 +21,6 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "einzelausstellung_von": null,
-   "eroeffnung": "2026-09-16T15:00",
    "kuenstler": [
     "Liesel Burisch",
     "Club Fortuna",
@@ -35,61 +31,87 @@
     "HOOD dreamers",
     "Im_flieger"
    ],
-   "url": "https://www.wuk.at/programm/on-chewing-shoelaces-art-mess-and-radical-kinship/",
+   "url": "https://www.wuk.at/programm/on-chewing-shoelaces-art-mess-and-radical-kinship/ausstellungseroeffnung-on-chewing-shoelaces/",
+   "anderer_ort": null,
+   "eroeffnung": "2026-09-16T15:00",
+   "einzelausstellung_von": null,
+   "schwerpunkt": null,
    "quelle": "https://www.wuk.at/programm/on-chewing-shoelaces-art-mess-and-radical-kinship/ausstellungseroeffnung-on-chewing-shoelaces/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
-   "titel": "ON CHEWING SHOELACES: ART, MESS AND RADICAL KINSHIP",
-   "untertitel": "WAS, WENN MESS – DAS DURCHEINANDER – DIE METHODE IST?",
+   "titel": "On Chewing Shoelaces: Art, Mess and Radical Kinship",
+   "untertitel": "Was, wenn Mess – das Durcheinander – die Methode ist?",
    "beginn": "2026-09-17",
    "ende": "2026-10-24",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
+   "haus": "Kunsthalle Exnergasse",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "kuenstler": [],
+   "einzelausstellung_von": null,
+   "eroeffnung": "2026-09-17",
+   "anderer_ort": null,
+   "url": "https://www.wuk.at/programm/on-chewing-shoelaces-art-mess-and-radical-kinship/",
+   "quelle": "https://www.wuk.at/programm/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Rückrufaktion",
+   "untertitel": "Installation in der Kunstzelle im Hof",
+   "beginn": "2026-09-23",
+   "ende": "2026-11-06",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
    "haus": "Kunsthalle Exnergasse",
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
    "kuenstler": [
-    "Liesel Burisch",
-    "Club Fortuna",
-    "Nana Mandl",
-    "Jesseline Preach",
-    "Rychèl Thérin Scott",
-    "Sarah Sternat",
-    "HOOD dreamers"
+    "Hannes Gröblacher"
    ],
-   "anderer_ort": null,
-   "eroeffnung": "2026-09-17",
-   "url": "https://www.wuk.at/programm/on-chewing-shoelaces-art-mess-and-radical-kinship/",
+   "einzelausstellung_von": "Hannes Gröblacher",
+   "eroeffnung": "2026-09-23T19:00",
+   "anderer_ort": "Kunstzelle im Hof",
+   "url": "https://www.wuk.at/programm/hannes-groeblacher-rueckrufaktion/",
    "quelle": "https://www.wuk.at/programm/",
-   "detail_geprueft": "2026-10-12"
-  }
- ],
- "aussortiert": [
+   "eintritt": "Eintritt frei",
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Kunstzelle im Hof"
+  },
   {
-   "titel": "Rückrufaktion",
-   "untertitel": "Eine interaktive Soundinstallation über die allgegenwärtigen Fetzen fremder Telefongespräche im öffentlichen Raum",
-   "beginn": "2026-09-23",
-   "ende": "2026-11-06",
+   "titel": "Gabriele Rothemann",
+   "untertitel": "Werkschau XXXI",
+   "beginn": "2026-10-19",
+   "ende": "2026-11-21",
    "art": "wechselausstellung",
-   "fachgebiet": "medienkunst",
+   "fachgebiet": "fotografie",
    "haus": "Kunsthalle Exnergasse",
-   "rang": 2,
+   "rang": 3,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
    "kuenstler": [
-    "Hannes Gröblacher"
+    "Gabriele Rothemann"
    ],
-   "anderer_ort": "Kunstzelle im Hof",
-   "eroeffnung": "2026-09-23T19:00",
-   "url": "https://www.wuk.at/programm/hannes-groeblacher-rueckrufaktion/",
+   "einzelausstellung_von": "Gabriele Rothemann",
+   "eroeffnung": "2026-10-19T19:00",
+   "anderer_ort": "Fotogalerie Wien",
+   "url": "https://www.wuk.at/programm/werkschau-xxxi-gabriele-rothemann/",
    "quelle": "https://www.wuk.at/programm/",
    "eintritt": "Eintritt frei",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Kunstzelle im Hof"
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Fotogalerie Wien"
   },
   {
    "titel": "Graues Rauschen",
@@ -99,7 +121,7 @@
    "art": "wechselausstellung",
    "fachgebiet": "fotografie",
    "haus": "Kunsthalle Exnergasse",
-   "rang": 3,
+   "rang": 4,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
@@ -108,14 +130,16 @@
     "Daniela Zeilinger",
     "Bastian Hackl-Schwind"
    ],
-   "anderer_ort": "WSB Plenarraum",
+   "einzelausstellung_von": null,
    "eroeffnung": null,
+   "anderer_ort": "WSB Plenarraum",
    "url": "https://www.wuk.at/programm/graues-rauschen/",
    "quelle": "https://www.wuk.at/programm/",
-   "eintritt": "Eintritt frei",
-   "detail_geprueft": "2026-10-12",
+   "eintritt": "frei",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: WSB Plenarraum"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

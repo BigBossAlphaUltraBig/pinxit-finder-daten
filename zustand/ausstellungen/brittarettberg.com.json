@@ -38,7 +38,7 @@
  "aussortiert": [
   {
    "titel": "Dagmar Rhodius @park",
-   "untertitel": null,
+   "untertitel": "Dagmar Rhodius @park",
    "beginn": "2026-09-18",
    "ende": "2026-10-31",
    "art": "wechselausstellung",
@@ -48,18 +48,18 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "Dagmar Rhodius",
    "kuenstler": [
     "Dagmar Rhodius"
    ],
-   "einzelausstellung_von": "Dagmar Rhodius",
-   "eroeffnung": null,
    "anderer_ort": "Park",
    "url": "https://brittarettberg.com/exhibition/dagmar-rhodius-park/",
    "quelle": "https://brittarettberg.com/exhibition/dagmar-rhodius-park/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Park"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

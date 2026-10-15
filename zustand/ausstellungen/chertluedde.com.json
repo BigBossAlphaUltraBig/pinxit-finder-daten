@@ -13,9 +13,6 @@
   {
    "titel": "Search for Life",
    "untertitel": "",
-   "kuenstler": [
-    "Stephanie Comilang"
-   ],
    "beginn": "2026-09-11",
    "ende": "2026-10-31",
    "art": "wechselausstellung",
@@ -25,9 +22,12 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [
+    "Stephanie Comilang"
+   ],
+   "einzelausstellung_von": "Stephanie Comilang",
    "eroeffnung": "2026-09-11",
    "anderer_ort": null,
-   "einzelausstellung_von": "Stephanie Comilang",
    "url": "https://chertluedde.com/exhibition/stephanie-comilangsearch-for-life/",
    "quelle": "https://chertluedde.com/exhibition/stephanie-comilangsearch-for-life/",
    "detail_geprueft": "2026-10-12",
@@ -36,6 +36,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

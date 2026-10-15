@@ -20,15 +20,15 @@
    "haus": "Alexander Levy",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "einzelausstellung_von": "Sinta Werner",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
    "kuenstler": [
     "Sinta Werner"
    ],
-   "gemeinfrei": false,
-   "anderer_ort": null,
    "eroeffnung": "2026-09-10",
+   "einzelausstellung_von": "Sinta Werner",
+   "anderer_ort": null,
    "url": "https://alexanderlevy.de/exhibitions/current",
-   "schwerpunkt": null,
    "quelle": "https://alexanderlevy.de/exhibitions/current",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -36,6 +36,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

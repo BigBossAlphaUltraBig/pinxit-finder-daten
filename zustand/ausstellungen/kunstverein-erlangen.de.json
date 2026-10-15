@@ -7,14 +7,39 @@
  "status": "ok",
  "seiten": [
   "https://www.kunstverein-erlangen.de/",
-  "https://www.kunstverein-erlangen.de/aktuelle-ausstellung-petra-krischke-pink-hadesund-herbstsalon-2026"
+  "https://www.kunstverein-erlangen.de/kommende-ausstellung-vera-kattler"
  ],
  "ausstellungen": [
   {
    "titel": "Pink HADES",
-   "untertitel": "Pink HADES",
+   "untertitel": "",
    "beginn": "2026-10-01",
    "ende": "2026-10-22",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Kunstverein Erlangen",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Petra Krischke",
+   "kuenstler": [
+    "Petra Krischke"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "url": "https://www.kunstverein-erlangen.de/",
+   "eroeffnung": "2026-10-01T18:00",
+   "ausstellungsseite_gefunden": true,
+   "quelle": "https://www.kunstverein-erlangen.de/",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Mögliche Merkwürdigkeiten",
+   "untertitel": "Mögliche Merkwürdigkeiten",
+   "beginn": "2026-10-29",
+   "ende": "2026-11-19",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Kunstverein Erlangen",
@@ -23,43 +48,22 @@
    "gemeinfrei": false,
    "schwerpunkt": null,
    "kuenstler": [
-    "Petra Krischke"
+    "Vera Kattler"
    ],
-   "einzelausstellung_von": "Petra Krischke",
-   "eroeffnung": "2026-10-01T18:00",
+   "einzelausstellung_von": "Vera Kattler",
+   "eroeffnung": "2026-10-29T18:00",
    "anderer_ort": null,
-   "url": "https://www.kunstverein-erlangen.de/",
-   "quelle": "https://www.kunstverein-erlangen.de/",
-   "detail_geprueft": "2026-10-12",
-   "erstmals": "2026-10-12",
+   "url": "https://www.kunstverein-erlangen.de/kommende-ausstellung-vera-kattler",
+   "quelle": "https://www.kunstverein-erlangen.de/kommende-ausstellung-vera-kattler",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
    "verpasst": 0
-  },
-  {
-   "titel": "Petra Krischke – Pink HADES",
-   "untertitel": null,
-   "beginn": "2026-10-01",
-   "ende": "2026-10-22",
-   "art": "wechselausstellung",
-   "einzelausstellung_von": "Petra Krischke",
-   "kuenstler": [
-    "Petra Krischke"
-   ],
-   "kunst": true,
-   "haus": "Kunstverein Erlangen",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": "Malerei, Installation, Performance, experimentelle Materialität",
-   "anderer_ort": null,
-   "url": "https://www.kunstverein-erlangen.de/",
-   "quelle": "https://www.kunstverein-erlangen.de/",
-   "verpasst": 1
   }
  ],
  "aussortiert": [
   {
    "titel": "Herbstsalon 2026",
-   "untertitel": "Jedes Jahr präsentiert der Kunstverein Erlangen e.V. seine Mitglieder in einer Ausstellung",
+   "untertitel": "Die Mitglieder des Kunstvereins Erlangen e.V.",
    "beginn": "2026-10-11",
    "ende": "2026-11-08",
    "art": "wechselausstellung",
@@ -67,18 +71,19 @@
    "haus": "Kunstverein Erlangen",
    "rang": 2,
    "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": null,
+   "kuenstler": [],
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "kuenstler": [],
-   "einzelausstellung_von": null,
-   "eroeffnung": "2026-10-11T16:00",
-   "anderer_ort": "Kunstpalais Erlangen, Marktplatz 1, 91054 Erlangen",
+   "anderer_ort": "Kunstpalais Erlangen",
    "url": "https://www.kunstverein-erlangen.de/",
+   "eroeffnung": "2026-10-11T16:00",
+   "ausstellungsseite_gefunden": true,
    "quelle": "https://www.kunstverein-erlangen.de/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Kunstpalais Erlangen, Marktplatz 1, 91054 Erlangen"
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Kunstpalais Erlangen"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 1
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

@@ -6,47 +6,51 @@
  "ids": "node/9235673428",
  "status": "ok",
  "seiten": [
-  "https://www.gedok-stuttgart.de/aktuell/veranstaltungen/100-jahre-gedok/",
-  "https://www.gedok-stuttgart.de/aktuell/veranstaltungen/gertrud-wartet-auf-frieden/"
+  "https://www.gedok-stuttgart.de/aktuell/veranstaltungen/gertrud-wartet-auf-frieden/",
+  "https://www.gedok-stuttgart.de/aktuell/veranstaltungen/mitgliederausstellung-die-erinnerung-erfinden-wir-uns-selbst/"
  ],
  "ausstellungen": [
   {
-   "titel": "Die Erinnerung erfinden wir uns selbst",
-   "untertitel": "100 Jahre GEDOK",
-   "beginn": "2026-10-10",
-   "ende": "2026-10-31",
+   "titel": "Die Erinnerung erfinden wir uns selbst – 100 Jahre GEDOK",
+   "untertitel": null,
+   "beginn": null,
+   "ende": null,
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Gedok Gemeinschaft der Künstlerinnen und Kunstfreunde e. V.",
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "kuenstler": [
-    "DADA",
-    "Christiane Haag",
-    "Cinyi Joh",
-    "Ille Jung",
-    "Barbara Karsch-Chaieb",
-    "Gudrun Knapp",
-    "Conny Luley",
-    "Renate Maucher",
-    "Iris Merkle",
-    "Haewon Park",
-    "Christa Planck",
-    "Svenja Rehse",
-    "Sabine Reichert",
-    "Gudrun Seyfert",
-    "Charlotte Traum",
-    "Nicole Walger"
-   ],
-   "eroeffnung": "2026-10-09T19:30",
-   "url": "https://www.gedok-stuttgart.de/aktuell/veranstaltungen/100-jahre-gedok/",
-   "quelle": "https://www.gedok-stuttgart.de/aktuell/veranstaltungen/100-jahre-gedok/",
-   "detail_geprueft": "2026-10-12"
+   "kuenstler": [],
+   "url": null,
+   "quelle": "https://www.gedok-stuttgart.de/aktuell/veranstaltungen/gertrud-wartet-auf-frieden/",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
- "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "aussortiert": [
+  {
+   "titel": "Lesung: Jutta Weber-Bock, 'Gertrud wartet auf Frieden'",
+   "untertitel": "im Rahmen der Ausstellung 'Die Erinnerung erfinden wir uns selbst – 100 Jahre GEDOK'",
+   "beginn": "2026-10-15",
+   "ende": "2026-10-15",
+   "art": "veranstaltung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Gedok Gemeinschaft der Künstlerinnen und Kunstfreunde e. V.",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "kuenstler": [
+    "Jutta Weber-Bock"
+   ],
+   "eroeffnung": "2026-10-15T19:30",
+   "url": "https://www.gedok-stuttgart.de/aktuell/veranstaltungen/gertrud-wartet-auf-frieden/",
+   "quelle": "https://www.gedok-stuttgart.de/aktuell/veranstaltungen/gertrud-wartet-auf-frieden/",
+   "detail_geprueft": "2026-10-15",
+   "grund": "Veranstaltung, keine Ausstellung"
+  }
+ ],
+ "abgerufen": "2026-10-15T07:25:20",
+ "rueckfall": "claude-haiku-4-5-20251001",
+ "vom_vorlauf_behalten": 0
 }

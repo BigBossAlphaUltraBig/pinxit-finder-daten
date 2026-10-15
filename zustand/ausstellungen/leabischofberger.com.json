@@ -11,7 +11,7 @@
  "ausstellungen": [
   {
    "titel": "VESSELS",
-   "untertitel": "JASMINE BLASCO",
+   "untertitel": "",
    "beginn": "2026-09-18",
    "ende": "2026-10-31",
    "art": "wechselausstellung",
@@ -24,8 +24,9 @@
    "kuenstler": [
     "Jasmine Blasco"
    ],
-   "anderer_ort": null,
    "eroeffnung": null,
+   "einzelausstellung_von": "Jasmine Blasco",
+   "anderer_ort": null,
    "url": "https://www.leabischofberger.com/2026/jasmin-blasco-vessels",
    "quelle": "https://www.leabischofberger.com/exhibitions-1",
    "detail_geprueft": "2026-10-12",
@@ -33,29 +34,30 @@
    "verpasst": 0
   },
   {
-   "titel": "DAVID MCDERMOTT",
-   "untertitel": null,
-   "kuenstler": [
-    "David McDermott"
-   ],
-   "einzelausstellung_von": "David McDermott",
+   "titel": "David McDermott",
+   "untertitel": "",
    "beginn": "2026-11-01",
    "ende": null,
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
-   "epoche": "zeitgenoessisch",
    "haus": "Lea Bischofberger Gallery",
    "rang": 2,
+   "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [
+    "David McDermott"
+   ],
    "eroeffnung": null,
+   "einzelausstellung_von": "David McDermott",
    "anderer_ort": null,
    "url": null,
    "quelle": "https://www.leabischofberger.com/exhibitions-1",
-   "verpasst": 1
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 1
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

@@ -6,12 +6,13 @@
  "ids": "Q568767",
  "status": "ok",
  "seiten": [
-  "https://www.broehan-museum.de/ausstellung/cesar-klein-bild-raum-buehne/"
+  "https://www.broehan-museum.de/ausstellung/cesar-klein-bild-raum-buehne/",
+  "https://www.broehan-museum.de/ausstellung/paperwork-jumping-he-blackbox-18/"
  ],
  "ausstellungen": [
   {
-   "titel": "CESAR KLEIN. BILD RAUM BÜHNE",
-   "untertitel": null,
+   "titel": "Cesar Klein",
+   "untertitel": "Bild Raum Bühne",
    "beginn": "2026-10-15",
    "ende": "2027-03-29",
    "art": "wechselausstellung",
@@ -19,22 +20,23 @@
    "haus": "Bröhan-Museum",
    "rang": 1,
    "epoche": "moderne",
-   "gemeinfrei": true,
+   "gemeinfrei": false,
    "schwerpunkt": null,
    "einzelausstellung_von": "Cesar Klein",
    "kuenstler": [
     "Cesar Klein"
    ],
-   "anderer_ort": null,
-   "eroeffnung": null,
+   "eroeffnung": "2026-10-14T18:00",
    "url": "https://www.broehan-museum.de/ausstellung/cesar-klein-bild-raum-buehne/",
+   "anderer_ort": null,
    "quelle": "https://www.broehan-museum.de/ausstellung/cesar-klein-bild-raum-buehne/",
-   "erstmals": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
    "verpasst": 0
   },
   {
-   "titel": "PAPERWORK – JUMPING HE. BLACKBOX #18",
-   "untertitel": "",
+   "titel": "PAPERWORK",
+   "untertitel": "JUMPING HE. BLACKBOX #18",
    "beginn": "2026-06-13",
    "ende": "2027-02-21",
    "art": "wechselausstellung",
@@ -43,17 +45,21 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Jumping He",
    "kuenstler": [
     "Jumping He"
    ],
-   "einzelausstellung_von": "Jumping He",
-   "schwerpunkt": "Grafikdesign und experimentelle Paperwork-Projekte",
    "url": "https://www.broehan-museum.de/ausstellung/paperwork-jumping-he-blackbox-18/",
+   "eroeffnung": "2026-06-12T18:00",
+   "anderer_ort": null,
    "quelle": "https://www.broehan-museum.de/ausstellung/paperwork-jumping-he-blackbox-18/",
-   "verpasst": 1
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 1
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

@@ -12,30 +12,30 @@
  "ausstellungen": [
   {
    "titel": "Fritz Scholder",
-   "untertitel": "null",
    "beginn": "2026-04-25",
-   "ende": "2026-10-25",
+   "ende": "2027-01-17",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Tower MMK",
    "rang": 1,
    "epoche": "moderne",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
+   "einzelausstellung_von": "Fritz Scholder",
    "kuenstler": [
     "Fritz Scholder"
    ],
-   "einzelausstellung_von": "Fritz Scholder",
-   "eroeffnung": null,
+   "untertitel": null,
    "anderer_ort": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
    "url": "https://www.mmk.art/de/whats-on/fritz-scholder",
    "quelle": "https://www.mmk.art/de/exhibitions",
    "detail_geprueft": "2026-10-12",
-   "standort": "TOWERMMK"
+   "standort": "TOWERMMK",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Essence of Life",
-   "untertitel": "Essence of Life",
    "beginn": "2026-09-12",
    "ende": "2027-01-10",
    "art": "wechselausstellung",
@@ -43,23 +43,48 @@
    "haus": "Museum für Moderne Kunst",
    "rang": 2,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
+   "einzelausstellung_von": "Amel Bashier",
    "kuenstler": [
     "Amel Bashier"
    ],
-   "einzelausstellung_von": "Amel Bashier",
-   "eroeffnung": null,
+   "untertitel": null,
    "anderer_ort": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
    "url": "https://www.mmk.art/de/whats-on/amel-bashier",
    "quelle": "https://www.mmk.art/de/exhibitions",
    "detail_geprueft": "2026-10-12",
-   "standort": "ZOLLAMTMMK"
+   "standort": "ZOLLAMTMMK",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
   {
    "titel": "Pontopreis MMK 2026",
+   "beginn": "2026-03-07",
+   "ende": "2026-07-26",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Museum für Moderne Kunst",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Tohé Commaret",
+   "kuenstler": [
+    "Tohé Commaret"
+   ],
+   "untertitel": "Pontopreis MMK 2026",
+   "anderer_ort": null,
+   "eroeffnung": null,
+   "gemeinfrei": false,
+   "url": "https://www.mmk.art/de/whats-on/tohe-commaret",
+   "quelle": "https://www.mmk.art/de/exhibitions",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet",
+   "standort": "ZOLLAMTMMK"
+  },
+  {
+   "titel": "Tohé Commaret",
    "untertitel": "Pontopreis MMK 2026",
    "beginn": "2026-03-07",
    "ende": "2026-07-26",
@@ -69,17 +94,20 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
+   "schwerpunkt": null,
    "kuenstler": [
     "Tohé Commaret"
    ],
-   "anderer_ort": "ZOLLAMTMMK",
+   "anderer_ort": null,
    "url": "https://www.mmk.art/de/whats-on/tohe-commaret",
-   "quelle": "https://www.mmk.art/de/exhibitions/archive",
    "eroeffnung": null,
-   "detail_geprueft": "2026-10-12",
+   "einzelausstellung_von": null,
+   "quelle": "https://www.mmk.art/de/exhibitions/archive",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet",
    "standort": "Museum für Moderne Kunst / Tower MMK"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

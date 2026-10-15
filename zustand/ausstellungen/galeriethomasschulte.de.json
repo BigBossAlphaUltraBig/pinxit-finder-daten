@@ -22,12 +22,12 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": null,
    "kuenstler": [
     "Katharina Sieverding"
    ],
    "einzelausstellung_von": "Katharina Sieverding",
    "anderer_ort": null,
-   "eroeffnung": null,
    "url": "https://www.galeriethomasschulte.com/exhibitions/206-lifedeath-katharina-sieverding/",
    "quelle": "https://www.galeriethomasschulte.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
@@ -35,7 +35,31 @@
    "verpasst": 0
   },
   {
-   "titel": "Die Sein",
+   "titel": "Nachtruhe",
+   "untertitel": "Nachtruhe",
+   "beginn": "2026-09-11",
+   "ende": "2026-11-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "Galerie Thomas Schulte",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "kuenstler": [
+    "David L. Johnson"
+   ],
+   "einzelausstellung_von": "David L. Johnson",
+   "anderer_ort": null,
+   "url": "https://www.galeriethomasschulte.com/exhibitions/207-nachtruhe-david-l.-johnson/",
+   "quelle": "https://www.galeriethomasschulte.com/exhibitions/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Die Sein: Para Psychics Expanded (Excerpt)",
    "untertitel": "Para Psychics Expanded (Excerpt)",
    "beginn": "2026-09-11",
    "ende": "2026-11-05",
@@ -46,43 +70,20 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": null,
    "kuenstler": [
     "Kerstin Brätsch"
    ],
    "einzelausstellung_von": "Kerstin Brätsch",
    "anderer_ort": null,
-   "eroeffnung": null,
    "url": "https://www.galeriethomasschulte.com/exhibitions/208-die-sein-para-psychics-expanded-excerpt-kerstin-bratsch/",
    "quelle": "https://www.galeriethomasschulte.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
-   "erstmals": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
    "verpasst": 0
   }
  ],
  "aussortiert": [
-  {
-   "titel": "Nachtruhe",
-   "untertitel": "",
-   "beginn": "2026-09-11",
-   "ende": "2026-11-07",
-   "art": "wechselausstellung",
-   "fachgebiet": "sonstiges",
-   "haus": "Galerie Thomas Schulte",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "David L. Johnson"
-   ],
-   "einzelausstellung_von": "David L. Johnson",
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "url": "https://www.galeriethomasschulte.com/exhibitions/207-nachtruhe-david-l.-johnson/",
-   "quelle": "https://www.galeriethomasschulte.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "keine Kunst (sonstiges)"
-  },
   {
    "titel": "61ST BIENNALE DI VENEZIA",
    "untertitel": "The End of the World",
@@ -98,15 +99,15 @@
    "kuenstler": [
     "Alfredo Jaar"
    ],
-   "eroeffnung": null,
    "anderer_ort": "Venedig",
+   "eroeffnung": null,
    "einzelausstellung_von": "Alfredo Jaar",
    "url": "https://www.galeriethomasschulte.com/exhibitions/205-alfredo-jaar-61st-biennale-di-venezia/",
    "quelle": "https://www.galeriethomasschulte.com/exhibitions/205-alfredo-jaar-61st-biennale-di-venezia/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: Venedig"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

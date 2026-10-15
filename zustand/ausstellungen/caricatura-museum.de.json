@@ -22,15 +22,17 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": null,
    "einzelausstellung_von": "Katharina Greve",
-   "eroeffnung": null,
    "kuenstler": [
     "Katharina Greve"
    ],
    "url": "https://caricatura-museum.de/ausstellungen/sonderausstellung/",
+   "anderer_ort": null,
+   "eroeffnung": null,
    "quelle": "https://caricatura-museum.de/ausstellungen/sonderausstellung/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Sammlungsausstellung",
@@ -41,47 +43,25 @@
    "fachgebiet": "bildende_kunst",
    "haus": "Caricatura Museum für Komische Kunst",
    "rang": 1,
-   "epoche": "gemischt",
+   "epoche": "moderne",
    "gemeinfrei": false,
-   "schwerpunkt": "Komische Kunst der Neuen Frankfurter Schule und Loriot-Originale aus eigenem Bestand",
+   "schwerpunkt": "Karikaturen und Bildgeschichten der Neuen Frankfurter Schule und Gäste",
    "kuenstler": [
     "F. K. Waechter",
     "Hans Traxler",
     "Robert Gernhardt",
-    "F. W. Bernstein",
-    "Loriot"
+    "F. W. Bernstein"
    ],
-   "anderer_ort": null,
-   "eroeffnung": null,
-   "einzelausstellung_von": null,
    "url": "https://caricatura-museum.de/ausstellungen/sammlungsausstellung/",
-   "quelle": "https://caricatura-museum.de/ausstellungen/sammlungsausstellung/",
-   "standort": "Caricatura Museum Frankfurt"
-  }
- ],
- "aussortiert": [
-  {
-   "titel": "Öffentliche Führungen",
-   "beginn": "2026-07-19",
-   "ende": "2026-09-20",
-   "art": "veranstaltung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Caricatura Museum für Komische Kunst",
-   "rang": 2,
-   "epoche": "gemischt",
-   "gemeinfrei": false,
-   "schwerpunkt": "Führungen durch die Sammlungsausstellung",
-   "kuenstler": [],
    "anderer_ort": null,
    "eroeffnung": null,
    "einzelausstellung_von": null,
-   "url": "https://caricatura-museum.de/besuch/f%C3%BChrungen/",
    "quelle": "https://caricatura-museum.de/ausstellungen/sammlungsausstellung/",
-   "untertitel": "Führungen",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet",
-   "standort": "Caricatura Museum Frankfurt"
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "aussortiert": [],
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

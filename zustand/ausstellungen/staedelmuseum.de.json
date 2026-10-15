@@ -20,14 +20,14 @@
    "haus": "Städelsches Kunstinstitut",
    "rang": 1,
    "epoche": "gemischt",
-   "schwerpunkt": null,
    "gemeinfrei": false,
-   "url": "https://www.staedelmuseum.de/de/maria-magdalena",
-   "anderer_ort": null,
-   "eroeffnung": null,
+   "schwerpunkt": null,
    "einzelausstellung_von": null,
    "kuenstler": [],
-   "quelle": "https://www.staedelmuseum.de/de/ausstellungen-programm",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.staedelmuseum.de/de/maria-magdalena",
+   "quelle": "https://www.staedelmuseum.de/de/maria-magdalena",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
    "verpasst": 0
@@ -54,7 +54,7 @@
    "quelle": "https://www.staedelmuseum.de/de/ausstellungen-programm",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
-   "verpasst": 0
+   "verpasst": 1
   },
   {
    "titel": "Städel Sammlung",
@@ -75,7 +75,7 @@
    "kuenstler": [],
    "quelle": "https://www.staedelmuseum.de/de/ausstellungen-programm",
    "erstmals": "2026-10-12",
-   "verpasst": 0
+   "verpasst": 1
   },
   {
    "titel": "SurFace",
@@ -97,7 +97,7 @@
    "quelle": "https://www.staedelmuseum.de/de/ausstellungen-programm",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
-   "verpasst": 0
+   "verpasst": 1
   },
   {
    "titel": "Willkommen im Paradies",
@@ -121,27 +121,10 @@
    "quelle": "https://www.staedelmuseum.de/de/ausstellungen-programm",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
-   "verpasst": 0
-  },
-  {
-   "titel": "Elmgreen & Dragset",
-   "untertitel": "Stillleben mit Gemüse",
-   "beginn": "2026-05-20",
-   "ende": "2027-01-17",
-   "art": "wechselausstellung",
-   "kunst": true,
-   "haus": "Städelsches Kunstinstitut",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "kuenstler": [
-    "Elmgreen & Dragset"
-   ],
-   "url": "https://www.staedelmuseum.de/de/elmgreen-dragset",
-   "quelle": "https://www.staedelmuseum.de/de/ausstellungen-programm",
    "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
- "vom_vorlauf_behalten": 1
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 4
 }

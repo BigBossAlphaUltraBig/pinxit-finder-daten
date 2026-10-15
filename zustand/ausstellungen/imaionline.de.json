@@ -13,7 +13,7 @@
  "aussortiert": [
   {
    "titel": "Circulating Copies",
-   "untertitel": "Die zweite Edition eines zweijährlichen Ausstellungsprojekts der Stiftung IMAI auf Bildschirmen und Lautsprechersystemen im Düsseldorfer Stadtraum",
+   "untertitel": "Ein zweijährliches Ausstellungsprojekt der Stiftung IMAI auf Bildschirmen und Lautsprechersystemen im Düsseldorfer Stadtraum",
    "beginn": "2026-04-16",
    "ende": "2026-05-06",
    "art": "wechselausstellung",
@@ -23,28 +23,28 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": null,
-   "einzelausstellung_von": null,
    "eroeffnung": null,
-   "url": "https://stiftung-imai.de/ausstellungen/circulating-copies",
+   "einzelausstellung_von": null,
    "kuenstler": [
     "KMRU",
     "Seo Hye Lee",
     "Yoora Park",
-    "Klasse Prof.in Danica Dakić",
     "Akiko Hada",
-    "Gunter Trube",
+    "Marcel Odenbach",
+    "Danica Dakić",
     "Carefuffle",
     "Rafael-Evitan Grombelka",
     "Roman Poryadin",
-    "Marcel Odenbach",
-    "SoundScribe",
     "Dirk Sorge",
     "Siegfried Saerberg",
-    "Juan Ruiz"
+    "Juan Ruiz",
+    "SoundScribe",
+    "Gunter Trube"
    ],
+   "anderer_ort": null,
+   "url": "https://stiftung-imai.de/ausstellungen/circulating-copies",
    "quelle": "https://stiftung-imai.de/ausstellungen/circulating-copies",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
@@ -59,15 +59,38 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "Düsseldorfer Stadtraum",
-   "einzelausstellung_von": "KMRU",
    "eroeffnung": null,
-   "url": "https://stiftung-imai.de/veranstaltungen/ausstellungen/kmru",
+   "einzelausstellung_von": "KMRU",
    "kuenstler": [
     "KMRU"
    ],
+   "anderer_ort": null,
+   "url": "https://stiftung-imai.de/veranstaltungen/ausstellungen/kmru",
    "quelle": "https://stiftung-imai.de/ausstellungen/circulating-copies",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
+  },
+  {
+   "titel": "ICH SAGE DIE ZEIGE MIT DEN ZEICHEN IM ZEIGEN DER SAGE",
+   "untertitel": "Eine Ausstellung mit Neuentdeckungen aus dem IMAI-Archiv",
+   "beginn": "2026-04-16",
+   "ende": "2026-06-07",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "inter media art institute",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-04-16T18:00",
+   "einzelausstellung_von": "VALIE EXPORT",
+   "kuenstler": [
+    "VALIE EXPORT"
+   ],
+   "anderer_ort": "Storage Museum",
+   "url": "https://stiftung-imai.de/veranstaltungen/ausstellungen/ich-sage-die-zeige-mit-den-zeichen-im-zeigen-der-sage",
+   "quelle": "https://stiftung-imai.de/ausstellungen/circulating-copies",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
@@ -78,19 +101,19 @@
    "art": "wechselausstellung",
    "fachgebiet": "medienkunst",
    "haus": "inter media art institute",
-   "rang": 3,
+   "rang": 4,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "Düsseldorfer Stadtraum",
-   "einzelausstellung_von": "Seo Hye Lee",
    "eroeffnung": null,
-   "url": "https://stiftung-imai.de/veranstaltungen/ausstellungen/seo-hye-lee",
+   "einzelausstellung_von": "Seo Hye Lee",
    "kuenstler": [
     "Seo Hye Lee"
    ],
+   "anderer_ort": "Düsseldorfer Stadtraum",
+   "url": "https://stiftung-imai.de/veranstaltungen/ausstellungen/seo-hye-lee",
    "quelle": "https://stiftung-imai.de/ausstellungen/circulating-copies",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
@@ -101,42 +124,43 @@
    "art": "wechselausstellung",
    "fachgebiet": "medienkunst",
    "haus": "inter media art institute",
-   "rang": 4,
+   "rang": 5,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "Storage Museum",
-   "einzelausstellung_von": "Akiko Hada",
    "eroeffnung": null,
-   "url": "https://stiftung-imai.de/veranstaltungen/ausstellungen/akiko-hada",
+   "einzelausstellung_von": "Akiko Hada",
    "kuenstler": [
-    "Akiko Hada"
+    "Akiko Hada",
+    "Carefuffle"
    ],
+   "anderer_ort": "Storage Museum",
+   "url": "https://stiftung-imai.de/veranstaltungen/ausstellungen/akiko-hada",
    "quelle": "https://stiftung-imai.de/ausstellungen/circulating-copies",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
    "titel": "Videos auf der LED-Wand am Kö-Bogen II",
-   "untertitel": "Videos auf der LED-Wand am Kö-Bogen II",
+   "untertitel": "Klasse Prof.in Danica Dakić",
    "beginn": "2026-04-16",
    "ende": "2026-05-06",
    "art": "wechselausstellung",
    "fachgebiet": "medienkunst",
    "haus": "inter media art institute",
-   "rang": 5,
+   "rang": 6,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "Kö-Bogen II, Düsseldorf",
-   "einzelausstellung_von": null,
    "eroeffnung": null,
-   "url": "https://stiftung-imai.de/veranstaltungen/ausstellungen/klasse-profin-danica-dakic",
+   "einzelausstellung_von": null,
    "kuenstler": [
     "Klasse Prof.in Danica Dakić"
    ],
+   "anderer_ort": "Kö-Bogen II, Düsseldorf",
+   "url": "https://stiftung-imai.de/veranstaltungen/ausstellungen/klasse-profin-danica-dakic",
    "quelle": "https://stiftung-imai.de/ausstellungen/circulating-copies",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
@@ -147,49 +171,26 @@
    "art": "wechselausstellung",
    "fachgebiet": "medienkunst",
    "haus": "inter media art institute",
-   "rang": 6,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "anderer_ort": "U-Bahn-Stationen Düsseldorf",
-   "einzelausstellung_von": "Yoora Park",
-   "eroeffnung": null,
-   "url": "https://stiftung-imai.de/veranstaltungen/ausstellungen/yoora-park",
-   "kuenstler": [
-    "Yoora Park"
-   ],
-   "quelle": "https://stiftung-imai.de/ausstellungen/circulating-copies",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet"
-  },
-  {
-   "titel": "Auf Schritt und Tritt",
-   "untertitel": "Zweikanalige Videoinstallation mit integrierter künstlerischer Audiodeskription von SoundScribe in der Filmwerkstatt",
-   "beginn": "2026-04-25",
-   "ende": "2026-04-25",
-   "art": "wechselausstellung",
-   "fachgebiet": "medienkunst",
-   "haus": "inter media art institute",
    "rang": 7,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "Filmwerkstatt Düsseldorf",
-   "einzelausstellung_von": "Marcel Odenbach",
    "eroeffnung": null,
-   "url": "https://stiftung-imai.de/veranstaltungen/ausstellungen/marcel-odenbach",
+   "einzelausstellung_von": "Yoora Park",
    "kuenstler": [
-    "Marcel Odenbach"
+    "Yoora Park"
    ],
+   "anderer_ort": "U-Bahn-Stationen Düsseldorf",
+   "url": "https://stiftung-imai.de/veranstaltungen/ausstellungen/yoora-park",
    "quelle": "https://stiftung-imai.de/ausstellungen/circulating-copies",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
-   "titel": "ICH SAGE DIE ZEIGE MIT DEN ZEICHEN IM ZEIGEN DER SAGE",
-   "untertitel": "Ausstellung im Storage Museum in Zusammenarbeit mit dem Stadtverband der Gehörlosen",
-   "beginn": "2026-04-16",
-   "ende": "2026-06-07",
+   "titel": "Auf Schritt und Tritt",
+   "untertitel": "Zweikanalige Videoinstallation mit integrierter künstlerischer Audiodeskription von SoundScribe",
+   "beginn": "2026-04-25",
+   "ende": "2026-04-25",
    "art": "wechselausstellung",
    "fachgebiet": "medienkunst",
    "haus": "inter media art institute",
@@ -197,15 +198,85 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "Storage Museum",
-   "einzelausstellung_von": "VALIE EXPORT",
-   "eroeffnung": "2026-04-16T18:00",
-   "url": "https://stiftung-imai.de/veranstaltungen/ausstellungen/ich-sage-die-zeige-mit-den-zeichen-im-zeigen-der-sage",
+   "eroeffnung": null,
+   "einzelausstellung_von": "Marcel Odenbach",
    "kuenstler": [
-    "VALIE EXPORT"
+    "Marcel Odenbach"
    ],
+   "anderer_ort": "Filmwerkstatt Düsseldorf",
+   "url": "https://stiftung-imai.de/veranstaltungen/ausstellungen/marcel-odenbach",
    "quelle": "https://stiftung-imai.de/ausstellungen/circulating-copies",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
+  },
+  {
+   "titel": "FOLDS I",
+   "untertitel": "Listening Dérive by KMRU, Vierkanalige Klanginstallation",
+   "beginn": "2026-04-16",
+   "ende": "2026-05-06",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "inter media art institute",
+   "rang": 9,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "KMRU",
+   "kuenstler": [
+    "KMRU"
+   ],
+   "anderer_ort": null,
+   "url": "https://stiftung-imai.de/veranstaltungen/screenings/folds-i",
+   "quelle": "https://stiftung-imai.de/ausstellungen/circulating-copies",
+   "eintritt": "kostenlos",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
+  },
+  {
+   "titel": "FOLDS II",
+   "untertitel": "Dérive Pieces by KMRU, Klänge im öffentlichen Raum",
+   "beginn": "2026-04-16",
+   "ende": "2026-05-06",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "inter media art institute",
+   "rang": 10,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": null,
+   "einzelausstellung_von": "KMRU",
+   "kuenstler": [
+    "KMRU"
+   ],
+   "anderer_ort": null,
+   "url": "https://stiftung-imai.de/veranstaltungen/screenings/folds-ii",
+   "quelle": "https://stiftung-imai.de/ausstellungen/circulating-copies",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
+  },
+  {
+   "titel": "FOLDS III",
+   "untertitel": "Radio broadcast by KMRU, Sendungen auf Callshop Radio",
+   "beginn": "2026-04-17",
+   "ende": "2026-05-03",
+   "art": "wechselausstellung",
+   "fachgebiet": "medienkunst",
+   "haus": "inter media art institute",
+   "rang": 11,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "eroeffnung": "2026-04-17T16:00",
+   "einzelausstellung_von": "KMRU",
+   "kuenstler": [
+    "KMRU"
+   ],
+   "anderer_ort": "Callshop Radio",
+   "url": "https://stiftung-imai.de/veranstaltungen/screenings/folds-iii",
+   "quelle": "https://stiftung-imai.de/ausstellungen/circulating-copies",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   },
   {
@@ -219,10 +290,7 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": "",
-   "anderer_ort": "FFT Düsseldorf",
-   "einzelausstellung_von": null,
-   "eroeffnung": null,
+   "schwerpunkt": null,
    "kuenstler": [
     "Antonia Alessia Virginia Beeskow",
     "Nik Colk Void",
@@ -237,10 +305,13 @@
     "Yonca Yildirim"
    ],
    "url": "https://stiftung-imai.de/ausstellungen/when-world-went-out-tune-itself",
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
    "quelle": "https://stiftung-imai.de/ausstellungen/when-world-went-out-tune-itself",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

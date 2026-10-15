@@ -11,17 +11,67 @@
  ],
  "ausstellungen": [
   {
-   "titel": "Der Katastrophensammler",
-   "untertitel": "Der wahre Udo",
-   "beginn": null,
+   "titel": "TANZ AUF DEM HOLZWEG",
+   "untertitel": "Zwischen Dada, Klang und Installation",
+   "beginn": "2026-05-31",
    "ende": null,
-   "art": "unklar",
+   "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Lügenmuseum",
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Reinhard Zabka"
+   ],
+   "eroeffnung": "2026-05-31",
+   "anderer_ort": null,
+   "url": "https://www.luegenmuseum.de/projekte-1/tanzende-skulpturen",
+   "quelle": "https://www.luegenmuseum.de/projekte",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Bilder einer Insel",
+   "untertitel": "Werkschau des Coswiger Künstlers Michael Horwath",
+   "beginn": null,
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Lügenmuseum",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "einzelausstellung_von": "Michael Horwath",
+   "kuenstler": [
+    "Michael Horwath"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": null,
+   "url": "https://www.luegenmuseum.de/projekte-1/bilder-einer-insel",
+   "quelle": "https://www.luegenmuseum.de/projekte",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  }
+ ],
+ "aussortiert": [
+  {
+   "titel": "Der Katastrophensammler",
+   "beginn": null,
+   "ende": null,
+   "art": "wechselausstellung",
+   "fachgebiet": "sonstiges",
+   "haus": "Lügenmuseum",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": "Ausstellung des Lügenmuseums 2026",
+   "url": "https://www.luegenmuseum.de/derwahreudo",
    "kuenstler": [
     "Franziska Kunath",
     "Maja Nagel",
@@ -36,59 +86,14 @@
     "Dorota Zabka",
     "Sophie Cau"
    ],
-   "einzelausstellung_von": null,
+   "untertitel": "Zahlreiche Künstler:innen schaffen im Tanzsaal des Museums live vor Publikum Werke, inspiriert von Lindenbergs Songs und seinem rebellischen Geist – als kreativer Aufruf zur Rettung des einzigartigen Kulturorts.",
    "anderer_ort": null,
    "eroeffnung": "2025-05-10T22:00",
-   "url": "https://www.luegenmuseum.de/derwahreudo",
-   "quelle": "https://www.luegenmuseum.de/ausstellungen",
-   "detail_geprueft": "2026-10-12"
-  },
-  {
-   "titel": "TANZ AUF DEM HOLZWEG",
-   "untertitel": "Kinetische Objekte, Dada, Klang und Installation",
-   "beginn": "2026-05-31",
-   "ende": null,
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Lügenmuseum",
-   "rang": 1,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "Reinhard Zabka"
-   ],
-   "eroeffnung": "2026-05-31T18:00",
    "einzelausstellung_von": null,
-   "anderer_ort": null,
-   "url": "https://www.luegenmuseum.de/projekte",
-   "quelle": "https://www.luegenmuseum.de/projekte",
-   "detail_geprueft": "2026-10-12"
+   "quelle": "https://www.luegenmuseum.de/ausstellungen",
+   "detail_geprueft": "2026-10-15",
+   "grund": "keine Kunst (sonstiges)"
   },
-  {
-   "titel": "BILDER EINER INSEL",
-   "untertitel": "Werkschau des Coswiger Künstlers Michael Horwath",
-   "beginn": null,
-   "ende": null,
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Lügenmuseum",
-   "rang": 3,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "Michael Horwath"
-   ],
-   "eroeffnung": null,
-   "einzelausstellung_von": "Michael Horwath",
-   "anderer_ort": null,
-   "url": "https://www.luegenmuseum.de/projekte-1/bilder-einer-insel",
-   "quelle": "https://www.luegenmuseum.de/projekte",
-   "detail_geprueft": "2026-10-12"
-  }
- ],
- "aussortiert": [
   {
    "titel": "Der Traum der tanzenden Irrtümer",
    "untertitel": "Poetische Miniaturwelten in zurückgelassenen Koffern",
@@ -101,18 +106,19 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "einzelausstellung_von": null,
    "kuenstler": [
     "Dorota Zabka",
     "Reinhard Zabka"
    ],
    "eroeffnung": "2026-02-01T20:00",
-   "einzelausstellung_von": null,
    "anderer_ort": "Full Moon Gallery, Dresden",
    "url": "https://www.luegenmuseum.de/projekte-1/der--traum--der--tanzenden-irrt%C3%BCmer",
    "quelle": "https://www.luegenmuseum.de/projekte",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

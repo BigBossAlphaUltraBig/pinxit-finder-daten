@@ -23,16 +23,17 @@
    "epoche": "gemischt",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "Wiener Künstlerhaus, Karlsplatz 5, 1010 Wien",
+   "anderer_ort": "Wiener Künstlerhaus",
    "kuenstler": [],
+   "einzelausstellung_von": null,
    "eroeffnung": null,
    "url": "https://www.szaal.at/wp-content/uploads/2026/09/Wiener-Kuenstlerhaus_Katalog_2026.pdf",
    "quelle": "https://www.szaal.at/ausstellungen-messen/",
    "grund": "beendet"
   },
   {
-   "titel": "Anton Kitzmüller",
-   "untertitel": "Personale zum 60. Geburtstag",
+   "titel": "ANTON KITZMÜLLER Personale zum 60. Geburtstag",
+   "untertitel": null,
    "beginn": "2026-05-22",
    "ende": "2026-06-12",
    "art": "wechselausstellung",
@@ -46,6 +47,7 @@
    "kuenstler": [
     "Anton Kitzmüller"
    ],
+   "einzelausstellung_von": "Anton Kitzmüller",
    "eroeffnung": null,
    "url": "https://www.szaal.at/wp-content/uploads/2026/05/Kitzmueller_Prospekt_Szaal_2026.pdf",
    "quelle": "https://www.szaal.at/ausstellungen-messen/",
@@ -53,7 +55,7 @@
   },
   {
    "titel": "FAIR FOR ART VIENNA",
-   "untertitel": "Die Messe für moderne und zeitgenössische Kunst",
+   "untertitel": "",
    "beginn": "2026-10-07",
    "ende": "2026-10-11",
    "art": "messe_markt",
@@ -63,22 +65,12 @@
    "epoche": "gemischt",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "kuenstler": [],
    "anderer_ort": "Wiener Künstlerhaus, Karlsplatz 5, 1010 Wien",
-   "kuenstler": [
-    "Gunter Damisch",
-    "Hannes Mlenek",
-    "Hermann Nitsch",
-    "Boldi",
-    "Franz Zadrazil",
-    "Christopher Corso",
-    "Max Weiler",
-    "Xenia Hausner",
-    "Marc Adrian"
-   ],
-   "eroeffnung": null,
    "url": "https://www.fairforart-vienna.at/",
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
    "quelle": "https://www.szaal.at/ausstellungen-messen/messen/",
-   "detail_geprueft": "2026-10-12",
    "grund": "beendet"
   },
   {
@@ -93,17 +85,18 @@
    "epoche": "gemischt",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "Hofburg Vienna, Heldenplatz, 1010 Wien",
    "kuenstler": [],
-   "eroeffnung": null,
+   "anderer_ort": "Hofburg Vienna, Heldenplatz, 1010 Wien",
    "url": "https://www.artantique-hofburg.at/",
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
    "quelle": "https://www.szaal.at/ausstellungen-messen/messen/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "Messe/Markt, keine Ausstellung"
   },
   {
    "titel": "WIKAM - Wiener Internationale Kunst & Antiquitätenmesse",
-   "untertitel": "Wiener Internationale Kunstmesse",
+   "untertitel": "",
    "beginn": "2027-02-27",
    "ende": "2027-03-07",
    "art": "messe_markt",
@@ -113,14 +106,14 @@
    "epoche": "gemischt",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": "Palais Ferstel, Strauchgasse 4, 1010 Wien",
    "kuenstler": [],
-   "eroeffnung": null,
+   "anderer_ort": "Palais Ferstel, Strauchgasse 4, 1010 Wien",
    "url": "http://www.wikam.at/",
+   "eroeffnung": null,
+   "einzelausstellung_von": null,
    "quelle": "https://www.szaal.at/ausstellungen-messen/messen/",
-   "detail_geprueft": "2026-10-12",
    "grund": "Messe/Markt, keine Ausstellung"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

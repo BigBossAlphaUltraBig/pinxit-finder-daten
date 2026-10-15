@@ -4,12 +4,35 @@
  "haeuser": "Galerie Michael Hasenclever",
  "land": "DE",
  "ids": "node/3739707105",
- "status": "keine Ausstellungen gefunden",
+ "status": "nur aussortierte",
  "seiten": [
   "https://hasencleverart.com/current-exhibition/",
   "https://hasencleverart.com/exhibition-view/"
  ],
  "ausstellungen": [],
- "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "aussortiert": [
+  {
+   "titel": "Oblitération du réel",
+   "untertitel": "Exhibition",
+   "beginn": "2024-05-16",
+   "ende": "2024-06-28",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Michael Hasenclever",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "einzelausstellung_von": "Thomas",
+   "kuenstler": [
+    "Thomas"
+   ],
+   "url": "https://hasencleverart.com/wp-content/uploads/2018/03/Download_Thomas_2024.pdf",
+   "eroeffnung": null,
+   "schwerpunkt": null,
+   "anderer_ort": null,
+   "quelle": "https://hasencleverart.com/current-exhibition/",
+   "grund": "beendet"
+  }
+ ],
+ "abgerufen": "2026-10-15T07:25:20"
 }

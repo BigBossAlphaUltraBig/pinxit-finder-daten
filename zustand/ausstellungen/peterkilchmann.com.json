@@ -22,13 +22,13 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "url": "https://www.peterkilchmann.com/exhibitions/642-valentin-rilliet-look-at-you-galerie-peter-kilchmann-zahnradstr.-21/",
+   "einzelausstellung_von": "Valentin Rilliet",
    "kuenstler": [
     "Valentin Rilliet"
    ],
-   "url": "https://www.peterkilchmann.com/exhibitions/642-valentin-rilliet-look-at-you-galerie-peter-kilchmann-zahnradstr.-21/",
    "eroeffnung": "2026-09-04T18:00",
    "anderer_ort": null,
-   "einzelausstellung_von": "Valentin Rilliet",
    "quelle": "https://www.peterkilchmann.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -46,13 +46,13 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "url": "https://www.peterkilchmann.com/exhibitions/643-andy-denzler-renaissance-paintings-reloaded-galerie-peter-kilchmann-ramistrasse-33/",
+   "einzelausstellung_von": "Andy Denzler",
    "kuenstler": [
     "Andy Denzler"
    ],
-   "url": "https://www.peterkilchmann.com/exhibitions/643-andy-denzler-renaissance-paintings-reloaded-galerie-peter-kilchmann-ramistrasse-33/",
    "eroeffnung": null,
    "anderer_ort": null,
-   "einzelausstellung_von": "Andy Denzler",
    "quelle": "https://www.peterkilchmann.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -60,7 +60,7 @@
   },
   {
    "titel": "Walter Grab",
-   "untertitel": "Zurich Surrealist",
+   "untertitel": null,
    "beginn": "2026-10-28",
    "ende": "2026-12-19",
    "art": "wechselausstellung",
@@ -70,13 +70,13 @@
    "epoche": "moderne",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "url": "https://www.peterkilchmann.com/exhibitions/651-walter-grab-1927-1989-opening-wednesday-oct.-28zahnradstrasse-21-8005-zurich/",
+   "einzelausstellung_von": "Walter Grab",
    "kuenstler": [
     "Walter Grab"
    ],
-   "url": "https://www.peterkilchmann.com/exhibitions/651-walter-grab-1927-1989-opening-wednesday-oct.-28zahnradstrasse-21-8005-zurich/",
    "eroeffnung": "2026-10-28",
    "anderer_ort": null,
-   "einzelausstellung_von": "Walter Grab",
    "quelle": "https://www.peterkilchmann.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -94,14 +94,38 @@
    "epoche": "gemischt",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "kuenstler": [],
    "url": "https://www.peterkilchmann.com/exhibitions/653-beyond-visible-reality-opening-wednesday-oct.-28zahnradstrasse-21-8005-zurich/",
+   "einzelausstellung_von": null,
+   "kuenstler": [],
    "eroeffnung": "2026-10-28",
    "anderer_ort": null,
-   "einzelausstellung_von": null,
    "quelle": "https://www.peterkilchmann.com/exhibitions/",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
+   "verpasst": 0
+  },
+  {
+   "titel": "Paul Mpagi Sepuya",
+   "untertitel": "Opening Thursday Nov. 12",
+   "beginn": "2026-11-12",
+   "ende": "2026-12-19",
+   "art": "wechselausstellung",
+   "fachgebiet": "fotografie",
+   "haus": "Galerie Peter Kilchmann (Zahnradstrasse)",
+   "rang": 6,
+   "epoche": "zeitgenoessisch",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://www.peterkilchmann.com/exhibitions/650-paul-mpagi-sepuya-opening-thursday-nov.-12-ramistrasse-33-8001-zurich/",
+   "einzelausstellung_von": "Paul Mpagi Sepuya",
+   "kuenstler": [
+    "Paul Mpagi Sepuya"
+   ],
+   "eroeffnung": "2026-11-12",
+   "anderer_ort": null,
+   "quelle": "https://www.peterkilchmann.com/exhibitions/",
+   "detail_geprueft": "2026-10-15",
+   "erstmals": "2026-10-15",
    "verpasst": 0
   }
  ],
@@ -118,41 +142,18 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "url": "https://www.peterkilchmann.com/exhibitions/649-didier-william-lot-bo-d-lo-a-the-other-side-of/",
+   "einzelausstellung_von": "Didier William",
    "kuenstler": [
     "Didier William"
    ],
-   "url": "https://www.peterkilchmann.com/exhibitions/649-didier-william-lot-bo-d-lo-a-the-other-side-of/",
    "eroeffnung": "2026-10-19",
    "anderer_ort": "11-13 rue des Arquebusiers, Paris",
-   "einzelausstellung_von": "Didier William",
    "quelle": "https://www.peterkilchmann.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "anderer Ort: 11-13 rue des Arquebusiers, Paris"
-  },
-  {
-   "titel": "Paul Mpagi Sepuya",
-   "untertitel": null,
-   "beginn": "2026-11-12",
-   "ende": "2026-12-19",
-   "art": "wechselausstellung",
-   "fachgebiet": "fotografie",
-   "haus": "Galerie Peter Kilchmann (Zahnradstrasse)",
-   "rang": 6,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "Paul Mpagi Sepuya"
-   ],
-   "url": "https://www.peterkilchmann.com/exhibitions/650-paul-mpagi-sepuya-opening-thursday-nov.-12-ramistrasse-33-8001-zurich/",
-   "eroeffnung": "2026-11-12",
-   "anderer_ort": "Rämistrasse 33, Zürich",
-   "einzelausstellung_von": "Paul Mpagi Sepuya",
-   "quelle": "https://www.peterkilchmann.com/exhibitions/",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Rämistrasse 33, Zürich"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

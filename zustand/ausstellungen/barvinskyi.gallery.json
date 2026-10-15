@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Andrea Luzi",
-   "untertitel": "",
+   "untertitel": null,
    "beginn": "2026-09-10",
    "ende": "2026-10-24",
    "art": "wechselausstellung",
@@ -28,6 +28,7 @@
    "anderer_ort": null,
    "eroeffnung": null,
    "url": "https://www.barvinskyi.gallery/exhibitions/8",
+   "einzelausstellung_von": "Andrea Luzi",
    "quelle": "https://www.barvinskyi.gallery/exhibitions",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -35,7 +36,7 @@
   },
   {
    "titel": "8",
-   "untertitel": "",
+   "untertitel": "Andrea Luzi",
    "beginn": "2026-09-10",
    "ende": "2026-10-24",
    "art": "wechselausstellung",
@@ -45,11 +46,11 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "eroeffnung": null,
    "einzelausstellung_von": "Andrea Luzi",
    "kuenstler": [
     "Andrea Luzi"
    ],
+   "eroeffnung": null,
    "anderer_ort": null,
    "url": "https://www.barvinskyi.gallery/exhibitions/8",
    "quelle": "https://www.barvinskyi.gallery/exhibitions/8",
@@ -59,6 +60,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

@@ -12,22 +12,24 @@
  "ausstellungen": [
   {
    "titel": "Malerei und Plastik von 1900 bis zur Gegenwart",
-   "untertitel": "Die ständige Ausstellung",
+   "untertitel": null,
    "beginn": null,
    "ende": null,
-   "art": "dauerausstellung",
+   "art": "sammlungspraesentation",
    "fachgebiet": "bildende_kunst",
    "haus": "Städtische Galerie Dresden",
    "rang": 1,
    "epoche": "gemischt",
    "gemeinfrei": false,
-   "schwerpunkt": "Malerei und Plastik vom Beginn des 20. Jahrhunderts bis zur Gegenwart",
+   "schwerpunkt": "Malerei und Plastik vom Beginn des 20. Jahrhunderts bis heute",
    "einzelausstellung_von": null,
-   "anderer_ort": null,
    "eroeffnung": null,
+   "anderer_ort": null,
    "kuenstler": [],
    "url": "https://galerie-dresden.de/programm/ausstellungen/malerei-und-plastik-von-1900-bis-zur-gegenwart",
-   "quelle": "https://galerie-dresden.de/programm/ausstellungen"
+   "quelle": "https://galerie-dresden.de/programm/ausstellungen",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Peter Makolies – Retrospektive",
@@ -38,25 +40,27 @@
    "fachgebiet": "bildende_kunst",
    "haus": "Städtische Galerie Dresden",
    "rang": 1,
-   "epoche": "zeitgenoessisch",
+   "epoche": "moderne",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "anderer_ort": null,
    "einzelausstellung_von": "Peter Makolies",
-   "eroeffnung": "2026-11-06T19:00",
    "kuenstler": [
     "Peter Makolies"
    ],
    "url": "https://galerie-dresden.de/programm/ausstellungen/peter-makolies-retrospektive",
+   "eroeffnung": "2026-11-06T19:00",
+   "anderer_ort": null,
    "quelle": "https://galerie-dresden.de/programm/ausstellungen/peter-makolies-retrospektive",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
   {
    "titel": "Sitting on a Fence",
-   "untertitel": "Johanna Seidel – Malerei",
-   "beginn": "2026-09-11",
+   "untertitel": "Malerei",
+   "beginn": "2027-09-11",
    "ende": "2027-01-10",
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
@@ -64,18 +68,19 @@
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": "Malerei der Gegenwart im Projektraum Neue Galerie",
+   "schwerpunkt": null,
    "einzelausstellung_von": "Johanna Seidel",
-   "anderer_ort": "Projektraum Neue Galerie",
    "eroeffnung": null,
+   "anderer_ort": "Projektraum Neue Galerie",
    "kuenstler": [
     "Johanna Seidel"
    ],
    "url": "https://galerie-dresden.de/programm/ausstellungen/sitting-on-a-fence-johanna-seidel-malerei",
    "quelle": "https://galerie-dresden.de/programm/ausstellungen",
-   "detail_geprueft": "2026-10-12",
-   "grund": "anderer Ort: Projektraum Neue Galerie"
+   "detail_geprueft": "2026-10-15",
+   "grund": "Ende vor Beginn"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

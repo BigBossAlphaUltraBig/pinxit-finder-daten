@@ -21,22 +21,24 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "einzelausstellung_von": null,
-   "anderer_ort": null,
-   "eroeffnung": null,
    "kuenstler": [
     "Peter Bialobrzeski",
     "Miwa Ogasawara"
    ],
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
    "url": "https://www.galeriesusannealbrecht.de/uebern-wald-peter-bialobrzeski-und-miwa-ogasawara/",
    "quelle": "https://www.galeriesusannealbrecht.de/exhibitions/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
   {
    "titel": "Sachlichkeit",
-   "untertitel": "Die Seite nennt keinen eigenen Untertitel; der Begriff Sachlichkeit wird im Text als Bezug zur „Neuen Sachlichkeit“ erläutert.",
+   "untertitel": "Kate Diehn-Bitt, Michael Langer, Rafael Cidoncha, Emese Kazár, Sabine Herrmann",
    "beginn": "2026-05-02",
    "ende": "2026-08-15",
    "art": "wechselausstellung",
@@ -46,9 +48,6 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "einzelausstellung_von": null,
-   "anderer_ort": null,
-   "eroeffnung": null,
    "kuenstler": [
     "Kate Diehn-Bitt",
     "Michael Langer",
@@ -56,11 +55,15 @@
     "Emese Kazár",
     "Sabine Herrmann"
    ],
+   "einzelausstellung_von": null,
+   "anderer_ort": null,
+   "eroeffnung": null,
    "url": "https://www.galeriesusannealbrecht.de/sachlichkeit/",
    "quelle": "https://www.galeriesusannealbrecht.de/exhibitions/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

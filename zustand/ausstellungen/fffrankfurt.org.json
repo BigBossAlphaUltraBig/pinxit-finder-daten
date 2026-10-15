@@ -11,7 +11,7 @@
  ],
  "ausstellungen": [
   {
-   "titel": "Work Hard, Don't Lie, And Try Not to Hurt Anybody",
+   "titel": "Work Hard, Don't Lie, And Try Not To Hurt Anybody",
    "untertitel": "Die erste umfassende Einzelausstellung des amerikanischen Tänzers, Choreografen und Fotografen Tony Rizzi.",
    "beginn": "2026-09-19",
    "ende": "2027-01-17",
@@ -27,12 +27,15 @@
    ],
    "einzelausstellung_von": "Tony Rizzi",
    "eroeffnung": "2026-09-18T19:00",
-   "anderer_ort": null,
    "url": "https://www.fffrankfurt.org/aktuell/prd.749.tony-rizziwork-hard-dont-lie-and-try-not-to-hurt-anybody-div/",
+   "anderer_ort": null,
    "quelle": "https://www.fffrankfurt.org/aktuell/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

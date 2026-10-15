@@ -12,15 +12,16 @@
  "ausstellungen": [
   {
    "titel": "Half-Life of Grace",
-   "untertitel": null,
+   "untertitel": "",
    "beginn": "2026-09-11",
-   "ende": "2026-11-07",
+   "ende": "2026-11-14",
    "art": "wechselausstellung",
    "fachgebiet": "medienkunst",
    "haus": "Galerie Neu",
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
+   "schwerpunkt": null,
    "kuenstler": [
     "Jeremy Shaw"
    ],
@@ -28,7 +29,6 @@
    "anderer_ort": null,
    "eroeffnung": null,
    "url": "https://galerieneu.net/exhibition/jeremyshaw-half-lifeofgrace",
-   "schwerpunkt": null,
    "quelle": "https://galerieneu.net/exhibitions",
    "detail_geprueft": "2026-10-12",
    "erstmals": "2026-10-12",
@@ -47,6 +47,7 @@
    "rang": 2,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
+   "schwerpunkt": null,
    "kuenstler": [
     "Cosima von Bonin",
     "Jana Euler",
@@ -64,12 +65,11 @@
    "anderer_ort": null,
    "eroeffnung": null,
    "url": "https://galerieneu.net/exhibition/countercity",
-   "schwerpunkt": null,
    "quelle": "https://galerieneu.net/exhibitions",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

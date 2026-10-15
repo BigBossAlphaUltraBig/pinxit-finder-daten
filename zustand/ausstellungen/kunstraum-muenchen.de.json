@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Carsten Fock. Fault Lines",
-   "untertitel": "Fault Lines",
+   "untertitel": null,
    "beginn": "2026-09-17",
    "ende": "2026-11-01",
    "art": "wechselausstellung",
@@ -22,19 +22,21 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": "2026-09-16T19:00",
    "einzelausstellung_von": "Carsten Fock",
    "kuenstler": [
     "Carsten Fock"
    ],
    "anderer_ort": null,
-   "eroeffnung": "2026-09-16T19:00",
    "url": "https://www.kunstraum-muenchen.de/carsten-fock-fault-lines/",
    "quelle": "https://www.kunstraum-muenchen.de/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Achterncrush",
-   "untertitel": "Achterncrush",
+   "untertitel": null,
    "beginn": "2026-11-12",
    "ende": "2026-12-20",
    "art": "wechselausstellung",
@@ -47,20 +49,22 @@
    "kuenstler": [
     "Eva Raschpichler"
    ],
-   "eroeffnung": "2026-11-11T19:00",
    "einzelausstellung_von": "Eva Raschpichler",
    "anderer_ort": null,
+   "eroeffnung": "2026-11-11T19:00",
    "url": "https://www.kunstraum-muenchen.de/eva-raschpichler-achterncrush/",
    "quelle": "https://www.kunstraum-muenchen.de/vorschau/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Klepisko",
-   "untertitel": "Klepisko",
+   "untertitel": null,
    "beginn": "2027-02-18",
    "ende": "2027-04-04",
    "art": "wechselausstellung",
-   "fachgebiet": "medienkunst",
+   "fachgebiet": "bildende_kunst",
    "haus": "Kunstraum",
    "rang": 2,
    "epoche": "zeitgenoessisch",
@@ -69,16 +73,18 @@
    "kuenstler": [
     "Przemysław Piniak"
    ],
-   "eroeffnung": "2027-02-17T19:00",
    "einzelausstellung_von": "Przemysław Piniak",
    "anderer_ort": null,
+   "eroeffnung": "2027-02-17T19:00",
    "url": "https://www.kunstraum-muenchen.de/przemyslaw-piniak-klepisko/",
    "quelle": "https://www.kunstraum-muenchen.de/vorschau/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Parallele Evolutionen",
-   "untertitel": "Parallele Evolutionen",
+   "untertitel": null,
    "beginn": "2027-04-29",
    "ende": "2027-06-06",
    "art": "wechselausstellung",
@@ -91,14 +97,17 @@
    "kuenstler": [
     "Cristiana Cott Negoescu"
    ],
-   "eroeffnung": "2027-04-28T19:00",
    "einzelausstellung_von": "Cristiana Cott Negoescu",
    "anderer_ort": null,
+   "eroeffnung": "2027-04-28T19:00",
    "url": "https://www.kunstraum-muenchen.de/cristiana-cott-negoescu-parallele-evolutionen/",
    "quelle": "https://www.kunstraum-muenchen.de/vorschau/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

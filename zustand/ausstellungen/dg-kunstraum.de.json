@@ -13,6 +13,10 @@
   {
    "titel": "Doppelpass VIII. Erdanziehung",
    "untertitel": "Judith Neunhäuserer & Lukas Kindermann",
+   "kuenstler": [
+    "Judith Neunhäuserer",
+    "Lukas Kindermann"
+   ],
    "beginn": "2026-09-18",
    "ende": "2026-11-12",
    "art": "wechselausstellung",
@@ -22,17 +26,15 @@
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
-   "einzelausstellung_von": null,
-   "anderer_ort": null,
-   "eroeffnung": "2026-09-17",
-   "kuenstler": [
-    "Judith Neunhäuserer",
-    "Lukas Kindermann"
-   ],
    "url": "https://www.dg-kunstraum.de/ausstellung-erdanziehung/",
+   "eroeffnung": "2026-09-17",
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
    "quelle": "https://www.dg-kunstraum.de/ausstellung-erdanziehung/",
    "detail_geprueft": "2026-10-12",
-   "standort": "Deutsche Gesellschaft für christliche Kunst / DG Kunstraum Diskurs Gegenwart"
+   "standort": "Deutsche Gesellschaft für christliche Kunst / DG Kunstraum Diskurs Gegenwart",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
@@ -47,9 +49,6 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "anderer_ort": null,
-   "einzelausstellung_von": null,
-   "eroeffnung": "2026-06-18T18:00",
    "schwerpunkt": null,
    "kuenstler": [
     "Afra Dopfer",
@@ -63,12 +62,16 @@
     "Susanne Wagner",
     "Benjamin Zuber"
    ],
+   "eroeffnung": "2026-06-18T18:00",
+   "anderer_ort": null,
+   "einzelausstellung_von": null,
    "url": "https://www.dg-kunstraum.de/fast-eine-tonne-atemraum/",
    "quelle": "https://www.dg-kunstraum.de/galerie/aktuelle-ausstellungen/",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet",
    "standort": "Deutsche Gesellschaft für christliche Kunst / DG Kunstraum Diskurs Gegenwart"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }

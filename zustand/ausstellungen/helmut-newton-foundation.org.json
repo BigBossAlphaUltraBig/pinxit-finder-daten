@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Helmut Newton‘s Early Books",
-   "untertitel": "Helmut Newton's Early Books",
+   "untertitel": null,
    "beginn": "2026-12-03",
    "ende": "2027-05-16",
    "art": "wechselausstellung",
@@ -20,17 +20,19 @@
    "haus": "Helmut Newton Stiftung",
    "rang": 1,
    "epoche": "moderne",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
+   "einzelausstellung_von": "Helmut Newton",
    "kuenstler": [
     "Helmut Newton"
    ],
-   "einzelausstellung_von": "Helmut Newton",
+   "schwerpunkt": null,
+   "url": "https://newton-foundation.org/ausstellungen/helmut-newton-s-early-books/",
+   "gemeinfrei": false,
    "anderer_ort": null,
    "eroeffnung": "2026-12-02",
-   "url": "https://newton-foundation.org/ausstellungen/helmut-newton-s-early-books/",
    "quelle": "https://newton-foundation.org/ausstellungen-in-der-foundation/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Rooms / Stages",
@@ -52,9 +54,11 @@
    "eroeffnung": "2026-06-04",
    "url": "https://newton-foundation.org/ausstellungen/rooms-stages-helmut-newtons-one-off-album/",
    "quelle": "https://newton-foundation.org/ausstellungen-in-der-foundation/",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 1
 }

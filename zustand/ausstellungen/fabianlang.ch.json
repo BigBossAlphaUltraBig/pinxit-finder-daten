@@ -10,8 +10,8 @@
  ],
  "ausstellungen": [
   {
-   "titel": "THIS SIDE OF THE MOUNTAIN, THE OTHER SIDE OF THE WATER",
-   "untertitel": null,
+   "titel": "This Side of the Mountain, the Other Side of the Water",
+   "untertitel": "",
    "beginn": "2026-09-17",
    "ende": "2026-11-14",
    "art": "wechselausstellung",
@@ -20,13 +20,13 @@
    "rang": 1,
    "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
-   "schwerpunkt": null,
    "kuenstler": [
     "Xiao Guo Hui"
    ],
    "einzelausstellung_von": "Xiao Guo Hui",
    "eroeffnung": null,
    "anderer_ort": null,
+   "schwerpunkt": null,
    "url": "https://fabianlang.ch/artworks-v/xiao-guo-hui",
    "quelle": "https://fabianlang.ch/",
    "detail_geprueft": "2026-10-12",
@@ -35,6 +35,6 @@
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

@@ -20,42 +20,19 @@
    "haus": "Zeller van Almsick",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
+   "einzelausstellung_von": "Li Jun",
    "kuenstler": [
     "Li Jun"
    ],
-   "einzelausstellung_von": "Li Jun",
-   "eroeffnung": null,
+   "gemeinfrei": false,
    "schwerpunkt": null,
    "anderer_ort": null,
    "url": "https://www.zellervanalmsick.com/breathe-in-emptiness",
-   "quelle": "https://www.zellervanalmsick.com/exhibitions",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet"
-  },
-  {
-   "titel": "Gritty Glancing",
-   "untertitel": "tools, wounds, structures, expectations, and other bodies",
-   "beginn": "2026-03-01",
-   "ende": "2026-04-30",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "Zeller van Almsick",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "kuenstler": [
-    "Bianca Phos"
-   ],
-   "einzelausstellung_von": "Bianca Phos",
    "eroeffnung": null,
-   "schwerpunkt": null,
-   "anderer_ort": null,
-   "url": "https://www.zellervanalmsick.com/gritty-glancing",
    "quelle": "https://www.zellervanalmsick.com/exhibitions",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20"
 }

@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "The Heart of the Matter",
-   "untertitel": "Retrospektive",
+   "untertitel": null,
    "beginn": "2026-09-12",
    "ende": "2027-02-03",
    "art": "wechselausstellung",
@@ -20,18 +20,61 @@
    "haus": "C/O Berlin",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
+   "einzelausstellung_von": "Carrie Mae Weems",
    "kuenstler": [
     "Carrie Mae Weems"
    ],
-   "einzelausstellung_von": "Carrie Mae Weems",
-   "anderer_ort": null,
-   "ausstellungsseite_gefunden": true,
+   "gemeinfrei": false,
+   "schwerpunkt": null,
    "url": "https://co-berlin.org/de/programm/ausstellungen/carrie-mae-weems",
-   "eroeffnung": null,
    "quelle": "https://co-berlin.org/de/programm/ausstellungen",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Cliffs Among Dreams",
+   "untertitel": "After Nature Prize 26",
+   "beginn": "2026-09-12",
+   "ende": "2027-01-20",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "C/O Berlin",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Stelios Kallinikou",
+   "kuenstler": [
+    "Stelios Kallinikou"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://co-berlin.org/de/programm/ausstellungen/stelios-kallinikou",
+   "quelle": "https://co-berlin.org/de/programm/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
+  },
+  {
+   "titel": "Im Fieber der Sonne flattern Schmetterlinge im Bauch",
+   "untertitel": "After Nature Prize 26",
+   "beginn": "2026-09-12",
+   "ende": "2027-01-20",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "C/O Berlin",
+   "rang": 3,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Susanne Kriemann",
+   "kuenstler": [
+    "Susanne Kriemann"
+   ],
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://co-berlin.org/de/programm/ausstellungen/susanne-kriemann",
+   "quelle": "https://co-berlin.org/de/programm/ausstellungen",
+   "detail_geprueft": "2026-10-12",
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Pechblende (Fever)",
@@ -53,55 +96,11 @@
    "eroeffnung": null,
    "url": "https://co-berlin.org/de/programm/ausstellungen/susanne-kriemann",
    "quelle": "https://co-berlin.org/de/programm/ausstellungen/susanne-kriemann",
-   "detail_geprueft": "2026-10-12"
-  },
-  {
-   "titel": "Cliffs Among Dreams",
-   "untertitel": "After Nature Prize 26",
-   "beginn": "2026-09-12",
-   "ende": "2027-01-20",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "C/O Berlin",
-   "rang": 2,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "Stelios Kallinikou"
-   ],
-   "einzelausstellung_von": "Stelios Kallinikou",
-   "anderer_ort": null,
-   "ausstellungsseite_gefunden": true,
-   "url": "https://co-berlin.org/de/programm/ausstellungen/stelios-kallinikou",
-   "eroeffnung": null,
-   "quelle": "https://co-berlin.org/de/programm/ausstellungen",
-   "detail_geprueft": "2026-10-12"
-  },
-  {
-   "titel": "Im Fieber der Sonne flattern Schmetterlinge im Bauch",
-   "untertitel": "After Nature Prize 26",
-   "beginn": "2026-09-12",
-   "ende": "2027-01-20",
-   "art": "wechselausstellung",
-   "fachgebiet": "bildende_kunst",
-   "haus": "C/O Berlin",
-   "rang": 3,
-   "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
-   "kuenstler": [
-    "Susanne Kriemann"
-   ],
-   "einzelausstellung_von": "Susanne Kriemann",
-   "anderer_ort": null,
-   "ausstellungsseite_gefunden": true,
-   "url": "https://co-berlin.org/de/programm/ausstellungen/susanne-kriemann",
-   "eroeffnung": null,
-   "quelle": "https://co-berlin.org/de/programm/ausstellungen",
-   "detail_geprueft": "2026-10-12"
+   "detail_geprueft": "2026-10-12",
+   "verpasst": 1
   }
  ],
  "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 1
 }

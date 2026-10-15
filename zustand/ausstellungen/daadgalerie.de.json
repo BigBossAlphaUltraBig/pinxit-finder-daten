@@ -4,11 +4,59 @@
  "haeuser": "daadgalerie",
  "land": "DE",
  "ids": "nachtrag-daadgalerie",
- "status": "keine Ausstellungen gefunden",
+ "status": "nur aussortierte",
  "seiten": [
-  "https://www.berliner-kuenstlerprogramm.de/de/programm/"
+  "https://www.berliner-kuenstlerprogramm.de/de/programm/ausstellungen/",
+  "https://www.berliner-kuenstlerprogramm.de/de/aktuelles-jahr/?language=de"
  ],
  "ausstellungen": [],
- "aussortiert": [],
- "abgerufen": "2026-10-12T06:55:52"
+ "aussortiert": [
+  {
+   "titel": "Chanel Commission: Lina Lapelytė",
+   "untertitel": "We Make Years Out of Hours",
+   "beginn": "2026-04-30",
+   "ende": "2027-01-10",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "daadgalerie",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "Lina Lapelytė",
+   "kuenstler": [
+    "Lina Lapelytė"
+   ],
+   "eroeffnung": "2026-04-30T19:00",
+   "anderer_ort": "Hamburger Bahnhof - Museum für Gegenwart - Berlin",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://www.berliner-kuenstlerprogramm.de/de/events/chanel-commission-lina-lapelyte-we-make-years-out-of-hours/",
+   "quelle": "https://www.berliner-kuenstlerprogramm.de/de/aktuelles-jahr/?language=de",
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Hamburger Bahnhof - Museum für Gegenwart - Berlin"
+  },
+  {
+   "titel": "The Fire Theory: Mi casa no es su casa",
+   "untertitel": "Mi casa no es su casa",
+   "beginn": "2026-07-28",
+   "ende": "2026-10-18",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "daadgalerie",
+   "rang": 2,
+   "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": "The Fire Theory",
+   "kuenstler": [
+    "The Fire Theory"
+   ],
+   "eroeffnung": null,
+   "anderer_ort": "Wohnräume des Kollektivs The Fire Theory",
+   "gemeinfrei": false,
+   "schwerpunkt": null,
+   "url": "https://www.berliner-kuenstlerprogramm.de/de/events/the-fire-theory-mi-casa-no-es-su-casa/",
+   "quelle": "https://www.berliner-kuenstlerprogramm.de/de/aktuelles-jahr/?language=de",
+   "detail_geprueft": "2026-10-15",
+   "grund": "anderer Ort: Wohnräume des Kollektivs The Fire Theory"
+  }
+ ],
+ "abgerufen": "2026-10-15T07:25:20"
 }

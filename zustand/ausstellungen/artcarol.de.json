@@ -18,16 +18,14 @@
    "art": "wechselausstellung",
    "fachgebiet": "bildende_kunst",
    "haus": "Galerie Carol Johnssen",
-   "rang": 1,
+   "rang": 2,
    "epoche": "zeitgenoessisch",
-   "gemeinfrei": false,
-   "schwerpunkt": null,
+   "einzelausstellung_von": "Philipp Goldbach",
    "kuenstler": [
     "Philipp Goldbach"
    ],
-   "einzelausstellung_von": "Philipp Goldbach",
    "eroeffnung": "2026-10-16T18:00",
-   "anderer_ort": null,
+   "gemeinfrei": false,
    "url": "https://www.artcarol.de/exhibition/exstitut",
    "quelle": "https://www.artcarol.de/exhibitions",
    "detail_geprueft": "2026-10-12",
@@ -46,6 +44,29 @@
    "haus": "Galerie Carol Johnssen",
    "rang": 1,
    "epoche": "zeitgenoessisch",
+   "einzelausstellung_von": null,
+   "kuenstler": [
+    "Shen Fan",
+    "Ding Yi",
+    "Qin Yifeng"
+   ],
+   "eroeffnung": "2026-09-15T18:00",
+   "gemeinfrei": false,
+   "url": "https://www.artcarol.de/exhibition/ding-yi",
+   "quelle": "https://www.artcarol.de/exhibitions",
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
+  },
+  {
+   "titel": "Ding Yi, Shen Fan, Qin Yifeng",
+   "untertitel": "The Road To Heaven 2024",
+   "beginn": "2026-09-15",
+   "ende": "2026-10-09",
+   "art": "wechselausstellung",
+   "fachgebiet": "bildende_kunst",
+   "haus": "Galerie Carol Johnssen",
+   "rang": 1,
+   "epoche": "zeitgenoessisch",
    "gemeinfrei": false,
    "schwerpunkt": null,
    "kuenstler": [
@@ -53,15 +74,15 @@
     "Shen Fan",
     "Qin Yifeng"
    ],
-   "eroeffnung": "2026-09-15T18:00",
-   "einzelausstellung_von": "Ding Yi",
+   "eroeffnung": "2026-09-15",
+   "einzelausstellung_von": null,
    "anderer_ort": null,
    "url": "https://www.artcarol.de/exhibition/ding-yi",
    "quelle": "https://www.artcarol.de/exhibition/ding-yi",
-   "detail_geprueft": "2026-10-12",
+   "detail_geprueft": "2026-10-15",
    "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52",
+ "abgerufen": "2026-10-15T07:25:20",
  "vom_vorlauf_behalten": 0
 }

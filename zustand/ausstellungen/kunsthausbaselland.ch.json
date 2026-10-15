@@ -12,7 +12,7 @@
  "ausstellungen": [
   {
    "titel": "Benzene Float",
-   "untertitel": "Jahresprojekt",
+   "untertitel": "",
    "beginn": "2026-02-06",
    "ende": "2027-01-24",
    "art": "wechselausstellung",
@@ -20,9 +20,9 @@
    "haus": "Kunsthaus Baselland",
    "rang": 1,
    "epoche": "zeitgenoessisch",
-   "eroeffnung": "2026-02-05T18:30",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": "2026-02-05T18:30",
    "kuenstler": [
     "Monira Al Qadiri"
    ],
@@ -30,11 +30,12 @@
    "url": "https://www.kunsthausbaselland.ch/ausstellungen/monira-al-qadiri",
    "quelle": "https://www.kunsthausbaselland.ch/ausstellungen",
    "detail_geprueft": "2026-10-12",
-   "standort": "Kunsthaus Baselland / Kunsthaus Baselland"
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Walking on Rubber Eggshells",
-   "untertitel": "Einzelausstellung",
+   "untertitel": "",
    "beginn": "2026-09-25",
    "ende": "2026-11-15",
    "art": "wechselausstellung",
@@ -42,9 +43,9 @@
    "haus": "Kunsthaus Baselland",
    "rang": 2,
    "epoche": "zeitgenoessisch",
-   "eroeffnung": "2026-09-24T18:30",
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": "2026-09-24T18:30",
    "kuenstler": [
     "Yanik Soland"
    ],
@@ -52,7 +53,8 @@
    "url": "https://www.kunsthausbaselland.ch/ausstellungen/yanik-soland",
    "quelle": "https://www.kunsthausbaselland.ch/ausstellungen",
    "detail_geprueft": "2026-10-12",
-   "standort": "Kunsthaus Baselland / Kunsthaus Baselland"
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   },
   {
    "titel": "Sinnesumschmeichelungen",
@@ -64,9 +66,9 @@
    "haus": "Kunsthaus Baselland",
    "rang": 3,
    "epoche": "zeitgenoessisch",
-   "eroeffnung": null,
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": null,
    "kuenstler": [
     "Geneviève Cadieux",
     "Esther Ferrer",
@@ -85,12 +87,14 @@
    "url": "https://www.kunsthausbaselland.ch/ausstellungen/sinnesumschmeichelungen",
    "quelle": "https://www.kunsthausbaselland.ch/ausstellungen",
    "detail_geprueft": "2026-10-12",
-   "standort": "Kunsthaus Baselland / Kunsthaus Baselland"
+   "erstmals": "2026-10-15",
+   "verpasst": 0
   }
  ],
  "aussortiert": [
   {
    "titel": "Mémoires Voyageuses",
+   "untertitel": "null",
    "beginn": "2026-05-22",
    "ende": "2026-08-16",
    "art": "wechselausstellung",
@@ -98,9 +102,9 @@
    "haus": "Kunsthaus Baselland",
    "rang": 4,
    "epoche": "zeitgenoessisch",
-   "eroeffnung": null,
    "gemeinfrei": false,
    "schwerpunkt": null,
+   "eroeffnung": null,
    "kuenstler": [
     "Raphaël Barontini",
     "Onome Ekeh",
@@ -114,11 +118,10 @@
    "anderer_ort": null,
    "url": "https://www.kunsthausbaselland.ch/ausstellungen/memoires-voyageuses",
    "quelle": "https://www.kunsthausbaselland.ch/ausstellungen",
-   "untertitel": "null",
-   "detail_geprueft": "2026-10-12",
-   "grund": "beendet",
-   "standort": "Kunsthaus Baselland / Kunsthaus Baselland"
+   "detail_geprueft": "2026-10-15",
+   "grund": "beendet"
   }
  ],
- "abgerufen": "2026-10-12T06:55:52"
+ "abgerufen": "2026-10-15T07:25:20",
+ "vom_vorlauf_behalten": 0
 }
